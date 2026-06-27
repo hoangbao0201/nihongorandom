@@ -1,0 +1,1729 @@
+{
+  "lesson": 4,
+  "type": "nguphap",
+  "sections": [
+    {
+      "id": "tab3",
+      "title": "Ngữ Pháp",
+      "titleHtml": "Ngữ Pháp",
+      "contentHtml": "</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 1: Học đếm giờ đếm phút</span></div><div class=\"slide-content\"></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"text-align: center;\"> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_1.png\" style=\"width: 513px; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_1.png\" style=\"width: 513px; \" /></noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> なんじ：mấy giờ?</p> <p> なんぷん：mấy phút?</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ～じはん：~ giờ rưỡi</p> <p> VD: hai giờ rưỡi: にじはん</p> <p> はん tương đương 30 phút tuy nhiên không dùng はん riêng lẻ mà nó luôn phải đi cùng với giờ.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: いま なんじ なんぷんですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Bây giờ là mấy giờ, mấy phút?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: しちじ さんじゅっぷんです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Bảy giờ ba mươi phút.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"> しちじ はんです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"> Bảy giờ rưỡi.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: にほんは いま なんじですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Ở Nhật bây giờ là mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: くじです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Chín giờ.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 2: Động từ chia ở quá khứ, hiện tại, tương lai</span></div><div class=\"slide-content\"></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_3.png\" style=\"width: 448px; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_3.png\" style=\"width: 448px; \" /></noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">はたらきます</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Làm việc</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">はたらきません</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không làm việc</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">はたらきました</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đã làm việc</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">はたらきませんでした</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đã không làm việc</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">べんきょう します</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Học</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">べんきょう しません</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không học</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">べんきょう しました</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đã học</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">べんきょう しませんでした</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đã không học</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 3: Trợ từ に</span></div><div class=\"slide-content\"></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px; text-align: center;\"> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_2.png\" style=\"width: 258px; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_2.png\" style=\"width: 258px; \" /></noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> に：lúc</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> Dùng để chỉ thời điểm xác định của một hành động.</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: まいあさ なんじに おきますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Mỗi sáng bạn thức dậy lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: ６じに おきます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Tôi thức dậy lúc 6 giờ.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: まいばん なんじに ねますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Mỗi tối bạn ngủ lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: １１じに ねます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Ngủ lúc 11 giờ.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 4: から&hellip;まで： Từ … đến</span></div><div class=\"slide-content\"></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_4.png\" style=\"width: 409px; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_4.png\" style=\"width: 409px; \" /></noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248,251,252)\">  </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> から：từ</p> <p> まで：đến</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> から biểu thị điểm bắt đầu, まで biểu thị điểm kết thúc của thời gian hoặc địa điểm.</p> <p> から 、 まで có thể dùng riêng biệt và không nhất thiết phải đi kèm với động từ.</p> <p> ôn tập các cách đếm thứ, ngày, giờ: <a href=\"/on-tap/on-tap-so-cap.html\" target=\"_blank\">Xem</a></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: <span style=\"color:#ff0000;\">あなた</span>は まいしゅう なんようび<span style=\"color:#0000cd;\">から</span> なんようび<span style=\"color:#0000cd;\">まで </span><span style=\"color: rgb(255, 0, 0);\">べんきょ</span><span style=\"color: rgb(255, 0, 0);\">う しますか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Mỗi tuần bạn học từ thứ mấy đến thứ mấy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: げつようび<span style=\"color:#0000cd;\">から </span>きんようび<span style=\"color:#0000cd;\">まで </span><span style=\"color: rgb(255, 0, 0);\">べんきょう します。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Từ thứ hai đến thứ sáu.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>2.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: <span style=\"color:#ff0000;\"><span style=\"background-color: rgb(255, 255, 255);\">がっこう</span></span>は なんようび<span style=\"color:#0000cd;\">から</span> なんようび<span style=\"color:#0000cd;\">まで</span><span style=\"color: rgb(255, 0, 0);\"> ですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Trường học học từ thứ mấy đến thứ mấy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: げつようび<span style=\"color:#0000cd;\">から</span> きんようび<span style=\"color:#0000cd;\">まで</span><span style=\"color: rgb(255, 0, 0);\"> です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Từ thứ hai đến thứ sáu.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>3.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\"><span style=\"color:#ff0000;\">ぎんこう</span>は ９じ<span style=\"color:#0000cd;\">から</span>です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngân hàng mở cửa từ 9 giờ.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 5: N<sub>1</sub>とN<sub>2</sub> N1 và N2</span></div><div class=\"slide-content\"></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>N<sub>1</sub>とN<sub>2</sub></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> N<sub>1</sub>とN<sub>2</sub>：N1 và N2</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> Trợ từ と nối 2 danh từ đồng cách với nhau mang nghĩa là “và”.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">ぎんこうの やすみは どようび<span style=\"color:#0000cd;\">と</span> にちようびです。</div><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngân hàng nghỉ thứ 7 và chủ nhật.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>2.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: としょかんは なんがいですか。</div><div class=\"kqdich\"><div class=\"nddich\">A: Thư viện ở tầng mấy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: ３がい<span style=\"color:#0000cd;\">と</span> ４かいです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Tầng 3 và tầng 4.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 6: ～ね nhỉ</span></div><div class=\"slide-content\"></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>～ね。ở cuối câu</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ～ね ~nhỉ</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ね dùng ở cuối câu thể hiện sự kỳ vọng đồng ý của người nghe, hay là để xác nhận, nhắc nhở.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: まいにち 10じまで はたらきます。</div><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày làm việc đến 10 người.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">A: たいへんです<span style=\"color:#0000cd;\">ね</span>。</div><div class=\"kqdich\"><span></span><div class=\"nddich\">Vất vả nhỉ.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>2.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: やまださんの でんわばんごうは 871の 6813です。</div><div class=\"kqdich\"><div class=\"nddich\">A: Số điện thoại của ông Yamada là 871-6813.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: 871の 6813です<span style=\"color:#0000cd;\">ね</span>。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: 871-6813 nhỉ.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 7: Hỏi số điện thoại</span></div><div class=\"slide-content\"></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>A: ～は なんばんですか。</span></span></p> <p> <span style=\"color:#ff0000;\"><span>B: ～は ～です。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> なんばん：số mấy?</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> Đọc số điện thoại theo từng số.</p> <p> Trong trường hợp số điện thoại dài, chúng ta sẽ phân tách đọc thành từng cụm bằng cách dùng chữ の.</p> <p> VD: 0650-222-123 : ゼロろくごゼロ<span style=\"color:#ff0000;\">の</span> ににに<span style=\"color:#ff0000;\">の</span> いちにさん</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: としょかんの でんわばんごうは なんばんですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Số điện thoại của thư viện là số mấy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: ゼロはちの ろくななはちの ななはちきゅうです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: 08 678 789</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: やまだせんせいの けいたいでんわの ばんごうは なんばんですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Số điện thoại di động của thầy Yamada là số mấy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">B: ゼロきゅうゼロきゅうの ななゼロななの ななゼロはちです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: 0909 707 708</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> </div>",
+      "blocks": [
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 1: Học đếm giờ đếm phút",
+          "titleHtml": "Phần 1: Học đếm giờ đếm phút",
+          "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"text-align: center;\"> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_1.png\" style=\"width: 513px; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_1.png\" style=\"width: 513px; \" /></noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> なんじ：mấy giờ?</p> <p> なんぷん：mấy phút?</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ～じはん：~ giờ rưỡi</p> <p> VD: hai giờ rưỡi: にじはん</p> <p> はん tương đương 30 phút tuy nhiên không dùng はん riêng lẻ mà nó luôn phải đi cùng với giờ.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: いま なんじ なんぷんですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Bây giờ là mấy giờ, mấy phút?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"text-align: center;\">"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/images/bai4_1.png",
+              "contentHtml": "<img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_1.png\" style=\"width: 513px; \" />"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/images/bai4_1.png",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_1.png\" style=\"width: 513px; \" />"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> なんじ：mấy giờ?</p> <p> なんぷん：mấy phút?</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ～じはん：~ giờ rưỡi</p> <p> VD: hai giờ rưỡi: にじはん</p> <p> はん tương đương 30 phút tuy nhiên không dùng はん riêng lẻ mà nó luôn phải đi cùng với giờ.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "A: いま なんじ なんぷんですか。",
+              "japaneseHtml": "A: いま なんじ なんぷんですか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Bây giờ là mấy giờ, mấy phút?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: しちじ さんじゅっぷんです。",
+          "japaneseHtml": "B: しちじ さんじゅっぷんです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Bảy giờ ba mươi phút.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しちじ はんです。",
+          "japaneseHtml": "しちじ はんです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"> Bảy giờ rưỡi.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "A: にほんは いま なんじですか。",
+          "japaneseHtml": "A: にほんは いま なんじですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Ở Nhật bây giờ là mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: くじです。",
+          "japaneseHtml": "B: くじです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Chín giờ.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 2: Động từ chia ở quá khứ, hiện tại, tương lai",
+          "titleHtml": "Phần 2: Động từ chia ở quá khứ, hiện tại, tương lai",
+          "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_3.png\" style=\"width: 448px; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_3.png\" style=\"width: 448px; \" /></noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">はたらきます</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Làm việc",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\">"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/images/bai4_3.png",
+              "contentHtml": "<img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_3.png\" style=\"width: 448px; \" />"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/images/bai4_3.png",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_3.png\" style=\"width: 448px; \" />"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "はたらきます",
+              "japaneseHtml": "はたらきます",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Làm việc"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "はたらきません",
+          "japaneseHtml": "はたらきません",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không làm việc</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "はたらきました",
+          "japaneseHtml": "はたらきました",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đã làm việc</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "はたらきませんでした",
+          "japaneseHtml": "はたらきませんでした",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đã không làm việc</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "べんきょう します",
+          "japaneseHtml": "べんきょう します",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Học</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "べんきょう しません",
+          "japaneseHtml": "べんきょう しません",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không học</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "べんきょう しました",
+          "japaneseHtml": "べんきょう しました",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đã học</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "べんきょう しませんでした",
+          "japaneseHtml": "べんきょう しませんでした",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đã không học</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 3: Trợ từ に",
+          "titleHtml": "Phần 3: Trợ từ に",
+          "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px; text-align: center;\"> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_2.png\" style=\"width: 258px; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_2.png\" style=\"width: 258px; \" /></noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> に：lúc</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> Dùng để chỉ thời điểm xác định của một hành động.</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: まいあさ なんじに おきますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Mỗi sáng bạn thức dậy lúc mấy giờ?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px; text-align: center;\">"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/images/bai4_2.png",
+              "contentHtml": "<img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_2.png\" style=\"width: 258px; \" />"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/images/bai4_2.png",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_2.png\" style=\"width: 258px; \" />"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> に：lúc</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> Dùng để chỉ thời điểm xác định của một hành động.</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "A: まいあさ なんじに おきますか。",
+              "japaneseHtml": "A: まいあさ なんじに おきますか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Mỗi sáng bạn thức dậy lúc mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: ６じに おきます。",
+          "japaneseHtml": "B: ６じに おきます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Tôi thức dậy lúc 6 giờ.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "A: まいばん なんじに ねますか。",
+          "japaneseHtml": "A: まいばん なんじに ねますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Mỗi tối bạn ngủ lúc mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: １１じに ねます。",
+          "japaneseHtml": "B: １１じに ねます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Ngủ lúc 11 giờ.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 4: から&hellip;まで： Từ … đến",
+          "titleHtml": "Phần 4: から&hellip;まで： Từ … đến",
+          "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_4.png\" style=\"width: 409px; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_4.png\" style=\"width: 409px; \" /></noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248,251,252)\"> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> から：từ</p> <p> まで：đến</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> から biểu thị điểm bắt đầu, まで biểu thị điểm kết thúc của thời gian hoặc địa điểm.</p> <p> から 、 まで có thể dùng riêng biệt và không nhất thiết phải đi kèm với động từ.</p> <p> ôn tập các cách đếm thứ, ngày, giờ: <a href=\"/on-tap/on-tap-so-cap.html\" target=\"_blank\">Xem</a></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: <span style=\"color:#ff0000;\">あなた</span>は まいしゅう なんようび<span style=\"color:#0000cd;\">から</span> なんようび<span style=\"color:#0000cd;\">まで </span><span style=\"color: rgb(255, 0, 0);\">べんきょ</span><span style=\"color: rgb(255, 0, 0);\">う しますか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Mỗi tuần bạn học từ thứ mấy đến thứ mấy?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\">"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/images/bai4_4.png",
+              "contentHtml": "<img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/images/bai4_4.png\" style=\"width: 409px; \" />"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/images/bai4_4.png",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/images/bai4_4.png\" style=\"width: 409px; \" />"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248,251,252)\"> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> から：từ</p> <p> まで：đến</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> から biểu thị điểm bắt đầu, まで biểu thị điểm kết thúc của thời gian hoặc địa điểm.</p> <p> から 、 まで có thể dùng riêng biệt và không nhất thiết phải đi kèm với động từ.</p> <p> ôn tập các cách đếm thứ, ngày, giờ: <a href=\"/on-tap/on-tap-so-cap.html\" target=\"_blank\">Xem</a></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "A: あなたは まいしゅう なんようびから なんようびまで べんきょう しますか。",
+              "japaneseHtml": "A: <span style=\"color:#ff0000;\">あなた</span>は まいしゅう なんようび<span style=\"color:#0000cd;\">から</span> なんようび<span style=\"color:#0000cd;\">まで </span><span style=\"color: rgb(255, 0, 0);\">べんきょ</span><span style=\"color: rgb(255, 0, 0);\">う しますか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Mỗi tuần bạn học từ thứ mấy đến thứ mấy?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: げつようびから きんようびまで べんきょう します。",
+          "japaneseHtml": "B: げつようび<span style=\"color:#0000cd;\">から </span>きんようび<span style=\"color:#0000cd;\">まで </span><span style=\"color: rgb(255, 0, 0);\">べんきょう します。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Từ thứ hai đến thứ sáu.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>2.</strong></span></span></td> <td> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "A: がっこうは なんようびから なんようびまで ですか。",
+          "japaneseHtml": "A: <span style=\"color:#ff0000;\"><span style=\"background-color: rgb(255, 255, 255);\">がっこう</span></span>は なんようび<span style=\"color:#0000cd;\">から</span> なんようび<span style=\"color:#0000cd;\">まで</span><span style=\"color: rgb(255, 0, 0);\"> ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Trường học học từ thứ mấy đến thứ mấy?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: げつようびから きんようびまで です。",
+          "japaneseHtml": "B: げつようび<span style=\"color:#0000cd;\">から</span> きんようび<span style=\"color:#0000cd;\">まで</span><span style=\"color: rgb(255, 0, 0);\"> です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Từ thứ hai đến thứ sáu.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>3.</strong></span></span></td> <td> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ぎんこうは ９じからです。",
+          "japaneseHtml": "<span style=\"color:#ff0000;\">ぎんこう</span>は ９じ<span style=\"color:#0000cd;\">から</span>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngân hàng mở cửa từ 9 giờ.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 5: N1とN2 N1 và N2",
+          "titleHtml": "Phần 5: N<sub>1</sub>とN<sub>2</sub> N1 và N2",
+          "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>N<sub>1</sub>とN<sub>2</sub></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> N<sub>1</sub>とN<sub>2</sub>：N1 và N2</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> Trợ từ と nối 2 danh từ đồng cách với nhau mang nghĩa là “và”.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">ぎんこうの やすみは どようび<span style=\"color:#0000cd;\">と</span> にちようびです。</div><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngân hàng nghỉ thứ 7 và chủ nhật.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>N<sub>1</sub>とN<sub>2</sub></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> N<sub>1</sub>とN<sub>2</sub>：N1 và N2</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> Trợ từ と nối 2 danh từ đồng cách với nhau mang nghĩa là “và”.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "ぎんこうの やすみは どようびと にちようびです。",
+              "japaneseHtml": "ぎんこうの やすみは どようび<span style=\"color:#0000cd;\">と</span> にちようびです。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "<div class=\"kqdich\"><span></span><div class=\"nddich\">Ngân hàng nghỉ thứ 7 và chủ nhật."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>2.</strong></span></span></td> <td> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "A: としょかんは なんがいですか。",
+          "japaneseHtml": "A: としょかんは なんがいですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">A: Thư viện ở tầng mấy?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: ３がいと ４かいです。",
+          "japaneseHtml": "B: ３がい<span style=\"color:#0000cd;\">と</span> ４かいです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: Tầng 3 và tầng 4.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 6: ～ね nhỉ",
+          "titleHtml": "Phần 6: ～ね nhỉ",
+          "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>～ね。ở cuối câu</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ～ね ~nhỉ</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ね dùng ở cuối câu thể hiện sự kỳ vọng đồng ý của người nghe, hay là để xác nhận, nhắc nhở.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: まいにち 10じまで はたらきます。</div><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày làm việc đến 10 người.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>～ね。ở cuối câu</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ～ね ~nhỉ</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> ね dùng ở cuối câu thể hiện sự kỳ vọng đồng ý của người nghe, hay là để xác nhận, nhắc nhở.</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>1.</strong></span></span></td> <td> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "A: まいにち 10じまで はたらきます。",
+              "japaneseHtml": "A: まいにち 10じまで はたらきます。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "<div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày làm việc đến 10 người."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "A: たいへんですね。",
+          "japaneseHtml": "A: たいへんです<span style=\"color:#0000cd;\">ね</span>。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><span></span><div class=\"nddich\">Vất vả nhỉ.</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>2.</strong></span></span></td> <td> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "A: やまださんの でんわばんごうは 871の 6813です。",
+          "japaneseHtml": "A: やまださんの でんわばんごうは 871の 6813です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">A: Số điện thoại của ông Yamada là 871-6813.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: 871の 6813ですね。",
+          "japaneseHtml": "B: 871の 6813です<span style=\"color:#0000cd;\">ね</span>。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: 871-6813 nhỉ.</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 7: Hỏi số điện thoại",
+          "titleHtml": "Phần 7: Hỏi số điện thoại",
+          "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>A: ～は なんばんですか。</span></span></p> <p> <span style=\"color:#ff0000;\"><span>B: ～は ～です。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> なんばん：số mấy?</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> Đọc số điện thoại theo từng số.</p> <p> Trong trường hợp số điện thoại dài, chúng ta sẽ phân tách đọc thành từng cụm bằng cách dùng chữ の.</p> <p> VD: 0650-222-123 : ゼロろくごゼロ<span style=\"color:#ff0000;\">の</span> ににに<span style=\"color:#ff0000;\">の</span> いちにさん</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> <div class=\"tudich\"><div class=\"candich\">A: としょかんの でんわばんごうは なんばんですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Số điện thoại của thư viện là số mấy?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\" width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p> <span style=\"color:#ff0000;\"><span>A: ～は なんばんですか。</span></span></p> <p> <span style=\"color:#ff0000;\"><span>B: ～は ～です。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235)\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">&Yacute; nghĩa</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> なんばん：số mấy?</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color: #ffffff\"><span style=\"font-size: 14px\">☞</span></span></td> <td> <p> Đọc số điện thoại theo từng số.</p> <p> Trong trường hợp số điện thoại dài, chúng ta sẽ phân tách đọc thành từng cụm bằng cách dùng chữ の.</p> <p> VD: 0650-222-123 : ゼロろくごゼロ<span style=\"color:#ff0000;\">の</span> ににに<span style=\"color:#ff0000;\">の</span> いちにさん</p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "A: としょかんの でんわばんごうは なんばんですか。",
+              "japaneseHtml": "A: としょかんの でんわばんごうは なんばんですか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Số điện thoại của thư viện là số mấy?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: ゼロはちの ろくななはちの ななはちきゅうです。",
+          "japaneseHtml": "B: ゼロはちの ろくななはちの ななはちきゅうです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: 08 678 789</div></div></div></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "A: やまだせんせいの けいたいでんわの ばんごうは なんばんですか。",
+          "japaneseHtml": "A: やまだせんせいの けいたいでんわの ばんごうは なんばんですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">A: Số điện thoại di động của thầy Yamada là số mấy?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: ゼロきゅうゼロきゅうの ななゼロななの ななゼロはちです。",
+          "japaneseHtml": "B: ゼロきゅうゼロきゅうの ななゼロななの ななゼロはちです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">B: 0909 707 708</div></div></div></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> </div>"
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": "Luyện Tập B",
+      "titleHtml": "Luyện Tập B",
+      "contentHtml": "</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 1: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh</span></div><div class=\"slide-content\"></span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-1.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-1.jpg\" style=\"width: 100%;\" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-1.jpg\" style=\"width: 100%;\" /></noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\">３<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">3 giờ.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）&rArr;  ２）&rArr;  ３）&rArr;  ４）&rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">7 giờ rưỡi.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">２）１２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>１５ふんです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">12 giờ 15 phút.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">３）２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>４５ふんです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">2 giờ 45 phút.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">４）１０<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>２０ぷんです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">10 giờ 20 phút.</div></div></div> </p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 2: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh</span></div><div class=\"slide-content\"></span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-2.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-2.jpg\" style=\"width: 100%; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-2.jpg\" style=\"width: 100%; \" /></noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby> &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>は <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Tokyo bây giờ là mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">…<ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby> ６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…6 giờ chiều.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） ペキン   &rArr;  ２） バンコク   &rArr; </p> <p> ３） ロンドン &rArr;  ４） ロサンゼルス   &rArr;  </p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）ペキンは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Bắc Kinh bây giờ là mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  <ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby> ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…5  giờ chiều.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">２）バンコクは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Bangkok bây giờ là mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  <ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby> ４<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… 4 giờ chiều.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">３）ロンドンは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở London bây giờ là mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  <ruby>午前<rp>(</rp><rt>ごぜん</rt><rp>)</rp></ruby> ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…9  giờ sáng.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">４）ロサンゼルスは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Los Angeles bây giờ là mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  <ruby>午前<rp>(</rp><rt>ごぜん</rt><rp>)</rp></ruby> １<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… 1 giờ sáng.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 3: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh</span></div><div class=\"slide-content\"></span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-3.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-3.jpg\" style=\"width: 100%;\" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-3.jpg\" style=\"width: 100%;\" /></noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： きょう &rArr;</p> <p> <div class=\"tudich\"><div class=\"candich\">きょうは <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm nay là thứ mấy vậy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">…<ruby>火曜日<rp>(</rp><rt>かようび</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Là thứ 3.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）あした  &rArr;  ２）<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>  &rArr;  ３）<ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby>  &rArr;  ４）<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>み  &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）あしたは <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mai là thứ mấy vậy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  <ruby>水曜日<rp>(</rp><rt>すいようび</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Là thứ 4.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">２）<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>は <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Cuộc họp là thứ mấy vậy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  <ruby>金曜日<rp>(</rp><rt>きんようび</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Là thứ 6.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">３）<ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby>は <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Kỳ thi là thứ mấy vậy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  <ruby>木曜日<rp>(</rp><rt>もくようび</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Là thứ 5.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">４）<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みは <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày nghỉ là thứ mấy vậy?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>と <ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Thứ 7 và chủ nhật.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 4: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn</span></div><div class=\"slide-content\"></span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>（９：００～３：００） &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngân hàng mở cửa từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">…９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ３<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>までです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… Từ 9 giờ đến 3 giờ.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） <ruby>郵便局<rp>(</rp><rt>ゆうびんきょく</rt><rp>)</rp></ruby>（９：００～５：００）  &rArr;  </p> <p> ２） デパート（１０：００～８：３０）  &rArr;</p> <p> ３） <ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>（９：００～６：３０）  &rArr;  </p> <p> ４） <ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>（９：１５～５：４５）  &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）<ruby>郵便局<rp>(</rp><rt>ゆうびんきょく</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Bưu điện mở cửa từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>までです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… Từ 9 giờ đến 5 giờ.</div></div></div>  </p> <p> <div class=\"tudich\"><div class=\"candich\">２）デパートは<ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thương xá mở cửa từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  １０<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ８<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>までです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… Từ 10 giờ đến 8 giờ rưỡi.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">３）<ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thư viện mở cửa từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>までです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…. Từ 9 giờ đến 6 giờ rưỡi.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">４）<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Công ty mở cửa từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>１５<ruby>分<rp>(</rp><rt>ふん</rt><rp>)</rp></ruby>から ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>４５<ruby>分<rp>(</rp><rt>ふん</rt><rp>)</rp></ruby>までです。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…. Từ 9 giờ 15 phút đến 5 giờ 45 phút.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 5: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh</span></div><div class=\"slide-content\"></span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-5.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-5.jpg\" style=\"width: 100%; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-5.jpg\" style=\"width: 100%; \" /></noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi sáng bạn thức dậy lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">…７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh thức dậy lúc 7 giờ.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> &rArr;  ２） あした &rArr; </p> <p> ３） <ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby> &rArr;  ４） <ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby> &rArr;  </p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）<ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn ngủ lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  １１<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh ngủ lúc 11 giờ.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">２）あした <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mai bạn thức dậy lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  ６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">….. M&igrave;nh thức dậy lúc 6 giờ rưỡi.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">３）<ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tối nay bạn ngủ lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  １２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh ngủ lúc 12 giờ.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">４）<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>に <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Chủ Nhật bạn thức dậy lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  １０<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh thức dậy lúc 10 giờ.</div></div></div> </p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 6: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn</span></div><div class=\"slide-content\"></span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：３０～９：３０）&rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn học từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"> …７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>から ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…M&igrave;nh học từ 7 giờ rưỡi đến 9 giờ rưỡi.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）  <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（９：３０～５：３０）  &rArr;</p> <p> ２）  <ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>・<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みます（１２：００～１：００）  &rArr;</p> <p> ３）  <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（９：００～２：００） &rArr;</p> <p> ４）  <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：００～８：００） &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày bạn làm việc từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>から ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>まで<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">…. M&igrave;nh làm việc từ 9 giờ rưỡi đến 5 giờ rưỡi.</div></div></div> </p> <p> <div class=\"tudich\"><div class=\"candich\">２）<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Trưa bạn nghỉ từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  １２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から １<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh nghỉ từ 12 giờ đến 1 giờ.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">３）<ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thứ bảy bạn làm việc từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh làm việc từ 9 giờ đến 2 giờ.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">４）<ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi sáng bạn học từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">   …  ７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ８<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh  học từ 7 giờ đến 8 giờ.</div></div></div>  </p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 7: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh</span></div><div class=\"slide-content\"></span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-7.jpg\"><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-7.jpg\" style=\"width:100%;\"/><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-7.jpg\" style=\"width:100%;\"/></noscript></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： あした &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\">あした <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mai tôi làm việc.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>  &rArr;            ２） きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby> &rArr;</p> <p> ３） あさって &rArr;       ４） おととい  &rArr;  </p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> １）<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby></p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày tôi học bài.</div></div></div></p> <p> ２）きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby></p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby> <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きました。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tối qua tôi (đã) làm việc.</div></div></div></p> <p> ３）あさって</p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; あさって <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mốt tôi học bài.</div></div></div></p> <p> ４）おととい</p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; おととい <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きました。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm kia tôi (đã) làm việc.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 8: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn</span></div><div class=\"slide-content\"></span></p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>１：きょう <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。（はい）</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm nay bạn có học không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; はい、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Có, tôi có học.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>２：きのう <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しましたか。（いいえ）</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm qua bạn có học không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; いいえ、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しませんでした。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không, tôi không học.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）  あさって <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。（いいえ）  &rArr;</p> <p> ２）  <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。（はい）  &rArr;</p> <p> ３）  きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しましたか。（はい） &rArr;</p> <p> ４）  きのう <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きましたか。（いいえ）  &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）あさって <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。（いいえ）</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mốt bạn có làm việc không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; いいえ、<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きません。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không, tôi không làm việc.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">２）<ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。（はい）</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn có học không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; はい、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Có, tôi có học.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">３）きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しましたか。（はい）</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tối hôm qua bạn có học không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; はい、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しました。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Có, tôi có học.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">４）きのう <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きましたか。（いいえ）</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm qua bạn có làm việc không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; いいえ、<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きませんでした。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không, tôi không làm việc.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title\"><span>Phần 9: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn</span></div><div class=\"slide-content\"></span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>１：<ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby>・<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます（６：００）</p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi sáng bạn thức dậy lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">     …   6<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。 </div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh thức dậy lúc 6 giờ.</div></div></div></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>２：きのう・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（９：００～５：００）</p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; きのう <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きましたか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm qua bạn làm việc từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">     …   ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きました。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh làm việc từ 9 giờ đến 5 giờ.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）  <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>・<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます（１１：００）      &rArr;</p> <p> ２）  けさ・<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます（７：３０）      &rArr;</p> <p> ３）  <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（１０：００～６：００）  &rArr;</p> <p> ４）  きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：００～８：３０） &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"></span></p> <p> １）  <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>・<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます（１１：００）</p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn ngủ lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">     …   １１<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">….M&igrave;nh ngủ lúc 11 giờ.</div></div></div></p> <p> ２）  けさ・<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます（７：３０）</p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; けさ <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きましたか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Sáng nay bạn thức dậy lúc mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">     …   ７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きました。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh thức dậy lúc 7 giờ rưỡi.</div></div></div></p> <p> ３）  <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（１０：００～６：００）</p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày bạn làm việc từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">     …   １０<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh làm việc từ 10 giờ đến 6 giờ.</div></div></div></p> <p> ４）  きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：００～８：３０）</p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; <ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>の<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しましたか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tối hôm qua bạn học từ mấy giờ đến mấy giờ?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\">     …   ７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ８<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しました。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh học từ 7 giờ đến 8 giờ rưỡi.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> </div></div></p> <br /> <?php $de_stt = \"4\"; ?> <style> .vnjp-link-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); /* Desktop: 4 ô / hàng */ gap: 10px 10px; margin: 10px 0 20px; clear: both; /* cắt float cũ nếu có */ } .vnjp-link-item { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; /* nếu muốn chữ giữa thì đổi thành center */ padding: 7px 5px 5px 15px; border-radius: 10px; background: #ffffff; border: 1px solid #e0e4ef; box-shadow: 0 2px 5px rgba(0,0,0,0.04); text-decoration: none; transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease; float: none; /* ép bỏ mọi float từ CSS cũ */ } .vnjp-link-item:hover { background-color: #f5f7ff; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transform: translateY(-2px); } .vnjp-link-title { display: block; font-size: 14px; font-weight: 600; color: #222; margin-bottom: 3px; } .vnjp-link-sub { display: block; font-size: 11px; color: #6b7280; } a.disabled { pointer-events: none; /* ❌ không click được */ opacity: 0.5; /* làm mờ */ cursor: not-allowed; text-decoration: none; } /* Tablet: 3 ô / hàng */ @media (max-width: 1024px) { .vnjp-link-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } } /* Mobile: 2 ô / hàng */ @media (max-width: 768px) { .vnjp-link-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .vnjp-link-title { font-size: 13px; } .vnjp-link-sub { font-size: 10px; } } </style>",
+      "blocks": [
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 1: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "titleHtml": "Phần 1: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "contentHtml": "</span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-1.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-1.jpg\" style=\"width: 100%;\" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-1.jpg\" style=\"width: 100%;\" /></noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\">３<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">3 giờ.",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-1.jpg",
+              "linkUrl": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-1.jpg",
+              "contentHtml": "<a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-1.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-1.jpg\" style=\"width: 100%;\" />"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-1.jpg",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-1.jpg\" style=\"width: 100%;\" />"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： &rArr; </p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "３時(じ)です。",
+              "japaneseHtml": "３<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">3 giờ."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）&rArr; ２）&rArr; ３）&rArr; ４）&rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>です。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">7 giờ rưỡi.",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "１）７時(じ)半(はん)です。",
+              "japaneseHtml": "１）７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>です。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">7 giờ rưỡi."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）１２時(じ)１５ふんです。",
+          "japaneseHtml": "２）１２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>１５ふんです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">12 giờ 15 phút.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）２時(じ)４５ふんです。",
+          "japaneseHtml": "３）２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>４５ふんです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">2 giờ 45 phút.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）１０時(じ)２０ぷんです。",
+          "japaneseHtml": "４）１０<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>２０ぷんです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">10 giờ 20 phút.</div></div></div> </p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 2: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "titleHtml": "Phần 2: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "contentHtml": "</span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-2.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-2.jpg\" style=\"width: 100%; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-2.jpg\" style=\"width: 100%; \" /></noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby> &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>は <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Tokyo bây giờ là mấy giờ?",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-2.jpg",
+              "linkUrl": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-2.jpg",
+              "contentHtml": "<a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-2.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-2.jpg\" style=\"width: 100%; \" />"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-2.jpg",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-2.jpg\" style=\"width: 100%; \" />"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby> &rArr; </p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "東京(とうきょう)は 今(いま) 何時(なんじ)ですか。",
+              "japaneseHtml": "<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>は <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Tokyo bây giờ là mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…午後(ごご) ６時(じ)です。",
+          "japaneseHtml": "…<ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby> ６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…6 giờ chiều.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） ペキン &rArr; ２） バンコク &rArr; </p> <p> ３） ロンドン &rArr; ４） ロサンゼルス &rArr; </p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）ペキンは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Bắc Kinh bây giờ là mấy giờ?",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "１）ペキンは 今(いま) 何時(なんじ)ですか。",
+              "japaneseHtml": "１）ペキンは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Bắc Kinh bây giờ là mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 午後(ごご) ５時(じ)です。",
+          "japaneseHtml": "… <ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby> ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…5 giờ chiều.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）バンコクは 今(いま) 何時(なんじ)ですか。",
+          "japaneseHtml": "２）バンコクは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Bangkok bây giờ là mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 午後(ごご) ４時(じ)です。",
+          "japaneseHtml": "… <ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby> ４<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… 4 giờ chiều.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）ロンドンは 今(いま) 何時(なんじ)ですか。",
+          "japaneseHtml": "３）ロンドンは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở London bây giờ là mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 午前(ごぜん) ９時(じ)です。",
+          "japaneseHtml": "… <ruby>午前<rp>(</rp><rt>ごぜん</rt><rp>)</rp></ruby> ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…9 giờ sáng.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）ロサンゼルスは 今(いま) 何時(なんじ)ですか。",
+          "japaneseHtml": "４）ロサンゼルスは <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở Los Angeles bây giờ là mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 午前(ごぜん) １時(じ)です。",
+          "japaneseHtml": "… <ruby>午前<rp>(</rp><rt>ごぜん</rt><rp>)</rp></ruby> １<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… 1 giờ sáng.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 3: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "titleHtml": "Phần 3: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "contentHtml": "</span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-3.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-3.jpg\" style=\"width: 100%;\" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-3.jpg\" style=\"width: 100%;\" /></noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： きょう &rArr;</p> <p> <div class=\"tudich\"><div class=\"candich\">きょうは <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm nay là thứ mấy vậy?",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-3.jpg",
+              "linkUrl": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-3.jpg",
+              "contentHtml": "<a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-3.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-3.jpg\" style=\"width: 100%;\" />"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-3.jpg",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-3.jpg\" style=\"width: 100%;\" />"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： きょう &rArr;</p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "きょうは 何曜日(なんようび)ですか。",
+              "japaneseHtml": "きょうは <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm nay là thứ mấy vậy?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…火曜日(かようび)です。",
+          "japaneseHtml": "…<ruby>火曜日<rp>(</rp><rt>かようび</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Là thứ 3.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）あした &rArr; ２）<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby> &rArr; ３）<ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby> &rArr; ４）<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>み &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）あしたは <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mai là thứ mấy vậy?",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "１）あしたは 何曜日(なんようび)ですか。",
+              "japaneseHtml": "１）あしたは <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mai là thứ mấy vậy?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 水曜日(すいようび)です。",
+          "japaneseHtml": "… <ruby>水曜日<rp>(</rp><rt>すいようび</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Là thứ 4.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）会議(かいぎ)は 何曜日(なんようび)ですか。",
+          "japaneseHtml": "２）<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>は <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Cuộc họp là thứ mấy vậy?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 金曜日(きんようび)です。",
+          "japaneseHtml": "… <ruby>金曜日<rp>(</rp><rt>きんようび</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Là thứ 6.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）試験(しけん)は 何曜日(なんようび)ですか。",
+          "japaneseHtml": "３）<ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby>は <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Kỳ thi là thứ mấy vậy?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 木曜日(もくようび)です。",
+          "japaneseHtml": "… <ruby>木曜日<rp>(</rp><rt>もくようび</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Là thứ 5.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）休(やす)みは 何曜日(なんようび)ですか。",
+          "japaneseHtml": "４）<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みは <ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày nghỉ là thứ mấy vậy?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 土曜日(どようび)と 日曜日(にちようび)です。",
+          "japaneseHtml": "… <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>と <ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…Thứ 7 và chủ nhật.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 4: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn",
+          "titleHtml": "Phần 4: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn",
+          "contentHtml": "</span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>（９：００～３：００） &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngân hàng mở cửa từ mấy giờ đến mấy giờ?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>（９：００～３：００） &rArr; </p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "銀行(ぎんこう)は 何時(なんじ)から 何時(なんじ)までですか。",
+              "japaneseHtml": "<ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngân hàng mở cửa từ mấy giờ đến mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…９時(じ)から ３時(じ)までです。",
+          "japaneseHtml": "…９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ３<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>までです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… Từ 9 giờ đến 3 giờ.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） <ruby>郵便局<rp>(</rp><rt>ゆうびんきょく</rt><rp>)</rp></ruby>（９：００～５：００） &rArr; </p> <p> ２） デパート（１０：００～８：３０） &rArr;</p> <p> ３） <ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>（９：００～６：３０） &rArr; </p> <p> ４） <ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>（９：１５～５：４５） &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）<ruby>郵便局<rp>(</rp><rt>ゆうびんきょく</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Bưu điện mở cửa từ mấy giờ đến mấy giờ?",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "１）郵便局(ゆうびんきょく)は 何時(なんじ)から 何時(なんじ)までですか。",
+              "japaneseHtml": "１）<ruby>郵便局<rp>(</rp><rt>ゆうびんきょく</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Bưu điện mở cửa từ mấy giờ đến mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ９時(じ)から ５時(じ)までです。",
+          "japaneseHtml": "… ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>までです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… Từ 9 giờ đến 5 giờ.</div></div></div> </p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）デパートは何時(なんじ)から 何時(なんじ)までですか。",
+          "japaneseHtml": "２）デパートは<ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thương xá mở cửa từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １０時(じ)から ８時(じ)半(はん)までです。",
+          "japaneseHtml": "… １０<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ８<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>までです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… Từ 10 giờ đến 8 giờ rưỡi.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）図書館(としょかん)は 何時(なんじ)から 何時(なんじ)までですか。",
+          "japaneseHtml": "３）<ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thư viện mở cửa từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ９時(じ)から ６時(じ)半(はん)までです。",
+          "japaneseHtml": "… ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>までです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…. Từ 9 giờ đến 6 giờ rưỡi.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）会社(かいしゃ)は 何時(なんじ)から 何時(なんじ)までですか。",
+          "japaneseHtml": "４）<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>は <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Công ty mở cửa từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ９時(じ)１５分(ふん)から ５時(じ)４５分(ふん)までです。",
+          "japaneseHtml": "… ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>１５<ruby>分<rp>(</rp><rt>ふん</rt><rp>)</rp></ruby>から ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>４５<ruby>分<rp>(</rp><rt>ふん</rt><rp>)</rp></ruby>までです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…. Từ 9 giờ 15 phút đến 5 giờ 45 phút.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 5: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "titleHtml": "Phần 5: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "contentHtml": "</span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-5.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-5.jpg\" style=\"width: 100%; \" /><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-5.jpg\" style=\"width: 100%; \" /></noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi sáng bạn thức dậy lúc mấy giờ?",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-5.jpg",
+              "linkUrl": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-5.jpg",
+              "contentHtml": "<a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-5.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-5.jpg\" style=\"width: 100%; \" />"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-5.jpg",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-5.jpg\" style=\"width: 100%; \" />"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> &rArr; </p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "毎朝(まいあさ) 何時(なんじ)に 起(お)きますか。",
+              "japaneseHtml": "<ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi sáng bạn thức dậy lúc mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…７時(じ)に 起(お)きます。",
+          "japaneseHtml": "…７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh thức dậy lúc 7 giờ.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> &rArr; ２） あした &rArr; </p> <p> ３） <ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby> &rArr; ４） <ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby> &rArr; </p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）<ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn ngủ lúc mấy giờ?",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "１）毎晩(まいばん) 何時(なんじ)に 寝(ね)ますか。",
+              "japaneseHtml": "１）<ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ますか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn ngủ lúc mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １１時(じ)に寝(ね)ます。",
+          "japaneseHtml": "… １１<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh ngủ lúc 11 giờ.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）あした 何時(なんじ)に 起(お)きますか。",
+          "japaneseHtml": "２）あした <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mai bạn thức dậy lúc mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ６時(じ)半(はん)に 起(お)きます。",
+          "japaneseHtml": "… ６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">….. M&igrave;nh thức dậy lúc 6 giờ rưỡi.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）今晩(こんばん) 何時(なんじ)に 寝(ね)ますか。",
+          "japaneseHtml": "３）<ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tối nay bạn ngủ lúc mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １２時(じ)に 寝(ね)ます。",
+          "japaneseHtml": "… １２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh ngủ lúc 12 giờ.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）日曜日(にちようび)に 何時(なんじ)に 起(お)きますか。",
+          "japaneseHtml": "４）<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>に <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Chủ Nhật bạn thức dậy lúc mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １０時(じ)に 起(お)きます。",
+          "japaneseHtml": "… １０<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh thức dậy lúc 10 giờ.</div></div></div> </p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 6: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn",
+          "titleHtml": "Phần 6: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn",
+          "contentHtml": "</span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：３０～９：３０）&rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn học từ mấy giờ đến mấy giờ?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：３０～９：３０）&rArr; </p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "毎晩(まいばん) 何時(なんじ)から 何時(なんじ)まで 勉強(べんきょう)しますか。",
+              "japaneseHtml": "<ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn học từ mấy giờ đến mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…７時(じ)半(はん)から ９時(じ)半(はん)まで 勉強(べんきょう)します。",
+          "japaneseHtml": "…７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>から ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…M&igrave;nh học từ 7 giờ rưỡi đến 9 giờ rưỡi.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（９：３０～５：３０） &rArr;</p> <p> ２） <ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>・<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みます（１２：００～１：００） &rArr;</p> <p> ３） <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（９：００～２：００） &rArr;</p> <p> ４） <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：００～８：００） &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày bạn làm việc từ mấy giờ đến mấy giờ?",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "１）毎日(まいにち) 何時(なんじ)から 何時(なんじ)までますか。",
+              "japaneseHtml": "１）<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までますか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày bạn làm việc từ mấy giờ đến mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ９時(じ)半(はん)から ５時(じ)半(はん)まで働(はたら)きます。",
+          "japaneseHtml": "… ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>から ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>まで<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">…. M&igrave;nh làm việc từ 9 giờ rưỡi đến 5 giờ rưỡi.</div></div></div> </p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）昼(ひる) 何時(なんじ)から 何時(なんじ)まで 休(やす)みますか。",
+          "japaneseHtml": "２）<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Trưa bạn nghỉ từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １２時(じ)から １時(じ)まで休(やす)みます。",
+          "japaneseHtml": "… １２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から １<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh nghỉ từ 12 giờ đến 1 giờ.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）土曜日(どようび) 何時(なんじ)から 何時(なんじ)まで 働(はたら)きますか。",
+          "japaneseHtml": "３）<ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thứ bảy bạn làm việc từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ９時(じ)から ２時(じ)まで働(はたら)きます。",
+          "japaneseHtml": "… ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh làm việc từ 9 giờ đến 2 giờ.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）毎朝(まいあさ) 何時(なんじ)から 何時(なんじ)まで 勉強(べんきょう)しますか。",
+          "japaneseHtml": "４）<ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi sáng bạn học từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ７時(じ)から ８時(じ)まで勉強(べんきょう)します。",
+          "japaneseHtml": "… ７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ８<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh học từ 7 giờ đến 8 giờ.</div></div></div> </p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 7: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "titleHtml": "Phần 7: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "contentHtml": "</span></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-7.jpg\"><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-7.jpg\" style=\"width:100%;\"/><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-7.jpg\" style=\"width:100%;\"/></noscript></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： あした &rArr; </p> <p> <div class=\"tudich\"><div class=\"candich\">あした <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mai tôi làm việc.",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-7.jpg",
+              "linkUrl": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-7.jpg",
+              "contentHtml": "<a class=\"motaicho720\" href=\"/images/minnamoi/bai4/renshuuB-7.jpg\"><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnamoi/bai4/renshuuB-7.jpg\" style=\"width:100%;\"/>"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai4/renshuuB-7.jpg",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai4/renshuuB-7.jpg\" style=\"width:100%;\"/>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</noscript></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： あした &rArr; </p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "あした 働(はたら)きます。",
+              "japaneseHtml": "あした <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mai tôi làm việc."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> &rArr; ２） きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby> &rArr;</p> <p> ３） あさって &rArr; ４） おととい &rArr; </p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> １）<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby></p> <p> <div class=\"tudich\"><div class=\"candich\">&rArr; <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày tôi học bài.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> １）<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby></p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "&rArr; 毎日(まいにち) 勉強(べんきょう)します。",
+              "japaneseHtml": "&rArr; <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày tôi học bài."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div></p> <p> ２）きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; きのうの 晩(ばん) 働(はたら)きました。",
+          "japaneseHtml": "&rArr; きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby> <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tối qua tôi (đã) làm việc.</div></div></div></p> <p> ３）あさって</p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; あさって 勉強(べんきょう)します。",
+          "japaneseHtml": "&rArr; あさって <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mốt tôi học bài.</div></div></div></p> <p> ４）おととい</p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; おととい 働(はたら)きました。",
+          "japaneseHtml": "&rArr; おととい <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm kia tôi (đã) làm việc.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 8: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn",
+          "titleHtml": "Phần 8: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn",
+          "contentHtml": "</span></p> <p> <div class=\"tudich\"><div class=\"candich\"><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>１：きょう <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。（はい）</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm nay bạn có học không?",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "例(れい)１：きょう 勉強(べんきょう)しますか。（はい）",
+              "japaneseHtml": "<ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>１：きょう <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。（はい）",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm nay bạn có học không?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; はい、勉強(べんきょう)します。",
+          "japaneseHtml": "&rArr; はい、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Có, tôi có học.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "例(れい)２：きのう 勉強(べんきょう)しましたか。（いいえ）",
+          "japaneseHtml": "<ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>２：きのう <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しましたか。（いいえ）",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm qua bạn có học không?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; いいえ、勉強(べんきょう)しませんでした。",
+          "japaneseHtml": "&rArr; いいえ、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しませんでした。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không, tôi không học.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） あさって <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。（いいえ） &rArr;</p> <p> ２） <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。（はい） &rArr;</p> <p> ３） きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しましたか。（はい） &rArr;</p> <p> ４） きのう <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きましたか。（いいえ） &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> <div class=\"tudich\"><div class=\"candich\">１）あさって <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。（いいえ）</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mốt bạn có làm việc không?",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "１）あさって 働(はたら)きますか。（いいえ）",
+              "japaneseHtml": "１）あさって <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。（いいえ）",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ngày mốt bạn có làm việc không?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; いいえ、働(はたら)きません。",
+          "japaneseHtml": "&rArr; いいえ、<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きません。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không, tôi không làm việc.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）毎晩(まいばん) 勉強(べんきょう)しますか。（はい）",
+          "japaneseHtml": "２）<ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しますか。（はい）",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn có học không?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; はい、勉強(べんきょう)します。",
+          "japaneseHtml": "&rArr; はい、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Có, tôi có học.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）きのうの 晩(ばん) 勉強(べんきょう)しましたか。（はい）",
+          "japaneseHtml": "３）きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby> <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しましたか。（はい）",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tối hôm qua bạn có học không?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; はい、勉強(べんきょう)しました。",
+          "japaneseHtml": "&rArr; はい、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Có, tôi có học.</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）きのう 働(はたら)きましたか。（いいえ）",
+          "japaneseHtml": "４）きのう <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きましたか。（いいえ）",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm qua bạn có làm việc không?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; いいえ、働(はたら)きませんでした。",
+          "japaneseHtml": "&rArr; いいえ、<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きませんでした。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Không, tôi không làm việc.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 9: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn",
+          "titleHtml": "Phần 9: Hoàn thành câu tương tự ví dụ với dữ liệu cho sẵn",
+          "contentHtml": "</span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>１：<ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby>・<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます（６：００）</p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi sáng bạn thức dậy lúc mấy giờ?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>１：<ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby>・<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます（６：００）</p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "&rArr; 毎朝(まいあさ) 何時(なんじ)に 起(お)きますか。",
+              "japaneseHtml": "&rArr; <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi sáng bạn thức dậy lúc mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 6時(じ)に 起(お)きます。",
+          "japaneseHtml": "… 6<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh thức dậy lúc 6 giờ.</div></div></div></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>２：きのう・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（９：００～５：００）</p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; きのう 何時(なんじ)から 何時(なんじ)まで 働(はたら)きましたか。",
+          "japaneseHtml": "&rArr; きのう <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きましたか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Hôm qua bạn làm việc từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ９時(じ)から ５時(じ)まで 働(はたら)きました。",
+          "japaneseHtml": "… ９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh làm việc từ 9 giờ đến 5 giờ.</div></div></div></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １） <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>・<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます（１１：００） &rArr;</p> <p> ２） けさ・<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます（７：３０） &rArr;</p> <p> ３） <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（１０：００～６：００） &rArr;</p> <p> ４） きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：００～８：３０） &rArr;</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "</span></p> <p> １） <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>・<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます（１１：００）</p> <p> <div class=\"tudich\"><div class=\"candich\"> &rArr; <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ますか。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn ngủ lúc mấy giờ?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> １） <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby>・<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます（１１：００）</p> <p>"
+            },
+            {
+              "kind": "tudich",
+              "japanese": "&rArr; 毎晩(まいばん) 何時(なんじ)に 寝(ね)ますか。",
+              "japaneseHtml": "&rArr; <ruby>毎晩<rp>(</rp><rt>まいばん</rt><rp>)</rp></ruby> <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ますか。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi tối bạn ngủ lúc mấy giờ?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １１時(じ)に 寝(ね)ます。",
+          "japaneseHtml": "… １１<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">….M&igrave;nh ngủ lúc 11 giờ.</div></div></div></p> <p> ２） けさ・<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きます（７：３０）</p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; けさ 何時(なんじ)に 起(お)きましたか。",
+          "japaneseHtml": "&rArr; けさ <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きましたか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Sáng nay bạn thức dậy lúc mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ７時(じ)半(はん)に 起(お)きました。",
+          "japaneseHtml": "… ７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>に <ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh thức dậy lúc 7 giờ rưỡi.</div></div></div></p> <p> ３） <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>・<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます（１０：００～６：００）</p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; 毎日(まいにち)何時(なんじ)から 何時(なんじ)まで 働(はたら)きますか。",
+          "japaneseHtml": "&rArr; <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby><ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Mỗi ngày bạn làm việc từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １０時(じ)から ６時(じ)まで 働(はたら)きます。",
+          "japaneseHtml": "… １０<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh làm việc từ 10 giờ đến 6 giờ.</div></div></div></p> <p> ４） きのうの <ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>・<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>します（７：００～８：３０）</p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&rArr; 昨日(きのう)の晩(ばん)何時(なんじ)から 何時(なんじ)まで 勉強(べんきょう)しましたか。",
+          "japaneseHtml": "&rArr; <ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>の<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>から <ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しましたか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tối hôm qua bạn học từ mấy giờ đến mấy giờ?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ７時(じ)から ８時(じ)半(はん)まで 勉強(べんきょう)しました。",
+          "japaneseHtml": "… ７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から ８<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>まで <ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">… M&igrave;nh học từ 7 giờ đến 8 giờ rưỡi.</div></div></div></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <p> </div></div></p> <br /> <?php $de_stt = \"4\"; ?> <style> .vnjp-link-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); /* Desktop: 4 ô / hàng */ gap: 10px 10px; margin: 10px 0 20px; clear: both; /* cắt float cũ nếu có */ } .vnjp-link-item { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; /* nếu muốn chữ giữa thì đổi thành center */ padding: 7px 5px 5px 15px; border-radius: 10px; background: #ffffff; border: 1px solid #e0e4ef; box-shadow: 0 2px 5px rgba(0,0,0,0.04); text-decoration: none; transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease; float: none; /* ép bỏ mọi float từ CSS cũ */ } .vnjp-link-item:hover { background-color: #f5f7ff; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transform: translateY(-2px); } .vnjp-link-title { display: block; font-size: 14px; font-weight: 600; color: #222; margin-bottom: 3px; } .vnjp-link-sub { display: block; font-size: 11px; color: #6b7280; } a.disabled { pointer-events: none; /* ❌ không click được */ opacity: 0.5; /* làm mờ */ cursor: not-allowed; text-decoration: none; } /* Tablet: 3 ô / hàng */ @media (max-width: 1024px) { .vnjp-link-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } } /* Mobile: 2 ô / hàng */ @media (max-width: 768px) { .vnjp-link-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .vnjp-link-title { font-size: 13px; } .vnjp-link-sub { font-size: 10px; } } </style>"
+        }
+      ]
+    }
+  ]
+}

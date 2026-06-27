@@ -1,0 +1,434 @@
+{
+  "lesson": 17,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "体（からだ）・病気（びょうき） Cơ thể và các loại bệnh",
+      "titleHtml": "<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>・<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby> Cơ thể và các loại bệnh",
+      "introHtml": "<p> <b>Bệnh tật</b>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "どう しましたか",
+              "html": "どう しましたか"
+            },
+            {
+              "text": "Anh/ Chị bị làm sao?",
+              "html": "Anh/ Chị bị làm sao?"
+            }
+          ],
+          "term": "どう しましたか",
+          "termHtml": "どう しましたか",
+          "meaning": "Anh/ Chị bị làm sao?",
+          "meaningHtml": "Anh/ Chị bị làm sao?"
+        },
+        {
+          "cells": [
+            {
+              "text": "頭（あたま）が 痛（いた）い",
+              "html": "<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>が <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "đau đầu",
+              "html": "đau đầu"
+            }
+          ],
+          "term": "頭（あたま）が 痛（いた）い",
+          "termHtml": "<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>が <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い",
+          "meaning": "đau đầu",
+          "meaningHtml": "đau đầu"
+        },
+        {
+          "cells": [
+            {
+              "text": "おなかが 痛（いた）い",
+              "html": "おなかが <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "đau bụng",
+              "html": "đau bụng"
+            }
+          ],
+          "term": "おなかが 痛（いた）い",
+          "termHtml": "おなかが <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い",
+          "meaning": "đau bụng",
+          "meaningHtml": "đau bụng"
+        },
+        {
+          "cells": [
+            {
+              "text": "歯（は）が 痛（いた）い",
+              "html": "<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>が <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "đau răng",
+              "html": "đau răng"
+            }
+          ],
+          "term": "歯（は）が 痛（いた）い",
+          "termHtml": "<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>が <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い",
+          "meaning": "đau răng",
+          "meaningHtml": "đau răng"
+        },
+        {
+          "cells": [
+            {
+              "text": "熱（ねつ）が ある",
+              "html": "<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が ある"
+            },
+            {
+              "text": "bị sốt",
+              "html": "bị sốt"
+            }
+          ],
+          "term": "熱（ねつ）が ある",
+          "termHtml": "<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が ある",
+          "meaning": "bị sốt",
+          "meaningHtml": "bị sốt"
+        },
+        {
+          "cells": [
+            {
+              "text": "せきが 出（で）る",
+              "html": "せきが <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る"
+            },
+            {
+              "text": "ho",
+              "html": "ho"
+            }
+          ],
+          "term": "せきが 出（で）る",
+          "termHtml": "せきが <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る",
+          "meaning": "ho",
+          "meaningHtml": "ho"
+        },
+        {
+          "cells": [
+            {
+              "text": "鼻水（はなみず）が 出（で）る",
+              "html": "<ruby>鼻水<rp>（</rp><rt>はなみず</rt><rp>）</rp></ruby>が <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る"
+            },
+            {
+              "text": "chảy nước mũi, sổ mũi",
+              "html": "chảy nước mũi, sổ mũi"
+            }
+          ],
+          "term": "鼻水（はなみず）が 出（で）る",
+          "termHtml": "<ruby>鼻水<rp>（</rp><rt>はなみず</rt><rp>）</rp></ruby>が <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る",
+          "meaning": "chảy nước mũi, sổ mũi",
+          "meaningHtml": "chảy nước mũi, sổ mũi"
+        },
+        {
+          "cells": [
+            {
+              "text": "血（ち）が 出（で）る",
+              "html": "<ruby>血<rp>（</rp><rt>ち</rt><rp>）</rp></ruby>が <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る"
+            },
+            {
+              "text": "chảy máu",
+              "html": "chảy máu"
+            }
+          ],
+          "term": "血（ち）が 出（で）る",
+          "termHtml": "<ruby>血<rp>（</rp><rt>ち</rt><rp>）</rp></ruby>が <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る",
+          "meaning": "chảy máu",
+          "meaningHtml": "chảy máu"
+        },
+        {
+          "cells": [
+            {
+              "text": "吐（は）き気（け）が する",
+              "html": "<ruby>吐<rp>（</rp><rt>は</rt><rp>）</rp></ruby>き<ruby>気<rp>（</rp><rt>け</rt><rp>）</rp></ruby>が する"
+            },
+            {
+              "text": "buồn nôn",
+              "html": "buồn nôn"
+            }
+          ],
+          "term": "吐（は）き気（け）が する",
+          "termHtml": "<ruby>吐<rp>（</rp><rt>は</rt><rp>）</rp></ruby>き<ruby>気<rp>（</rp><rt>け</rt><rp>）</rp></ruby>が する",
+          "meaning": "buồn nôn",
+          "meaningHtml": "buồn nôn"
+        },
+        {
+          "cells": [
+            {
+              "text": "寒気（かんき）が する",
+              "html": "<ruby>寒気<rp>（</rp><rt>かんき</rt><rp>）</rp></ruby>が する"
+            },
+            {
+              "text": "gai người, ớn lạnh",
+              "html": "gai người, ớn lạnh"
+            }
+          ],
+          "term": "寒気（かんき）が する",
+          "termHtml": "<ruby>寒気<rp>（</rp><rt>かんき</rt><rp>）</rp></ruby>が する",
+          "meaning": "gai người, ớn lạnh",
+          "meaningHtml": "gai người, ớn lạnh"
+        },
+        {
+          "cells": [
+            {
+              "text": "めまいが する",
+              "html": "めまいが する"
+            },
+            {
+              "text": "chóng mặt",
+              "html": "chóng mặt"
+            }
+          ],
+          "term": "めまいが する",
+          "termHtml": "めまいが する",
+          "meaning": "chóng mặt",
+          "meaningHtml": "chóng mặt"
+        },
+        {
+          "cells": [
+            {
+              "text": "下痢（げり）を する",
+              "html": "<ruby>下痢<rp>（</rp><rt>げり</rt><rp>）</rp></ruby>を する"
+            },
+            {
+              "text": "ỉa chảy",
+              "html": "ỉa chảy"
+            }
+          ],
+          "term": "下痢（げり）を する",
+          "termHtml": "<ruby>下痢<rp>（</rp><rt>げり</rt><rp>）</rp></ruby>を する",
+          "meaning": "ỉa chảy",
+          "meaningHtml": "ỉa chảy"
+        },
+        {
+          "cells": [
+            {
+              "text": "便利（べんり）を する",
+              "html": "<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>を する"
+            },
+            {
+              "text": "táo bón",
+              "html": "táo bón"
+            }
+          ],
+          "term": "便利（べんり）を する",
+          "termHtml": "<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>を する",
+          "meaning": "táo bón",
+          "meaningHtml": "táo bón"
+        },
+        {
+          "cells": [
+            {
+              "text": "けがを する",
+              "html": "けがを する"
+            },
+            {
+              "text": "bị thương",
+              "html": "bị thương"
+            }
+          ],
+          "term": "けがを する",
+          "termHtml": "けがを する",
+          "meaning": "bị thương",
+          "meaningHtml": "bị thương"
+        },
+        {
+          "cells": [
+            {
+              "text": "やけどを する",
+              "html": "やけどを する"
+            },
+            {
+              "text": "bị bỏng",
+              "html": "bị bỏng"
+            }
+          ],
+          "term": "やけどを する",
+          "termHtml": "やけどを する",
+          "meaning": "bị bỏng",
+          "meaningHtml": "bị bỏng"
+        },
+        {
+          "cells": [
+            {
+              "text": "食欲（しょくよく）が ない",
+              "html": "<ruby>食欲<rp>（</rp><rt>しょくよく</rt><rp>）</rp></ruby>が ない"
+            },
+            {
+              "text": "không muốn ăn",
+              "html": "không muốn ăn"
+            }
+          ],
+          "term": "食欲（しょくよく）が ない",
+          "termHtml": "<ruby>食欲<rp>（</rp><rt>しょくよく</rt><rp>）</rp></ruby>が ない",
+          "meaning": "không muốn ăn",
+          "meaningHtml": "không muốn ăn"
+        },
+        {
+          "cells": [
+            {
+              "text": "肩（かた）が こる",
+              "html": "<ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>が こる"
+            },
+            {
+              "text": "đau vai",
+              "html": "đau vai"
+            }
+          ],
+          "term": "肩（かた）が こる",
+          "termHtml": "<ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>が こる",
+          "meaning": "đau vai",
+          "meaningHtml": "đau vai"
+        },
+        {
+          "cells": [
+            {
+              "text": "体（からだ）が だるい",
+              "html": "<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が だるい"
+            },
+            {
+              "text": "mỏi người",
+              "html": "mỏi người"
+            }
+          ],
+          "term": "体（からだ）が だるい",
+          "termHtml": "<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が だるい",
+          "meaning": "mỏi người",
+          "meaningHtml": "mỏi người"
+        },
+        {
+          "cells": [
+            {
+              "text": "かゆい",
+              "html": "かゆい"
+            },
+            {
+              "text": "ngứa",
+              "html": "ngứa"
+            }
+          ],
+          "term": "かゆい",
+          "termHtml": "かゆい",
+          "meaning": "ngứa",
+          "meaningHtml": "ngứa"
+        },
+        {
+          "cells": [
+            {
+              "text": "かぜ",
+              "html": "かぜ"
+            },
+            {
+              "text": "cảm, cúm",
+              "html": "cảm, cúm"
+            }
+          ],
+          "term": "かぜ",
+          "termHtml": "かぜ",
+          "meaning": "cảm, cúm",
+          "meaningHtml": "cảm, cúm"
+        },
+        {
+          "cells": [
+            {
+              "text": "インフルエンザ",
+              "html": "インフルエンザ"
+            },
+            {
+              "text": "cúm (dịch)",
+              "html": "cúm (dịch)"
+            }
+          ],
+          "term": "インフルエンザ",
+          "termHtml": "インフルエンザ",
+          "meaning": "cúm (dịch)",
+          "meaningHtml": "cúm (dịch)"
+        },
+        {
+          "cells": [
+            {
+              "text": "盲腸（もうちょう）",
+              "html": "<ruby>盲腸<rp>（</rp><rt>もうちょう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ruột thừa",
+              "html": "ruột thừa"
+            }
+          ],
+          "term": "盲腸（もうちょう）",
+          "termHtml": "<ruby>盲腸<rp>（</rp><rt>もうちょう</rt><rp>）</rp></ruby>",
+          "meaning": "ruột thừa",
+          "meaningHtml": "ruột thừa"
+        },
+        {
+          "cells": [
+            {
+              "text": "ぎっくり腰（ごし）",
+              "html": "ぎっくり<ruby>腰<rp>（</rp><rt>ごし</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "trật đốt sống, trẹo hông",
+              "html": "trật đốt sống, trẹo hông"
+            }
+          ],
+          "term": "ぎっくり腰（ごし）",
+          "termHtml": "ぎっくり<ruby>腰<rp>（</rp><rt>ごし</rt><rp>）</rp></ruby>",
+          "meaning": "trật đốt sống, trẹo hông",
+          "meaningHtml": "trật đốt sống, trẹo hông"
+        },
+        {
+          "cells": [
+            {
+              "text": "ねんざ",
+              "html": "ねんざ"
+            },
+            {
+              "text": "bong gân",
+              "html": "bong gân"
+            }
+          ],
+          "term": "ねんざ",
+          "termHtml": "ねんざ",
+          "meaning": "bong gân",
+          "meaningHtml": "bong gân"
+        },
+        {
+          "cells": [
+            {
+              "text": "骨折（こっせつ）",
+              "html": "<ruby>骨折<rp>（</rp><rt>こっせつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "gẫy xương",
+              "html": "gẫy xương"
+            }
+          ],
+          "term": "骨折（こっせつ）",
+          "termHtml": "<ruby>骨折<rp>（</rp><rt>こっせつ</rt><rp>）</rp></ruby>",
+          "meaning": "gẫy xương",
+          "meaningHtml": "gẫy xương"
+        },
+        {
+          "cells": [
+            {
+              "text": "二日酔（ふつかよ）い",
+              "html": "<ruby>二日酔<rp>（</rp><rt>ふつかよ</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "dư vị khó chịu trong ngày tiếp theo sau khi uống quá nhiều rượu",
+              "html": "dư vị khó chịu trong ngày tiếp theo sau khi uống quá nhiều rượu"
+            }
+          ],
+          "term": "二日酔（ふつかよ）い",
+          "termHtml": "<ruby>二日酔<rp>（</rp><rt>ふつかよ</rt><rp>）</rp></ruby>い",
+          "meaning": "dư vị khó chịu trong ngày tiếp theo sau khi uống quá nhiều rượu",
+          "meaningHtml": "dư vị khó chịu trong ngày tiếp theo sau khi uống quá nhiều rượu"
+        }
+      ],
+      "contentHtml": "<p> <b>Bệnh tật</b> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">どう しましたか</td> <td>Anh/ Chị bị làm sao?</td> </tr><tr> <td width=\"40%\"><ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>が <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い</td> <td>đau đầu</td> </tr><tr> <td width=\"40%\">おなかが <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い</td> <td>đau bụng</td> </tr><tr> <td width=\"40%\"><ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>が <ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>い</td> <td>đau răng</td> </tr><tr> <td width=\"40%\"><ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が ある</td> <td>bị sốt</td> </tr><tr> <td width=\"40%\">せきが <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る</td> <td>ho</td> </tr><tr> <td width=\"40%\"><ruby>鼻水<rp>（</rp><rt>はなみず</rt><rp>）</rp></ruby>が <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る</td> <td>chảy nước mũi, sổ mũi</td> </tr><tr> <td width=\"40%\"><ruby>血<rp>（</rp><rt>ち</rt><rp>）</rp></ruby>が <ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る</td> <td>chảy máu</td> </tr><tr> <td width=\"40%\"><ruby>吐<rp>（</rp><rt>は</rt><rp>）</rp></ruby>き<ruby>気<rp>（</rp><rt>け</rt><rp>）</rp></ruby>が する</td> <td>buồn nôn</td> </tr><tr> <td width=\"40%\"><ruby>寒気<rp>（</rp><rt>かんき</rt><rp>）</rp></ruby>が する</td> <td>gai người, ớn lạnh</td> </tr><tr> <td width=\"40%\">めまいが する</td> <td>chóng mặt</td> </tr><tr> <td width=\"40%\"><ruby>下痢<rp>（</rp><rt>げり</rt><rp>）</rp></ruby>を する</td> <td>ỉa chảy</td> </tr><tr> <td width=\"40%\"><ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>を する</td> <td>táo bón</td> </tr><tr> <td width=\"40%\">けがを する</td> <td>bị thương</td> </tr><tr> <td width=\"40%\">やけどを する</td> <td>bị bỏng</td> </tr><tr> <td width=\"40%\"><ruby>食欲<rp>（</rp><rt>しょくよく</rt><rp>）</rp></ruby>が ない</td> <td>không muốn ăn</td> </tr><tr> <td width=\"40%\"><ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>が こる</td> <td>đau vai</td> </tr><tr> <td width=\"40%\"><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が だるい</td> <td>mỏi người</td> </tr><tr> <td width=\"40%\">かゆい</td> <td>ngứa</td> </tr><tr> <td width=\"40%\">かぜ</td> <td>cảm, cúm</td> </tr><tr> <td width=\"40%\">インフルエンザ</td> <td>cúm (dịch)</td> </tr><tr> <td width=\"40%\"><ruby>盲腸<rp>（</rp><rt>もうちょう</rt><rp>）</rp></ruby></td> <td>ruột thừa</td> </tr><tr> <td width=\"40%\">ぎっくり<ruby>腰<rp>（</rp><rt>ごし</rt><rp>）</rp></ruby></td> <td>trật đốt sống, trẹo hông</td> </tr><tr> <td width=\"40%\">ねんざ</td> <td>bong gân</td> </tr><tr> <td width=\"40%\"><ruby>骨折<rp>（</rp><rt>こっせつ</rt><rp>）</rp></ruby></td> <td>gẫy xương</td> </tr><tr> <td width=\"40%\"><ruby>二日酔<rp>（</rp><rt>ふつかよ</rt><rp>）</rp></ruby>い</td> <td>dư vị khó chịu trong ngày tiếp theo sau khi uống quá nhiều rượu</td> </tr></tbody></table> <?php include 'code/tuvungthamkhao.php'; ?> </p> <p> <b>Các bộ phận cơ thể</b> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">あたま</td> <td>đầu</td> </tr><tr> <td width=\"40%\">かみ</td> <td>tóc</td> </tr><tr> <td width=\"40%\">かお</td> <td>mặt</td> </tr><tr> <td width=\"40%\">め</td> <td>mắt</td> </tr><tr> <td width=\"40%\">はな</td> <td>mũi</td> </tr><tr> <td width=\"40%\">くち</td> <td>miệng</td> </tr><tr> <td width=\"40%\">みみ</td> <td>tai</td> </tr><tr> <td width=\"40%\">あご</td> <td>cằm</td> </tr><tr> <td width=\"40%\">のど</td> <td>họng</td> </tr><tr> <td width=\"40%\">くび</td> <td>cổ</td> </tr><tr> <td width=\"40%\">かた</td> <td>vai</td> </tr><tr> <td width=\"40%\">うで</td> <td>cánh tay</td> </tr><tr> <td width=\"40%\">ひじ</td> <td>khuỷu tay</td> </tr><tr> <td width=\"40%\">て</td> <td>bàn tay</td> </tr><tr> <td width=\"40%\">ゆび</td> <td>ngón tay</td> </tr><tr> <td width=\"40%\">つめ</td> <td>móng</td> </tr><tr> <td width=\"40%\">むね</td> <td>ngực</td> </tr><tr> <td width=\"40%\">おなか</td> <td>bụng</td> </tr><tr> <td width=\"40%\">せなか</td> <td>lưng</td> </tr><tr> <td width=\"40%\">こし</td> <td>hông, eo</td> </tr><tr> <td width=\"40%\">しり</td> <td>mông</td> </tr><tr> <td width=\"40%\">あし</td> <td>chân</td> </tr><tr> <td width=\"40%\">ひざ</td> <td>đầu gối</td> </tr><tr> <td width=\"40%\">ほね</td> <td>xương</td> </tr></tbody></table> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai17.jpg\" style=\"width: 100%; \"> </p>"
+    }
+  ]
+}

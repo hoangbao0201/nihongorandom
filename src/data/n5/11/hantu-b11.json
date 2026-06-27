@@ -1,0 +1,310 @@
+{
+  "lesson": 11,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "[子供が～]",
+      "kanjiHtml": "[子供が～]",
+      "sinoVietnamese": "TỬ CUNG",
+      "kana": "[こどもが～] います",
+      "kanaHtml": "[こどもが～] います"
+    },
+    {
+      "index": 2,
+      "kanji": "[日本に～]",
+      "kanjiHtml": "[日本に～]",
+      "sinoVietnamese": "NHẬT BẢN",
+      "kana": "[にほんに～] います",
+      "kanaHtml": "[にほんに～] います"
+    },
+    {
+      "index": 3,
+      "kanji": "休みます [会社を～]",
+      "kanjiHtml": "休みます<br />[会社を～]",
+      "sinoVietnamese": "HƯU HỘI XÃ",
+      "kana": "やすみます [かいしゃを～]",
+      "kanaHtml": "やすみます<br />[かいしゃを～]"
+    },
+    {
+      "index": 4,
+      "kanji": "１つ",
+      "kanjiHtml": "１つ",
+      "sinoVietnamese": "",
+      "kana": "ひとつ",
+      "kanaHtml": "ひとつ"
+    },
+    {
+      "index": 5,
+      "kanji": "２つ",
+      "kanjiHtml": "２つ",
+      "sinoVietnamese": "",
+      "kana": "ふたつ",
+      "kanaHtml": "ふたつ"
+    },
+    {
+      "index": 6,
+      "kanji": "３つ",
+      "kanjiHtml": "３つ",
+      "sinoVietnamese": "",
+      "kana": "みっつ",
+      "kanaHtml": "みっつ"
+    },
+    {
+      "index": 7,
+      "kanji": "４つ",
+      "kanjiHtml": "４つ",
+      "sinoVietnamese": "",
+      "kana": "よっつ",
+      "kanaHtml": "よっつ"
+    },
+    {
+      "index": 8,
+      "kanji": "５つ",
+      "kanjiHtml": "５つ",
+      "sinoVietnamese": "",
+      "kana": "いつつ",
+      "kanaHtml": "いつつ"
+    },
+    {
+      "index": 9,
+      "kanji": "６つ",
+      "kanjiHtml": "６つ",
+      "sinoVietnamese": "",
+      "kana": "むっつ",
+      "kanaHtml": "むっつ"
+    },
+    {
+      "index": 10,
+      "kanji": "７つ",
+      "kanjiHtml": "７つ",
+      "sinoVietnamese": "",
+      "kana": "ななつ",
+      "kanaHtml": "ななつ"
+    },
+    {
+      "index": 11,
+      "kanji": "８つ",
+      "kanjiHtml": "８つ",
+      "sinoVietnamese": "",
+      "kana": "やっつ",
+      "kanaHtml": "やっつ"
+    },
+    {
+      "index": 12,
+      "kanji": "９つ",
+      "kanjiHtml": "９つ",
+      "sinoVietnamese": "",
+      "kana": "ここのつ",
+      "kanaHtml": "ここのつ"
+    },
+    {
+      "index": 13,
+      "kanji": "10",
+      "kanjiHtml": "10",
+      "sinoVietnamese": "",
+      "kana": "とお",
+      "kanaHtml": "とお"
+    },
+    {
+      "index": 14,
+      "kanji": "１人",
+      "kanjiHtml": "１人",
+      "sinoVietnamese": "NHÂN",
+      "kana": "ひとり",
+      "kanaHtml": "ひとり"
+    },
+    {
+      "index": 15,
+      "kanji": "２人",
+      "kanjiHtml": "２人",
+      "sinoVietnamese": "NHÂN",
+      "kana": "ふたり",
+      "kanaHtml": "ふたり"
+    },
+    {
+      "index": 16,
+      "kanji": "－人",
+      "kanjiHtml": "－人",
+      "sinoVietnamese": "NHÂN",
+      "kana": "―にん",
+      "kanaHtml": "―にん"
+    },
+    {
+      "index": 17,
+      "kanji": "－台",
+      "kanjiHtml": "－台",
+      "sinoVietnamese": "ĐÀI",
+      "kana": "―だい",
+      "kanaHtml": "―だい"
+    },
+    {
+      "index": 18,
+      "kanji": "－枚",
+      "kanjiHtml": "－枚",
+      "sinoVietnamese": "MAI",
+      "kana": "―まい",
+      "kanaHtml": "―まい"
+    },
+    {
+      "index": 19,
+      "kanji": "―回",
+      "kanjiHtml": "―回",
+      "sinoVietnamese": "HỒI",
+      "kana": "―かい",
+      "kanaHtml": "―かい"
+    },
+    {
+      "index": 20,
+      "kanji": "切手",
+      "kanjiHtml": "切手",
+      "sinoVietnamese": "THIẾT THỦ",
+      "kana": "きって",
+      "kanaHtml": "きって"
+    },
+    {
+      "index": 21,
+      "kanji": "封筒",
+      "kanjiHtml": "封筒",
+      "sinoVietnamese": "PHONG ĐỒNG",
+      "kana": "ふうとう",
+      "kanaHtml": "ふうとう"
+    },
+    {
+      "index": 22,
+      "kanji": "両親",
+      "kanjiHtml": "両親",
+      "sinoVietnamese": "LƯỠNG THÂN",
+      "kana": "りょうしん",
+      "kanaHtml": "りょうしん"
+    },
+    {
+      "index": 23,
+      "kanji": "兄弟",
+      "kanjiHtml": "兄弟",
+      "sinoVietnamese": "HUYNH ĐỆ",
+      "kana": "きょうだい",
+      "kanaHtml": "きょうだい"
+    },
+    {
+      "index": 24,
+      "kanji": "兄",
+      "kanjiHtml": "兄",
+      "sinoVietnamese": "HUYNH",
+      "kana": "あに",
+      "kanaHtml": "あに"
+    },
+    {
+      "index": 25,
+      "kanji": "お兄さん",
+      "kanjiHtml": "お兄さん",
+      "sinoVietnamese": "HUYNH",
+      "kana": "おにいさん",
+      "kanaHtml": "おにいさん"
+    },
+    {
+      "index": 26,
+      "kanji": "姉",
+      "kanjiHtml": "姉",
+      "sinoVietnamese": "TỶ",
+      "kana": "あね",
+      "kanaHtml": "あね"
+    },
+    {
+      "index": 27,
+      "kanji": "お姉さん",
+      "kanjiHtml": "お姉さん",
+      "sinoVietnamese": "TỶ",
+      "kana": "おねえさん",
+      "kanaHtml": "おねえさん"
+    },
+    {
+      "index": 28,
+      "kanji": "弟",
+      "kanjiHtml": "弟",
+      "sinoVietnamese": "ĐỆ",
+      "kana": "おとうと",
+      "kanaHtml": "おとうと"
+    },
+    {
+      "index": 29,
+      "kanji": "弟さん",
+      "kanjiHtml": "弟さん",
+      "sinoVietnamese": "ĐỆ",
+      "kana": "おとうとさん",
+      "kanaHtml": "おとうとさん"
+    },
+    {
+      "index": 30,
+      "kanji": "妹",
+      "kanjiHtml": "妹",
+      "sinoVietnamese": "MUỘI",
+      "kana": "いもうと",
+      "kanaHtml": "いもうと"
+    },
+    {
+      "index": 31,
+      "kanji": "妹さん",
+      "kanjiHtml": "妹さん",
+      "sinoVietnamese": "MUỘI",
+      "kana": "いもうとさん",
+      "kanaHtml": "いもうとさん"
+    },
+    {
+      "index": 32,
+      "kanji": "外国",
+      "kanjiHtml": "外国",
+      "sinoVietnamese": "NGOẠI QUỐC",
+      "kana": "がいこく",
+      "kanaHtml": "がいこく"
+    },
+    {
+      "index": 33,
+      "kanji": "留学生",
+      "kanjiHtml": "留学生",
+      "sinoVietnamese": "LƯU HỌC SINH",
+      "kana": "りゅうがくせい",
+      "kanaHtml": "りゅうがくせい"
+    },
+    {
+      "index": 34,
+      "kanji": "―時間",
+      "kanjiHtml": "―時間",
+      "sinoVietnamese": "THỜI GIAN",
+      "kana": "―じかん",
+      "kanaHtml": "―じかん"
+    },
+    {
+      "index": 35,
+      "kanji": "―週間",
+      "kanjiHtml": "―週間",
+      "sinoVietnamese": "CHU GIAN",
+      "kana": "―しゅうかん",
+      "kanaHtml": "―しゅうかん"
+    },
+    {
+      "index": 36,
+      "kanji": "－か月",
+      "kanjiHtml": "－か月",
+      "sinoVietnamese": "NGUYỆT",
+      "kana": "―かげつ",
+      "kanaHtml": "―かげつ"
+    },
+    {
+      "index": 37,
+      "kanji": "―年",
+      "kanjiHtml": "―年",
+      "sinoVietnamese": "NIÊN",
+      "kana": "―ねん",
+      "kanaHtml": "―ねん"
+    },
+    {
+      "index": 38,
+      "kanji": "全部で",
+      "kanjiHtml": "全部で",
+      "sinoVietnamese": "TOÀN BỘ",
+      "kana": "ぜんぶで",
+      "kanaHtml": "ぜんぶで"
+    }
+  ]
+}

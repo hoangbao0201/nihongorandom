@@ -1,0 +1,337 @@
+{
+  "lesson": 15,
+  "type": "luyendoc",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> <audio controls=\"\" preload=\"none\" ><source src=\"/Audio/minnamoi/bunkeireibun/100000001012.mp3\" type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-size:16px;\"> １．</span> </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_bk_1.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107714\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"> <span><ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を <ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>っても いいです。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">Cho phép chụp hình.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\"> 2 ．</span> </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_bk_2.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107715\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span> </span><span>サントスさんは <ruby>電子辞書<rp>(</rp><rt>でんしじしょ</rt><rp>)</rp></ruby>を <ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">Anh Santos có từ điển điện tử.</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> </p></div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/100000001012.mp3"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-size:16px;\"> １．</span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_bk_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "写真(しゃしん)を 撮(と)っても いいです。",
+          "japaneseHtml": "<span><ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を <ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>っても いいです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">Cho phép chụp hình.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\"> 2 ．</span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_bk_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "サントスさんは 電子辞書(でんしじしょ)を 持(も)って います。",
+          "japaneseHtml": "<span> </span><span>サントスさんは <ruby>電子辞書<rp>(</rp><rt>でんしじしょ</rt><rp>)</rp></ruby>を <ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って います。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">Anh Santos có từ điển điện tử.</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> </p></div>"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> <audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100000001102.mp3\" type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-size:16px;\">１．</span>  </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_rb_1.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107717\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>この カタログを もらっても いいですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">Tôi lấy ca-ta-lô này có được không?</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>…ええ、いいですよ。 どうぞ。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">…Vâng, được ạ. Xin mời.</span><span style=\"font-size:14px;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">2． </span> </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_rb_2.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107718\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>この <ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>を <ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りても いいですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">Tôi mượn quyển từ điển này có được không?</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>…すみません、ちょっと。。。。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>って います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">…Xin lỗi, không được rồi… Bây giờ tôi đang dùng<span _fck_bookmark=\"1\" style=\"display: none;\"> </span>.</span></div></div></div><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><p></p> <p> <span style=\"font-size:16px;\">3．</span>  </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_rb_3.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107719\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>ここで <ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んでは いけません。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Không được chơi ở đây.</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>…はい。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Vâng.</div></div></div><p></p> <p> <span style=\"font-size:16px;\">4．</span>  </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_rb_4.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107720\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>市役所<rp>(</rp><rt>しやくしょ</rt><rp>)</rp></ruby>の <ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby><ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>を <ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>って いますか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Anh/chị có biết số điện thoại của Văn phòng hành chính quận (thành phố) không?</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>…いいえ、<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>りません。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Không, tôi không biết.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">5． </span> </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_rb_5.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107721\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>マリアさんは どこに <ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで いますか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Chị Maria sống ở đâu?</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>… <ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>に <ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Tôi ở Osaka.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">6．</span>  </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_rb_6.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107722\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>ワンさんは <ruby>独身<rp>(</rp><rt>どくしん</rt><rp>)</rp></ruby>ですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Anh Wang còn độc thân à?</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>… いいえ、<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>して います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Không, tôi đã lập gia đình.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">7．</span>  </p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai15_rb_7.mp3\" type=\"audio/mpeg\" preload=\"none\" __idm_id__=\"5107723\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>お<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>は <ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Anh/chị làm nghề gì?</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>… <ruby>教師<rp>(</rp><rt>きょうし</rt><rp>)</rp></ruby>です。 <ruby>高校<rp>(</rp><rt>こうこう</rt><rp>)</rp></ruby>で <ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Tôi làm giáo viên. Tôi dạy ở trường THPT.</span></div></div></div><p></p> <p> </p></div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/100000001102.mp3"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-size:16px;\">１．</span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_rb_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "この カタログを もらっても いいですか。",
+          "japaneseHtml": "<span>この カタログを もらっても いいですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">Tôi lấy ca-ta-lô này có được không?</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…ええ、いいですよ。 どうぞ。",
+          "japaneseHtml": "<span>…ええ、いいですよ。 どうぞ。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">…Vâng, được ạ. Xin mời.</span><span style=\"font-size:14px;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">2． </span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_rb_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "この 辞書(じしょ)を 借(か)りても いいですか。",
+          "japaneseHtml": "<span>この <ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>を <ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りても いいですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">Tôi mượn quyển từ điển này có được không?</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…すみません、ちょっと。。。。今(いま) 使(つか)って います。",
+          "japaneseHtml": "<span>…すみません、ちょっと。。。。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby> <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>って います。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><span style=\"font-size:14px;\">…Xin lỗi, không được rồi… Bây giờ tôi đang dùng<span _fck_bookmark=\"1\" style=\"display: none;\"> </span>.</span></div></div></div><span _fck_bookmark=\"1\" style=\"display: none;\"> </span><p></p> <p> <span style=\"font-size:16px;\">3．</span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_rb_3.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ここで 遊(あそ)んでは いけません。",
+          "japaneseHtml": "<span>ここで <ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>んでは いけません。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Không được chơi ở đây.</span></div></div></div><p></p> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…はい。",
+          "japaneseHtml": "<span>…はい。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Vâng.</div></div></div><p></p> <p> <span style=\"font-size:16px;\">4．</span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_rb_4.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "市役所(しやくしょ)の 電話(でんわ)番号(ばんごう)を 知(し)って いますか。",
+          "japaneseHtml": "<span><ruby>市役所<rp>(</rp><rt>しやくしょ</rt><rp>)</rp></ruby>の <ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby><ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>を <ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>って いますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Anh/chị có biết số điện thoại của Văn phòng hành chính quận (thành phố) không?</span></div></div></div><p></p> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…いいえ、知(し)りません。",
+          "japaneseHtml": "<span>…いいえ、<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>りません。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Không, tôi không biết.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">5． </span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_rb_5.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "マリアさんは どこに 住(す)んで いますか。",
+          "japaneseHtml": "<span>マリアさんは どこに <ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで いますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Chị Maria sống ở đâu?</span></div></div></div><p></p> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 大阪(おおさか)に 住(す)んで います。",
+          "japaneseHtml": "<span>… <ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>に <ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで います。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Tôi ở Osaka.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">6．</span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_rb_6.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ワンさんは 独身(どくしん)ですか。",
+          "japaneseHtml": "<span>ワンさんは <ruby>独身<rp>(</rp><rt>どくしん</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Anh Wang còn độc thân à?</span></div></div></div><p></p> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… いいえ、結婚(けっこん)して います。",
+          "japaneseHtml": "<span>… いいえ、<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>して います。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Không, tôi đã lập gia đình.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">7．</span> </p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai15_rb_7.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お仕事(しごと)は 何(なん)ですか。",
+          "japaneseHtml": "<span>お<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>は <ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Anh/chị làm nghề gì?</span></div></div></div><p></p> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 教師(きょうし)です。 高校(こうこう)で 教(おし)えて います。",
+          "japaneseHtml": "<span>… <ruby>教師<rp>(</rp><rt>きょうし</rt><rp>)</rp></ruby>です。 <ruby>高校<rp>(</rp><rt>こうこう</rt><rp>)</rp></ruby>で <ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて います。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Tôi làm giáo viên. Tôi dạy ở trường THPT.</span></div></div></div><p></p> <p> </p></div>"
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> </p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\"> <span style=\"font-size:16px;\">1.</span></td> <td> <span><ruby>鉛筆<rp>(</rp><rt>えんぴつ</rt><rp>)</rp></ruby>で</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>かいて</span></td> <td rowspan=\"3\"> <span>も いいですか。</span></td> </tr> <tr> <td> <span>この ホッチキスを</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>つかって</span></td> </tr> <tr> <td> <span>ここに</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>すわって</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Viết bằng bút chì được chứ?</span></p> <p> <span style=\"font-size:14px;\">Dùng cái dập ghim này được chứ?</span></p> <p> <span style=\"font-size:14px;\">Ngồi ở đây được chứ?</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\"> <span style=\"font-size:16px;\">2.</span></td> <td> <span>お<ruby>酒<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>のんで</span></td> <td rowspan=\"3\"> <span>は いけません。</span></td> </tr> <tr> <td> <span>ここで <ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>とって</span></td> </tr> <tr> <td> <span>ここに <ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>とめて</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Không được uống rượu.</span></p> <p> <span style=\"font-size:14px;\">Không được chụp hình ở đây.</span></p> <p> <span style=\"font-size:14px;\">Không được đậu xe hơi ở đây.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\"> <span style=\"font-size:16px;\">3.</span></td> <td rowspan=\"3\"> <span>わたしは</span></td> <td> <span><ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>に</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>すんで</span></td> <td rowspan=\"3\"> <span>います。</span></td> </tr> <tr> <td> <span>マリアさんを</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>しって</span></td> </tr> <tr> <td>  </td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>けっこんして</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Tôi đang sống ở Kyoto.</span></p> <p> <span style=\"font-size:14px;\">Tôi biết chị Maria.</span></p> <p> <span style=\"font-size:14px;\">Tôi đã kết hôn.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\"> <span style=\"font-size:16px;\">4.</span></td> <td rowspan=\"3\"> <span>ミラーさんは</span></td> <td> <span>IMCで</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>はたらいて</span></td> <td rowspan=\"3\"> <span>います。</span></td> </tr> <tr> <td> <span><ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>で <ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>おしえて</span></td> </tr> <tr> <td> <span><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby><ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>で <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>べんきょうして</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Anh Miller đang làm việc tại công ty IMC.</span></p> <p> <span style=\"font-size:14px;\">Anh Miller đang dạy tiếng Anh tại công ty.</span></p> <p> <span style=\"font-size:14px;\">Anh Miller đang học tiếng Nhật tại trường Nhật ngữ.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> </p></div></div><p></p> <br /> <?php $de_stt = \"15\"; ?>",
+      "blocks": [
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\"> <span style=\"font-size:16px;\">1.</span></td> <td> <span><ruby>鉛筆<rp>(</rp><rt>えんぴつ</rt><rp>)</rp></ruby>で</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>かいて</span></td> <td rowspan=\"3\"> <span>も いいですか。</span></td> </tr> <tr> <td> <span>この ホッチキスを</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>つかって</span></td> </tr> <tr> <td> <span>ここに</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>すわって</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Viết bằng bút chì được chứ?</span></p> <p> <span style=\"font-size:14px;\">Dùng cái dập ghim này được chứ?</span></p> <p> <span style=\"font-size:14px;\">Ngồi ở đây được chứ?</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Viết bằng bút chì được chứ?</span></p> <p> <span style=\"font-size:14px;\">Dùng cái dập ghim này được chứ?</span></p> <p> <span style=\"font-size:14px;\">Ngồi ở đây được chứ?</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\"> <span style=\"font-size:16px;\">2.</span></td> <td> <span>お<ruby>酒<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>のんで</span></td> <td rowspan=\"3\"> <span>は いけません。</span></td> </tr> <tr> <td> <span>ここで <ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>とって</span></td> </tr> <tr> <td> <span>ここに <ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>とめて</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Không được uống rượu.</span></p> <p> <span style=\"font-size:14px;\">Không được chụp hình ở đây.</span></p> <p> <span style=\"font-size:14px;\">Không được đậu xe hơi ở đây.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Không được uống rượu.</span></p> <p> <span style=\"font-size:14px;\">Không được chụp hình ở đây.</span></p> <p> <span style=\"font-size:14px;\">Không được đậu xe hơi ở đây.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\"> <span style=\"font-size:16px;\">3.</span></td> <td rowspan=\"3\"> <span>わたしは</span></td> <td> <span><ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>に</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>すんで</span></td> <td rowspan=\"3\"> <span>います。</span></td> </tr> <tr> <td> <span>マリアさんを</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>しって</span></td> </tr> <tr> <td> </td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>けっこんして</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tôi đang sống ở Kyoto.</span></p> <p> <span style=\"font-size:14px;\">Tôi biết chị Maria.</span></p> <p> <span style=\"font-size:14px;\">Tôi đã kết hôn.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tôi đang sống ở Kyoto.</span></p> <p> <span style=\"font-size:14px;\">Tôi biết chị Maria.</span></p> <p> <span style=\"font-size:14px;\">Tôi đã kết hôn.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\"> <span style=\"font-size:16px;\">4.</span></td> <td rowspan=\"3\"> <span>ミラーさんは</span></td> <td> <span>IMCで</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>はたらいて</span></td> <td rowspan=\"3\"> <span>います。</span></td> </tr> <tr> <td> <span><ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>で <ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>おしえて</span></td> </tr> <tr> <td> <span><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby><ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>で <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> <span>べんきょうして</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Anh Miller đang làm việc tại công ty IMC.</span></p> <p> <span style=\"font-size:14px;\">Anh Miller đang dạy tiếng Anh tại công ty.</span></p> <p> <span style=\"font-size:14px;\">Anh Miller đang học tiếng Nhật tại trường Nhật ngữ.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Anh Miller đang làm việc tại công ty IMC.</span></p> <p> <span style=\"font-size:14px;\">Anh Miller đang dạy tiếng Anh tại công ty.</span></p> <p> <span style=\"font-size:14px;\">Anh Miller đang học tiếng Nhật tại trường Nhật ngữ.</span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

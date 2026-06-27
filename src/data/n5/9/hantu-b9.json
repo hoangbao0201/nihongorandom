@@ -1,0 +1,222 @@
+{
+  "lesson": 9,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "好き[な]",
+      "kanjiHtml": "好き[な]",
+      "sinoVietnamese": "HIẾU/HẢO",
+      "kana": "すき[な]",
+      "kanaHtml": "すき[な]"
+    },
+    {
+      "index": 2,
+      "kanji": "嫌い[な]",
+      "kanjiHtml": "嫌い[な]",
+      "sinoVietnamese": "HIỀM",
+      "kana": "きらい[な]",
+      "kanaHtml": "きらい[な]"
+    },
+    {
+      "index": 3,
+      "kanji": "上手[な]",
+      "kanjiHtml": "上手[な]",
+      "sinoVietnamese": "THƯỢNG THỦ",
+      "kana": "じょうず[な]",
+      "kanaHtml": "じょうず[な]"
+    },
+    {
+      "index": 4,
+      "kanji": "下手[な]",
+      "kanjiHtml": "下手[な]",
+      "sinoVietnamese": "HẠ THỦ",
+      "kana": "へた[な]",
+      "kanaHtml": "へた[な]"
+    },
+    {
+      "index": 5,
+      "kanji": "飲み物",
+      "kanjiHtml": "飲み物",
+      "sinoVietnamese": "ẨM VẬT",
+      "kana": "のみもの",
+      "kanaHtml": "のみもの"
+    },
+    {
+      "index": 6,
+      "kanji": "料理",
+      "kanjiHtml": "料理",
+      "sinoVietnamese": "LIỆU LÝ",
+      "kana": "りょうり",
+      "kanaHtml": "りょうり"
+    },
+    {
+      "index": 7,
+      "kanji": "野球",
+      "kanjiHtml": "野球",
+      "sinoVietnamese": "DÃ CẦU",
+      "kana": "やきゅう",
+      "kanaHtml": "やきゅう"
+    },
+    {
+      "index": 8,
+      "kanji": "旅行",
+      "kanjiHtml": "旅行",
+      "sinoVietnamese": "LỮ HÀNH",
+      "kana": "りょこう",
+      "kanaHtml": "りょこう"
+    },
+    {
+      "index": 9,
+      "kanji": "音楽",
+      "kanjiHtml": "音楽",
+      "sinoVietnamese": "ÂM NHẠC/LẠC",
+      "kana": "おんがく",
+      "kanaHtml": "おんがく"
+    },
+    {
+      "index": 10,
+      "kanji": "歌",
+      "kanjiHtml": "歌",
+      "sinoVietnamese": "CA",
+      "kana": "うた",
+      "kanaHtml": "うた"
+    },
+    {
+      "index": 11,
+      "kanji": "歌舞伎",
+      "kanjiHtml": "歌舞伎",
+      "sinoVietnamese": "CA VŨ KỸ",
+      "kana": "かぶき",
+      "kanaHtml": "かぶき"
+    },
+    {
+      "index": 12,
+      "kanji": "絵",
+      "kanjiHtml": "絵",
+      "sinoVietnamese": "HỘI",
+      "kana": "え",
+      "kanaHtml": "え"
+    },
+    {
+      "index": 13,
+      "kanji": "字",
+      "kanjiHtml": "字",
+      "sinoVietnamese": "TỰ",
+      "kana": "じ",
+      "kanaHtml": "じ"
+    },
+    {
+      "index": 14,
+      "kanji": "漢字",
+      "kanjiHtml": "漢字",
+      "sinoVietnamese": "HÁN TỰ",
+      "kana": "かんじ",
+      "kanaHtml": "かんじ"
+    },
+    {
+      "index": 15,
+      "kanji": "ローマ字",
+      "kanjiHtml": "ローマ字",
+      "sinoVietnamese": "TỰ",
+      "kana": "ローマじ",
+      "kanaHtml": "ローマじ"
+    },
+    {
+      "index": 16,
+      "kanji": "細かいお金",
+      "kanjiHtml": "細かいお金",
+      "sinoVietnamese": "TẾ KIM",
+      "kana": "こまかいおかね",
+      "kanaHtml": "こまかいおかね"
+    },
+    {
+      "index": 17,
+      "kanji": "時間",
+      "kanjiHtml": "時間",
+      "sinoVietnamese": "THÌ/THỜI GIAN",
+      "kana": "じかん",
+      "kanaHtml": "じかん"
+    },
+    {
+      "index": 18,
+      "kanji": "用事",
+      "kanjiHtml": "用事",
+      "sinoVietnamese": "DỤNG SỰ",
+      "kana": "ようじ",
+      "kanaHtml": "ようじ"
+    },
+    {
+      "index": 19,
+      "kanji": "約束",
+      "kanjiHtml": "約束",
+      "sinoVietnamese": "ƯỚC THÚC",
+      "kana": "やくそく",
+      "kanaHtml": "やくそく"
+    },
+    {
+      "index": 20,
+      "kanji": "ご主人",
+      "kanjiHtml": "ご主人",
+      "sinoVietnamese": "CHỦ NHÂN",
+      "kana": "ごしゅじん",
+      "kanaHtml": "ごしゅじん"
+    },
+    {
+      "index": 21,
+      "kanji": "夫 /主人",
+      "kanjiHtml": "夫 /主人",
+      "sinoVietnamese": "PHU / CHỦ NHÂN",
+      "kana": "おっと/しゅじん",
+      "kanaHtml": "おっと/しゅじん"
+    },
+    {
+      "index": 22,
+      "kanji": "奥さん",
+      "kanjiHtml": "奥さん",
+      "sinoVietnamese": "ÁO",
+      "kana": "おくさん",
+      "kanaHtml": "おくさん"
+    },
+    {
+      "index": 23,
+      "kanji": "妻/家内",
+      "kanjiHtml": "妻/家内",
+      "sinoVietnamese": "THÊ / GIA NỘI",
+      "kana": "つま/かない",
+      "kanaHtml": "つま/かない"
+    },
+    {
+      "index": 24,
+      "kanji": "子ども",
+      "kanjiHtml": "子ども",
+      "sinoVietnamese": "TỬ",
+      "kana": "こども",
+      "kanaHtml": "こども"
+    },
+    {
+      "index": 25,
+      "kanji": "少し",
+      "kanjiHtml": "少し",
+      "sinoVietnamese": "THIẾU, THIỂU",
+      "kana": "すこし",
+      "kanaHtml": "すこし"
+    },
+    {
+      "index": 26,
+      "kanji": "全然",
+      "kanjiHtml": "全然",
+      "sinoVietnamese": "TOÀN NHIÊN",
+      "kana": "ぜんぜん",
+      "kanaHtml": "ぜんぜん"
+    },
+    {
+      "index": 27,
+      "kanji": "早く, 速く",
+      "kanjiHtml": "早く, 速く",
+      "sinoVietnamese": "TẢO、TỐC",
+      "kana": "はやく",
+      "kanaHtml": "はやく"
+    }
+  ]
+}

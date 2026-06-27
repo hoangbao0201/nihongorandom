@@ -1,0 +1,150 @@
+{
+  "lesson": 13,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "遊びます",
+      "kanjiHtml": "遊びます",
+      "sinoVietnamese": "DU",
+      "kana": "あそびます",
+      "kanaHtml": "あそびます"
+    },
+    {
+      "index": 2,
+      "kanji": "泳ぎます",
+      "kanjiHtml": "泳ぎます",
+      "sinoVietnamese": "VỊNH",
+      "kana": "およぎます",
+      "kanaHtml": "およぎます"
+    },
+    {
+      "index": 3,
+      "kanji": "迎えます",
+      "kanjiHtml": "迎えます",
+      "sinoVietnamese": "NGHINH",
+      "kana": "むかえます",
+      "kanaHtml": "むかえます"
+    },
+    {
+      "index": 4,
+      "kanji": "疲れます",
+      "kanjiHtml": "疲れます",
+      "sinoVietnamese": "BÌ",
+      "kana": "つかれます",
+      "kanaHtml": "つかれます"
+    },
+    {
+      "index": 5,
+      "kanji": "結婚します",
+      "kanjiHtml": "結婚します",
+      "sinoVietnamese": "KẾT HÔN",
+      "kana": "けっこんします",
+      "kanaHtml": "けっこんします"
+    },
+    {
+      "index": 6,
+      "kanji": "買い物します",
+      "kanjiHtml": "買い物します",
+      "sinoVietnamese": "MÃI VẬT",
+      "kana": "かいものします",
+      "kanaHtml": "かいものします"
+    },
+    {
+      "index": 7,
+      "kanji": "食事します",
+      "kanjiHtml": "食事します",
+      "sinoVietnamese": "THỰC SỰ",
+      "kana": "しょくじします",
+      "kanaHtml": "しょくじします"
+    },
+    {
+      "index": 8,
+      "kanji": "散歩します [公園を～]",
+      "kanjiHtml": "散歩します<br />[公園を～]",
+      "sinoVietnamese": "TÁN BỘ CÔNG VIÊN",
+      "kana": "さんぽします [こうえんを～]",
+      "kanaHtml": "さんぽします<br />[こうえんを～]"
+    },
+    {
+      "index": 9,
+      "kanji": "大変「な」",
+      "kanjiHtml": "大変「な」",
+      "sinoVietnamese": "ĐẠI BIẾN",
+      "kana": "たいへん「な」",
+      "kanaHtml": "たいへん「な」"
+    },
+    {
+      "index": 10,
+      "kanji": "欲しい",
+      "kanjiHtml": "欲しい",
+      "sinoVietnamese": "DỤC",
+      "kana": "ほしい",
+      "kanaHtml": "ほしい"
+    },
+    {
+      "index": 11,
+      "kanji": "広い",
+      "kanjiHtml": "広い",
+      "sinoVietnamese": "QUẢNG",
+      "kana": "ひろい",
+      "kanaHtml": "ひろい"
+    },
+    {
+      "index": 12,
+      "kanji": "狭い",
+      "kanjiHtml": "狭い",
+      "sinoVietnamese": "HIỆP",
+      "kana": "せまい",
+      "kanaHtml": "せまい"
+    },
+    {
+      "index": 13,
+      "kanji": "川",
+      "kanjiHtml": "川",
+      "sinoVietnamese": "XUYÊN",
+      "kana": "かわ",
+      "kanaHtml": "かわ"
+    },
+    {
+      "index": 14,
+      "kanji": "美術",
+      "kanjiHtml": "美術",
+      "sinoVietnamese": "MỸ THUẬT",
+      "kana": "びじゅつ",
+      "kanaHtml": "びじゅつ"
+    },
+    {
+      "index": 15,
+      "kanji": "釣り",
+      "kanjiHtml": "釣り",
+      "sinoVietnamese": "ĐIẾU",
+      "kana": "つり",
+      "kanaHtml": "つり"
+    },
+    {
+      "index": 16,
+      "kanji": "週末",
+      "kanjiHtml": "週末",
+      "sinoVietnamese": "CHU MẠT",
+      "kana": "しゅうまつ",
+      "kanaHtml": "しゅうまつ"
+    },
+    {
+      "index": 17,
+      "kanji": "[お]正月",
+      "kanjiHtml": "[お]正月",
+      "sinoVietnamese": "CHÍNH NGUYỆT",
+      "kana": "[お]しょうがつ",
+      "kanaHtml": "[お]しょうがつ"
+    },
+    {
+      "index": 18,
+      "kanji": "何か",
+      "kanjiHtml": "何か",
+      "sinoVietnamese": "HÀ",
+      "kana": "なにか",
+      "kanaHtml": "なにか"
+    }
+  ]
+}

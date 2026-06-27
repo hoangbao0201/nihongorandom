@@ -1,0 +1,102 @@
+{
+  "lesson": 2,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca6b31e5fd99914b33a05df",
+      "index": 1,
+      "character": "社",
+      "sinoVietnameseWord": "XÃ",
+      "mean": "Đền thờ, công ty",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l2/kanji/img/1_xyz_1.png",
+      "reminiscentDescription": "<p>Chữ 社 X&Atilde; được gh&eacute;p từ bộ ネ THỊ (li&ecirc;n quan đến thần th&aacute;nh) v&agrave; chữ 土 THỔ (đất).</p>",
+      "onReading": "シャ、ジャ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 30.1836%; height: 22px;\">社長</td>\n<td style=\"width: 33.8553%; height: 22px;\">しゃちょう</td>\n<td style=\"width: 35.9611%; height: 22px;\">gi&aacute;m đốc</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 30.1836%; height: 22px;\">神社</td>\n<td style=\"width: 33.8553%; height: 22px;\">じんじゃ</td>\n<td style=\"width: 35.9611%; height: 22px;\">đền thờ Thần Đạo&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca6b4775fd99914b33a05e9",
+      "index": 2,
+      "character": "員",
+      "sinoVietnameseWord": "VIÊN",
+      "mean": "Nhân viên",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l2/kanji/img/2_xyz_1.png",
+      "reminiscentDescription": "<p>Chữ 員 VI&Ecirc;N gh&eacute;p từ chữ 口 KHẨU (miệng) v&agrave; chữ 貝 BỐI (con s&ograve; &ndash; &yacute; chỉ tiền bạc), m&ocirc; tả người nh&acirc;n vi&ecirc;n l&uacute;c n&agrave;o cũng n&oacute;i đến tiền.</p>",
+      "onReading": "イン",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">社員</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">しゃいん</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">nh&acirc;n vi&ecirc;n c&ocirc;ng ty&nbsp;</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">全員</td>\n<td style=\"width: 33.3333%; height: 21px;\">ぜんいん</td>\n<td style=\"width: 33.3333%; height: 21px;\">tất cả th&agrave;nh vi&ecirc;n trong nh&oacute;m&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "5ca6b74d5fd99914b33a05fc",
+      "index": 3,
+      "character": "会",
+      "sinoVietnameseWord": "HỘI",
+      "mean": "Gặp",
+      "reminiscentDescription": "<p>Chữ 会 HỘI giống như h&igrave;nh ảnh dưới m&aacute;i nh&agrave; c&oacute; 2 người đang bắt tay nhau khi gặp gỡ.</p>",
+      "onReading": "カイ",
+      "kunReading": "あ・います",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">会います</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">あいます</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">gặp</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">会社</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">かいしゃ</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">c&ocirc;ng ty</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">社会</td>\n<td style=\"width: 33.3333%; height: 21px;\">しゃかい</td>\n<td style=\"width: 33.3333%; height: 21px;\">x&atilde; hội</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">会員</td>\n<td style=\"width: 33.3333%; height: 21px;\">かいいん</td>\n<td style=\"width: 33.3333%; height: 21px;\">hội vi&ecirc;n</td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l2/kanji/img/3_xyz_1.png"
+    },
+    {
+      "_id": "5ca6d3612144a12a6dec0504",
+      "index": 4,
+      "character": "先",
+      "sinoVietnameseWord": "TIÊN",
+      "mean": "Trước",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l2/kanji/img/4_xyz.png",
+      "reminiscentDescription": "<p>Chữ 先 TI&Ecirc;N giống h&igrave;nh ảnh một người chạy đến dải ruy băng ở vạch đ&iacute;ch đầu ti&ecirc;n.</p>",
+      "onReading": "セン",
+      "kunReading": "さき",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30%; height: 21px;\">お先に失礼します</td>\n<td style=\"width: 30%; height: 21px;\">おさきにしつれいします</td>\n<td style=\"width: 30%; height: 21px;\">t&ocirc;i xin ph&eacute;p về trước</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30%; height: 21px;\">先輩</td>\n<td style=\"width: 30%; height: 21px;\">せんぱい</td>\n<td style=\"width: 30%; height: 21px;\">tiền bối</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30%; height: 21px;\">先祖</td>\n<td style=\"width: 30%; height: 21px;\">せんぞ</td>\n<td style=\"width: 30%; height: 21px;\">&ocirc;ng b&agrave; tổ ti&ecirc;n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca6d4b92144a12a6dec0516",
+      "index": 5,
+      "character": "生",
+      "sinoVietnameseWord": "SINH",
+      "mean": "Sống",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l2/kanji/img/5_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 生 SINH tr&ocirc;ng giống như chiếc l&aacute; sinh ra từ c&agrave;nh c&acirc;y m&agrave; c&aacute;i c&acirc;y lại sinh ra từ l&ograve;ng đất.</p>",
+      "onReading": "セイ",
+      "kunReading": "う・まれます",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.693%; height: 21px;\">生まれます</td>\n<td style=\"width: 35.9736%; height: 21px;\">うまれます</td>\n<td style=\"width: 33.3333%; height: 21px;\">được sinh ra</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.693%; height: 21px;\"><span style=\"color: #e74c3c;\">学生</span></td>\n<td style=\"width: 35.9736%; height: 21px;\"><span style=\"color: #e74c3c;\">がくせい</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">học sinh</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.693%; height: 21px;\"><span style=\"color: #e74c3c;\">先生</span></td>\n<td style=\"width: 35.9736%; height: 21px;\"><span style=\"color: #e74c3c;\">せんせい</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">thầy gi&aacute;o, c&ocirc; gi&aacute;o</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65a4f0e8e6a4de669951242a",
+      "index": 6,
+      "character": "行",
+      "sinoVietnameseWord": "HÀNH",
+      "mean": "Đi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l2/kanji/img/6_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 行 H&Agrave;NH được biến đổi từ m&ocirc; phỏng ng&atilde; tư đường.</p>",
+      "onReading": "コウ",
+      "kunReading": "い・きます",
+      "examples": "<table style=\"border-collapse: collapse; width: 105.022%; height: 41px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">行きます</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">いきます</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">đi</span></td>\n</tr>\n<tr style=\"height: 41px;\">\n<td style=\"width: 33.3333%; height: 10px;\">銀行</td>\n<td style=\"width: 33.3333%; height: 10px;\">ぎんこう</td>\n<td style=\"width: 33.3333%; height: 10px;\">ng&acirc;n h&agrave;ng</td>\n</tr>\n<tr style=\"height: 41px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">銀行員</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ぎんこういん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">nh&acirc;n vi&ecirc;n ng&acirc;n h&agrave;ng</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a4f5a8e6a4de6699512439",
+      "index": 7,
+      "character": "来",
+      "sinoVietnameseWord": "LAI",
+      "mean": "Đến",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l2/kanji/img/7_xyz.png",
+      "reminiscentDescription": "<p>Chữ 来 LAI giống như một người dang rộng tay ra cho trẻ em qua đường khi xe cộ lao đến.</p>",
+      "onReading": "ライ",
+      "kunReading": "き・ます、こ・ない、き・て",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">来ます</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">きます</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">đến</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">来週</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">らいしゅう</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">tuần sau</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">来月</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">らいげつ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">th&aacute;ng sau&nbsp;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">来年</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">らいねん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">năm sau</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a4f682e6a4de669951243b",
+      "index": 8,
+      "character": "車",
+      "sinoVietnameseWord": "XA",
+      "mean": "Xe",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l2/kanji/img/8_xyz.png",
+      "reminiscentDescription": "<p>Chữ 車 XA giống h&igrave;nh ảnh khung m&aacute;y của xe &ocirc; t&ocirc; 4 chỗ.</p>",
+      "onReading": "シャ",
+      "kunReading": "くるま",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">車</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">くるま</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">&ocirc; t&ocirc;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">車椅子</td>\n<td style=\"width: 33.3333%;\">くるまいす</td>\n<td style=\"width: 33.3333%;\">xe lăn</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">電車</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">でんしゃ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">t&agrave;u điện</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">自転車</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">じてんしゃ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">xe đạp</span></td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

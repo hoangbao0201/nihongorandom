@@ -1,0 +1,98 @@
+{
+  "lesson": 4,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "電話（でんわ）・手紙（てがみ） Điện thoại, thư tín",
+      "titleHtml": "<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>・<ruby>手紙<rp>（</rp><rt>てがみ</rt><rp>）</rp></ruby> Điện thoại, thư tín",
+      "introHtml": "<b>Cách gọi điện thoại công cộng</b> <p> 1. Nhấc ống nghe <br /> 2. Đút tiền hoặc thẻ vào điện thoại <br /> 3 . Ấn số <br /> 4. Dập máy ống nghe <br /> 5. Lấy lại tiền thừa (nếu có) hoặc thẻ điện thoại </p> <img src=\"/images/minnatuvungthamkhao/bai4_1.png\" alt=\"Cách gọi điện thoại công cộng\" style=\"width:100%;height:100%;\"> <p> <br /> <b>Các số điện thoại đặc biệt</b> <br />",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "110 : 警察署（けいさつしょ）",
+              "html": "110 : <ruby>警察署<rp>（</rp><rt>けいさつしょ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Gọi cảnh sát",
+              "html": "Gọi cảnh sát"
+            }
+          ],
+          "term": "110 : 警察署（けいさつしょ）",
+          "termHtml": "110 : <ruby>警察署<rp>（</rp><rt>けいさつしょ</rt><rp>）</rp></ruby>",
+          "meaning": "Gọi cảnh sát",
+          "meaningHtml": "Gọi cảnh sát"
+        },
+        {
+          "cells": [
+            {
+              "text": "119 : 消防署（しょうぼうしょ）",
+              "html": "119 : <ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Gọi cứu hỏa",
+              "html": "Gọi cứu hỏa"
+            }
+          ],
+          "term": "119 : 消防署（しょうぼうしょ）",
+          "termHtml": "119 : <ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>",
+          "meaning": "Gọi cứu hỏa",
+          "meaningHtml": "Gọi cứu hỏa"
+        },
+        {
+          "cells": [
+            {
+              "text": "117 : 時報（じほう）",
+              "html": "117 : <ruby>時報<rp>（</rp><rt>じほう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Dịch vụ hỏi giờ",
+              "html": "Dịch vụ hỏi giờ"
+            }
+          ],
+          "term": "117 : 時報（じほう）",
+          "termHtml": "117 : <ruby>時報<rp>（</rp><rt>じほう</rt><rp>）</rp></ruby>",
+          "meaning": "Dịch vụ hỏi giờ",
+          "meaningHtml": "Dịch vụ hỏi giờ"
+        },
+        {
+          "cells": [
+            {
+              "text": "177 : 天気（てんき）予報（よほう）",
+              "html": "177 : <ruby>天気<rp>（</rp><rt>てんき</rt><rp>）</rp></ruby><ruby>予報<rp>（</rp><rt>よほう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Dịch vụ thông tin dự báo thời tiết",
+              "html": "Dịch vụ thông tin dự báo thời tiết"
+            }
+          ],
+          "term": "177 : 天気（てんき）予報（よほう）",
+          "termHtml": "177 : <ruby>天気<rp>（</rp><rt>てんき</rt><rp>）</rp></ruby><ruby>予報<rp>（</rp><rt>よほう</rt><rp>）</rp></ruby>",
+          "meaning": "Dịch vụ thông tin dự báo thời tiết",
+          "meaningHtml": "Dịch vụ thông tin dự báo thời tiết"
+        },
+        {
+          "cells": [
+            {
+              "text": "104 : 電話（でんわ）番号（ばんごう）案内（あんない）",
+              "html": "104 : <ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby><ruby>番号<rp>（</rp><rt>ばんごう</rt><rp>）</rp></ruby><ruby>案内<rp>（</rp><rt>あんない</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Dich vụ hướng dẫn số điện thoại",
+              "html": "Dich vụ hướng dẫn số điện thoại"
+            }
+          ],
+          "term": "104 : 電話（でんわ）番号（ばんごう）案内（あんない）",
+          "termHtml": "104 : <ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby><ruby>番号<rp>（</rp><rt>ばんごう</rt><rp>）</rp></ruby><ruby>案内<rp>（</rp><rt>あんない</rt><rp>）</rp></ruby>",
+          "meaning": "Dich vụ hướng dẫn số điện thoại",
+          "meaningHtml": "Dich vụ hướng dẫn số điện thoại"
+        }
+      ],
+      "contentHtml": "<b>Cách gọi điện thoại công cộng</b> <p> 1. Nhấc ống nghe <br /> 2. Đút tiền hoặc thẻ vào điện thoại <br /> 3 . Ấn số <br /> 4. Dập máy ống nghe <br /> 5. Lấy lại tiền thừa (nếu có) hoặc thẻ điện thoại </p> <img src=\"/images/minnatuvungthamkhao/bai4_1.png\" alt=\"Cách gọi điện thoại công cộng\" style=\"width:100%;height:100%;\"> <p> <br /> <b>Các số điện thoại đặc biệt</b> <br /> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">110 : <ruby>警察署<rp>（</rp><rt>けいさつしょ</rt><rp>）</rp></ruby></td> <td>Gọi cảnh sát</td> </tr><tr> <td width=\"40%\">119 : <ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby></td> <td>Gọi cứu hỏa</td> </tr><tr> <td width=\"40%\">117 : <ruby>時報<rp>（</rp><rt>じほう</rt><rp>）</rp></ruby></td> <td>Dịch vụ hỏi giờ</td> </tr><tr> <td width=\"40%\">177 : <ruby>天気<rp>（</rp><rt>てんき</rt><rp>）</rp></ruby><ruby>予報<rp>（</rp><rt>よほう</rt><rp>）</rp></ruby></td> <td>Dịch vụ thông tin dự báo thời tiết</td> </tr><tr> <td width=\"40%\">104 : <ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby><ruby>番号<rp>（</rp><rt>ばんごう</rt><rp>）</rp></ruby><ruby>案内<rp>（</rp><rt>あんない</rt><rp>）</rp></ruby></td> <td>Dich vụ hướng dẫn số điện thoại</td> </tr></tbody></table> </p> <br /> <p> <b>Cách viết địa chỉ</b> <br /> <img src=\"/images/minnatuvungthamkhao/bai4_2.png\" alt=\"Cách viết địa chỉ\" style=\"width:100%;height:100%;\"> </p> <?php $de_stt = \"4\"; ?>"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "lesson": 2,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "本",
+      "kanjiHtml": "本",
+      "sinoVietnamese": "BẢN/BỔN",
+      "kana": "ほん",
+      "kanaHtml": "ほん"
+    },
+    {
+      "index": 2,
+      "kanji": "辞書",
+      "kanjiHtml": "辞書",
+      "sinoVietnamese": "TỪ THƯ",
+      "kana": "じしょ",
+      "kanaHtml": "じしょ"
+    },
+    {
+      "index": 3,
+      "kanji": "雑誌",
+      "kanjiHtml": "雑誌",
+      "sinoVietnamese": "TẠP CHÍ",
+      "kana": "ざっし",
+      "kanaHtml": "ざっし"
+    },
+    {
+      "index": 4,
+      "kanji": "新聞",
+      "kanjiHtml": "新聞",
+      "sinoVietnamese": "TÂN VĂN",
+      "kana": "しんぶん",
+      "kanaHtml": "しんぶん"
+    },
+    {
+      "index": 5,
+      "kanji": "手帳",
+      "kanjiHtml": "手帳",
+      "sinoVietnamese": "THỦ TRƯƠNG",
+      "kana": "てちょう",
+      "kanaHtml": "てちょう"
+    },
+    {
+      "index": 6,
+      "kanji": "名刺",
+      "kanjiHtml": "名刺",
+      "sinoVietnamese": "DANH THÍCH",
+      "kana": "めいし",
+      "kanaHtml": "めいし"
+    },
+    {
+      "index": 7,
+      "kanji": "鉛筆",
+      "kanjiHtml": "鉛筆",
+      "sinoVietnamese": "DUYÊN BÚT",
+      "kana": "えんぴつ",
+      "kanaHtml": "えんぴつ"
+    },
+    {
+      "index": 8,
+      "kanji": "時計",
+      "kanjiHtml": "時計",
+      "sinoVietnamese": "THỜI KẾ",
+      "kana": "とけい",
+      "kanaHtml": "とけい"
+    },
+    {
+      "index": 9,
+      "kanji": "傘",
+      "kanjiHtml": "傘",
+      "sinoVietnamese": "TẢN",
+      "kana": "かさ",
+      "kanaHtml": "かさ"
+    },
+    {
+      "index": 10,
+      "kanji": "車",
+      "kanjiHtml": "車",
+      "sinoVietnamese": "XA",
+      "kana": "くるま",
+      "kanaHtml": "くるま"
+    },
+    {
+      "index": 11,
+      "kanji": "机",
+      "kanjiHtml": "机",
+      "sinoVietnamese": "KỶ",
+      "kana": "つくえ",
+      "kanaHtml": "つくえ"
+    },
+    {
+      "index": 12,
+      "kanji": "[お]土産",
+      "kanjiHtml": "[お]土産",
+      "sinoVietnamese": "THỔ SẢN",
+      "kana": "[お]みやげ",
+      "kanaHtml": "[お]みやげ"
+    },
+    {
+      "index": 13,
+      "kanji": "英語",
+      "kanjiHtml": "英語",
+      "sinoVietnamese": "ANH NGỮ",
+      "kana": "えいご",
+      "kanaHtml": "えいご"
+    },
+    {
+      "index": 14,
+      "kanji": "日本語",
+      "kanjiHtml": "日本語",
+      "sinoVietnamese": "NHẬT BẢN NGỮ",
+      "kana": "にほんご",
+      "kanaHtml": "にほんご"
+    },
+    {
+      "index": 15,
+      "kanji": "～語",
+      "kanjiHtml": "～語",
+      "sinoVietnamese": "NGỮ",
+      "kana": "～ご",
+      "kanaHtml": "～ご"
+    },
+    {
+      "index": 16,
+      "kanji": "何",
+      "kanjiHtml": "何",
+      "sinoVietnamese": "HÀ",
+      "kana": "なに",
+      "kanaHtml": "なに"
+    }
+  ]
+}

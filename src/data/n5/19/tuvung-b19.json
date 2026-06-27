@@ -1,0 +1,308 @@
+{
+  "lesson": 19,
+  "meta": {
+    "practiceUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=19",
+    "flashcardUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=19&mf=fc"
+  },
+  "sections": [
+    {
+      "key": "main",
+      "label": null,
+      "labelHtml": null,
+      "items": [
+        {
+          "kind": "entry",
+          "index": 1,
+          "word": "のぼります",
+          "wordHtml": "のぼります",
+          "kanji": "[山に～]登ります",
+          "kanjiHtml": "[山に～]登ります",
+          "sinoVietnamese": "SƠN ĐĂNG",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001101101.mp3",
+          "meaning": "leo [núi]",
+          "meaningHtml": "leo [núi]"
+        },
+        {
+          "kind": "entry",
+          "index": 2,
+          "word": "とまります [ホテルに～]",
+          "wordHtml": "とまります<br />[ホテルに～]",
+          "kanji": "泊まります [ホテルに～]",
+          "kanjiHtml": "泊まります<br />[ホテルに～]",
+          "sinoVietnamese": "BẠC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001101110.mp3",
+          "meaning": "trọ [ở khách sạn]",
+          "meaningHtml": "trọ [ở khách sạn]"
+        },
+        {
+          "kind": "entry",
+          "index": 3,
+          "word": "そうじします",
+          "wordHtml": "そうじします",
+          "kanji": "掃除します",
+          "kanjiHtml": "掃除します",
+          "sinoVietnamese": "TẢO TRỪ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001101111.mp3",
+          "meaning": "dọn vệ sinh",
+          "meaningHtml": "dọn vệ sinh"
+        },
+        {
+          "kind": "entry",
+          "index": 4,
+          "word": "せんたくします",
+          "wordHtml": "せんたくします",
+          "kanji": "洗濯します",
+          "kanjiHtml": "洗濯します",
+          "sinoVietnamese": "TẨY TRẠC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001110000.mp3",
+          "meaning": "giặt",
+          "meaningHtml": "giặt"
+        },
+        {
+          "kind": "entry",
+          "index": 5,
+          "word": "なります",
+          "wordHtml": "なります",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001110001.mp3",
+          "meaning": "trở thành, trở nên",
+          "meaningHtml": "trở thành, trở nên"
+        },
+        {
+          "kind": "entry",
+          "index": 6,
+          "word": "ねむい",
+          "wordHtml": "ねむい",
+          "kanji": "眠い",
+          "kanjiHtml": "眠い",
+          "sinoVietnamese": "MIÊN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001110010.mp3",
+          "meaning": "buồn ngủ",
+          "meaningHtml": "buồn ngủ"
+        },
+        {
+          "kind": "entry",
+          "index": 7,
+          "word": "つよい",
+          "wordHtml": "つよい",
+          "kanji": "強い",
+          "kanjiHtml": "強い",
+          "sinoVietnamese": "CƯỜNG",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001110011.mp3",
+          "meaning": "mạnh",
+          "meaningHtml": "mạnh"
+        },
+        {
+          "kind": "entry",
+          "index": 8,
+          "word": "よわい",
+          "wordHtml": "よわい",
+          "kanji": "弱い",
+          "kanjiHtml": "弱い",
+          "sinoVietnamese": "NHƯỢC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001110100.mp3",
+          "meaning": "yếu",
+          "meaningHtml": "yếu"
+        },
+        {
+          "kind": "entry",
+          "index": 9,
+          "word": "ゴルフ",
+          "wordHtml": "ゴルフ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001110101.mp3",
+          "meaning": "gôn (～をします:chơi gôn)",
+          "meaningHtml": "gôn (～をします:chơi gôn)"
+        },
+        {
+          "kind": "entry",
+          "index": 10,
+          "word": "すもう",
+          "wordHtml": "すもう",
+          "kanji": "相撲",
+          "kanjiHtml": "相撲",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001110110.mp3",
+          "meaning": "vật Sumo",
+          "meaningHtml": "vật Sumo"
+        },
+        {
+          "kind": "entry",
+          "index": 11,
+          "word": "おちゃ",
+          "wordHtml": "おちゃ",
+          "kanji": "お茶",
+          "kanjiHtml": "お茶",
+          "sinoVietnamese": "TRÀ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001110111.mp3",
+          "meaning": "trà",
+          "meaningHtml": "trà"
+        },
+        {
+          "kind": "entry",
+          "index": 12,
+          "word": "ひ",
+          "wordHtml": "ひ",
+          "kanji": "日",
+          "kanjiHtml": "日",
+          "sinoVietnamese": "NHẬT",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001111000.mp3",
+          "meaning": "ngày",
+          "meaningHtml": "ngày"
+        },
+        {
+          "kind": "entry",
+          "index": 13,
+          "word": "ちょうし",
+          "wordHtml": "ちょうし",
+          "kanji": "調子",
+          "kanjiHtml": "調子",
+          "sinoVietnamese": "ĐIỀU TỬ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001111001.mp3",
+          "meaning": "tình trạng, trạng thái",
+          "meaningHtml": "tình trạng, trạng thái"
+        },
+        {
+          "kind": "entry",
+          "index": 14,
+          "word": "いちど",
+          "wordHtml": "いちど",
+          "kanji": "一度",
+          "kanjiHtml": "一度",
+          "sinoVietnamese": "NHẤT ĐỘ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001111010.mp3",
+          "meaning": "một lần",
+          "meaningHtml": "một lần"
+        },
+        {
+          "kind": "entry",
+          "index": 15,
+          "word": "いちども",
+          "wordHtml": "いちども",
+          "kanji": "一度も",
+          "kanjiHtml": "一度も",
+          "sinoVietnamese": "NHẤT ĐỘ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001111011.mp3",
+          "meaning": "chưa lần nào",
+          "meaningHtml": "chưa lần nào"
+        },
+        {
+          "kind": "entry",
+          "index": 16,
+          "word": "だんだん",
+          "wordHtml": "だんだん",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001111100.mp3",
+          "meaning": "dần dần",
+          "meaningHtml": "dần dần"
+        },
+        {
+          "kind": "entry",
+          "index": 17,
+          "word": "もうすぐ",
+          "wordHtml": "もうすぐ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001111101.mp3",
+          "meaning": "sắp",
+          "meaningHtml": "sắp"
+        },
+        {
+          "kind": "entry",
+          "index": 18,
+          "word": "おかげさまで",
+          "wordHtml": "おかげさまで",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001111110.mp3",
+          "meaning": "nhờ ơn anh/ chị mà ~ ; Nhờ trời ~",
+          "meaningHtml": "nhờ ơn anh/ chị mà ~ ; Nhờ trời ~"
+        },
+        {
+          "kind": "entry",
+          "index": 19,
+          "word": "でも",
+          "wordHtml": "でも",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101001111111.mp3",
+          "meaning": "nhưng",
+          "meaningHtml": "nhưng"
+        }
+      ]
+    },
+    {
+      "key": "section-2",
+      "label": "会話(かいわ)",
+      "labelHtml": "＜<b><ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby></b>＞",
+      "items": [
+        {
+          "kind": "phrase",
+          "index": 20,
+          "text": "乾杯（かんぱい）",
+          "textHtml": "<ruby>乾杯<rp>（</rp><rt>かんぱい</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101010000000.mp3",
+          "meaning": "nâng cốc!/cạn chén",
+          "meaningHtml": "nâng cốc!/cạn chén"
+        },
+        {
+          "kind": "phrase",
+          "index": 21,
+          "text": "ダイエット",
+          "textHtml": "ダイエット",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101010000001.mp3",
+          "meaning": "việc ăn kiêng, chế độ giảm cân (～をします:ăn kiêng)",
+          "meaningHtml": "việc ăn kiêng, chế độ giảm cân <br />(～をします:ăn kiêng)"
+        },
+        {
+          "kind": "phrase",
+          "index": 22,
+          "text": "無理（むり）[な]",
+          "textHtml": "<ruby>無理<rp>（</rp><rt>むり</rt><rp>）</rp></ruby>[な]",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101010000010.mp3",
+          "meaning": "không thể, quá sức",
+          "meaningHtml": "không thể, quá sức"
+        },
+        {
+          "kind": "phrase",
+          "index": 23,
+          "text": "体（からだ）にいい",
+          "textHtml": "<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>にいい",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101010000011.mp3",
+          "meaning": "tốt cho sức khỏe",
+          "meaningHtml": "tốt cho sức khỏe"
+        },
+        {
+          "kind": "divider"
+        },
+        {
+          "kind": "phrase",
+          "index": 24,
+          "text": "東京（とうきょう）スカイツリー",
+          "textHtml": "<ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>スカイツリー",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101010000100.mp3",
+          "meaning": "Tokyo Sky Tree (tháp truyền hình có đài ngắm)",
+          "meaningHtml": "Tokyo Sky Tree (tháp truyền hình có đài ngắm)"
+        },
+        {
+          "kind": "phrase",
+          "index": 25,
+          "text": "葛飾（かつしか） 北斎（ほくさい）",
+          "textHtml": "<ruby>葛飾<rp>（</rp><rt>かつしか</rt><rp>）</rp></ruby> <ruby>北斎<rp>（</rp><rt>ほくさい</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai19/00010101010000101.mp3",
+          "meaning": "Katsushika Hokusai (1760-1849), một họa sĩ nổi tiếng thời Edo",
+          "meaningHtml": "Katsushika Hokusai (1760-1849), <br />một họa sĩ nổi tiếng thời Edo"
+        }
+      ]
+    }
+  ]
+}

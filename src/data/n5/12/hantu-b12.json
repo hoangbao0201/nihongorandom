@@ -1,0 +1,278 @@
+{
+  "lesson": 12,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "簡単「な」",
+      "kanjiHtml": "簡単「な」",
+      "sinoVietnamese": "GIẢN ĐƠN",
+      "kana": "かんたん「な」",
+      "kanaHtml": "かんたん「な」"
+    },
+    {
+      "index": 2,
+      "kanji": "近い",
+      "kanjiHtml": "近い",
+      "sinoVietnamese": "CẬN",
+      "kana": "ちかい",
+      "kanaHtml": "ちかい"
+    },
+    {
+      "index": 3,
+      "kanji": "遠い",
+      "kanjiHtml": "遠い",
+      "sinoVietnamese": "VIỄN",
+      "kana": "とおい",
+      "kanaHtml": "とおい"
+    },
+    {
+      "index": 4,
+      "kanji": "速い, 早い",
+      "kanjiHtml": "速い, 早い",
+      "sinoVietnamese": "TỐC、TẢO",
+      "kana": "はやい",
+      "kanaHtml": "はやい"
+    },
+    {
+      "index": 5,
+      "kanji": "遅い",
+      "kanjiHtml": "遅い",
+      "sinoVietnamese": "TRÌ",
+      "kana": "おそい",
+      "kanaHtml": "おそい"
+    },
+    {
+      "index": 6,
+      "kanji": "[人が～]多い",
+      "kanjiHtml": "[人が～]多い",
+      "sinoVietnamese": "NHÂN ĐA",
+      "kana": "[ひとが～] おおい",
+      "kanaHtml": "[ひとが～] おおい"
+    },
+    {
+      "index": 7,
+      "kanji": "[人が～]少ない",
+      "kanjiHtml": "[人が～]少ない",
+      "sinoVietnamese": "NHÂN, THIỂU/THIẾU",
+      "kana": "[ひとが～]すくない",
+      "kanaHtml": "[ひとが～]すくない"
+    },
+    {
+      "index": 8,
+      "kanji": "温かい,暖かい",
+      "kanjiHtml": "温かい,暖かい",
+      "sinoVietnamese": "ÔN、NOÃN",
+      "kana": "あたたかい",
+      "kanaHtml": "あたたかい"
+    },
+    {
+      "index": 9,
+      "kanji": "涼しい",
+      "kanjiHtml": "涼しい",
+      "sinoVietnamese": "LƯƠNG",
+      "kana": "すずしい",
+      "kanaHtml": "すずしい"
+    },
+    {
+      "index": 10,
+      "kanji": "甘い",
+      "kanjiHtml": "甘い",
+      "sinoVietnamese": "CAM",
+      "kana": "あまい",
+      "kanaHtml": "あまい"
+    },
+    {
+      "index": 11,
+      "kanji": "辛い",
+      "kanjiHtml": "辛い",
+      "sinoVietnamese": "TÂN",
+      "kana": "からい",
+      "kanaHtml": "からい"
+    },
+    {
+      "index": 12,
+      "kanji": "重い",
+      "kanjiHtml": "重い",
+      "sinoVietnamese": "TRỌNG",
+      "kana": "おもい",
+      "kanaHtml": "おもい"
+    },
+    {
+      "index": 13,
+      "kanji": "軽い",
+      "kanjiHtml": "軽い",
+      "sinoVietnamese": "KHINH",
+      "kana": "かるい",
+      "kanaHtml": "かるい"
+    },
+    {
+      "index": 14,
+      "kanji": "季節",
+      "kanjiHtml": "季節",
+      "sinoVietnamese": "QUÝ TIẾT",
+      "kana": "きせつ",
+      "kanaHtml": "きせつ"
+    },
+    {
+      "index": 15,
+      "kanji": "春",
+      "kanjiHtml": "春",
+      "sinoVietnamese": "XUÂN",
+      "kana": "はる",
+      "kanaHtml": "はる"
+    },
+    {
+      "index": 16,
+      "kanji": "夏",
+      "kanjiHtml": "夏",
+      "sinoVietnamese": "HẠ",
+      "kana": "なつ",
+      "kanaHtml": "なつ"
+    },
+    {
+      "index": 17,
+      "kanji": "秋",
+      "kanjiHtml": "秋",
+      "sinoVietnamese": "THU",
+      "kana": "あき",
+      "kanaHtml": "あき"
+    },
+    {
+      "index": 18,
+      "kanji": "冬",
+      "kanjiHtml": "冬",
+      "sinoVietnamese": "ĐÔNG",
+      "kana": "ふゆ",
+      "kanaHtml": "ふゆ"
+    },
+    {
+      "index": 19,
+      "kanji": "天気",
+      "kanjiHtml": "天気",
+      "sinoVietnamese": "THIÊN KHÍ",
+      "kana": "てんき",
+      "kanaHtml": "てんき"
+    },
+    {
+      "index": 20,
+      "kanji": "雨",
+      "kanjiHtml": "雨",
+      "sinoVietnamese": "VŨ",
+      "kana": "あめ",
+      "kanaHtml": "あめ"
+    },
+    {
+      "index": 21,
+      "kanji": "雪",
+      "kanjiHtml": "雪",
+      "sinoVietnamese": "TUYẾT",
+      "kana": "ゆき",
+      "kanaHtml": "ゆき"
+    },
+    {
+      "index": 22,
+      "kanji": "曇り",
+      "kanjiHtml": "曇り",
+      "sinoVietnamese": "ĐÀM",
+      "kana": "くもり",
+      "kanaHtml": "くもり"
+    },
+    {
+      "index": 23,
+      "kanji": "空港",
+      "kanjiHtml": "空港",
+      "sinoVietnamese": "KHÔNG CẢNG",
+      "kana": "くうこう",
+      "kanaHtml": "くうこう"
+    },
+    {
+      "index": 24,
+      "kanji": "海",
+      "kanjiHtml": "海",
+      "sinoVietnamese": "HẢI",
+      "kana": "うみ",
+      "kanaHtml": "うみ"
+    },
+    {
+      "index": 25,
+      "kanji": "世界",
+      "kanjiHtml": "世界",
+      "sinoVietnamese": "THẾ GIỚI",
+      "kana": "せかい",
+      "kanaHtml": "せかい"
+    },
+    {
+      "index": 26,
+      "kanji": "[お]祭り",
+      "kanjiHtml": "[お]祭り",
+      "sinoVietnamese": "TẾ",
+      "kana": "[お]まつり",
+      "kanaHtml": "[お]まつり"
+    },
+    {
+      "index": 27,
+      "kanji": "すき焼き",
+      "kanjiHtml": "すき焼き",
+      "sinoVietnamese": "THIÊU",
+      "kana": "すきやき",
+      "kanaHtml": "すきやき"
+    },
+    {
+      "index": 28,
+      "kanji": "刺身",
+      "kanjiHtml": "刺身",
+      "sinoVietnamese": "THÍCH THÂN",
+      "kana": "さしみ",
+      "kanaHtml": "さしみ"
+    },
+    {
+      "index": 29,
+      "kanji": "豚肉",
+      "kanjiHtml": "豚肉",
+      "sinoVietnamese": "ĐỒN NHỤC",
+      "kana": "ぶたにく",
+      "kanaHtml": "ぶたにく"
+    },
+    {
+      "index": 30,
+      "kanji": "とり肉",
+      "kanjiHtml": "とり肉",
+      "sinoVietnamese": "NHỤC",
+      "kana": "とりにく",
+      "kanaHtml": "とりにく"
+    },
+    {
+      "index": 31,
+      "kanji": "牛肉",
+      "kanjiHtml": "牛肉",
+      "sinoVietnamese": "NGƯU NHỤC",
+      "kana": "ぎゅうにく",
+      "kanaHtml": "ぎゅうにく"
+    },
+    {
+      "index": 32,
+      "kanji": "生け花",
+      "kanjiHtml": "生け花",
+      "sinoVietnamese": "SINH HOA",
+      "kana": "いけばな",
+      "kanaHtml": "いけばな"
+    },
+    {
+      "index": 33,
+      "kanji": "紅葉",
+      "kanjiHtml": "紅葉",
+      "sinoVietnamese": "HỒNG DIỆP",
+      "kana": "もみじ",
+      "kanaHtml": "もみじ"
+    },
+    {
+      "index": 34,
+      "kanji": "初めて",
+      "kanjiHtml": "初めて",
+      "sinoVietnamese": "SƠ",
+      "kana": "はじめて",
+      "kanaHtml": "はじめて"
+    }
+  ]
+}

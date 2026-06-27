@@ -1,0 +1,174 @@
+{
+  "lesson": 3,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "教室",
+      "kanjiHtml": "教室",
+      "sinoVietnamese": "GIÁO THẤT",
+      "kana": "きょうしつ",
+      "kanaHtml": "きょうしつ"
+    },
+    {
+      "index": 2,
+      "kanji": "食堂",
+      "kanjiHtml": "食堂",
+      "sinoVietnamese": "THỰC ĐƯỜNG",
+      "kana": "しょくどう",
+      "kanaHtml": "しょくどう"
+    },
+    {
+      "index": 3,
+      "kanji": "事務所",
+      "kanjiHtml": "事務所",
+      "sinoVietnamese": "SỰ VỤ SỞ",
+      "kana": "じむしょ",
+      "kanaHtml": "じむしょ"
+    },
+    {
+      "index": 4,
+      "kanji": "会議室",
+      "kanjiHtml": "会議室",
+      "sinoVietnamese": "HỘI NGHỊ THẤT",
+      "kana": "かいぎしつ",
+      "kanaHtml": "かいぎしつ"
+    },
+    {
+      "index": 5,
+      "kanji": "受付",
+      "kanjiHtml": "受付",
+      "sinoVietnamese": "THỤ PHÓ",
+      "kana": "うけつけ",
+      "kanaHtml": "うけつけ"
+    },
+    {
+      "index": 6,
+      "kanji": "部屋",
+      "kanjiHtml": "部屋",
+      "sinoVietnamese": "BỘ ỐC",
+      "kana": "へや",
+      "kanaHtml": "へや"
+    },
+    {
+      "index": 7,
+      "kanji": "(お手洗い)",
+      "kanjiHtml": "(お手洗い)",
+      "sinoVietnamese": "THỦ TẨY",
+      "kana": "トイレ （おてあらい）",
+      "kanaHtml": "トイレ<br />（おてあらい）"
+    },
+    {
+      "index": 8,
+      "kanji": "階段",
+      "kanjiHtml": "階段",
+      "sinoVietnamese": "GIAI ĐOẠN",
+      "kana": "かいだん",
+      "kanaHtml": "かいだん"
+    },
+    {
+      "index": 9,
+      "kanji": "自動販売機",
+      "kanjiHtml": "自動販売機",
+      "sinoVietnamese": "TỰ ĐỘNG PHIẾN MẠI CƠ",
+      "kana": "じどうはんばいき",
+      "kanaHtml": "じどうはんばいき"
+    },
+    {
+      "index": 10,
+      "kanji": "電話",
+      "kanjiHtml": "電話",
+      "sinoVietnamese": "ĐIỆN THOẠI",
+      "kana": "でんわ",
+      "kanaHtml": "でんわ"
+    },
+    {
+      "index": 11,
+      "kanji": "[お]国",
+      "kanjiHtml": "[お]国",
+      "sinoVietnamese": "QUỐC",
+      "kana": "[お]くに",
+      "kanaHtml": "[お]くに"
+    },
+    {
+      "index": 12,
+      "kanji": "会社",
+      "kanjiHtml": "会社",
+      "sinoVietnamese": "HỘI XÃ",
+      "kana": "かいしゃ",
+      "kanaHtml": "かいしゃ"
+    },
+    {
+      "index": 13,
+      "kanji": "靴",
+      "kanjiHtml": "靴",
+      "sinoVietnamese": "NGOA",
+      "kana": "くつ",
+      "kanaHtml": "くつ"
+    },
+    {
+      "index": 14,
+      "kanji": "売り場",
+      "kanjiHtml": "売り場",
+      "sinoVietnamese": "MẠI TRƯỜNG",
+      "kana": "うりば",
+      "kanaHtml": "うりば"
+    },
+    {
+      "index": 15,
+      "kanji": "地下",
+      "kanjiHtml": "地下",
+      "sinoVietnamese": "ĐỊA HẠ",
+      "kana": "ちか",
+      "kanaHtml": "ちか"
+    },
+    {
+      "index": 16,
+      "kanji": "－階",
+      "kanjiHtml": "－階",
+      "sinoVietnamese": "GIAI",
+      "kana": "―かい（－がい）",
+      "kanaHtml": "―かい（－がい）"
+    },
+    {
+      "index": 17,
+      "kanji": "何階",
+      "kanjiHtml": "何階",
+      "sinoVietnamese": "HÀ GIAI",
+      "kana": "なんがい",
+      "kanaHtml": "なんがい"
+    },
+    {
+      "index": 18,
+      "kanji": "―円",
+      "kanjiHtml": "―円",
+      "sinoVietnamese": "VIÊN",
+      "kana": "―えん",
+      "kanaHtml": "―えん"
+    },
+    {
+      "index": 19,
+      "kanji": "百",
+      "kanjiHtml": "百",
+      "sinoVietnamese": "BÁCH",
+      "kana": "ひゃく",
+      "kanaHtml": "ひゃく"
+    },
+    {
+      "index": 20,
+      "kanji": "千",
+      "kanjiHtml": "千",
+      "sinoVietnamese": "THIÊN",
+      "kana": "せん",
+      "kanaHtml": "せん"
+    },
+    {
+      "index": 21,
+      "kanji": "万",
+      "kanjiHtml": "万",
+      "sinoVietnamese": "VẠN",
+      "kana": "まん",
+      "kanaHtml": "まん"
+    }
+  ]
+}

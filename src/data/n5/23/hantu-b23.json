@@ -1,0 +1,182 @@
+{
+  "lesson": 23,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "聞きます [先生に～]",
+      "kanjiHtml": "聞きます<br />[先生に～]",
+      "sinoVietnamese": "VĂN TIÊN SINH",
+      "kana": "ききます [せんせいに～]",
+      "kanaHtml": "ききます<br />[せんせいに～]"
+    },
+    {
+      "index": 2,
+      "kanji": "回します",
+      "kanjiHtml": "回します",
+      "sinoVietnamese": "HỒI",
+      "kana": "まわします",
+      "kanaHtml": "まわします"
+    },
+    {
+      "index": 3,
+      "kanji": "引きます",
+      "kanjiHtml": "引きます",
+      "sinoVietnamese": "DẪN",
+      "kana": "ひきます",
+      "kanaHtml": "ひきます"
+    },
+    {
+      "index": 4,
+      "kanji": "変えます",
+      "kanjiHtml": "変えます",
+      "sinoVietnamese": "BIẾN",
+      "kana": "かえます",
+      "kanaHtml": "かえます"
+    },
+    {
+      "index": 5,
+      "kanji": "触ります",
+      "kanjiHtml": "触ります",
+      "sinoVietnamese": "XÚC",
+      "kana": "さわります [ドアに～]",
+      "kanaHtml": "さわります<br />[ドアに～]"
+    },
+    {
+      "index": 6,
+      "kanji": "出ます [お釣りが～]",
+      "kanjiHtml": "出ます<br />[お釣りが～]",
+      "sinoVietnamese": "XUẤT ĐIẾU",
+      "kana": "でます [おつりが～]",
+      "kanaHtml": "でます<br />[おつりが～]"
+    },
+    {
+      "index": 7,
+      "kanji": "歩きます",
+      "kanjiHtml": "歩きます",
+      "sinoVietnamese": "BỘ",
+      "kana": "あるきます",
+      "kanaHtml": "あるきます"
+    },
+    {
+      "index": 8,
+      "kanji": "渡ります [橋を～]",
+      "kanjiHtml": "渡ります<br />[橋を～]",
+      "sinoVietnamese": "ĐỘ KIỀU",
+      "kana": "わたります [はしを～]",
+      "kanaHtml": "わたります<br />[はしを～]"
+    },
+    {
+      "index": 9,
+      "kanji": "曲がります [右へ～]",
+      "kanjiHtml": "曲がります<br />[右へ～]",
+      "sinoVietnamese": "KHÚC HỮU",
+      "kana": "まがります [みぎへ～]",
+      "kanaHtml": "まがります<br />[みぎへ～]"
+    },
+    {
+      "index": 10,
+      "kanji": "寂しい",
+      "kanjiHtml": "寂しい",
+      "sinoVietnamese": "TỊCH",
+      "kana": "さびしい",
+      "kanaHtml": "さびしい"
+    },
+    {
+      "index": 11,
+      "kanji": "[お]湯",
+      "kanjiHtml": "[お]湯",
+      "sinoVietnamese": "THANG",
+      "kana": "[お]ゆ",
+      "kanaHtml": "[お]ゆ"
+    },
+    {
+      "index": 12,
+      "kanji": "音",
+      "kanjiHtml": "音",
+      "sinoVietnamese": "ÂM",
+      "kana": "おと",
+      "kanaHtml": "おと"
+    },
+    {
+      "index": 13,
+      "kanji": "故障",
+      "kanjiHtml": "故障",
+      "sinoVietnamese": "CỐ CHƯỚNG",
+      "kana": "こしょう",
+      "kanaHtml": "こしょう"
+    },
+    {
+      "index": 14,
+      "kanji": "道",
+      "kanjiHtml": "道",
+      "sinoVietnamese": "ĐẠO",
+      "kana": "みち",
+      "kanaHtml": "みち"
+    },
+    {
+      "index": 15,
+      "kanji": "交差点",
+      "kanjiHtml": "交差点",
+      "sinoVietnamese": "GIAO SAI ĐIỂM",
+      "kana": "こうさてん",
+      "kanaHtml": "こうさてん"
+    },
+    {
+      "index": 16,
+      "kanji": "信号",
+      "kanjiHtml": "信号",
+      "sinoVietnamese": "TÍN HIỆU",
+      "kana": "しんごう",
+      "kanaHtml": "しんごう"
+    },
+    {
+      "index": 17,
+      "kanji": "角",
+      "kanjiHtml": "角",
+      "sinoVietnamese": "GIÁC",
+      "kana": "かど",
+      "kanaHtml": "かど"
+    },
+    {
+      "index": 18,
+      "kanji": "橋",
+      "kanjiHtml": "橋",
+      "sinoVietnamese": "KIỀU",
+      "kana": "はし",
+      "kanaHtml": "はし"
+    },
+    {
+      "index": 19,
+      "kanji": "駐車場",
+      "kanjiHtml": "駐車場",
+      "sinoVietnamese": "TRÚ XA TRƯỜNG",
+      "kana": "ちゅうしゃじょう",
+      "kanaHtml": "ちゅうしゃじょう"
+    },
+    {
+      "index": 20,
+      "kanji": "建物",
+      "kanjiHtml": "建物",
+      "sinoVietnamese": "KIẾN VẬT",
+      "kana": "たてもの",
+      "kanaHtml": "たてもの"
+    },
+    {
+      "index": 21,
+      "kanji": "何回も",
+      "kanjiHtml": "何回も",
+      "sinoVietnamese": "HÀ HỒI",
+      "kana": "なんかいも",
+      "kanaHtml": "なんかいも"
+    },
+    {
+      "index": 22,
+      "kanji": "―目",
+      "kanjiHtml": "―目",
+      "sinoVietnamese": "MỤC",
+      "kana": "―め",
+      "kanaHtml": "―め"
+    }
+  ]
+}

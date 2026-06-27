@@ -1,0 +1,392 @@
+{
+  "lesson": 3,
+  "type": "luyendoc",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Đọc 文型(ぶんけい) (văn mẫu)",
+      "titleHtml": "Đọc <ruby>文型<rp>(</rp><rt>ぶんけい</rt><rp>)</rp></ruby> (văn mẫu)",
+      "contentHtml": "</p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/011111011012.mp3\" type=\"audio/mpeg\"></audio></p> <p> <span>１．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_bk_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>ここは <ruby>食堂<rp>(</rp><rt>しょくどう</rt><rp>)</rp></ruby>です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đây là nhà ăn.</div></div></div></p> <p> <span>２．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_bk_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>エレベーターは あそこです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thang máy ở chỗ kia.</div></div></div></p> <p> </div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/011111011012.mp3"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "type=\"audio/mpeg\"></audio></p> <p> <span>１．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_bk_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ここは 食堂(しょくどう)です。",
+          "japaneseHtml": "<span>ここは <ruby>食堂<rp>(</rp><rt>しょくどう</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đây là nhà ăn.</div></div></div></p> <p> <span>２．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_bk_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "エレベーターは あそこです。",
+          "japaneseHtml": "<span>エレベーターは あそこです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thang máy ở chỗ kia.</div></div></div></p> <p> </div>"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Đọc 例文(れいぶん) (ví dụ)",
+      "titleHtml": "Đọc <ruby>例文<rp>(</rp><rt>れいぶん</rt><rp>)</rp></ruby> (ví dụ)",
+      "contentHtml": "</p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/011111011102.mp3\" type=\"audio/mpeg\"></audio></p> <p> <span>１．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_rb_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>ここは <ruby>新大阪<rp>(</rp><rt>しんおおさか</rt><rp>)</rp></ruby>ですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đây có phải là ga Shin-Osaka không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span> &hellip; はい、そうです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"> &hellip;Vâng, đúng rồi.</div></div></div></p> <p> <span>２．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_rb_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>お<ruby>手洗<rp>(</rp><rt>てあら</rt><rp>)</rp></ruby>いは どこですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ph&ograve;ng vệ sinh ở đâu?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span> &hellip; あそこです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Ở chỗ kia.</div></div></div></p> <p> <span>３．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_rb_3.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby>さんは どこですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Anh Yamada ở đâu?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span> &hellip; <ruby>会議室<rp>(</rp><rt>かいぎしつ</rt><rp>)</rp></ruby>です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Ở phòng họp.</div></div></div></p> <p> <span>４．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_rb_4.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>事務所<rp>(</rp><rt>じむしょ</rt><rp>)</rp></ruby>は どちらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Văn phòng ở đâu?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span> &hellip;そちらです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Ở đó ạ.</div></div></div></p> <p> <span>５．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_rb_5.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>「お」<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>は どちらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đất nước của anh ở đâu?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span> &hellip;アメリカです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Ở Mỹ.</div></div></div></p> <p> <span>６．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_rb_6.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>それは どこの <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>ですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đó là giầy nước nào?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span> &hellip;イタリアの <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Đây là giầy &Yacute;.</div></div></div></p> <p> <span>７．</span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai3_rb_7.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>この<ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>は いくらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đồng hồ này bao nhiêu tiền?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span> &hellip;１８、６００<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;18,600 yên.</div></div></div></p> <p> </div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/011111011102.mp3"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "type=\"audio/mpeg\"></audio></p> <p> <span>１．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_rb_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ここは 新大阪(しんおおさか)ですか。",
+          "japaneseHtml": "<span>ここは <ruby>新大阪<rp>(</rp><rt>しんおおさか</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đây có phải là ga Shin-Osaka không?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip; はい、そうです。",
+          "japaneseHtml": "<span> &hellip; はい、そうです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"> &hellip;Vâng, đúng rồi.</div></div></div></p> <p> <span>２．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_rb_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お手洗(てあら)いは どこですか。",
+          "japaneseHtml": "<span>お<ruby>手洗<rp>(</rp><rt>てあら</rt><rp>)</rp></ruby>いは どこですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ph&ograve;ng vệ sinh ở đâu?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip; あそこです。",
+          "japaneseHtml": "<span> &hellip; あそこです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Ở chỗ kia.</div></div></div></p> <p> <span>３．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_rb_3.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "山田(やまだ)さんは どこですか。",
+          "japaneseHtml": "<span><ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby>さんは どこですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Anh Yamada ở đâu?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip; 会議室(かいぎしつ)です。",
+          "japaneseHtml": "<span> &hellip; <ruby>会議室<rp>(</rp><rt>かいぎしつ</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Ở phòng họp.</div></div></div></p> <p> <span>４．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_rb_4.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "事務所(じむしょ)は どちらですか。",
+          "japaneseHtml": "<span><ruby>事務所<rp>(</rp><rt>じむしょ</rt><rp>)</rp></ruby>は どちらですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Văn phòng ở đâu?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;そちらです。",
+          "japaneseHtml": "<span> &hellip;そちらです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Ở đó ạ.</div></div></div></p> <p> <span>５．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_rb_5.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「お」国(くに)は どちらですか。",
+          "japaneseHtml": "<span>「お」<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>は どちらですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đất nước của anh ở đâu?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;アメリカです。",
+          "japaneseHtml": "<span> &hellip;アメリカです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Ở Mỹ.</div></div></div></p> <p> <span>６．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_rb_6.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それは どこの 靴(くつ)ですか。",
+          "japaneseHtml": "<span>それは どこの <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đó là giầy nước nào?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;イタリアの 靴(くつ)です。",
+          "japaneseHtml": "<span> &hellip;イタリアの <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Đây là giầy &Yacute;.</div></div></div></p> <p> <span>７．</span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai3_rb_7.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "この時計(とけい)は いくらですか。",
+          "japaneseHtml": "<span>この<ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>は いくらですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đồng hồ này bao nhiêu tiền?</div></div></div></p> <p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;１８、６００円(えん)です。",
+          "japaneseHtml": "<span> &hellip;１８、６００<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;18,600 yên.</div></div></div></p> <p> </div>"
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": "Đọc 練習(れんしゅう) A(Luyện tập A)",
+      "titleHtml": "Đọc <ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby> A(Luyện tập A)",
+      "contentHtml": "</p> <p> <em>(Phần này không có âm thanh)</em></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 30px;\"> <span>1．</span></td> <td rowspan=\"3\"> <span>ここは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><span><strong>きょうしつ</strong></span></span></td> <td rowspan=\"3\"> <span>です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><span><strong>だいがく</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><span><strong>ひろしま</strong></span></span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Nơi đây là lớp học.</p> <p> Nơi đây là trường đại học.</p> <p> Nơi đây là Hiroshima.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>2．</span></td> <td rowspan=\"4\"> <span>うけつけは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>ここ</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span>です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>そこ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>あそこ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どこ</span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Quầy tiếp tân là ở đây.</p> <p> Quầy tiếp tân là ở đó.</p> <p> Quầy tiếp tân là ở đằng kia.</p> <p> Quầy tiếp tân là ở đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"5\" style=\"width: 30px;\"> <span>3．</span></td> <td rowspan=\"2\"> <span><ruby>自動販売機<rp>(</rp><rt>じどうはんばいき</rt><rp>)</rp></ruby>は</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>２かい</span></strong></span></td> <td colspan=\"1\" rowspan=\"4\"> <span>です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>ロビー</span></strong></span></td> </tr> <tr> <td rowspan=\"3\"> <span><ruby>佐藤<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>さんは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>じむしょ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>しょくどう</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どこ</span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Máy bán hàng tự động ở tầng 2.</p> <p> Máy bán hàng tự động ở văn hành lang.</p> <p> Chị Sato ở văn phòng.</p> <p> Chị Sato ở nhà ăn.</p> <p> Chị Sato ở đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>4．</span></td> <td rowspan=\"4\"> <span>エレベーターは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>こちら</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span>です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>そちら</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>あちら </span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どちら </span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Thang máy ở phía bên này.</p> <p> Thang máy ở phía bên đó.</p> <p> Thang máy ở phía bên kia.</p> <p> Thang máy ở phía nào vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>5．</span></td> <td> <span>くに は</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>フランス</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span> です。</span></td> </tr> <tr> <td> <span>かいしゃ</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>IMC</span></strong></span></td> </tr> <tr> <td> <span>だいがく</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>さくらだいがく</span></strong></span></td> </tr> <tr> <td></td> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どちら</span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Đất nước là nước pháp.</p> <p> Công ty là IMC.</p> <p> Đại học là đại học Sakura.</p> <p> Đất nước (công ty/đại học) là gì vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>6．</span></td> <td rowspan=\"4\"> <span>これは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>にほん</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span>の じどうしゃです。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>アメリカ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>ドイツ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どこ</span></strong></span></td> <td> <span>の じどうしゃですか。 </span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Cái này (đây) là xe hơi của Nhật.</p> <p> Cái này (đây) là xe hơi của Mỹ.</p> <p> Cái này (đây) là xe hơi của Đức.</p> <p> Cái này (đây) là xe hơi của đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>7．</span></td> <td rowspan=\"4\"> <span>この ネクタイは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>1,500えん</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span> です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>5,800えん</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>13,000えん</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>いくら</span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Cái cà vạt này 1,500 yên.</p> <p> Cái cà vạt này 5,800 yên.</p> <p> Cái cà vạt này 13,000 yên.</p> <p> Cái cà vạt này bao nhiêu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></div></div></span></p> <p> </div></div></p> <br /> <?php $de_stt = \"3\"; ?>",
+      "blocks": [
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> <em>(Phần này không có âm thanh)</em></p>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 30px;\"> <span>1．</span></td> <td rowspan=\"3\"> <span>ここは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><span><strong>きょうしつ</strong></span></span></td> <td rowspan=\"3\"> <span>です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><span><strong>だいがく</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><span><strong>ひろしま</strong></span></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Nơi đây là lớp học.</p> <p> Nơi đây là trường đại học.</p> <p> Nơi đây là Hiroshima.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Nơi đây là lớp học.</p> <p> Nơi đây là trường đại học.</p> <p> Nơi đây là Hiroshima.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>2．</span></td> <td rowspan=\"4\"> <span>うけつけは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>ここ</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span>です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>そこ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>あそこ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どこ</span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Quầy tiếp tân là ở đây.</p> <p> Quầy tiếp tân là ở đó.</p> <p> Quầy tiếp tân là ở đằng kia.</p> <p> Quầy tiếp tân là ở đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Quầy tiếp tân là ở đây.</p> <p> Quầy tiếp tân là ở đó.</p> <p> Quầy tiếp tân là ở đằng kia.</p> <p> Quầy tiếp tân là ở đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"5\" style=\"width: 30px;\"> <span>3．</span></td> <td rowspan=\"2\"> <span><ruby>自動販売機<rp>(</rp><rt>じどうはんばいき</rt><rp>)</rp></ruby>は</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>２かい</span></strong></span></td> <td colspan=\"1\" rowspan=\"4\"> <span>です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>ロビー</span></strong></span></td> </tr> <tr> <td rowspan=\"3\"> <span><ruby>佐藤<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>さんは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>じむしょ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>しょくどう</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どこ</span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Máy bán hàng tự động ở tầng 2.</p> <p> Máy bán hàng tự động ở văn hành lang.</p> <p> Chị Sato ở văn phòng.</p> <p> Chị Sato ở nhà ăn.</p> <p> Chị Sato ở đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Máy bán hàng tự động ở tầng 2.</p> <p> Máy bán hàng tự động ở văn hành lang.</p> <p> Chị Sato ở văn phòng.</p> <p> Chị Sato ở nhà ăn.</p> <p> Chị Sato ở đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>4．</span></td> <td rowspan=\"4\"> <span>エレベーターは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>こちら</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span>です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>そちら</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>あちら </span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どちら </span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Thang máy ở phía bên này.</p> <p> Thang máy ở phía bên đó.</p> <p> Thang máy ở phía bên kia.</p> <p> Thang máy ở phía nào vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Thang máy ở phía bên này.</p> <p> Thang máy ở phía bên đó.</p> <p> Thang máy ở phía bên kia.</p> <p> Thang máy ở phía nào vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>5．</span></td> <td> <span>くに は</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>フランス</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span> です。</span></td> </tr> <tr> <td> <span>かいしゃ</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>IMC</span></strong></span></td> </tr> <tr> <td> <span>だいがく</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>さくらだいがく</span></strong></span></td> </tr> <tr> <td></td> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どちら</span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Đất nước là nước pháp.</p> <p> Công ty là IMC.</p> <p> Đại học là đại học Sakura.</p> <p> Đất nước (công ty/đại học) là gì vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Đất nước là nước pháp.</p> <p> Công ty là IMC.</p> <p> Đại học là đại học Sakura.</p> <p> Đất nước (công ty/đại học) là gì vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>6．</span></td> <td rowspan=\"4\"> <span>これは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>にほん</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span>の じどうしゃです。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>アメリカ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>ドイツ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>どこ</span></strong></span></td> <td> <span>の じどうしゃですか。 </span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Cái này (đây) là xe hơi của Nhật.</p> <p> Cái này (đây) là xe hơi của Mỹ.</p> <p> Cái này (đây) là xe hơi của Đức.</p> <p> Cái này (đây) là xe hơi của đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Cái này (đây) là xe hơi của Nhật.</p> <p> Cái này (đây) là xe hơi của Mỹ.</p> <p> Cái này (đây) là xe hơi của Đức.</p> <p> Cái này (đây) là xe hơi của đâu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 635px; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 30px;\"> <span>7．</span></td> <td rowspan=\"4\"> <span>この ネクタイは</span></td> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>1,500えん</span></strong></span></td> <td colspan=\"1\" rowspan=\"3\"> <span> です。</span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>5,800えん</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235); text-align: center;\"> <span style=\"color:#0000cd;\"><strong><span>13,000えん</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204); text-align: center;\"> <span style=\"color:#ff0000;\"><strong><span>いくら</span></strong></span></td> <td> <span>ですか。</span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Cái cà vạt này 1,500 yên.</p> <p> Cái cà vạt này 5,800 yên.</p> <p> Cái cà vạt này 13,000 yên.</p> <p> Cái cà vạt này bao nhiêu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Cái cà vạt này 1,500 yên.</p> <p> Cái cà vạt này 5,800 yên.</p> <p> Cái cà vạt này 13,000 yên.</p> <p> Cái cà vạt này bao nhiêu vậy?</p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\">"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

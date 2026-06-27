@@ -1,0 +1,102 @@
+{
+  "lesson": 8,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca6fc532144a12a6dec0605",
+      "index": 1,
+      "character": "山",
+      "sinoVietnameseWord": "SƠN",
+      "mean": "Núi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l9/kanji/img/「山」.png",
+      "reminiscentDescription": "<p>Chữ 山 SƠN giống h&igrave;nh ảnh của ngọn n&uacute;i nhấp nh&ocirc;.</p>",
+      "onReading": "サン",
+      "kunReading": "やま",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 31.0952%; height: 21px;\"><span style=\"color: #e74c3c;\">山</span></td>\n<td style=\"width: 35.5714%; height: 21px;\"><span style=\"color: #e74c3c;\">やま</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">n&uacute;i&nbsp;</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 31.0952%; height: 10px;\">富士山</td>\n<td style=\"width: 35.5714%; height: 10px;\">ふじさん</td>\n<td style=\"width: 33.3333%; height: 10px;\">n&uacute;i Ph&uacute; Sĩ</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 31.0952%; height: 22px;\">山口</td>\n<td style=\"width: 35.5714%; height: 22px;\">やまぐち</td>\n<td style=\"width: 33.3333%; height: 22px;\">Yamaguchi (tỉnh)</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 31.0952%; height: 21px;\">山本</td>\n<td style=\"width: 35.5714%; height: 21px;\">やまもと</td>\n<td style=\"width: 33.3333%; height: 21px;\">Yamamoto (họ)</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 31.0952%; height: 22px;\">火山</td>\n<td style=\"width: 35.5714%; height: 22px;\">かざん</td>\n<td style=\"width: 33.3333%; height: 22px;\">n&uacute;i lửa</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca6fd8a2144a12a6dec0611",
+      "index": 3,
+      "character": "白",
+      "sinoVietnameseWord": "BẠCH",
+      "mean": "Trắng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l9/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 白 BẠCH giống chữ 百 B&Aacute;CH bị thiếu 1 n&eacute;t</p>",
+      "onReading": "ハク",
+      "kunReading": "しろ・しら",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">白い</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">しろい</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">m&agrave;u trắng</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">白髪</td>\n<td style=\"width: 33.3333%; height: 21px;\">しらが</td>\n<td style=\"width: 33.3333%; height: 21px;\">t&oacute;c bạc</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">白雪</td>\n<td style=\"width: 33.3333%;\">しらゆき</td>\n<td style=\"width: 33.3333%;\">Bạch Tuyết&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">白鳥</td>\n<td style=\"width: 33.3333%;\">はくちょう</td>\n<td style=\"width: 33.3333%;\">thi&ecirc;n nga, thi&ecirc;n nga trắng&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca7003b2144a12a6dec0631",
+      "index": 3,
+      "character": "赤",
+      "sinoVietnameseWord": "XÍCH",
+      "mean": "Đỏ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l9/kanji/img/3_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 赤 X&Iacute;CH vốn được gh&eacute;p bởi chữ 大 ĐẠI (to lớn) với chữ 火 HOẢ (ngọn lửa). Ngọn lửa to lớn th&igrave; c&oacute; m&agrave;u đỏ.</p>",
+      "onReading": "セキ",
+      "kunReading": "あか",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 56px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.473%; height: 21px;\"><span style=\"color: #e74c3c;\">赤い</span></td>\n<td style=\"width: 36.1936%; height: 21px;\"><span style=\"color: #e74c3c;\">あかい</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">c&oacute; m&agrave;u đỏ</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.473%; height: 10px;\"><span style=\"color: #e74c3c;\">赤ちゃん</span></td>\n<td style=\"width: 36.1936%; height: 10px;\"><span style=\"color: #e74c3c;\">あかちゃん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">em b&eacute;</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.473%; height: 10px;\">赤井</td>\n<td style=\"width: 36.1936%; height: 10px;\">あかい&nbsp; &nbsp;</td>\n<td style=\"width: 33.3333%; height: 10px;\">Akai (họ)&nbsp;</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 30.473%; height: 15px;\">赤道</td>\n<td style=\"width: 36.1936%; height: 15px;\">せきどう</td>\n<td style=\"width: 33.3333%; height: 15px;\">đường X&iacute;ch đạo</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca701372144a12a6dec0641",
+      "index": 4,
+      "character": "青",
+      "sinoVietnameseWord": "THANH",
+      "mean": "Xanh",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l9/kanji/img/4_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 青 THANH giống như gh&eacute;p bởi mầm c&acirc;y m&agrave;u xanh với m&agrave;n đ&ecirc;m m&agrave;u xanh c&oacute; trăng s&aacute;ng.</p>",
+      "onReading": "セイ",
+      "kunReading": "あお",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 110px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 30.9131%; height: 22px;\"><span style=\"color: #e74c3c;\">青い</span></td>\n<td style=\"width: 35.7535%; height: 22px;\"><span style=\"color: #e74c3c;\">あおい</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">c&oacute; m&agrave;u xanh dương</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 30.9131%; height: 22px;\">青空</td>\n<td style=\"width: 35.7535%; height: 22px;\">あおぞら</td>\n<td style=\"width: 33.3333%; height: 22px;\">bầu trời xanh</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 30.9131%; height: 22px;\">青木</td>\n<td style=\"width: 35.7535%; height: 22px;\">あおき</td>\n<td style=\"width: 33.3333%; height: 22px;\">Aoki (họ)</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 30.9131%; height: 22px;\">青春</td>\n<td style=\"width: 35.7535%; height: 22px;\">せいしゅん</td>\n<td style=\"width: 33.3333%; height: 22px;\">thanh xu&acirc;n, tuổi trẻ</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 30.9131%; height: 22px;\">青年</td>\n<td style=\"width: 35.7535%; height: 22px;\">せいねん</td>\n<td style=\"width: 33.3333%; height: 22px;\">thanh ni&ecirc;n, người trẻ tuổi&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca7028a2144a12a6dec0650",
+      "index": 5,
+      "character": "黒",
+      "sinoVietnameseWord": "HẮC",
+      "mean": "Đen",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l9/kanji/img/「黒」.png",
+      "reminiscentDescription": "<p>Chữ 黒 HẮC giống như h&igrave;nh ảnh ống kh&oacute;i đầy kh&oacute;i đen bốc l&ecirc;n từ ngọn lửa b&ecirc;n dưới.&nbsp;</p>",
+      "onReading": "コク",
+      "kunReading": "くろ",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 90px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">黒い</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">くろい</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">c&oacute; m&agrave;u đen</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">黒猫</td>\n<td style=\"width: 33.3333%; height: 22px;\">くろねこ</td>\n<td style=\"width: 33.3333%; height: 22px;\">m&egrave;o đen&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">黒井</td>\n<td style=\"width: 33.3333%;\">くろい</td>\n<td style=\"width: 33.3333%;\">Kuroi (họ)</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">黒板</td>\n<td style=\"width: 33.3333%;\">こくばん</td>\n<td style=\"width: 33.3333%;\">bảng đen&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">黒鳥</td>\n<td style=\"width: 33.3333%;\">こくちょう</td>\n<td style=\"width: 33.3333%;\">thi&ecirc;n nga đen&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a79ea4e6a4de66995124c4",
+      "index": 6,
+      "character": "安",
+      "sinoVietnameseWord": "AN",
+      "mean": "Rẻ, an toàn",
+      "reminiscentDescription": "<p>Chữ 安 AN được gh&eacute;p bởi bộ MI&Ecirc;N (m&aacute;i nh&agrave;) v&agrave; chữ 女 NỮ, giống như việc trong nh&agrave; c&oacute; phụ nữ th&igrave; lu&ocirc;n mua được đồ rẻ, hay l&agrave; phụ nữ ở trong nh&agrave; th&igrave; sẽ được an to&agrave;n.</p>",
+      "onReading": "アン",
+      "kunReading": "やす・い",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 127px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">安い</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">やすい</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">rẻ</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">安心</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">あんしん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">y&ecirc;n t&acirc;m</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">安全</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">あんぜん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">an to&agrave;n</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">不安</td>\n<td style=\"width: 33.3333%;\">ふあん</td>\n<td style=\"width: 33.3333%;\">bất an</td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l9/kanji/img/6_kotsu.jpg"
+    },
+    {
+      "_id": "65a7a048e6a4de66995124c7",
+      "index": 7,
+      "character": "高",
+      "sinoVietnameseWord": "CAO",
+      "mean": "Đắt, cao",
+      "reminiscentDescription": "<p>Chữ 高 CAO giống như h&igrave;nh ảnh cổng th&agrave;nh hay to&agrave; nh&agrave; cao 2 tầng.</p>",
+      "onReading": "コウ",
+      "kunReading": "たか・い",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">高い</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">たかい</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">cao, đắt</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">背が高い</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">せがたかい</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">(người) cao&nbsp;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">高橋</td>\n<td style=\"width: 33.3333%;\">たかはし</td>\n<td style=\"width: 33.3333%;\">Takahashi (họ)</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">高校</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">こうこう</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">trường cấp 3</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">高校生</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">こうこうせい</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">học sinh cấp 3</span></td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l9/kanji/img/「高」.png"
+    },
+    {
+      "_id": "65a7a15ee6a4de66995124ca",
+      "index": 8,
+      "character": "小",
+      "sinoVietnameseWord": "TIỂU",
+      "mean": "Nhỏ bé",
+      "onReading": "ショウ",
+      "kunReading": "ちい・さい",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 43px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">小さい</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ちいさい</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">nhỏ b&eacute;</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">小学生</span></td>\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">しょうがくせい</span></td>\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">học sinh cấp 1</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 19px;\"><span style=\"color: #e74c3c;\">小学校</span></td>\n<td style=\"width: 33.3333%; height: 19px;\"><span style=\"color: #e74c3c;\">しょうがっこう</span></td>\n<td style=\"width: 33.3333%; height: 19px;\"><span style=\"color: #e74c3c;\">trường cấp 1</span></td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentDescription": "<p>Chữ 小 TIỂU giống như một người đứng kh&eacute;p n&eacute;p thu nhỏ m&igrave;nh lại, ngược với chữ 大 ĐẠI thể hiện một người dang rộng tay ch&acirc;n thể hiện sự to lớn.&nbsp;</p>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l9/kanji/img/8_xyz_app.png"
+    }
+  ]
+}

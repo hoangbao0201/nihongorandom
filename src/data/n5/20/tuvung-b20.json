@@ -1,0 +1,281 @@
+{
+  "lesson": 20,
+  "meta": {
+    "practiceUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=20",
+    "flashcardUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=20&mf=fc"
+  },
+  "sections": [
+    {
+      "key": "main",
+      "label": null,
+      "labelHtml": null,
+      "items": [
+        {
+          "kind": "entry",
+          "index": 1,
+          "word": "いります [ビザが～]",
+          "wordHtml": "いります<br />[ビザが～]",
+          "kanji": "要ります [ビザが～]",
+          "kanjiHtml": "要ります<br />[ビザが～]",
+          "sinoVietnamese": "YẾU",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010000110.mp3",
+          "meaning": "cần [thị thực (visa)]",
+          "meaningHtml": "cần [thị thực (visa)]"
+        },
+        {
+          "kind": "entry",
+          "index": 2,
+          "word": "しらべます",
+          "wordHtml": "しらべます",
+          "kanji": "調べます",
+          "kanjiHtml": "調べます",
+          "sinoVietnamese": "ĐIỀU",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010000111.mp3",
+          "meaning": "tìm hiểu, điều tra, xem",
+          "meaningHtml": "tìm hiểu, điều tra, xem"
+        },
+        {
+          "kind": "entry",
+          "index": 3,
+          "word": "しゅうりします",
+          "wordHtml": "しゅうりします",
+          "kanji": "修理します",
+          "kanjiHtml": "修理します",
+          "sinoVietnamese": "TU LÝ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010001000.mp3",
+          "meaning": "sửa chữa, tu sửa",
+          "meaningHtml": "sửa chữa, tu sửa"
+        },
+        {
+          "kind": "entry",
+          "index": 4,
+          "word": "ぼく",
+          "wordHtml": "ぼく",
+          "kanji": "僕",
+          "kanjiHtml": "僕",
+          "sinoVietnamese": "BỘC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010001001.mp3",
+          "meaning": "tớ (cách xưng thân mật của わたし được dùng bởi nam giới)",
+          "meaningHtml": "tớ (cách xưng thân mật của わたし được dùng bởi nam giới)"
+        },
+        {
+          "kind": "entry",
+          "index": 5,
+          "word": "きみ",
+          "wordHtml": "きみ",
+          "kanji": "君",
+          "kanjiHtml": "君",
+          "sinoVietnamese": "QUÂN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010001010.mp3",
+          "meaning": "cậu, bạn (cách gọi thân mật của あなたdùng cho người ngang hàng hoặc ít tuổi hơn.)",
+          "meaningHtml": "cậu, bạn (cách gọi thân mật của あなたdùng cho người ngang hàng hoặc ít tuổi hơn.)"
+        },
+        {
+          "kind": "entry",
+          "index": 6,
+          "word": "～くん",
+          "wordHtml": "～くん",
+          "kanji": "～君",
+          "kanjiHtml": "～君",
+          "sinoVietnamese": "QUÂN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010001011.mp3",
+          "meaning": "anh~, cậu~ (cách gọi thân mật dùng cho nam giới, cùng nghĩa với 「～さん」)",
+          "meaningHtml": "anh~, cậu~ (cách gọi thân mật dùng <br />cho nam giới, cùng nghĩa với 「～さん」)"
+        },
+        {
+          "kind": "entry",
+          "index": 7,
+          "word": "うん",
+          "wordHtml": "うん",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010001100.mp3",
+          "meaning": "ừ (cách nói thân mật của 「はい」)",
+          "meaningHtml": "ừ (cách nói thân mật của 「はい」)"
+        },
+        {
+          "kind": "entry",
+          "index": 8,
+          "word": "ううん",
+          "wordHtml": "ううん",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010001101.mp3",
+          "meaning": "không (cách nói thân mật của 「いいえ」)",
+          "meaningHtml": "không (cách nói thân mật của 「いいえ」)"
+        },
+        {
+          "kind": "entry",
+          "index": 9,
+          "word": "ことば",
+          "wordHtml": "ことば",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010001110.mp3",
+          "meaning": "từ, tiếng",
+          "meaningHtml": "từ, tiếng"
+        },
+        {
+          "kind": "entry",
+          "index": 10,
+          "word": "きもの",
+          "wordHtml": "きもの",
+          "kanji": "着物",
+          "kanjiHtml": "着物",
+          "sinoVietnamese": "TRƯỚC VẬT",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010001111.mp3",
+          "meaning": "Kimono (trang phục truyền thống của Nhật Bản)",
+          "meaningHtml": "Kimono (trang phục truyền thống của Nhật Bản)"
+        },
+        {
+          "kind": "entry",
+          "index": 11,
+          "word": "ビザ",
+          "wordHtml": "ビザ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010010000.mp3",
+          "meaning": "thị thực, Visa",
+          "meaningHtml": "thị thực, Visa"
+        },
+        {
+          "kind": "entry",
+          "index": 12,
+          "word": "はじめ",
+          "wordHtml": "はじめ",
+          "kanji": "始め",
+          "kanjiHtml": "始め",
+          "sinoVietnamese": "THỦY",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010010001.mp3",
+          "meaning": "ban đầu, đầu tiên",
+          "meaningHtml": "ban đầu, đầu tiên"
+        },
+        {
+          "kind": "entry",
+          "index": 13,
+          "word": "おわり",
+          "wordHtml": "おわり",
+          "kanji": "終わり",
+          "kanjiHtml": "終わり",
+          "sinoVietnamese": "CHUNG",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010010010.mp3",
+          "meaning": "kết thúc",
+          "meaningHtml": "kết thúc"
+        },
+        {
+          "kind": "entry",
+          "index": 14,
+          "word": "こっち",
+          "wordHtml": "こっち",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010010011.mp3",
+          "meaning": "phía này, chỗ này (cách nói thân mật của 「こちら」)",
+          "meaningHtml": "phía này, chỗ này (cách nói thân mật của 「こちら」)"
+        },
+        {
+          "kind": "entry",
+          "index": 15,
+          "word": "そっち",
+          "wordHtml": "そっち",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010010100.mp3",
+          "meaning": "phía đó, chỗ đó (cách nói thân mật của 「そちら」)",
+          "meaningHtml": "phía đó, chỗ đó (cách nói thân mật của 「そちら」)"
+        },
+        {
+          "kind": "entry",
+          "index": 16,
+          "word": "あっち",
+          "wordHtml": "あっち",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010010101.mp3",
+          "meaning": "phía kia, chỗ kia (cách nói thân mật của 「あちら」)",
+          "meaningHtml": "phía kia, chỗ kia (cách nói thân mật của 「あちら」)"
+        },
+        {
+          "kind": "entry",
+          "index": 17,
+          "word": "どっち",
+          "wordHtml": "どっち",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010010110.mp3",
+          "meaning": "cái nào, phía nào, đâu (cách nói thân mật của 「どちら」)",
+          "meaningHtml": "cái nào, phía nào, đâu (cách nói thân mật của 「どちら」)"
+        },
+        {
+          "kind": "entry",
+          "index": 18,
+          "word": "みんなで",
+          "wordHtml": "みんなで",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010010111.mp3",
+          "meaning": "mọi người cùng",
+          "meaningHtml": "mọi người cùng"
+        },
+        {
+          "kind": "entry",
+          "index": 19,
+          "word": "～けど",
+          "wordHtml": "～けど",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010011000.mp3",
+          "meaning": "nhưng (cách nói thân mật của 「が」)",
+          "meaningHtml": "nhưng (cách nói thân mật của 「が」)"
+        },
+        {
+          "kind": "entry",
+          "index": 20,
+          "word": "おなかがいっぱいです",
+          "wordHtml": "おなかがいっぱいです",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010011001.mp3",
+          "meaning": "(Tôi) no rồi",
+          "meaningHtml": "(Tôi) no rồi"
+        }
+      ]
+    },
+    {
+      "key": "section-2",
+      "label": "会話(かいわ)",
+      "labelHtml": "＜<b><ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby></b>＞",
+      "items": [
+        {
+          "kind": "phrase",
+          "index": 21,
+          "text": "よかったら",
+          "textHtml": "よかったら",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010011010.mp3",
+          "meaning": "Nếu anh/chị thích thì",
+          "meaningHtml": "Nếu anh/chị thích thì"
+        },
+        {
+          "kind": "phrase",
+          "index": 22,
+          "text": "いろいろ",
+          "textHtml": "いろいろ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai20/00010101010011011.mp3",
+          "meaning": "nhiều thứ",
+          "meaningHtml": "nhiều thứ"
+        }
+      ]
+    }
+  ]
+}

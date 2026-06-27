@@ -1,0 +1,691 @@
+{
+  "lesson": 1,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "国（くに）・ 人（ひと）・ 言葉（ことば） Nước, người, ngôn ngữ",
+      "titleHtml": "<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>・ <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>・ <ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby> Nước, người, ngôn ngữ",
+      "introHtml": "",
+      "columns": [
+        "Đất nước",
+        "Người",
+        "Ngôn ngữ"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "アメリカ(Mỹ)",
+              "html": "アメリカ(Mỹ)"
+            },
+            {
+              "text": "アメリカ人（じん）",
+              "html": "アメリカ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "英語（えいご）(Tiếng Anh)",
+              "html": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)"
+            }
+          ],
+          "col1": "アメリカ(Mỹ)",
+          "col1Html": "アメリカ(Mỹ)",
+          "col2": "アメリカ人（じん）",
+          "col2Html": "アメリカ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "英語（えいご）(Tiếng Anh)",
+          "col3Html": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)",
+          "country": "アメリカ(Mỹ)",
+          "countryHtml": "アメリカ(Mỹ)",
+          "person": "アメリカ人（じん）",
+          "personHtml": "アメリカ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "英語（えいご）(Tiếng Anh)",
+          "languageHtml": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)"
+        },
+        {
+          "cells": [
+            {
+              "text": "イギリス(Anh)",
+              "html": "イギリス(Anh)"
+            },
+            {
+              "text": "イギリス人（じん）",
+              "html": "イギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "英語（えいご）(Tiếng Anh)",
+              "html": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)"
+            }
+          ],
+          "col1": "イギリス(Anh)",
+          "col1Html": "イギリス(Anh)",
+          "col2": "イギリス人（じん）",
+          "col2Html": "イギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "英語（えいご）(Tiếng Anh)",
+          "col3Html": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)",
+          "country": "イギリス(Anh)",
+          "countryHtml": "イギリス(Anh)",
+          "person": "イギリス人（じん）",
+          "personHtml": "イギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "英語（えいご）(Tiếng Anh)",
+          "languageHtml": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)"
+        },
+        {
+          "cells": [
+            {
+              "text": "イタリア(Ý)",
+              "html": "イタリア(Ý)"
+            },
+            {
+              "text": "イタリア人（じん）",
+              "html": "イタリア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "イタリア語（ご）(Tiếng Ý)",
+              "html": "イタリア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ý)"
+            }
+          ],
+          "col1": "イタリア(Ý)",
+          "col1Html": "イタリア(Ý)",
+          "col2": "イタリア人（じん）",
+          "col2Html": "イタリア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "イタリア語（ご）(Tiếng Ý)",
+          "col3Html": "イタリア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ý)",
+          "country": "イタリア(Ý)",
+          "countryHtml": "イタリア(Ý)",
+          "person": "イタリア人（じん）",
+          "personHtml": "イタリア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "イタリア語（ご）(Tiếng Ý)",
+          "languageHtml": "イタリア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ý)"
+        },
+        {
+          "cells": [
+            {
+              "text": "イラン(Iran)",
+              "html": "イラン(Iran)"
+            },
+            {
+              "text": "イラン人（じん）",
+              "html": "イラン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ペルシャ語（ご）(Tiếng Ba Tư)",
+              "html": "ペルシャ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ba Tư)"
+            }
+          ],
+          "col1": "イラン(Iran)",
+          "col1Html": "イラン(Iran)",
+          "col2": "イラン人（じん）",
+          "col2Html": "イラン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "ペルシャ語（ご）(Tiếng Ba Tư)",
+          "col3Html": "ペルシャ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ba Tư)",
+          "country": "イラン(Iran)",
+          "countryHtml": "イラン(Iran)",
+          "person": "イラン人（じん）",
+          "personHtml": "イラン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "ペルシャ語（ご）(Tiếng Ba Tư)",
+          "languageHtml": "ペルシャ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ba Tư)"
+        },
+        {
+          "cells": [
+            {
+              "text": "インド(Ấn Độ)",
+              "html": "インド(Ấn Độ)"
+            },
+            {
+              "text": "インド人（じん）",
+              "html": "インド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ヒンディー語（ご）(Tiếng Hin-đi)",
+              "html": "ヒンディー<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Hin-đi)"
+            }
+          ],
+          "col1": "インド(Ấn Độ)",
+          "col1Html": "インド(Ấn Độ)",
+          "col2": "インド人（じん）",
+          "col2Html": "インド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "ヒンディー語（ご）(Tiếng Hin-đi)",
+          "col3Html": "ヒンディー<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Hin-đi)",
+          "country": "インド(Ấn Độ)",
+          "countryHtml": "インド(Ấn Độ)",
+          "person": "インド人（じん）",
+          "personHtml": "インド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "ヒンディー語（ご）(Tiếng Hin-đi)",
+          "languageHtml": "ヒンディー<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Hin-đi)"
+        },
+        {
+          "cells": [
+            {
+              "text": "インドネシア(Indonesia)",
+              "html": "インドネシア(Indonesia)"
+            },
+            {
+              "text": "インドネシア人（じん）",
+              "html": "インドネシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "インドネシア語（ご）(Tiếng Indonesisa)",
+              "html": "インドネシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Indonesisa)"
+            }
+          ],
+          "col1": "インドネシア(Indonesia)",
+          "col1Html": "インドネシア(Indonesia)",
+          "col2": "インドネシア人（じん）",
+          "col2Html": "インドネシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "インドネシア語（ご）(Tiếng Indonesisa)",
+          "col3Html": "インドネシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Indonesisa)",
+          "country": "インドネシア(Indonesia)",
+          "countryHtml": "インドネシア(Indonesia)",
+          "person": "インドネシア人（じん）",
+          "personHtml": "インドネシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "インドネシア語（ご）(Tiếng Indonesisa)",
+          "languageHtml": "インドネシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Indonesisa)"
+        },
+        {
+          "cells": [
+            {
+              "text": "エジプト(Ai cập)",
+              "html": "エジプト(Ai cập)"
+            },
+            {
+              "text": "エジプト人（じん）",
+              "html": "エジプト<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "アラビア語（ご）(Tiếng Ả-Rập)",
+              "html": "アラビア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ả-Rập)"
+            }
+          ],
+          "col1": "エジプト(Ai cập)",
+          "col1Html": "エジプト(Ai cập)",
+          "col2": "エジプト人（じん）",
+          "col2Html": "エジプト<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "アラビア語（ご）(Tiếng Ả-Rập)",
+          "col3Html": "アラビア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ả-Rập)",
+          "country": "エジプト(Ai cập)",
+          "countryHtml": "エジプト(Ai cập)",
+          "person": "エジプト人（じん）",
+          "personHtml": "エジプト<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "アラビア語（ご）(Tiếng Ả-Rập)",
+          "languageHtml": "アラビア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ả-Rập)"
+        },
+        {
+          "cells": [
+            {
+              "text": "オーストラリア(Úc)",
+              "html": "オーストラリア(Úc)"
+            },
+            {
+              "text": "オーストラリア人（じん）",
+              "html": "オーストラリア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "英語（えいご）(Tiếng Anh)",
+              "html": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)"
+            }
+          ],
+          "col1": "オーストラリア(Úc)",
+          "col1Html": "オーストラリア(Úc)",
+          "col2": "オーストラリア人（じん）",
+          "col2Html": "オーストラリア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "英語（えいご）(Tiếng Anh)",
+          "col3Html": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)",
+          "country": "オーストラリア(Úc)",
+          "countryHtml": "オーストラリア(Úc)",
+          "person": "オーストラリア人（じん）",
+          "personHtml": "オーストラリア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "英語（えいご）(Tiếng Anh)",
+          "languageHtml": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)"
+        },
+        {
+          "cells": [
+            {
+              "text": "カナダ(Canada)",
+              "html": "カナダ(Canada)"
+            },
+            {
+              "text": "カナダ人（じん）",
+              "html": "カナダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "フランス語（ご）(Tiếng Pháp)",
+              "html": "フランス<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Pháp)"
+            }
+          ],
+          "col1": "カナダ(Canada)",
+          "col1Html": "カナダ(Canada)",
+          "col2": "カナダ人（じん）",
+          "col2Html": "カナダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "フランス語（ご）(Tiếng Pháp)",
+          "col3Html": "フランス<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Pháp)",
+          "country": "カナダ(Canada)",
+          "countryHtml": "カナダ(Canada)",
+          "person": "カナダ人（じん）",
+          "personHtml": "カナダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "フランス語（ご）(Tiếng Pháp)",
+          "languageHtml": "フランス<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Pháp)"
+        },
+        {
+          "cells": [
+            {
+              "text": "韓国（かんこく）(Hàn Quốc)",
+              "html": "<ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby>(Hàn Quốc)"
+            },
+            {
+              "text": "韓国（かんこく）人（じん）",
+              "html": "<ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "韓国語（かんこくご）(Tiếng Hàn Quốc)",
+              "html": "<ruby>韓国語<rp>（</rp><rt>かんこくご</rt><rp>）</rp></ruby>(Tiếng Hàn Quốc)"
+            }
+          ],
+          "col1": "韓国（かんこく）(Hàn Quốc)",
+          "col1Html": "<ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby>(Hàn Quốc)",
+          "col2": "韓国（かんこく）人（じん）",
+          "col2Html": "<ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "韓国語（かんこくご）(Tiếng Hàn Quốc)",
+          "col3Html": "<ruby>韓国語<rp>（</rp><rt>かんこくご</rt><rp>）</rp></ruby>(Tiếng Hàn Quốc)",
+          "country": "韓国（かんこく）(Hàn Quốc)",
+          "countryHtml": "<ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby>(Hàn Quốc)",
+          "person": "韓国（かんこく）人（じん）",
+          "personHtml": "<ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "韓国語（かんこくご）(Tiếng Hàn Quốc)",
+          "languageHtml": "<ruby>韓国語<rp>（</rp><rt>かんこくご</rt><rp>）</rp></ruby>(Tiếng Hàn Quốc)"
+        },
+        {
+          "cells": [
+            {
+              "text": "サウジアラビア(Ả-rập-Xê-út)",
+              "html": "サウジアラビア(Ả-rập-Xê-út)"
+            },
+            {
+              "text": "サウジアラビア人（じん）",
+              "html": "サウジアラビア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "アラビア語（ご）(Tiếng Ả-rập)",
+              "html": "アラビア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ả-rập)"
+            }
+          ],
+          "col1": "サウジアラビア(Ả-rập-Xê-út)",
+          "col1Html": "サウジアラビア(Ả-rập-Xê-út)",
+          "col2": "サウジアラビア人（じん）",
+          "col2Html": "サウジアラビア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "アラビア語（ご）(Tiếng Ả-rập)",
+          "col3Html": "アラビア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ả-rập)",
+          "country": "サウジアラビア(Ả-rập-Xê-út)",
+          "countryHtml": "サウジアラビア(Ả-rập-Xê-út)",
+          "person": "サウジアラビア人（じん）",
+          "personHtml": "サウジアラビア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "アラビア語（ご）(Tiếng Ả-rập)",
+          "languageHtml": "アラビア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ả-rập)"
+        },
+        {
+          "cells": [
+            {
+              "text": "シンガポール(Singapore)",
+              "html": "シンガポール(Singapore)"
+            },
+            {
+              "text": "シンガポール人（じん）",
+              "html": "シンガポール<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "英語（えいご）(Tiếng Anh)",
+              "html": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)"
+            }
+          ],
+          "col1": "シンガポール(Singapore)",
+          "col1Html": "シンガポール(Singapore)",
+          "col2": "シンガポール人（じん）",
+          "col2Html": "シンガポール<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "英語（えいご）(Tiếng Anh)",
+          "col3Html": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)",
+          "country": "シンガポール(Singapore)",
+          "countryHtml": "シンガポール(Singapore)",
+          "person": "シンガポール人（じん）",
+          "personHtml": "シンガポール<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "英語（えいご）(Tiếng Anh)",
+          "languageHtml": "<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)"
+        },
+        {
+          "cells": [
+            {
+              "text": "スペイン(Tây Ban Nha)",
+              "html": "スペイン(Tây Ban Nha)"
+            },
+            {
+              "text": "スペイン人（じん）",
+              "html": "スペイン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "スペイン語（ご）(Tiếng Tây Ban Nha)",
+              "html": "スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Tây Ban Nha)"
+            }
+          ],
+          "col1": "スペイン(Tây Ban Nha)",
+          "col1Html": "スペイン(Tây Ban Nha)",
+          "col2": "スペイン人（じん）",
+          "col2Html": "スペイン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "スペイン語（ご）(Tiếng Tây Ban Nha)",
+          "col3Html": "スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Tây Ban Nha)",
+          "country": "スペイン(Tây Ban Nha)",
+          "countryHtml": "スペイン(Tây Ban Nha)",
+          "person": "スペイン人（じん）",
+          "personHtml": "スペイン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "スペイン語（ご）(Tiếng Tây Ban Nha)",
+          "languageHtml": "スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Tây Ban Nha)"
+        },
+        {
+          "cells": [
+            {
+              "text": "タイ(Thái Lan)",
+              "html": "タイ(Thái Lan)"
+            },
+            {
+              "text": "タイ人（じん）",
+              "html": "タイ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "タイ語（ご）(Tiếng Thái)",
+              "html": "タイ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Thái)"
+            }
+          ],
+          "col1": "タイ(Thái Lan)",
+          "col1Html": "タイ(Thái Lan)",
+          "col2": "タイ人（じん）",
+          "col2Html": "タイ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "タイ語（ご）(Tiếng Thái)",
+          "col3Html": "タイ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Thái)",
+          "country": "タイ(Thái Lan)",
+          "countryHtml": "タイ(Thái Lan)",
+          "person": "タイ人（じん）",
+          "personHtml": "タイ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "タイ語（ご）(Tiếng Thái)",
+          "languageHtml": "タイ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Thái)"
+        },
+        {
+          "cells": [
+            {
+              "text": "中国（ちゅうごく）(Trung Quốc)",
+              "html": "<ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby>(Trung Quốc)"
+            },
+            {
+              "text": "中国（ちゅうごく）人（じん）",
+              "html": "<ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "中国語（ちゅうごくご）(Tiếng Trung Quốc)",
+              "html": "<ruby>中国語<rp>（</rp><rt>ちゅうごくご</rt><rp>）</rp></ruby>(Tiếng Trung Quốc)"
+            }
+          ],
+          "col1": "中国（ちゅうごく）(Trung Quốc)",
+          "col1Html": "<ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby>(Trung Quốc)",
+          "col2": "中国（ちゅうごく）人（じん）",
+          "col2Html": "<ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "中国語（ちゅうごくご）(Tiếng Trung Quốc)",
+          "col3Html": "<ruby>中国語<rp>（</rp><rt>ちゅうごくご</rt><rp>）</rp></ruby>(Tiếng Trung Quốc)",
+          "country": "中国（ちゅうごく）(Trung Quốc)",
+          "countryHtml": "<ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby>(Trung Quốc)",
+          "person": "中国（ちゅうごく）人（じん）",
+          "personHtml": "<ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "中国語（ちゅうごくご）(Tiếng Trung Quốc)",
+          "languageHtml": "<ruby>中国語<rp>（</rp><rt>ちゅうごくご</rt><rp>）</rp></ruby>(Tiếng Trung Quốc)"
+        },
+        {
+          "cells": [
+            {
+              "text": "ドイツ(Đức)",
+              "html": "ドイツ(Đức)"
+            },
+            {
+              "text": "ドイツ人（じん）",
+              "html": "ドイツ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ドイツ語（ご）(Tiếng Đức)",
+              "html": "ドイツ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Đức)"
+            }
+          ],
+          "col1": "ドイツ(Đức)",
+          "col1Html": "ドイツ(Đức)",
+          "col2": "ドイツ人（じん）",
+          "col2Html": "ドイツ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "ドイツ語（ご）(Tiếng Đức)",
+          "col3Html": "ドイツ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Đức)",
+          "country": "ドイツ(Đức)",
+          "countryHtml": "ドイツ(Đức)",
+          "person": "ドイツ人（じん）",
+          "personHtml": "ドイツ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "ドイツ語（ご）(Tiếng Đức)",
+          "languageHtml": "ドイツ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Đức)"
+        },
+        {
+          "cells": [
+            {
+              "text": "日本（にほん）(Nhật Bản)",
+              "html": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>(Nhật Bản)"
+            },
+            {
+              "text": "日本人（にほんじん）",
+              "html": "<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "日本語（にほんご）(Tiếng Nhật)",
+              "html": "<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>(Tiếng Nhật)"
+            }
+          ],
+          "col1": "日本（にほん）(Nhật Bản)",
+          "col1Html": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>(Nhật Bản)",
+          "col2": "日本人（にほんじん）",
+          "col2Html": "<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>",
+          "col3": "日本語（にほんご）(Tiếng Nhật)",
+          "col3Html": "<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>(Tiếng Nhật)",
+          "country": "日本（にほん）(Nhật Bản)",
+          "countryHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>(Nhật Bản)",
+          "person": "日本人（にほんじん）",
+          "personHtml": "<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>",
+          "language": "日本語（にほんご）(Tiếng Nhật)",
+          "languageHtml": "<ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>(Tiếng Nhật)"
+        },
+        {
+          "cells": [
+            {
+              "text": "フランス(Pháp)",
+              "html": "フランス(Pháp)"
+            },
+            {
+              "text": "フランス人（じん）",
+              "html": "フランス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "フランス語（ご）(Tiếng Pháp)",
+              "html": "フランス<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Pháp)"
+            }
+          ],
+          "col1": "フランス(Pháp)",
+          "col1Html": "フランス(Pháp)",
+          "col2": "フランス人（じん）",
+          "col2Html": "フランス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "フランス語（ご）(Tiếng Pháp)",
+          "col3Html": "フランス<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Pháp)",
+          "country": "フランス(Pháp)",
+          "countryHtml": "フランス(Pháp)",
+          "person": "フランス人（じん）",
+          "personHtml": "フランス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "フランス語（ご）(Tiếng Pháp)",
+          "languageHtml": "フランス<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Pháp)"
+        },
+        {
+          "cells": [
+            {
+              "text": "フィリピン(Philippine)",
+              "html": "フィリピン(Philippine)"
+            },
+            {
+              "text": "フィリピン人（じん）",
+              "html": "フィリピン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "フィリピン語（ご）(Tiếng Philippin)",
+              "html": "フィリピン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Philippin)"
+            }
+          ],
+          "col1": "フィリピン(Philippine)",
+          "col1Html": "フィリピン(Philippine)",
+          "col2": "フィリピン人（じん）",
+          "col2Html": "フィリピン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "フィリピン語（ご）(Tiếng Philippin)",
+          "col3Html": "フィリピン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Philippin)",
+          "country": "フィリピン(Philippine)",
+          "countryHtml": "フィリピン(Philippine)",
+          "person": "フィリピン人（じん）",
+          "personHtml": "フィリピン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "フィリピン語（ご）(Tiếng Philippin)",
+          "languageHtml": "フィリピン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Philippin)"
+        },
+        {
+          "cells": [
+            {
+              "text": "ブラジル(Braxin)",
+              "html": "ブラジル(Braxin)"
+            },
+            {
+              "text": "ブラジル人（じん）",
+              "html": "ブラジル<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ポルトガル語（ご）(Tiếng Bồ Đào Nha)",
+              "html": "ポルトガル<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Bồ Đào Nha)"
+            }
+          ],
+          "col1": "ブラジル(Braxin)",
+          "col1Html": "ブラジル(Braxin)",
+          "col2": "ブラジル人（じん）",
+          "col2Html": "ブラジル<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "ポルトガル語（ご）(Tiếng Bồ Đào Nha)",
+          "col3Html": "ポルトガル<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Bồ Đào Nha)",
+          "country": "ブラジル(Braxin)",
+          "countryHtml": "ブラジル(Braxin)",
+          "person": "ブラジル人（じん）",
+          "personHtml": "ブラジル<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "ポルトガル語（ご）(Tiếng Bồ Đào Nha)",
+          "languageHtml": "ポルトガル<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Bồ Đào Nha)"
+        },
+        {
+          "cells": [
+            {
+              "text": "ベトナム(Việt Nam)",
+              "html": "ベトナム(Việt Nam)"
+            },
+            {
+              "text": "ベトナム人（じん）",
+              "html": "ベトナム<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ベトナム語（ご）(Tiếng Việt)",
+              "html": "ベトナム<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Việt)"
+            }
+          ],
+          "col1": "ベトナム(Việt Nam)",
+          "col1Html": "ベトナム(Việt Nam)",
+          "col2": "ベトナム人（じん）",
+          "col2Html": "ベトナム<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "ベトナム語（ご）(Tiếng Việt)",
+          "col3Html": "ベトナム<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Việt)",
+          "country": "ベトナム(Việt Nam)",
+          "countryHtml": "ベトナム(Việt Nam)",
+          "person": "ベトナム人（じん）",
+          "personHtml": "ベトナム<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "ベトナム語（ご）(Tiếng Việt)",
+          "languageHtml": "ベトナム<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Việt)"
+        },
+        {
+          "cells": [
+            {
+              "text": "マレーシア(Malaysia)",
+              "html": "マレーシア(Malaysia)"
+            },
+            {
+              "text": "マレーシア人（じん）",
+              "html": "マレーシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "マレーシア語（ご）(Tiếng Mã Lai)",
+              "html": "マレーシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Mã Lai)"
+            }
+          ],
+          "col1": "マレーシア(Malaysia)",
+          "col1Html": "マレーシア(Malaysia)",
+          "col2": "マレーシア人（じん）",
+          "col2Html": "マレーシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "マレーシア語（ご）(Tiếng Mã Lai)",
+          "col3Html": "マレーシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Mã Lai)",
+          "country": "マレーシア(Malaysia)",
+          "countryHtml": "マレーシア(Malaysia)",
+          "person": "マレーシア人（じん）",
+          "personHtml": "マレーシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "マレーシア語（ご）(Tiếng Mã Lai)",
+          "languageHtml": "マレーシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Mã Lai)"
+        },
+        {
+          "cells": [
+            {
+              "text": "メキシコ(Mexico)",
+              "html": "メキシコ(Mexico)"
+            },
+            {
+              "text": "メキシコ人（じん）",
+              "html": "メキシコ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "スペイン語（ご）(Tiếng Tây Ban Nha)",
+              "html": "スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Tây Ban Nha)"
+            }
+          ],
+          "col1": "メキシコ(Mexico)",
+          "col1Html": "メキシコ(Mexico)",
+          "col2": "メキシコ人（じん）",
+          "col2Html": "メキシコ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "スペイン語（ご）(Tiếng Tây Ban Nha)",
+          "col3Html": "スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Tây Ban Nha)",
+          "country": "メキシコ(Mexico)",
+          "countryHtml": "メキシコ(Mexico)",
+          "person": "メキシコ人（じん）",
+          "personHtml": "メキシコ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "スペイン語（ご）(Tiếng Tây Ban Nha)",
+          "languageHtml": "スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Tây Ban Nha)"
+        },
+        {
+          "cells": [
+            {
+              "text": "ロシア(Nga)",
+              "html": "ロシア(Nga)"
+            },
+            {
+              "text": "ロシア人（じん）",
+              "html": "ロシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ロシア語（ご）(Tiếng Nga)",
+              "html": "ロシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Nga)"
+            }
+          ],
+          "col1": "ロシア(Nga)",
+          "col1Html": "ロシア(Nga)",
+          "col2": "ロシア人（じん）",
+          "col2Html": "ロシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "col3": "ロシア語（ご）(Tiếng Nga)",
+          "col3Html": "ロシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Nga)",
+          "country": "ロシア(Nga)",
+          "countryHtml": "ロシア(Nga)",
+          "person": "ロシア人（じん）",
+          "personHtml": "ロシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>",
+          "language": "ロシア語（ご）(Tiếng Nga)",
+          "languageHtml": "ロシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Nga)"
+        }
+      ],
+      "contentHtml": "<table class=\"search_result vnjp-thamkhao-table\"> <thead> <tr> <th>Đất nước</th> <th>Người</th> <th>Ngôn ngữ</th> </tr> </thead> <tbody> <tr> <td>アメリカ(Mỹ)</td> <td>アメリカ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td><ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)</td> </tr> <tr> <td>イギリス(Anh)</td> <td>イギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td><ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)</td> </tr> <tr> <td>イタリア(Ý)</td> <td>イタリア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>イタリア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ý)</td> </tr> <tr> <td>イラン(Iran)</td> <td>イラン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>ペルシャ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ba Tư)</td> </tr> <tr> <td>インド(Ấn Độ)</td> <td>インド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>ヒンディー<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Hin-đi)</td> </tr> <tr> <td>インドネシア(Indonesia)</td> <td>インドネシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>インドネシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Indonesisa)</td> </tr> <tr> <td>エジプト(Ai cập)</td> <td>エジプト<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>アラビア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ả-Rập)</td> </tr> <tr> <td>オーストラリア(Úc)</td> <td>オーストラリア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td><ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)</td> </tr> <tr> <td>カナダ(Canada)</td> <td>カナダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>フランス<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Pháp)</td> </tr> <tr> <td><ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby>(Hàn Quốc)</td> <td><ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td><ruby>韓国語<rp>（</rp><rt>かんこくご</rt><rp>）</rp></ruby>(Tiếng Hàn Quốc)</td> </tr> <tr> <td>サウジアラビア(Ả-rập-Xê-út)</td> <td>サウジアラビア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>アラビア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Ả-rập)</td> </tr> <tr> <td>シンガポール(Singapore)</td> <td>シンガポール<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td><ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>(Tiếng Anh)</td> </tr> <tr> <td>スペイン(Tây Ban Nha)</td> <td>スペイン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Tây Ban Nha)</td> </tr> <tr> <td>タイ(Thái Lan)</td> <td>タイ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>タイ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Thái)</td> </tr> <tr> <td><ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby>(Trung Quốc)</td> <td><ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td><ruby>中国語<rp>（</rp><rt>ちゅうごくご</rt><rp>）</rp></ruby>(Tiếng Trung Quốc)</td> </tr> <tr> <td>ドイツ(Đức)</td> <td>ドイツ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>ドイツ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Đức)</td> </tr> <tr> <td><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>(Nhật Bản)</td> <td><ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby></td> <td><ruby>日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp></ruby>(Tiếng Nhật)</td> </tr> <tr> <td>フランス(Pháp)</td> <td>フランス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>フランス<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Pháp)</td> </tr> <tr> <td>フィリピン(Philippine)</td> <td>フィリピン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>フィリピン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Philippin)</td> </tr> <tr> <td>ブラジル(Braxin)</td> <td>ブラジル<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>ポルトガル<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Bồ Đào Nha)</td> </tr> <tr> <td>ベトナム(Việt Nam)</td> <td>ベトナム<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>ベトナム<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Việt)</td> </tr> <tr> <td>マレーシア(Malaysia)</td> <td>マレーシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>マレーシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Mã Lai)</td> </tr> <tr> <td>メキシコ(Mexico)</td> <td>メキシコ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Tây Ban Nha)</td> </tr> <tr> <td>ロシア(Nga)</td> <td>ロシア<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></td> <td>ロシア<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>(Tiếng Nga)</td> </tr> </tbody> </table>"
+    }
+  ]
+}

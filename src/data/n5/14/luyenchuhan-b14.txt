@@ -1,0 +1,432 @@
+
+    <div class="tab_container">
+            <div class="tab_content" id="tab1">
+            <h2><a href="#" rel="#tab1">List</a></h2>
+                            <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>便</p>
+
+                            <img id="img143" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg143" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M31.26,14.5c0.23,1.98-0.06,3.56-0.81,5.25C25.7,30.54,20.39,41.66,9.5,54.79" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M23.53,38c0.98,0.98,1.5,2.43,1.5,3.75c0,11.72-0.02,37.61-0.03,50.12c0,2.3,0,4.15,0,5.38" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M45.07,18.73c1.33,0.5,3.77,0.59,5.11,0.5c11.03-0.73,22.44-2.11,33.62-3.31c2.2-0.24,3.55-0.01,4.66,0.24" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M42.98,33.32c0.85,0.85,1.27,2.06,1.38,3.21c0.17,1.85,1.08,12.42,1.75,18.96c0.19,1.82,0.35,3.33,0.48,4.26" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M45.04,34.93c8.83-1.31,36.21-4.18,41.82-4.44c2.41-0.11,4.3,1.51,3.6,4.96c-0.96,4.76-1.44,8.32-3.73,17.23c-0.32,1.25-0.68,2.61-1.08,4.09" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M46.3,45.93c7.99-1.18,36.68-3.73,41.54-3.73" />
+                                                                        <path style="-webkit-animation-delay:4.2s;animation-delay:4.2s;" d="M47.39,56.91c12.36-1.41,23.61-2.03,38.28-3" />
+                                                                        <path style="-webkit-animation-delay:4.9s;animation-delay:4.9s;" d="M66,19.75c1.06,1.06,1.48,2.38,1.46,3.93c-0.71,44.69-2.21,63.07-29.71,75.36" />
+                                                                        <path style="-webkit-animation-delay:5.6s;animation-delay:5.6s;" d="M45.25,66.5C51.84,66.73,73,84.75,84.23,91.91c2.76,1.76,5.6,3.26,8.77,4.09" />
+                                                                </svg>
+                            <br />
+                            <img id="reload143" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an143" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>TIỆN</p>
+                            <p>tiện, tiện lợi; thư, bưu điện</p>
+                        </td>
+                        <td class="td3">
+                            <p>たよ<b>り</b></p>
+                            <p>ベン、ビン</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>利</p>
+
+                            <img id="img144" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg144" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M47.06,12.75c-0.18,1.25-0.85,2.42-1.55,3.13c-3.76,3.81-14.5,9.65-29.46,14.58" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M11.87,44.95c2.25,0.67,4.36,0.65,6.16,0.37c7.23-1.14,23.24-4.6,31.72-5.53c1.5-0.16,4-0.41,5.47-0.23" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M35.68,25.38c1.34,1.34,1.84,3.12,1.84,5.17c0,4.73,0.05,43.08,0.07,60.08c0,3.57,0.01,6.2,0.01,7.38" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M36.13,43.18c0,0.94-0.6,2.55-0.92,3.34C30.61,57.8,23.05,71.22,13.61,80.17" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M40.62,51.12c4.8,2.29,8.87,6.86,11.46,9.8" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M66.52,27.33c1.26,1.26,1.76,2.67,1.76,5.02c0,11.08-0.01,22.53-0.02,29.65c0,2.37,0,4.26,0,5.5" />
+                                                                        <path style="-webkit-animation-delay:4.2s;animation-delay:4.2s;" d="M90.27,11.33c1.2,1.2,1.76,2.79,1.76,5.02c0,14.56-0.26,70.65-0.26,75.87c0,11.78-6.96,1.5-8.46,0.25" />
+                                                                </svg>
+                            <br />
+                            <img id="reload144" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an144" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>LỢI</p>
+                            <p>lợi, thuận lợi, lời</p>
+                        </td>
+                        <td class="td3">
+                            <p>き<b>く</b></p>
+                            <p>リ</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>元</p>
+
+                            <img id="img145" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg145" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M28.59,21.36c1.78,0.33,5.04,0.48,6.82,0.33c10.84-0.94,21.52-2.57,32.08-3.03c2.96-0.13,4.75,0.16,6.23,0.32" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M16.13,44.06c2.16,0.47,5.88,0.62,8.04,0.47c18.08-1.27,36.71-3.9,56.39-4.5c3.6-0.11,5.77,0.22,7.57,0.46" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M41.29,46.69c0.59,1.18,0.74,2.97,0.36,4.44c-2.9,11.36-8.78,27.99-25.4,41.36" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M56.7,44.12c1.53,1.53,2,3.11,2,5.66c0,9.59,0.01,19.49,0.01,27.97c0,14.38,1.03,15.62,18.28,15.62c14.88,0,16.14-1.12,16.14-12.69" />
+                                                                </svg>
+                            <br />
+                            <img id="reload145" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an145" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>NGUYÊN</p>
+                            <p>nguyên bản</p>
+                        </td>
+                        <td class="td3">
+                            <p>もと</p>
+                            <p>ゲン、ガン</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>気</p>
+
+                            <img id="img146" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg146" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M37.75,9.25c0.25,1.62-0.25,2.75-1,4.25C35.63,15.74,28,25.25,24,29" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M36.5,21.25c1.33-0.03,3.29-0.05,4.8-0.32c9.2-1.68,18.17-3.46,26.98-5.27c1.63-0.33,3.71-0.64,5.21-0.91" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M31.25,32.75c1.5,0.38,3.3,0.26,4.96,0.08c7.67-0.83,19.54-2.58,29.14-4.39c1.94-0.37,3.64-0.41,4.91-0.45" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M18.5,47c1.88,0.75,4,0.88,6.25,0.5c15.08-2.51,35-5.62,48.25-8c4.73-0.85,5.6,0.47,4.5,6.25c-4,21,0.71,40.32,11.5,50c7.25,6.5,6.5,0.75,6-5.25" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M57,51.75c0.12,1.62-0.17,3.03-1,4.75C49.5,70,40.25,82.75,25.75,93.25" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M30,63.75C41.5,68,54.5,78,62.25,90.5" />
+                                                                </svg>
+                            <br />
+                            <img id="reload146" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an146" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>KHÍ</p>
+                            <p>thể khí, khí lực, tinh thần, tính khí</p>
+                        </td>
+                        <td class="td3">
+                            <p></p>
+                            <p>キ、ケ</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>親</p>
+
+                            <img id="img147" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg147" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M31.18,13.51c0.97,0.97,1.62,2.28,1.62,3.71c0,1.44,0.01,4.82,0.01,8.72" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M16.82,29.19c1.12,0.11,2.45,0.15,3.55,0.03C25.75,28.62,36,26.62,42.39,26c1.86-0.18,3.24-0.25,4.27,0.02" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M21.81,33.25c2.44,3.38,4.02,7.74,4.35,10.98" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M40.93,30.75c0.25,0.67,0.28,1.87,0.11,2.58c-0.4,3.04-2.04,7.79-2.42,9.67" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M12.92,48.45c2.08,0.3,3.29,0.33,5.54,0.03c7.29-0.98,21.04-3.98,28.37-4.49c1.43-0.1,3.45-0.04,4.17,0.01" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M13.76,62.95c0.77,0.23,2.48,0.59,4.5,0.34c7.37-0.91,18.57-3.05,26.1-4.48c2.01-0.38,3.14-0.3,4.14-0.3" />
+                                                                        <path style="-webkit-animation-delay:4.2s;animation-delay:4.2s;" d="M32.75,51c1,1,1.53,2.5,1.53,3.93c0,3.82,0.1,26.35-0.11,37.82c-0.04,2.16-0.08,3.83-0.12,4.75" />
+                                                                        <path style="-webkit-animation-delay:4.9s;animation-delay:4.9s;" d="M32.12,62.38c0,0.96-0.56,2.17-0.89,2.8c-4.2,8.16-12.56,17.69-19.74,22.07" />
+                                                                        <path style="-webkit-animation-delay:5.6s;animation-delay:5.6s;" d="M37.5,66.75c3.72,2.83,6.11,5.67,8.25,8.5" />
+                                                                        <path style="-webkit-animation-delay:6.3s;animation-delay:6.3s;" d="M55.94,18.69c0.75,0.75,1.34,2.08,1.34,3.48c0,1.14-0.1,27.03-0.05,37.57c0.01,2.41,0.03,3.99,0.05,4.25" />
+                                                                        <path style="-webkit-animation-delay:7s;animation-delay:7s;" d="M58.01,19.83c6.48-0.97,21.25-3.17,23.02-3.33c1.91-0.18,3.76,1.26,3.76,3.03c0,1.35-0.15,28.68-0.32,39.48c-0.04,2.5-0.07,4.11-0.07,4.31" />
+                                                                        <path style="-webkit-animation-delay:7.7s;animation-delay:7.7s;" d="M58.48,32.92c5.27-0.67,20.14-3.04,25.13-3.35" />
+                                                                        <path style="-webkit-animation-delay:8.4s;animation-delay:8.4s;" d="M58.44,47.32c7.94-0.7,17.31-2.07,24.63-2.6" />
+                                                                        <path style="-webkit-animation-delay:9.1s;animation-delay:9.1s;" d="M58.59,61.44c6.04-0.44,17.54-1.81,24.63-2.1" />
+                                                                        <path style="-webkit-animation-delay:9.8s;animation-delay:9.8s;" d="M64,64.5c0.05,0.75,0.12,1.95-0.11,3.03C62.53,73.91,55.5,87.5,44,96.5" />
+                                                                        <path style="-webkit-animation-delay:10.5s;animation-delay:10.5s;" d="M73.36,62.72c0.71,0.71,1.27,1.9,1.3,3.61c0.07,4.77-0.06,12.48-0.06,17.94c0,9.49,1.65,10.87,10.65,10.87c9.75,0,11-0.87,11-8.47" />
+                                                                </svg>
+                            <br />
+                            <img id="reload147" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an147" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>THÂN</p>
+                            <p>bố mẹ; thân mật, thân thiết</p>
+                        </td>
+                        <td class="td3">
+                            <p>おや、した<b>しい</b>、した<b>しむ</b></p>
+                            <p>シン</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>有</p>
+
+                            <img id="img148" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg148" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M51.66,13.68c0.84,1.2,0.73,3.01,0.31,4.68c-3.11,12.34-12.85,30.9-33.08,44.76" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M14.25,30.2c3.73,1.33,8.33,0.33,12.15-0.02c14.5-1.3,45.59-4.1,61.48-4.6c3.22-0.1,6.46-0.22,9.62,0.46" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M42.48,44.64c0.75,0.75,1.44,2.11,1.44,3.57c0,2.66-0.03,31.04-0.05,44.91c0,3.26,0,5.71,0,6.85" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M44.86,47.17c3.64-0.54,23.98-3.91,25.74-4.18c2.39-0.36,4.22,1.01,4.22,3.68c0,6.08-0.09,30.61-0.09,46.28c0,11.05-6.11,3.43-7.75,1.74" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M44.86,60.56c8.64-0.94,21.68-2.15,28.82-2.73" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M45.21,74.09c6.35-0.58,20.99-2.32,28.33-2.71" />
+                                                                </svg>
+                            <br />
+                            <img id="reload148" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an148" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>HỮU</p>
+                            <p>có</p>
+                        </td>
+                        <td class="td3">
+                            <p>あ<b>る</b></p>
+                            <p>ユウ、ウ</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>名</p>
+
+                            <img id="img149" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg149" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M54.2,12.64c0.3,1.61-0.07,2.99-0.69,4.24c-3.49,7.13-13.28,19.29-25.96,27.54" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M53.25,24.16c0.88,0.47,1.95,0.5,3.28,0.37c4.37-0.43,11.99-2.47,17.81-4.1c4.18-1.17,5.46,1.02,4.41,3.51C72.25,39.38,43.88,69.62,16,77.5" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M43.62,40.88c3.62,2,8,6,9.68,9.58" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M42,67.81c0.91,0.91,1.62,2.19,1.83,3.33c0.5,2.82,2.15,14.38,3.05,20.86c0.3,2.12,0.52,3.7,0.59,4.25" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M44.53,69.52c10.82-1.38,32.39-4.4,38.01-4.53c2.76-0.06,4.08,1.63,3.25,4.64c-1.13,4.06-3.52,14.04-4.64,20.36" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M47.99,93.99c7.26-0.61,19.65-1.61,29.54-2.37c2.19-0.17,4.24-0.28,6.04-0.31" />
+                                                                </svg>
+                            <br />
+                            <img id="reload149" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an149" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>DANH</p>
+                            <p>tên</p>
+                        </td>
+                        <td class="td3">
+                            <p>な</p>
+                            <p>メイ、ミョウ</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>地</p>
+
+                            <img id="img150" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg150" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M11.5,49.5c1.71,0.69,3.51,0.56,5.24,0.2c5.76-1.2,13.37-2.96,19.65-4.7c1.6-0.44,3.08-0.5,4.12-0.25" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M25.37,26.25c1.09,0.5,1.74,2.25,1.96,3.25c0.18,0.82-0.18,43.4-0.22,44.5" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M11,82.02c1.25,1.23,3.36,1.32,6-0.37c1.56-1,15.12-9.36,21.75-14.15" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M41,53.06c2.12,0.69,4.88,0.69,7.38-0.04c11.34-3.34,29.47-9.63,37.12-12.26c3.51-1.21,5.25,0.75,4.76,3.61c-0.93,5.4-3.34,11.85-5.26,15.89c-2.5,5.25-5.62,2.75-7.75,0" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M66.25,18c1.19,1.19,2,2.88,2,4.5c0,8.5,0.07,29.73-0.12,43.25c-0.04,2.91-0.09,4.64-0.13,5.75" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M49.49,37.62c1.26,1.26,2.02,3.13,2.02,4.85c0,8.57-0.38,20.78-0.38,28.03c0,16.5,0.87,19,22.37,19c20,0,20.64-1.75,20.64-13.07" />
+                                                                </svg>
+                            <br />
+                            <img id="reload150" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an150" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>ĐỊA</p>
+                            <p>đất, mất đất</p>
+                        </td>
+                        <td class="td3">
+                            <p></p>
+                            <p>チ、ジ</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>鉄</p>
+
+                            <img id="img151" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg151" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M30.75,13.99c0,0.85,0.05,1.53-0.15,2.55C29.52,21.87,19.27,39.62,10.5,47.5" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M32.52,20.96c4.15,2.03,9.46,7.42,11.48,12.54" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M20.5,41c1.19,0,2.31,0.1,3.49-0.05c3.72-0.48,8.34-1.01,12.38-1.68c1.19-0.2,2.17-0.26,3.38-0.26" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M12.84,56.31c1.29,0.56,3.27,0.44,4.68,0.3c5.64-0.54,13.19-1.57,20.11-2.54c0.77-0.11,2.49-0.13,3.65,0.15" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M28.7,42.19c0.99,0.99,1.49,2.31,1.49,3.64c0,4.35,0.06,29.17,0.06,36.98" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M16.89,66.51c2.9,4.48,4.31,9.32,4.9,11.94" />
+                                                                        <path style="-webkit-animation-delay:4.2s;animation-delay:4.2s;" d="M41.54,62.3c0.23,0.71,0.21,1.58-0.24,2.6c-1,2.26-1.8,3.86-4.38,8.38" />
+                                                                        <path style="-webkit-animation-delay:4.9s;animation-delay:4.9s;" d="M14.5,88.5c1,0.62,2.25,0.88,4,0.25c1.27-0.45,10.75-5,23.75-11" />
+                                                                        <path style="-webkit-animation-delay:5.6s;animation-delay:5.6s;" d="M55.75,23.88c0.25,0.88,0.37,1.79,0.19,2.63c-1.44,6.62-4.05,14.79-8.94,22.94" />
+                                                                        <path style="-webkit-animation-delay:6.3s;animation-delay:6.3s;" d="M55.69,39.18c0.81,0,3.18-0.12,3.81-0.18c4.45-0.42,15.36-2.64,20.64-3.41c1.62-0.24,3.61-0.47,4.86-0.34" />
+                                                                        <path style="-webkit-animation-delay:7s;animation-delay:7s;" d="M46.75,59c2.88,0.25,4.93,0.11,7.52-0.25c7.62-1.06,22.86-2.88,30.62-3.58c2.19-0.2,4.87-0.3,7.12,0.08" />
+                                                                        <path style="-webkit-animation-delay:7.7s;animation-delay:7.7s;" d="M66.23,13.25c0.89,0.89,1.27,2.13,1.32,3.39C70,76.25,59.5,82.5,42.75,94.5" />
+                                                                        <path style="-webkit-animation-delay:8.4s;animation-delay:8.4s;" d="M67.23,59.09c5.93,9.76,14.04,21.24,20.52,28.16c1.81,1.93,4.12,4.25,6.99,5.75" />
+                                                                </svg>
+                            <br />
+                            <img id="reload151" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an151" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>THIẾT</p>
+                            <p>sắt</p>
+                        </td>
+                        <td class="td3">
+                            <p></p>
+                            <p>テツ</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>仕</p>
+
+                            <img id="img152" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg152" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M34.5,14.25c0.13,1.25-0.16,2.46-0.89,4.35C28.88,31,22.05,43.75,10.12,58.12" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M24.03,41.5c0.92,0.92,1.75,2.38,1.75,4.12c0,9.46-0.02,33.3-0.03,46.12c0,2.92,0,5.27,0,6.75" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M34.88,47.47c2.1,0.67,5.94,0.8,8.04,0.67c18.7-1.25,31.09-2.8,48.25-3.22c3.49-0.08,5.59,0.32,7.34,0.65" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M65.75,15.75c1.19,1.19,1.75,2.38,1.75,3.75c0,5.5,0,57.75,0,65" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M37,86.17c3.05,0.71,5.58,0.68,7.56,0.56c13.82-0.86,31.07-1.98,44.74-2.32c3.29-0.08,5.56,0.13,7.21,0.54" />
+                                                                </svg>
+                            <br />
+                            <img id="reload152" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an152" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>SĨ</p>
+                            <p>làm việc, phục vụ</p>
+                        </td>
+                        <td class="td3">
+                            <p>つか<b>える</b></p>
+                            <p>シ、ジ</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                                <table class="tbngoai">
+                    <tr>
+                        <td class="td1">
+                            <p>事</p>
+
+                            <img id="img153" class="viethantu" src="/images/icon/viethantu.png" alt="Viết Hán tự" />
+
+                            <svg id="svg153" xmlns="http://www.w3.org/2000/svg" width="110" height="110">
+                                                                    <path style="-webkit-animation-delay:0s;animation-delay:0s;" d="M14.25,24.95c1.84,0.54,5.23,0.68,7.07,0.54c16.77-1.24,46.39-4.24,66.97-4.23c3.08,0,4.92,0.26,6.46,0.53" />
+                                                                        <path style="-webkit-animation-delay:0.7s;animation-delay:0.7s;" d="M30.51,34.23c0.35,0.23,0.71,0.42,0.86,0.7c1.04,1.95,1.9,6.86,2.64,10.78c0.17,0.88,0.23,1.21,0.35,1.78" />
+                                                                        <path style="-webkit-animation-delay:1.4s;animation-delay:1.4s;" d="M32.94,35.01c8.31-1.01,32.5-2.95,41.08-3.59c2.43-0.18,3.81,1.33,3.04,3.59c-0.73,2.14-1.52,4.57-2.48,7.24" />
+                                                                        <path style="-webkit-animation-delay:2.1s;animation-delay:2.1s;" d="M35.28,45.51c4.21-0.3,27.12-1.93,37.35-2.68c1.45-0.11,3-0.34,4.19-0.01" />
+                                                                        <path style="-webkit-animation-delay:2.8s;animation-delay:2.8s;" d="M27.5,55.89c2.5,0.74,4.2,1.01,6.5,0.87c13.49-0.84,28.51-2.14,39.74-2.92c3.72-0.26,5.96,0.81,4.99,4.79c-1.21,4.97-2.6,7.76-4.24,16.86" />
+                                                                        <path style="-webkit-animation-delay:3.5s;animation-delay:3.5s;" d="M14.75,68c2.75,0.75,4.74,0.65,7.68,0.43c22.94-1.69,43.44-3.19,64.43-4.17c3.26-0.15,5.91,0.18,7.39,0.4" />
+                                                                        <path style="-webkit-animation-delay:4.2s;animation-delay:4.2s;" d="M27.5,79.85c2,0.4,3.51,0.52,5,0.4c13.75-1.08,26.5-2.82,39-3.25c2-0.07,3.25,0,4.75,0.22" />
+                                                                        <path style="-webkit-animation-delay:4.9s;animation-delay:4.9s;" d="M52.77,10.08c1.45,1.45,2.01,2.67,2.01,5.02c0,14.56-0.01,72.41-0.01,77.37c0,9.66-4.91,3.42-8.71,0.25" />
+                                                                </svg>
+                            <br />
+                            <img id="reload153" class="reload" src="/images/icon/reload.png" alt="Reload" />
+                            <img id="an153" class="anhantu" src="/images/icon/khonghienthi.png" alt="Ẩn" />
+                        </td>
+                        <td class="td2">
+                            <p>SỰ</p>
+                            <p>việc, vấn đề</p>
+                        </td>
+                        <td class="td3">
+                            <p>こと</p>
+                            <p>ジ、ズ</p>
+                        </td>
+                    </tr>
+                </table>
+                <br />
+                        </div>
+
+        <div class="tab_content" id="tab2">
+            <h2><a href="#" rel="#tab2">-A-</a></h2>
+
+            <p><b>読み方</b></p>
+            <div class="dong">1. <div class="tudich"><div class="candich"><ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>なかばん</div><div class="kqdich"><div class="nddich">cái cặp tiện lợi</div></div></div>&emsp;&emsp;</div><div class="dong">2. <div class="tudich"><div class="candich"><ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>な<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby></div><div class="kqdich"><div class="nddich">người khỏe mạnh</div></div></div>&emsp;&emsp;</div><div class="dong">3. <div class="tudich"><div class="candich"><ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>をつけます</div><div class="kqdich"><div class="nddich">bật điện</div></div></div>&emsp;&emsp;</div><div class="dong">4. <div class="tudich"><div class="candich"><ruby>親切<rp>（</rp><rt>しんせつ</rt><rp>）</rp></ruby>な<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby></div><div class="kqdich"><div class="nddich">bạn bè thân thiện</div></div></div>&emsp;&emsp;</div><div class="dong">5. <div class="tudich"><div class="candich"><ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>かけます</div><div class="kqdich"><div class="nddich">ra ngoài</div></div></div>&emsp;&emsp;</div>
+            <p></p>
+            <p><b>使い方</b></p>
+
+            <div class="dong">1. <div class="tudich"><div class="candich"><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>の<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>はとても<u><ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby></u>です。<u><ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>かける</u><ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、いつも<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みます。</div><div class="kqdich"><div class="nddich">Sách du lịch rất tiện lợi. Tôi thường đọc trước khi đi ra ngoài.</div></div></div></div><div class="dong">2. <div class="tudich"><div class="candich"><ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんは<ruby>毎朝<rp>（</rp><rt>まいあさ</rt><rp>）</rp></ruby>ジョギングをします。とても<u><ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby></u>な<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>です。</div><div class="kqdich"><div class="nddich">Anh Yamada mỗi sáng đều chạy bộ. Là một người rất khỏe mạnh.</div></div></div></div><div class="dong">3. <div class="tudich"><div class="candich">うちで<u><ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby></u>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>ります。そして、<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>ります。</div><div class="kqdich"><div class="nddich">Tôi làm đồ điện tại nhà. Và bán nó.</div></div></div></div><div class="dong">4. <div class="tudich"><div class="candich">いつも<ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんに<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>の<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>を<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ります。<ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>さんはとても<u><ruby>親切<rp>（</rp><rt>しんせつ</rt><rp>）</rp></ruby>な</u>人です。</div><div class="kqdich"><div class="nddich">Tôi thường mượn sách du lịch của anh Yamada. Yamada là một người rất tốt bụng.</div></div></div></div>        </div>
+
+        <div class="tab_content" id="tab3">
+            <h2><a href="#" rel="#tab3">-B-</a></h2>
+
+            <p><b>読み方</b></p>
+            <div class="dong">1. <div class="tudich"><div class="candich"><ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>なワイン</div><div class="kqdich"><div class="nddich">rượu vang nổi tiếng</div></div></div>&emsp;&emsp;</div><div class="dong">2. <div class="tudich"><div class="candich"><ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby></div><div class="kqdich"><div class="nddich">tên</div></div></div>&emsp;&emsp;<div class="tudich"><div class="candich"><ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>の<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby></div><div class="kqdich"><div class="nddich">tên công ty</div></div></div>&emsp;&emsp;</div><div class="dong">3. <div class="tudich"><div class="candich"><ruby>地下鉄<rp>（</rp><rt>ちかてつ</rt><rp>）</rp></ruby></div><div class="kqdich"><div class="nddich">tàu điện ngầm</div></div></div>&emsp;&emsp;<div class="tudich"><div class="candich"><ruby>地下鉄<rp>（</rp><rt>ちかてつ</rt><rp>）</rp></ruby>の<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby></div><div class="kqdich"><div class="nddich">ga tàu điện ngầm</div></div></div>&emsp;&emsp;</div><div class="dong">4. <div class="tudich"><div class="candich"><ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby></div><div class="kqdich"><div class="nddich">công việc</div></div></div>&emsp;&emsp;<div class="tudich"><div class="candich">わたしの<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby></div><div class="kqdich"><div class="nddich">công việc của tôi</div></div></div>&emsp;&emsp;</div><div class="dong">5. <div class="tudich"><div class="candich"><ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せます</div><div class="kqdich"><div class="nddich">cho bạn xem ảnh</div></div></div>&emsp;&emsp;</div>
+            <p></p>
+            <p><b>使い方</b></p>
+
+            <div class="dong">1. <div class="tudich"><div class="candich"><u><ruby>地下鉄<rp>（</rp><rt>ちかてつ</rt><rp>）</rp></ruby></u>で<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。JRより<ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>くて、<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>です。</div><div class="kqdich"><div class="nddich">Tôi đi đến công ty bằng tàu điện ngầm. Tiện lợi và nhanh hơn tàu JR</div></div></div></div><div class="dong">2. <div class="tudich"><div class="candich"><ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>は<u><ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby></u>ですが、<u><ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby></u>はおもしろくないです。</div><div class="kqdich"><div class="nddich">Công ty thì nổi tiếng nhưng công việc thì không thú vị.</div></div></div></div><div class="dong">3. <div class="tudich"><div class="candich"><ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>のビルの<ruby>地下<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>に<u><ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>な</u>レストランがあります。</div><div class="kqdich"><div class="nddich">Tầng hầm của tòa nhà công ty có một nhà hàng nổi tiếng.</div></div></div></div><div class="dong">&nbsp;&nbsp;&nbsp;&nbsp;<div class="tudich"><div class="candich">でも、<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>いですから、あまり<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きません。</div><div class="kqdich"><div class="nddich">Nhưng bởi vì nó đắt nên tôi ít khi tới.</div></div></div></div><div class="dong">4. <div class="tudich"><div class="candich"><ruby>空港<rp>（</rp><rt>くうこう</rt><rp>）</rp></ruby>でパスポートを<u><ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せ</u>ます。そして、<ruby>飛行機<rp>（</rp><rt>ひこうき</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ります。</div><div class="kqdich"><div class="nddich">Xuất trình hộ chiếu tại sân bay. Rồi sau đó lên máy bay.</div></div></div></div><div class="dong">5. <div class="tudich"><div class="candich"><u><ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby></u>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>電話番号<rp>（</rp><rt>でんわばんごう</rt><rp>）</rp></ruby>を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class="kqdich"><div class="nddich">Hãy viết tên, địa chỉ và số điện thoại.</div></div></div></div>        </div>
+
+            </div>
+
+    <div class="vnjp-link-grid">
+        <a href="/minna-no-nihongo/bai-14-tu-vung.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Từ vựng</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-ngu-phap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Ngữ pháp</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-luyen-doc.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện đọc</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-hoi-thoai.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hội thoại</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-luyen-nghe.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện nghe</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-bai-tap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Bài tập</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-han-tu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hán tự</span>
+        </a>
+
+        <a href="/minna-no-nihongo/luyen-chu-han-bai-14.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện Kanji</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-25-bai-doc-hieu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Đọc hiểu</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-kiem-tra.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Kiểm tra</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-tham-khao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Tham khảo</span>
+        </a>
+
+        <a href="#" class="vnjp-link-item disabled">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a>
+<!--         <a href="/minna-no-nihongo/bai-<!?php echo $de_stt; ?>-nang-cao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a> -->
+    </div>
+
+    <div class="essb_links essb_displayed_bottom essb_share essb_content_responsive essb_template_light-retina essb_template_classic-retina essb_13430372 essb_size_s essb_size_s_mobile essb_width_flex essb_network_align_center essb_responsive_adaptive print-no" id="essb_displayed_bottom_13430372" data-essb-postid="5417" data-essb-position="bottom" data-essb-button-style="icon" data-essb-template="light-retina essb_template_classic-retina" data-essb-counter-pos="hidden" data-essb-url="https://www.vnjpclub.com/minna-no-nihongo/luyen-chu-han-bai-14.html" data-essb-fullurl="https://www.vnjpclub.com/minna-no-nihongo/luyen-chu-han-bai-14.html" data-essb-instance="13430372"><ul class="essb_links_list essb_force_hide_name essb_force_hide"><li class="essb_item essb_link_facebook nolightbox essb_link_svg_icon"> <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html&t=Minna+no+Nihongo+B%C3%A0i+14+%E2%80%93+Luy%E1%BB%87n+Ch%E1%BB%AF+H%C3%A1n" title="Share on Facebook" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html&t=Minna+no+Nihongo+B%C3%A0i+14+%E2%80%93+Luy%E1%BB%87n+Ch%E1%BB%AF+H%C3%A1n&#39;,&#39;facebook&#39;,&#39;13430372&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-facebook essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_facebook"><svg class="essb-svg-icon essb-svg-icon-facebook" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16"><path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_twitter nolightbox essb_link_twitter_x essb_link_svg_icon"> <a href="https://x.com/intent/post?text=Minna%20no%20Nihongo%20Bài%2014%20–%20Luyện%20Chữ%20Hán&amp;url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html" title="Share on Twitter" onclick="essb.window(&#39;https://x.com/intent/post?text=Minna%20no%20Nihongo%20Bài%2014%20–%20Luyện%20Chữ%20Hán&amp;url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html&#39;,&#39;twitter&#39;,&#39;13430372&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-twitter essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_twitter_x"><svg class="essb-svg-icon essb-svg-icon-twitter_x" aria-hidden="true" role="img" focusable="false" viewbox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_pinterest nolightbox essb_link_svg_icon"> <a href="#" title="Share on Pinterest" onclick="essb.pinterest_picker(&#39;13430372&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-pinterest essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_pinterest"><svg class="essb-svg-icon essb-svg-icon-pinterest" aria-hidden="true" role="img" focusable="false" width="32" height="32" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M10.625 12.25c0-1.375 0.313-2.5 1.063-3.438 0.688-0.938 1.563-1.438 2.563-1.438 0.813 0 1.438 0.25 1.875 0.813s0.688 1.25 0.688 2.063c0 0.5-0.125 1.125-0.313 1.813-0.188 0.75-0.375 1.625-0.688 2.563-0.313 1-0.563 1.75-0.688 2.313-0.25 1-0.063 1.875 0.563 2.625 0.625 0.688 1.438 1.063 2.438 1.063 1.75 0 3.188-1 4.313-2.938 1.125-2 1.688-4.375 1.688-7.188 0-2.125-0.688-3.875-2.063-5.25-1.375-1.313-3.313-2-5.813-2-2.813 0-5.063 0.875-6.75 2.688-1.75 1.75-2.625 3.875-2.625 6.375 0 1.5 0.438 2.75 1.25 3.75 0.313 0.313 0.375 0.688 0.313 1.063-0.125 0.313-0.25 0.813-0.375 1.5-0.063 0.25-0.188 0.438-0.375 0.5s-0.375 0.063-0.563 0c-1.313-0.563-2.25-1.438-2.938-2.75s-1-2.813-1-4.5c0-1.125 0.188-2.188 0.563-3.313s0.875-2.188 1.625-3.188c0.75-1.063 1.688-1.938 2.688-2.75 1.063-0.813 2.313-1.438 3.875-1.938 1.5-0.438 3.125-0.688 4.813-0.688 1.813 0 3.438 0.313 4.938 0.938 1.5 0.563 2.813 1.375 3.813 2.375 1.063 1.063 1.813 2.188 2.438 3.5 0.563 1.313 0.875 2.688 0.875 4.063 0 3.75-0.938 6.875-2.875 9.313-1.938 2.5-4.375 3.688-7.375 3.688-1 0-1.938-0.188-2.813-0.688-0.875-0.438-1.5-1-1.875-1.688-0.688 2.938-1.125 4.688-1.313 5.25-0.375 1.438-1.25 3.188-2.688 5.25h-1.313c-0.25-2.563-0.188-4.688 0.188-6.375l2.438-10.313c-0.375-0.813-0.563-1.813-0.563-3.063z"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_linkedin nolightbox essb_link_svg_icon"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;trk=EasySocialShareButtons&amp;title=Minna+no+Nihongo+B%C3%A0i+14+%E2%80%93+Luy%E1%BB%87n+Ch%E1%BB%AF+H%C3%A1n&amp;url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html" title="Share on LinkedIn" onclick="essb.window(&#39;https://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;trk=EasySocialShareButtons&amp;title=Minna+no+Nihongo+B%C3%A0i+14+%E2%80%93+Luy%E1%BB%87n+Ch%E1%BB%AF+H%C3%A1n&amp;url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html&#39;,&#39;linkedin&#39;,&#39;13430372&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-linkedin essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_linkedin"><svg class="essb-svg-icon essb-svg-icon-linkedin" aria-hidden="true" role="img" focusable="false" width="32" height="32" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M23.938 16.375c-0.438-0.5-1.188-0.75-2.25-0.75-1.375 0-2.313 0.438-2.875 1.188-0.563 0.813-0.813 1.938-0.813 3.375v10.938c0 0.188-0.063 0.375-0.25 0.563-0.125 0.125-0.375 0.25-0.563 0.25h-5.75c-0.188 0-0.375-0.125-0.563-0.25-0.125-0.188-0.25-0.375-0.25-0.563v-20.188c0-0.188 0.125-0.375 0.25-0.563 0.188-0.125 0.375-0.25 0.563-0.25h5.563c0.188 0 0.375 0.063 0.5 0.125s0.188 0.25 0.25 0.438c0 0.188 0.063 0.375 0.063 0.438s0 0.25 0 0.5c1.438-1.375 3.375-2 5.688-2 2.688 0 4.75 0.625 6.25 1.938 1.5 1.375 2.25 3.313 2.25 5.938v13.625c0 0.188-0.063 0.375-0.25 0.563-0.125 0.125-0.375 0.25-0.563 0.25h-5.875c-0.188 0-0.375-0.125-0.563-0.25-0.125-0.188-0.25-0.375-0.25-0.563v-12.313c0-1.063-0.188-1.875-0.563-2.438zM6.625 6.688c-0.75 0.75-1.688 1.125-2.75 1.125s-2-0.375-2.75-1.125c-0.75-0.75-1.125-1.625-1.125-2.75 0-1.063 0.375-1.938 1.125-2.688s1.688-1.188 2.75-1.188c1.063 0 2 0.438 2.75 1.188s1.125 1.625 1.125 2.688c0 1.125-0.375 2-1.125 2.75zM7.563 10.938v20.188c0 0.188-0.125 0.375-0.25 0.563-0.188 0.125-0.375 0.25-0.563 0.25h-5.75c-0.188 0-0.375-0.125-0.563-0.25-0.125-0.188-0.25-0.375-0.25-0.563v-20.188c0-0.188 0.125-0.375 0.25-0.563 0.188-0.125 0.375-0.25 0.563-0.25h5.75c0.188 0 0.375 0.125 0.563 0.25 0.125 0.188 0.25 0.375 0.25 0.563z"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_gmail nolightbox essb_link_svg_icon"> <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&su=Minna+no+Nihongo+B%C3%A0i+14+%E2%80%93+Luy%E1%BB%87n+Ch%E1%BB%AF+H%C3%A1n&body=Luy%E1%BB%87n+ch%E1%BB%AF+H%C3%A1n+%28Kanji+Renshuuchou%29+Minna+no+Nihongo+%E2%80%93+B%C3%A0i+14%3A+luy%E1%BB%87n+Kanji+v%E1%BB%81+c%E1%BA%A3m+x%C3%BAc%2C+ngh%E1%BB%81+nghi%E1%BB%87p+v%C3%A0+%C4%91%E1%BB%8Ba+%C4%91i%E1%BB%83m+trong+giao+ti%E1%BA%BFp. https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html&ui=2&tf=1" title="Share on Gmail" onclick="essb.window(&#39;https://mail.google.com/mail/u/0/?view=cm&fs=1&su=Minna+no+Nihongo+B%C3%A0i+14+%E2%80%93+Luy%E1%BB%87n+Ch%E1%BB%AF+H%C3%A1n&body=Luy%E1%BB%87n+ch%E1%BB%AF+H%C3%A1n+%28Kanji+Renshuuchou%29+Minna+no+Nihongo+%E2%80%93+B%C3%A0i+14%3A+luy%E1%BB%87n+Kanji+v%E1%BB%81+c%E1%BA%A3m+x%C3%BAc%2C+ngh%E1%BB%81+nghi%E1%BB%87p+v%C3%A0+%C4%91%E1%BB%8Ba+%C4%91i%E1%BB%83m+trong+giao+ti%E1%BA%BFp. https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html&ui=2&tf=1&#39;,&#39;gmail&#39;,&#39;13430372&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-gmail essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_gmail"><svg class="essb-svg-icon essb-svg-icon-gmail" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32" width="32" height="32"><path d="M28.7,4c-0.1,0-0.3,0-0.4,0.1l-12.3,9l-12.3-9C3.6,4,3.5,4,3.3,4C1.5,4,0,5.5,0,7.3v17.3C0,26.5,1.5,28,3.3,28h1.3c0.4,0,0.7-0.3,0.7-0.7V12l10.3,7.3c0.2,0.2,0.5,0.2,0.8,0L26.7,12v15.4c0,0.4,0.3,0.7,0.7,0.7h1.3c1.8,0,3.3-1.5,3.3-3.3V7.3C32,5.5,30.5,4,28.7,4z" /></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_line nolightbox essb_link_svg_icon"> <a href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html" title="Share on Line" onclick="essb.tracking_only('', 'line', '13430372', true);" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-line essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_line"><svg class="essb-svg-icon essb-svg-icon-line" aria-hidden="true" role="img" focusable="false" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32"><path d="M15.2,31C15.2,31,15.2,31,15.2,31c-0.1,0-0.2,0-0.3-0.1l0,0c-0.3-0.2-0.2-0.8-0.1-1.5c0.1-0.4,0.2-0.8,0.2-1.2c0-0.2,0-0.4,0-0.5l0,0c-0.1-0.6-0.6-1.1-1.2-1.1h0c-0.2,0-0.4,0-0.5-0.1c-1.9-0.3-3.7-0.8-5.3-1.6l0.1,0c-0.9-0.4-1.6-0.8-2.3-1.3l0.1,0c-0.7-0.5-1.4-1-1.9-1.6l0,0c-0.6-0.5-1.1-1.1-1.6-1.8l0,0c-0.4-0.6-0.8-1.2-1.2-1.9l0-0.1c-0.6-1.3-1-2.9-1-4.5c0-0.9,0.1-1.8,0.3-2.7l0,0.1c0.2-0.9,0.6-1.7,1-2.5l0,0.1C1.7,8,2.2,7.3,2.7,6.7l0,0C3.3,6,4,5.4,4.7,4.8l0,0C5.4,4.2,6.2,3.7,7,3.3l0.1,0c0.8-0.4,1.7-0.8,2.6-1.1l0.1,0c0.8-0.3,1.9-0.6,2.9-0.7l0.1,0C13.7,1.1,14.9,1,16,1s2.3,0.1,3.3,0.3l-0.1,0c1.2,0.2,2.2,0.4,3.1,0.8l-0.1,0c1.1,0.4,2,0.8,2.8,1.2l-0.1,0c0.9,0.5,1.7,1,2.4,1.6l0,0C28,5.4,28.7,6,29.2,6.7l0,0c0.5,0.6,1,1.3,1.4,2.1l0,0.1c0.4,0.7,0.7,1.5,0.9,2.3l0,0.1c0.2,0.8,0.3,1.7,0.3,2.6c0,1.3-0.2,2.5-0.7,3.6l0-0.1c-0.5,1.2-1,2.3-1.8,3.2l0,0c-0.1,0.1-0.2,0.3-0.3,0.4l0,0l0,0c-0.5,0.6-1.1,1.2-1.7,1.7l0,0c-2.1,1.9-4.4,3.8-6.9,5.4l-0.2,0.1c-0.9,0.6-1.9,1.3-3,1.9l-0.2,0.1c-0.3,0.2-0.7,0.4-1.1,0.5l-0.1,0C15.8,30.9,15.5,31,15.2,31L15.2,31L15.2,31z M22.7,10.1c-0.5,0-0.8,0.4-0.8,0.8v6.2c0,0.5,0.4,0.8,0.8,0.8h3.2c0.5,0,0.8-0.4,0.8-0.8V17c0-0.5-0.4-0.8-0.8-0.8h-2.3v-1.3h2.3c0.5,0,0.8-0.4,0.8-0.8V14c0-0.5-0.4-0.8-0.8-0.8h-2.3v-1.3h2.3c0.5,0,0.8-0.4,0.8-0.8v-0.1c0-0.5-0.4-0.8-0.8-0.8L22.7,10.1z M15.2,10.1c-0.5,0-0.8,0.4-0.8,0.8v6.2c0,0.5,0.4,0.8,0.8,0.8h0.1c0.5,0,0.8-0.4,0.8-0.8v-3.7l3,4.1c0,0,0,0.1,0.1,0.1l0,0c0.1,0.1,0.2,0.2,0.3,0.2l0,0c0.1,0,0.2,0.1,0.3,0.1h0h0.1c0.1,0,0.3,0,0.4-0.1l0,0c0.1,0,0.1-0.1,0.2-0.2v0c0.1-0.1,0.2-0.4,0.2-0.6v0v-6.2c0-0.5-0.4-0.8-0.8-0.8h-0.1c-0.5,0-0.8,0.4-0.8,0.8v3.6l-3-4C15.8,10.2,15.6,10.1,15.2,10.1L15.2,10.1z M12.3,10.1c-0.5,0-0.8,0.4-0.8,0.8v6.2c0,0.5,0.4,0.8,0.8,0.8h0.1c0.5,0,0.8-0.4,0.8-0.8v-6.2C13.2,10.4,12.8,10.1,12.3,10.1L12.3,10.1z M6.7,10.1c-0.5,0-0.8,0.4-0.8,0.8v6.2c0,0.5,0.4,0.8,0.8,0.8h3.2c0.5,0,0.8-0.4,0.8-0.8V17c0-0.5-0.4-0.8-0.8-0.8H7.6v-5.3C7.6,10.4,7.2,10.1,6.7,10.1L6.7,10.1z" /></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_telegram nolightbox essb_link_svg_icon"> <a href="https://telegram.me/share/url?url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html&text=Minna%20no%20Nihongo%20Bài%2014%20–%20Luyện%20Chữ%20Hán" title="Share on Telegram" onclick="essb.tracking_only('', 'telegram', '13430372', true);" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-telegram essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_telegram"><svg class="essb-svg-icon essb-svg-icon-telegram" aria-hidden="true" role="img" focusable="false" width="28" height="32" viewbox="0 0 28 32" xmlns="http://www.w3.org/2000/svg"><path d="M27.919 6.162l-4.225 19.925c-0.319 1.406-1.15 1.756-2.331 1.094l-6.438-4.744-3.106 2.988c-0.344 0.344-0.631 0.631-1.294 0.631l0.463-6.556 11.931-10.781c0.519-0.463-0.113-0.719-0.806-0.256l-14.75 9.287-6.35-1.988c-1.381-0.431-1.406-1.381 0.288-2.044l24.837-9.569c1.15-0.431 2.156 0.256 1.781 2.013z"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_messenger nolightbox essb_link_svg_icon"> <a href="fb-messenger://share/?link=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html" title="Share on Messenger" onclick="essb.fbmessenger('', 'https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fluyen-chu-han-bai-14.html', '13430372'); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-messenger essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_messenger"><svg class="essb-svg-icon essb-svg-icon-messenger" aria-hidden="true" role="img" focusable="false" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32"><path d="M0,15.5C0,6.6,7,0,16,0s16,6.6,16,15.5S25,31,16,31c-1.6,0-3.2-0.2-4.6-0.6c-0.3-0.1-0.6-0.1-0.9,0.1l-3.2,1.4c-0.6,0.3-1.4,0-1.7-0.6c-0.1-0.2-0.1-0.3-0.1-0.5l-0.1-2.9c0-0.3-0.2-0.7-0.4-0.9C1.8,24.1-0.1,19.9,0,15.5z M11.1,12.6l-4.7,7.5c-0.5,0.7,0.4,1.5,1.1,1l5.1-3.8c0.3-0.3,0.8-0.3,1.2,0l3.7,2.8c1.1,0.8,2.7,0.5,3.5-0.6l4.7-7.5c0.5-0.7-0.4-1.5-1.1-1l-5.1,3.8c-0.3,0.3-0.8,0.3-1.1,0L14.6,12c-1.1-0.8-2.6-0.6-3.4,0.5C11.2,12.5,11.1,12.5,11.1,12.6z" /></svg></span><span class="essb_network_name essb_noname"></span></a></li></ul></div>

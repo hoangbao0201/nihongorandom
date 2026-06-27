@@ -1,0 +1,110 @@
+{
+  "lesson": 19,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "[山に～]登ります",
+      "kanjiHtml": "[山に～]登ります",
+      "sinoVietnamese": "SƠN ĐĂNG",
+      "kana": "のぼります",
+      "kanaHtml": "のぼります"
+    },
+    {
+      "index": 2,
+      "kanji": "泊まります [ホテルに～]",
+      "kanjiHtml": "泊まります<br />[ホテルに～]",
+      "sinoVietnamese": "BẠC",
+      "kana": "とまります [ホテルに～]",
+      "kanaHtml": "とまります<br />[ホテルに～]"
+    },
+    {
+      "index": 3,
+      "kanji": "掃除します",
+      "kanjiHtml": "掃除します",
+      "sinoVietnamese": "TẢO TRỪ",
+      "kana": "そうじします",
+      "kanaHtml": "そうじします"
+    },
+    {
+      "index": 4,
+      "kanji": "洗濯します",
+      "kanjiHtml": "洗濯します",
+      "sinoVietnamese": "TẨY TRẠC",
+      "kana": "せんたくします",
+      "kanaHtml": "せんたくします"
+    },
+    {
+      "index": 5,
+      "kanji": "眠い",
+      "kanjiHtml": "眠い",
+      "sinoVietnamese": "MIÊN",
+      "kana": "ねむい",
+      "kanaHtml": "ねむい"
+    },
+    {
+      "index": 6,
+      "kanji": "強い",
+      "kanjiHtml": "強い",
+      "sinoVietnamese": "CƯỜNG",
+      "kana": "つよい",
+      "kanaHtml": "つよい"
+    },
+    {
+      "index": 7,
+      "kanji": "弱い",
+      "kanjiHtml": "弱い",
+      "sinoVietnamese": "NHƯỢC",
+      "kana": "よわい",
+      "kanaHtml": "よわい"
+    },
+    {
+      "index": 8,
+      "kanji": "相撲",
+      "kanjiHtml": "相撲",
+      "sinoVietnamese": "",
+      "kana": "すもう",
+      "kanaHtml": "すもう"
+    },
+    {
+      "index": 9,
+      "kanji": "お茶",
+      "kanjiHtml": "お茶",
+      "sinoVietnamese": "TRÀ",
+      "kana": "おちゃ",
+      "kanaHtml": "おちゃ"
+    },
+    {
+      "index": 10,
+      "kanji": "日",
+      "kanjiHtml": "日",
+      "sinoVietnamese": "NHẬT",
+      "kana": "ひ",
+      "kanaHtml": "ひ"
+    },
+    {
+      "index": 11,
+      "kanji": "調子",
+      "kanjiHtml": "調子",
+      "sinoVietnamese": "ĐIỀU TỬ",
+      "kana": "ちょうし",
+      "kanaHtml": "ちょうし"
+    },
+    {
+      "index": 12,
+      "kanji": "一度",
+      "kanjiHtml": "一度",
+      "sinoVietnamese": "NHẤT ĐỘ",
+      "kana": "いちど",
+      "kanaHtml": "いちど"
+    },
+    {
+      "index": 13,
+      "kanji": "一度も",
+      "kanjiHtml": "一度も",
+      "sinoVietnamese": "NHẤT ĐỘ",
+      "kana": "いちども",
+      "kanaHtml": "いちども"
+    }
+  ]
+}

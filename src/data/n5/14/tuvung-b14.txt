@@ -1,0 +1,407 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9202256620459772" crossorigin="anonymous"></script><div class="vnjp-ad-slot vnjp-ad-before" data-slot="before" style="min-height:300px"><div class="vnjp-ad-inner"><!-- vnjpclub - top - content -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9202256620459772" data-ad-slot="7565604990" data-ad-format="auto" data-full-width-responsive="true"></ins></div></div><noscript><div class="vnjp-noscript">⚠️ Vui lòng bật JavaScript để xem nội dung trang này.</div></noscript><div class="vnjp-js-only">
+    <style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th {
+        background: #333;
+        color: white;
+        font-weight: bold;
+        border: 1px;
+    }
+    td, th {
+        padding: 6px;
+        border: 1px solid #ccc;
+        text-align: left;
+    }
+    .td_center{
+        padding-left: 10px;
+        text-align: center;
+    }
+    .td_left{
+        text-align: left;
+    }
+    .tv{
+        min-width:180px;
+    }
+    .ht{
+        min-width:100px;
+    }
+    .ah{
+        min-width:160px;
+    }
+    /* Hai nút trước bảng từ vựng → trang Minna flashcard */
+    .vnjp-minna-top-actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 0 0 14px;
+    }
+    .vnjp-minna-top-actions a {
+        display: inline-block;
+        padding: 8px 14px;
+        font-size: 0.95rem;
+        font-weight: 600;
+        text-decoration: none !important;
+        border-radius: 999px;
+        border: 1px solid rgba(0,0,0,.12);
+        color: #111 !important;
+        background: #f8fafc;
+    }
+    @media
+    only screen and (max-width: 767px),
+    (min-device-width: 768px) and (max-device-width: 1024px)  {
+        table, thead, tbody, th, td, tr {
+            display: block;
+        }
+        thead tr {
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+        }
+
+        /*Chỉnh lại trong phần NGỮ PHÁP bị khó nhìn khi màn hình mobile*/
+        table.search_result,
+        table.search_result thead,
+        table.search_result tbody,
+        table.search_result th,
+        table.search_result td,
+        table.search_result tr {
+            border: none !important; /*Xóa hết làm li*/
+        }
+        table.search_result{
+            border:1px #CCC solid !important; /*Cài đặt khung bao quanh*/
+        }
+        table.search_result td{
+            width:auto;
+            height: auto !important;
+            border-bottom:0.5px #eee solid !important; /*Cài ặt khung td ngang */
+        }
+
+        table.search_result tr td:first-child{
+            border-top:1px #CCC solid !important; /*Cài đặt khung td ngang phân chia theo tr*/
+        }
+
+        table.search_result tr:last-child td:last-child{
+            border-bottom: none !important; /*Xóa khung cuối của tr cuối*/
+        }
+        /*END Chỉnh lại trong phần ngữ pháp bị khó nhìn khi màn hình mobile*/
+    }
+
+    /* CTA: luyện tập sau khi xem hết từ vựng */
+    .cta-bottom {
+        margin: 2rem auto 1.5rem;
+        padding: 1.75rem 1.5rem;
+        text-align: center;
+        background: linear-gradient(160deg, #fff8f3 0%, #ffffff 45%, #f3f7ff 100%);
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        border-radius: 14px;
+        box-shadow: 0 4px 22px rgba(0, 0, 0, 0.06);
+    }
+    .cta-bottom h3 {
+        margin: 0 0 0.5rem;
+        font-size: 1.2rem;
+        font-weight: 700;
+        line-height: 1.35;
+        color: #1a1a1a;
+    }
+    .cta-bottom p {
+        margin: 0 0 1.25rem;
+        font-size: 0.95rem;
+        line-height: 1.55;
+        color: #444;
+    }
+    .cta-bottom a.btn-main {
+        display: inline-block;
+        padding: 0.75rem 1.75rem;
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.3;
+        color: #fff !important;
+        text-decoration: none !important;
+        border-radius: 999px;
+        background: linear-gradient(135deg, #ea580c 0%, #dc2626 100%);
+        box-shadow: 0 4px 14px rgba(220, 38, 38, 0.35);
+        transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+    }
+    .cta-bottom a.btn-main:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 22px rgba(220, 38, 38, 0.42);
+        filter: brightness(1.03);
+        color: #fff !important;
+    }
+    .cta-bottom a.btn-main:focus {
+        outline: 2px solid #ea580c;
+        outline-offset: 3px;
+    }
+    .cta-bottom .cta-app-links {
+        margin-top: 1.25rem;
+        padding-top: 1.25rem;
+        border-top: 1px solid rgba(0, 0, 0, 0.08);
+    }
+    .cta-bottom .cta-app-links > p {
+        margin: 0 0 0.75rem;
+        font-size: 0.9rem;
+        color: #555;
+    }
+    .cta-bottom .cta-app-btns {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        align-items: center;
+    }
+    .cta-bottom a.cta-app-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        padding: 0.55rem 1.15rem;
+        font-size: 0.9rem;
+        font-weight: 600;
+        line-height: 1.3;
+        color: #1a1a1a !important;
+        text-decoration: none !important;
+        border-radius: 999px;
+        border: 1px solid rgba(0, 0, 0, 0.14);
+        background: #fff;
+        transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+    }
+    .cta-bottom a.cta-app-btn .cta-app-btn__ico {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        justify-content: center;
+        line-height: 0;
+    }
+    .cta-bottom a.cta-app-btn .cta-app-btn__ico svg {
+        display: block;
+    }
+    .cta-bottom a.cta-app-btn--ios .cta-app-btn__ico {
+        color: #000;
+    }
+    .cta-bottom a.cta-app-btn small {
+        font-weight: 500;
+        font-size: 0.82em;
+        opacity: 0.82;
+    }
+    .cta-bottom a.cta-app-btn:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        border-color: rgba(0, 0, 0, 0.22);
+        color: #1a1a1a !important;
+    }
+    .cta-bottom a.cta-app-btn:focus {
+        outline: 2px solid #94a3b8;
+        outline-offset: 2px;
+    }
+    @media (max-width: 480px) {
+        .cta-bottom {
+            margin-left: 0;
+            margin-right: 0;
+            padding: 1.35rem 1rem;
+        }
+        .cta-bottom h3 {
+            font-size: 1.05rem;
+        }
+        .cta-bottom a.btn-main {
+            width: 100%;
+            box-sizing: border-box;
+            padding-left: 1rem;
+            padding-right: 1rem;
+        }
+        .cta-bottom a.cta-app-btn {
+            flex: 1 1 auto;
+            min-width: 8rem;
+            text-align: center;
+            box-sizing: border-box;
+        }
+    }
+    </style>
+
+    <script data-optimized="1" type="text/javascript" src="https://www.vnjpclub.com/wp-content/litespeed/js/d68f0e08efda62c2fbdec3c0fd94f31d.js?ver=4f31d" defer data-deferred="1"></script>
+
+            <div id="khungchinhgiua">
+
+            <audio type="hidden" id="player" autoplay>
+                <source src="0.mp3" type="audio/mp3">
+            </audio>
+            <audio type="hidden" src="0.ogg"></audio>
+
+                    <div class="vnjp-minna-top-actions">
+            <a href="https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=14">Luyện từ vựng</a>
+            <a class="vnjp-minna-top-fc" href="https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=14&#038;mf=fc">Flashcard</a>
+        </div>
+        
+            
+                <table class="search_result">
+                <thead>
+                    <tr>
+                        <th class="tv">Từ Vựng</th>
+                        <th class="ht">Hán Tự</th>
+                        <th class="ah">Âm Hán</th>
+                        <th width="40px">Phát Âm</th>
+                        <th>Nghĩa</th>
+                    </tr>
+                </thead>
+                <tbody>
+            <tr><td>つけます</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#48;&#49;&#49;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>bật (điện, máy điều hòa)</td></tr><tr><td>けします</td><td>消します</td><td>TIÊU</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#48;&#49;&#49;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>tắt (điện, máy điều hòa)</td></tr><tr><td>あけます</td><td>開けます</td><td>KHAI</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#48;&#49;&#49;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>mở (cửa, cửa sổ)</td></tr><tr><td>しめます</td><td>閉めます</td><td>BẾ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#48;&#49;&#49;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>đóng (cửa, cửa sổ)</td></tr><tr><td>いそぎます</td><td>急ぎます</td><td>CẤP</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;&#48;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>vội, gấp</td></tr><tr><td>まちます</td><td>待ちます</td><td>ĐÃI</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;&#48;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>đợi, chờ</td></tr><tr><td>もちます</td><td>持ちます</td><td>TRÌ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;&#48;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>mang, cầm</td></tr><tr><td>とります</td><td>取ります</td><td>THỦ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;&#48;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>lấy (muối)</td></tr><tr><td>てつだいます</td><td>手伝います</td><td>THỦ TRUYỀN</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>giúp (làm việc)</td></tr><tr><td>よびます</td><td>呼びます</td><td>HÔ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>gọi (taxi, tên)</td></tr><tr><td>はなします</td><td>話します</td><td>THOẠI</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;&#49;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>nói, nói chuyện</td></tr><tr><td>つかいます</td><td>使います</td><td>SỬ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;&#49;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>dùng, sử dụng</td></tr><tr><td>とめます</td><td>止めます</td><td>CHỈ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;&#48;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>dừng, đỗ</td></tr><tr><td>みせます</td><td>見せます</td><td>KIẾN</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;&#48;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>cho xem, trình</td></tr><tr><td>おしえます<br />[じゅうしょを～]</td><td>教えます<br />[住所を～]</td><td>TRÚ SỞ GIÁO</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;&#48;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>nói, cho biết [địa chỉ]</td></tr><tr><td>すわります</td><td>座ります</td><td>TỌA</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;&#48;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>ngồi</td></tr><tr><td>たちます</td><td>立ちます</td><td>LẬP</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>đứng</td></tr><tr><td>はいります<br />[きっさてんに～]</td><td>入ります<br />[喫茶店に～]</td><td>NHẬP<br />KHIẾT TRÀ ĐIẾM</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>vào [quán giải khát]</td></tr><tr><td>でます<br />[きっさてんを～]</td><td>出ます<br />[喫茶店に～]</td><td>XUẤT<br />KHIẾT TRÀ ĐIẾM</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;&#49;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>ra, ra khỏi [quán giải khát]</td></tr><tr><td>ふります<br />[あめが～] </td><td>降ります<br />[雨が～]</td><td>GIÁNG<br />VŨ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;&#49;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>rơi [mưa~]</td></tr><tr><td>コピーします</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;&#48;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>copy</td></tr><tr><td>でんき</td><td>電気</td><td>ĐIỆN KHÍ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;&#48;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>điện, đèn điện</td></tr><tr><td>エアコン</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;&#48;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>máy điều hòa</td></tr><tr><td>パスポート</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;&#48;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>hộ chiếu</td></tr><tr><td>なまえ</td><td>名前</td><td>DANH TIỀN</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;&#49;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>tên</td></tr><tr><td>じゅうしょ</td><td>住所</td><td>TRÚ SỞ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;&#49;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>địa chỉ</td></tr><tr><td>ちず</td><td>地図</td><td>ĐỊA ĐỒ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;&#49;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>bản đồ</td></tr><tr><td>しお</td><td>塩</td><td>DIÊM</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;&#49;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>muối</td></tr><tr><td>さとう</td><td>砂糖</td><td>SA ĐƯỜNG</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;&#48;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>đường</td></tr><tr><td>もんだい</td><td>問題</td><td>VẤN ĐỀ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;&#48;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>câu hỏi, vấn đề</td></tr><tr><td>こたえ</td><td>答え</td><td>ĐÁP</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;&#48;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>câu trả lời</td></tr><tr><td>よみかた</td><td>読み方</td><td>ĐỘC PHƯƠNG</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;&#48;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>cách đọc</td></tr><tr><td>～かた</td><td>～方</td><td>PHƯƠNG</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;&#49;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>cách ~</td></tr><tr><td>まっすぐ</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;&#49;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>thẳng</td></tr><tr><td>ゆっくり</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;&#49;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>chậm, thong thả, thoải mái</td></tr><tr><td>すぐ</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;&#49;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>ngay, lập tức</td></tr><tr><td>また</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>lại (~đến)</td></tr><tr><td>あとで</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>sau</td></tr><tr><td>もう　すこし</td><td>もう少し</td><td>THIẾU</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>thêm một chút nữa thôi</td></tr><tr><td>もう～</td><td></td><td></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>thêm~</td></tr><tr><td colspan='5'>＜<b><ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby> C</b>＞</td></tr><tr><td colspan='3'>さあ</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;&#49;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>thôi/nào　(dùng để thúc giục hoặc <br />　　　khuyến khích ai làm gì.)</td></tr><tr><td colspan='3'>あれ？</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;&#49;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>Ô! (câu cảm thán khi phát hiện hoặc <br />　　　thấy cái gì đó lạ, hoặc bất ngờ)</td></tr><tr><td colspan='5'>＜<b><ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby></b>＞</td></tr><tr><td colspan='3'><ruby>信号<rp>（</rp><rt>しんごう</rt><rp>）</rp></ruby>を<ruby>右<rp>（</rp><rt>みぎ</rt><rp>）</rp></ruby>へ<ruby>曲<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>がってください</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;&#49;&#49;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>Anh/ Chị rẽ phải ở chổ đèn tín hiệu.</td></tr><tr><td colspan='3'>これでお<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;&#49;&#49;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>Gởi anh tiền này.</td></tr><tr><td colspan='3'>お<ruby>釣<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>り</td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#49;&#48;&#48;&#48;.mp3" controls controlsList="nodownload"></audio></td><td>tiền lẻ</td></tr><tr><td colspan='5'><center>------------------------------------------------</center></td></tr><tr><td colspan='3'>みどり<ruby>町<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby></td><td class="td_center"><audio preload="none" class="tvplay" src="/Audio/minnamoi/bai14/&#48;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#49;&#48;&#48;&#49;.mp3" controls controlsList="nodownload"></audio></td><td>tên một thành phố (giả định)</td></tr></tbody></table>        </div>
+                <div class="cta-bottom">
+          <h3>🔥 Bạn đã xem hết từ vựng</h3>
+          <p>Nhưng nếu không luyện tập, bạn sẽ không nhớ được lâu.</p>
+          <a class="btn-main" href="https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=14">
+            🚀 Bắt đầu luyện tập ngay (bản Web)
+          </a>
+          <div class="cta-app-links">
+            <p>Ứng dụng <strong>Tomolan Minna Vocabulary</strong> — luyện từ vựng Minna mọi lúc</p>
+            <div class="cta-app-btns">
+              <a class="cta-app-btn cta-app-btn--ios" href="https://apps.apple.com/us/app/tomolan-minna-vocabulary/id&#54;&#55;&#54;&#50;&#48;&#52;&#49;&#48;&#49;&#51;" rel="noopener noreferrer" target="_blank">
+                <span class="cta-app-btn__ico" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="&#48; &#48; &#50;&#52; &#50;&#52;" width="22" height="22" focusable="false"><path fill="currentColor" d="M&#49;&#56;.&#55;&#49; &#49;&#57;.&#53;C&#49;&#55;.&#56;&#56; &#50;&#48;.&#55;&#52; &#49;&#55; &#50;&#49;.&#57;&#53; &#49;&#53;.&#54;&#54; &#50;&#49;.&#57;&#55;C&#49;&#52;.&#51;&#50; &#50;&#50; &#49;&#51;.&#56;&#57; &#50;&#49;.&#49;&#56; &#49;&#50;.&#51;&#55; &#50;&#49;.&#49;&#56;C&#49;&#48;.&#56;&#52; &#50;&#49;.&#49;&#56; &#49;&#48;.&#51;&#55; &#50;&#49;.&#57;&#53; &#57;.&#48;&#57;&#57;&#57;&#55; &#50;&#50;C&#55;.&#55;&#56;&#57;&#57;&#55; &#50;&#50;.&#48;&#53; &#54;.&#55;&#57;&#57;&#57;&#55; &#50;&#48;.&#54;&#56; &#53;.&#57;&#53;&#57;&#57;&#55; &#49;&#57;.&#52;&#55;C&#52;.&#50;&#52;&#57;&#57;&#55; &#49;&#55; &#50;.&#57;&#51;&#57;&#57;&#55; &#49;&#50;.&#52;&#53; &#52;.&#54;&#57;&#57;&#57;&#55; &#57;.&#51;&#57;C&#53;.&#53;&#54;&#57;&#57;&#55; &#55;.&#56;&#55; &#55;.&#49;&#50;&#57;&#57;&#55; &#54;.&#57;&#49; &#56;.&#56;&#49;&#57;&#57;&#55; &#54;.&#56;&#56;C&#49;&#48;.&#49; &#54;.&#56;&#54; &#49;&#49;.&#51;&#50; &#55;.&#55;&#53; &#49;&#50;.&#49;&#49; &#55;.&#55;&#53;C&#49;&#50;.&#56;&#57; &#55;.&#55;&#53; &#49;&#52;.&#51;&#55; &#54;.&#54;&#56; &#49;&#53;.&#57;&#50; &#54;.&#56;&#52;C&#49;&#54;.&#53;&#55; &#54;.&#56;&#55; &#49;&#56;.&#51;&#57; &#55;.&#49; &#49;&#57;.&#53;&#54; &#56;.&#56;&#50;C&#49;&#57;.&#52;&#55; &#56;.&#56;&#56; &#49;&#55;.&#51;&#57; &#49;&#48;.&#49; &#49;&#55;.&#52;&#49; &#49;&#50;.&#54;&#51;C&#49;&#55;.&#52;&#52; &#49;&#53;.&#54;&#53; &#50;&#48;.&#48;&#54; &#49;&#54;.&#54;&#54; &#50;&#48;.&#48;&#57; &#49;&#54;.&#54;&#55;C&#50;&#48;.&#48;&#54; &#49;&#54;.&#55;&#52; &#49;&#57;.&#54;&#55; &#49;&#56;.&#49;&#49; &#49;&#56;.&#55;&#49; &#49;&#57;.&#53;ZM13 3.5C&#49;&#51;.&#55;&#51; &#50;.&#54;&#55; &#49;&#52;.&#57;&#52; &#50;.&#48;&#52; &#49;&#53;.&#57;&#52; &#50;C&#49;&#54;.&#48;&#55; &#51;.&#49;&#55; &#49;&#53;.&#54; &#52;.&#51;&#53; &#49;&#52;.&#57; &#53;.&#49;&#57;C&#49;&#52;.&#50;&#49; &#54;.&#48;&#52; &#49;&#51;.&#48;&#55; &#54;.&#55; &#49;&#49;.&#57;&#53; &#54;.&#54;&#49;C&#49;&#49;.&#56; &#53;.&#52;&#54; &#49;&#50;.&#51;&#54; &#52;.&#50;&#54; &#49;&#51; &#51;.&#53;Z"/></svg>
+                </span>
+                <span>App Store <small>(iOS)</small></span>
+              </a>
+              <a class="cta-app-btn cta-app-btn--android" href="https://play.google.com/store/apps/details?id=com.tomolan.minna" rel="noopener noreferrer" target="_blank">
+                <span class="cta-app-btn__ico" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="&#48; &#48; &#51;&#50; &#51;&#50;" width="22" height="22" focusable="false">
+                    <path fill="#00F076" d="M17,14.5l4.2-4.5L4.9,1.2C4.8,1.1,4.6,1.1,4.3,1L17,14.5z"/>
+                    <path fill="#FFC900" d="M23,21l5.9-3.2c0.7-0.4,1.1-1,1.1-1.8s-&#48;.&#52;-&#49;.&#53;-&#49;.&#49;-&#49;.&#56;L23,11l-4.7,5L23,21z"/>
+                    <path fill="#00D6FF" d="M2.4,1.9C2.1,2.2,2,2.6,2,3V29c0,0.4,0.1,0.8,0.4,1.2L15.6,16L2.4,1.9z"/>
+                    <path fill="#FF3A44" d="M17,17.5L4.3,31c0.2,0,0.4-0.1,0.6-0.2L21.2,22L17,17.5z"/>
+                  </svg>
+                </span>
+                <span>Google Play <small>(Android)</small></span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+
+
+    <style>
+    .vnjp-link-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr)); /* Desktop: 4 ô / hàng */
+        gap: 10px 10px;
+        margin: 10px 0 20px;
+        clear: both; /* cắt float cũ nếu có */
+    }
+
+    .vnjp-link-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start; /* nếu muốn chữ giữa thì đổi thành center */
+        padding: 7px 5px 5px 15px;
+        border-radius: 10px;
+        background: #ffffff;
+        border: 1px solid #e0e4ef;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.04);
+        text-decoration: none;
+        transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+        float: none; /* ép bỏ mọi float từ CSS cũ */
+    }
+
+    .vnjp-link-item:hover {
+        background-color: #f5f7ff;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        transform: translateY(-2px);
+    }
+
+    .vnjp-link-title {
+        display: block;
+        font-size: 14px;
+        font-weight: 600;
+        color: #222;
+        margin-bottom: 3px;
+    }
+
+    .vnjp-link-sub {
+        display: block;
+        font-size: 11px;
+        color: #6b7280;
+    }
+
+    a.disabled {
+        pointer-events: none;   /* ❌ không click được */
+        opacity: 0.5;           /* làm mờ */
+        cursor: not-allowed;
+        text-decoration: none;
+    }
+
+    /* Tablet: 3 ô / hàng */
+    @media (max-width: 1024px) {
+        .vnjp-link-grid {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+    }
+
+    /* Mobile: 2 ô / hàng */
+    @media (max-width: 768px) {
+        .vnjp-link-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .vnjp-link-title {
+            font-size: 13px;
+        }
+        .vnjp-link-sub {
+            font-size: 10px;
+        }
+    }
+    </style>
+    <div class="vnjp-link-grid">
+        <a href="/minna-no-nihongo/bai-14-tu-vung.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Từ vựng</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-ngu-phap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Ngữ pháp</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-luyen-doc.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện đọc</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-hoi-thoai.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hội thoại</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-luyen-nghe.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện nghe</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-bai-tap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Bài tập</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-han-tu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hán tự</span>
+        </a>
+
+        <a href="/minna-no-nihongo/luyen-chu-han-bai-14.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện Kanji</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-25-bai-doc-hieu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Đọc hiểu</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-kiem-tra.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Kiểm tra</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-14-tham-khao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Tham khảo</span>
+        </a>
+
+        <a href="#" class="vnjp-link-item disabled">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a>
+<!--         <a href="/minna-no-nihongo/bai-<!?php echo $de_stt; ?>-nang-cao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a> -->
+    </div>
+
+    <style type="text/css"

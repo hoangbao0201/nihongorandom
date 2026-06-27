@@ -1,0 +1,720 @@
+<!--rubi = 1 --><div class="tab_container"><ul class="tabs"><li><a href="#" rel="#tab3" name="advtab">Câu 1</a></li><li><a href="#" rel="#tab4" name="advtab">Câu 2</a></li><li><a href="#" rel="#tab5" name="advtab">Câu 3</a></li></ul>
+<div class="tab_content" id="tab3" style="display: none;"><p></p>
+<p>
+	</p><div class="tudich"><div class="candich"><span style="font-size: 16px;"><strong>1.&nbsp;&nbsp; </strong></span><strong>ミラーさんは　<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>と　<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>しました。あとで　ミラーさんは　<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>で　<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>と　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いますか。</strong></div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Miller đã nói chuyện với người bạn. Sau đó, Miller nói gì trong điện thoại?</div></div></div><p></p>
+<p>
+	<audio controls="" preload="none"><source src="/Audio/minnaln/minna1/b/44B-44.mp3" type="audio/mpeg"></audio></p>
+<p>
+	<strong><span><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>：</span></strong></p><div class="playwrap"><audio class="player" src="/Audio/FD1/Minna_Bai25_ck1_rei.mp3" type="audio/mpeg" preload="none"></audio><a class="playerbt" title="button"></a></div><strong><span style="font-size:14px;">Đáp án: b</span></strong><p></p>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">イーさん、<ruby>金曜日<rp>(</rp><rt>きんようび</rt><rp>)</rp></ruby>の　<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>、うちで　パーティーをします。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Bạn Lee, tối thứ sáu sẽ tổ chức buổi tiệc ở nhà mình.</div></div></div><div class="tudich"><div class="candich"><ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby>だったら、<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ませんか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu rãnh, bạn đến nhé?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">ありがとうございます。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Cảm ơn.</div></div></div><div class="tudich"><div class="candich"><ruby>大丈夫<rp>(</rp><rt>だいじょうぶ</rt><rp>)</rp></ruby>だと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますけど、あとで　<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>します。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Mình nghĩ không sao nhưng mình sẽ điện thoại sau nhé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&#8212;&#8212;&#8212;&#8211;</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい。ミラーです。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng, Miller đây.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">もしもし、ミラーさん。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Alô, chào bạn Miller.</div></div></div><div class="tudich"><div class="candich">イーです。あのう、<ruby>金曜日<rp>(</rp><rt>きんようび</rt><rp>)</rp></ruby>ですが、<ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby>から　<ruby>出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp></ruby>しなければなりません。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Mình là Lee. À này, thứ sáu, từ buổi chiều mình phải đi công tác.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">a.そうですか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy à.</div></div></div><div class="tudich"><div class="candich">じゃ、６<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>てください。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, hãy đến lúc 6 giờ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<div class="tudich"><div class="candich">b.そうですか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy à.</div></div></div><div class="tudich"><div class="candich"> <ruby>残念<rp>(</rp><rt>ざんねん</rt><rp>)</rp></ruby>ですね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Tiếc thật nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án: b</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	<strong><span>1)</span></strong></p>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>木村<rp>(</rp><rt>きむら</rt><rp>)</rp></ruby>さん、あしたの　テニスですけど、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Chào bạn Kimura, Tenis ngày mai nhưng mà.</div></div></div><div class="tudich"><div class="candich"><ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>は　<ruby>大丈夫<rp>(</rp><rt>だいじょうぶ</rt><rp>)</rp></ruby>ですか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Thời tiết có sao không?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">うーん、そうですね……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Uh… Đúng rồi nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">もし、<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が　<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>かったら、<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu thời tiết xấu thì tụi mình đi xem phim nhé?</div></div></div><div class="tudich"><div class="candich">チケットが　ありますから。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vì tớ có vé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">いいですね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Được đấy nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&#8212;&#8212;&#8212;&#8211;</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい。ミラーです。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng, Miller đây.</div></div></div></td>
+		</tr>		
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">もしもし、<ruby>木村<rp>(</rp><rt>きむら</rt><rp>)</rp></ruby>です。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Alô, tôi là Kimura.</div></div></div><div class="tudich"><div class="candich">きょうは　<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>ですね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Hôm nay, trời mưa nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">a.ええ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng</div></div></div><div class="tudich"><div class="candich"> じゃ、<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, cùng xem phim nhé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<div class="tudich"><div class="candich">b.ええ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng</div></div></div><div class="tudich"><div class="candich"> じゃ、テニスの　<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>を　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, cùng đi xem trận đấu Tenis nhé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án: a</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	<strong><span>2)</span></strong></p>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>佐藤<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>さん、<ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby>いっしょに　<ruby>食事<rp>(</rp><rt>しょくじ</rt><rp>)</rp></ruby>しませんか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Chào bạn Sato, tối nay cùng đi dùng bữa nhé?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">いいですね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Được đấy nhỉ.</div></div></div><div class="tudich"><div class="candich">でも、きょうは　<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が　たくさんあって……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Thế nhưng, hôm nay vì có nhiều công việc …….</div></div></div><div class="tudich"><div class="candich">７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>ごろに　なると　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますが。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Tôi nghĩ sẽ khoảng 7 giờ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">じゃ、７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>までに　<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わったら、<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, xong đến 7 giờ, chúng ta cùng đi.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">わかりました。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Mình đã hiểu rồi.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&#8212;&#8212;&#8212;&#8211;</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい。ミラーです。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng, Miller đây.</div></div></div></td>
+		</tr>		
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">もしもし、<ruby>佐藤<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>です。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Alô, mình là Sato.</div></div></div><div class="tudich"><div class="candich">もう７<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>ですけど、<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が　<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わりません。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Đã 7 giờ rồi, mà công việc vẫn chưa xong.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">a.そうですか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy à.</div></div></div><div class="tudich"><div class="candich"> じゃ、<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>っています。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, tôi đang đợi.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<div class="tudich"><div class="candich">b.そうですか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy à.</div></div></div><div class="tudich"><div class="candich"> じゃ、<ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby>は　やめましょう。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, tối nay hủy nhé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án: b</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	<strong><span>3)</span></strong></p>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">ミラーさん、お<ruby>茶<rp>(</rp><rt>ちゃ</rt><rp>)</rp></ruby>を　<ruby>習<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Chào bạn Miller, cùng đi học trà đạo không?</div></div></div><div class="tudich"><div class="candich"><ruby>渡辺<rp>(</rp><rt>わたなべ</rt><rp>)</rp></ruby>さんが　<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてくれると　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いました。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Bạn Watanabe nói là sẽ chỉ cho tôi.</div></div></div><div class="tudich"><div class="candich">おもしろいと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますが……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Tôi nghĩ hay đấy.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">うん、<ruby>習<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いたいですけど……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Uh, tôi muốn học nhưng…….</div></div></div><div class="tudich"><div class="candich"><ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Học vào ngày thứ mấy?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">えーと、<ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>です。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Um… thứ bảy.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby>だったら、<ruby>大丈夫<rp>(</rp><rt>だいじょうぶ</rt><rp>)</rp></ruby>です。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu buổi chiều thì không sao.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B</strong></span><span style="font-size:14px;"><strong>:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">じゃ、<ruby>渡辺<rp>(</rp><rt>わたなべ</rt><rp>)</rp></ruby>さんに　<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を　<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて、<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>しますね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì để tôi điện thoại hỏi bạn Watanabe giờ giấc nhé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&#8212;&#8212;&#8212;&#8211;</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい。ミラーです。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng, Miller đây.</div></div></div></td>
+		</tr>			
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">もしもし、お<ruby>茶<rp>(</rp><rt>ちゃ</rt><rp>)</rp></ruby>は　<ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>の　<ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby>２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>からです。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Alô, học trà đạo từ 2 giờ chiều ngày thứ bảy.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">a.そうですか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy à.</div></div></div><div class="tudich"><div class="candich"><ruby>残念<rp>(</rp><rt>ざんねん</rt><rp>)</rp></ruby>ですね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Tiếc thật nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<div class="tudich"><div class="candich">b.そうですか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy à.</div></div></div><div class="tudich"><div class="candich">じゃ、ぜひ　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, nhất định xin nhờ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án: b</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	</p></div><div class="tab_content" id="tab4" style="display: none;"><p></p>
+<p>
+	</p><div class="tudich"><div class="candich"><span style="font-size: 16px;"><strong>2. &nbsp;&nbsp;</strong></span><strong>あしたの　<ruby>予定<rp>(</rp><rt>よてい</rt><rp>)</rp></ruby>を　<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いてください。</strong></div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Hãy ghi kế hoạch ngày mai.</div></div></div><p></p>
+<p>
+	<audio controls="" preload="none"><source src="/Audio/minnaln/minna1/b/45B-45.mp3" type="audio/mpeg"></audio></p>
+<p>
+	<a class="motaicho720" href="/images/minnaln/bai25/cau2.jpg"><span style="font-size: 16px;"><img alt="" src="/images/minnaln/bai25/cau2.jpg" style="width: 100%; "></span></a></p>
+<table border="1" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 40px;">
+				<span><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby></span></td>
+			<td style="text-align: center;">
+				<strong><span style="font-size:14px;">Đáp án: b</span></strong></td>
+			<td>
+				a.<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>を　する</td>
+		</tr>
+		<tr>
+			<td>
+				①</td>
+			<td style="text-align: center;">
+				____</td>
+			<td>
+				b.<ruby>出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp></ruby>の　<ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby>を　<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>る</td>
+		</tr>
+		<tr>
+			<td>
+				②</td>
+			<td style="text-align: center;">
+				____</td>
+			<td>
+				c.<ruby>空港<rp>(</rp><rt>くうこう</rt><rp>)</rp></ruby>へ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く</td>
+		</tr>
+		<tr>
+			<td>
+				③</td>
+			<td style="text-align: center;">
+				____</td>
+			<td>
+				d.ホテルへ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く</td>
+		</tr>
+		<tr>
+			<td>
+				④</td>
+			<td style="text-align: center;">
+				____</td>
+			<td>
+				e.<ruby>部長<rp>(</rp><rt>ぶちょう</rt><rp>)</rp></ruby>に　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>せる</td>
+		</tr>
+		<tr>
+			<td>
+				⑤</td>
+			<td style="text-align: center;">
+				____</td>
+			<td>
+				f.<ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>に　<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>を　かける</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">あしたの　<ruby>予定<rp>(</rp><rt>よてい</rt><rp>)</rp></ruby>です。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Kế hoạch ngày mai.</div></div></div><div class="tudich"><div class="candich">よく　<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて　ください。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Hãy nghe kỹ nhé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>の　<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>が　<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わったら、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu kết thúc cuộc họp buổi sáng thì.</div></div></div><div class="tudich"><div class="candich">すぐ　<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby><ruby>出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp></ruby>の　<ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby>を　<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ってください。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Hãy làm tài liệu công tác Tokyo ngay.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&#8212;&#8212;&#8212;&#8211;</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby>を<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ったら、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu làm tài liệu thì.</div></div></div><div class="tudich"><div class="candich">すぐ<ruby>部長<rp>(</rp><rt>ぶちょう</rt><rp>)</rp></ruby>に　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>せてください。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Hãy cho Trưởng phòng xem ngay nhé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">１２<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>までに　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Làm ơn đưa trước 12 giờ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&#8212;&#8212;&#8212;&#8211;</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>、<ruby>午後<rp>(</rp><rt>ごご</rt><rp>)</rp></ruby>は　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を　しますか。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Phó phòng, buổi chiều sẽ làm gì?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">１<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から　３<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>まで　パワー<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>と　<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>を　します。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Có buổi họp với công ty điện lực Power từ 1 giờ đến 3 giờ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">わかりました。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Tôi đã biết rồi.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&#8212;&#8212;&#8212;&#8211;</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>が　<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わったら、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu kết thúc cuộc họp.</div></div></div><div class="tudich"><div class="candich"><ruby>空港<rp>(</rp><rt>くうこう</rt><rp>)</rp></ruby>へ　ホワイトさんを　<ruby>迎<rp>(</rp><rt>むか</rt><rp>)</rp></ruby>えに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って　ください。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Hãy đến sân bay đón bạn White.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい、<ruby>空港<rp>(</rp><rt>くうこう</rt><rp>)</rp></ruby>ですね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng, sân bay nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>飛行機<rp>(</rp><rt>ひこうき</rt><rp>)</rp></ruby>は　５<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>半<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>に　<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>きます。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Máy bay sẽ đáp xuống vào 5 giờ 30.</div></div></div><div class="tudich"><div class="candich">ホワイトさんに　<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ったら、わたしに　<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>を　かけてください。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu bạn gặp bạn White thì hãy gọi điện cho tôi nhé.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				&#8212;&#8212;&#8212;&#8211;</td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">それから、ホワイトさんを　ミナトホテルへ　<ruby>連<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>れて　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って　ください。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Sau đó, Hãy dẫn bạn White đến khách sạn Minato.</div></div></div><div class="tudich"><div class="candich">わたしも　<ruby>部長<rp>(</rp><rt>ぶちょう</rt><rp>)</rp></ruby>と　ホテルへ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って、いっしょに　<ruby>食事<rp>(</rp><rt>しょくじ</rt><rp>)</rp></ruby>します。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Tôi cùng với Trưởng phòng cũng đí đến khách sạn, cùng nhau dùng bữa.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">はい、わかりました。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vâng, tôi đã hiểu rồi.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án:　① e　② a　③ c　④ f　⑤ d</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	</p></div><div class="tab_content" id="tab5" style="display: none;"><p></p>
+<p>
+	</p><div class="tudich"><div class="candich"><span style="font-size: 16px;"><strong>3. &nbsp; </strong></span><strong><ruby>源<rp>(</rp><rt>みなもと</rt><rp>)</rp></ruby>　ひかるさんは　どちらが　いいと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いましたか。</strong></div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Minamoto Hikaru đã nghĩ cái nào là tốt?</div></div></div><p></p>
+<p>
+	<audio controls="" preload="none"><source src="/Audio/minnaln/minna1/b/46B-46.mp3" type="audio/mpeg"></audio></p>
+<p>
+	<a class="motaicho720" href="/images/minnaln/bai25/cau3-minhhoa.jpg"><span style="font-size: 16px;"><img alt="" src="/images/minnaln/bai25/cau3-minhhoa.jpg" style="width: 100%; "></span></a></p>
+<p>
+	<strong><span><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>：</span></strong></p><div class="playwrap"><audio class="player" src="/Audio/FD1/Minna_Bai25_ck3_rei.mp3" type="audio/mpeg" preload="none"></audio><a class="playerbt" title="button"></a></div><strong><span style="font-size:14px;">Đáp án: a</span></strong><p></p>
+<p>
+	<a class="motaicho720" href="/images/minnaln/bai25/cau3-vd.jpg"><span style="font-size: 16px;"><img alt="" src="/images/minnaln/bai25/cau3-vd.jpg" style="width: 100%; "></span></a></p>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">ねえ、ひかる、この<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>、どう?</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Này, cậu Hikaru, người này thế nào?</div></div></div><div class="tudich"><div class="candich"><ruby>東都<rp>(</rp><rt>とうと</rt><rp>)</rp></ruby><ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby>で　<ruby>経済<rp>(</rp><rt>けいざい</rt><rp>)</rp></ruby>を　<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>して、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Học kinh tế ở đại học Tokyo.</div></div></div><div class="tudich"><div class="candich"><ruby>趣味<rp>(</rp><rt>しゅみ</rt><rp>)</rp></ruby>は　コンピューター。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Sở thích là vi tính.</div></div></div><div class="tudich"><div class="candich">スポーツは　あまり　<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きじゃ……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Thể thao thì không thích lắm…….</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">うーん。いくら<ruby>頭<rp>(</rp><rt>あたま</rt><rp>)</rp></ruby>が　よくても、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Uh… dù có thông minh mấy mà.</div></div></div><div class="tudich"><div class="candich">スポーツが　<ruby>嫌<rp>(</rp><rt>きら</rt><rp>)</rp></ruby>いな<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は　おもしろくないわ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Người không thích thể thao thì không thú vị nhỉ.</div></div></div><div class="tudich"><div class="candich"><ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>で、スポーツが　<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きな<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が　いいな。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Người thích thể thao với khỏe mạnh thì tốt nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án: a</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	<strong><span>1)</span></strong></p>
+<p>
+	<a class="motaicho720" href="/images/minnaln/bai25/cau3-1.jpg"><span style="font-size: 16px;"><img alt="" src="/images/minnaln/bai25/cau3-1.jpg" style="width: 100%; "></span></a></p>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">ひかる、<ruby>赤井<rp>(</rp><rt>あかい</rt><rp>)</rp></ruby>さんと　<ruby>黒井<rp>(</rp><rt>くろい</rt><rp>)</rp></ruby>さんと　どちらが　よかった。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Này Hikaru, bạn Akai và bạn Kuroi người nào thì được.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">うーん。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Uh….</div></div></div><div class="tudich"><div class="candich">そうねえ……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Để xem sao.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>黒井<rp>(</rp><rt>くろい</rt><rp>)</rp></ruby>さんは　お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>が　たくさん　あるわよ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Bạn Kuroi có nhiều tiền đấy.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">そう？　<ruby>赤井<rp>(</rp><rt>あかい</rt><rp>)</rp></ruby>さんは　お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>が　なくても、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy sao? Bạn Akai không có tiền nhưng mà.</div></div></div><div class="tudich"><div class="candich"><ruby>頭<rp>(</rp><rt>あたま</rt><rp>)</rp></ruby>が　よくて、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">thông minh.</div></div></div><div class="tudich"><div class="candich">ユーモアが　あって、すてきだわ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Có tính hài hước, dễ thương.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">ふうん、そう……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Um… đúng vậy…….</div></div></div><div class="tudich"><div class="candich">わたしだったら、<ruby>黒井<rp>(</rp><rt>くろい</rt><rp>)</rp></ruby>さんね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu là tôi thì là bạn Kuroi nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">あ、そう……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">A, đúng thế.</div></div></div><div class="tudich"><div class="candich">じゃ、わたし、<ruby>赤井<rp>(</rp><rt>あかい</rt><rp>)</rp></ruby>さんと……。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, tôi sẽ cùng Akai&#8230;</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án: a</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	<strong><span>2)</span></strong></p>
+<p>
+	<a class="motaicho720" href="/images/minnaln/bai25/cau3-2.jpg"><span style="font-size: 16px;"><img alt="" src="/images/minnaln/bai25/cau3-2.jpg" style="width: 100%; "></span></a></p>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">ちょっと、これ、<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Xin lỗi, hãy nhìn cái này.</div></div></div><div class="tudich"><div class="candich">ハワイで　<ruby>結婚式<rp>(</rp><rt>けっこんしき</rt><rp>)</rp></ruby>と　<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>、<ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>で　１４０<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>よ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Du lịch cùng với lễ kết hôn ở Hawai tổng cộng 1,400,000 yên đấy.</div></div></div><div class="tudich"><div class="candich"><ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いわね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Rẻ nhỉ.</div></div></div><div class="tudich"><div class="candich">きれいな　<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>、すてきよ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Biển đẹp, thơ mộng nữa.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>２人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>で　１４０<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">1,400,000 yên cho hai người.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">うん、そうよ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Uh, đúng vậy đấy.</div></div></div><div class="tudich"><div class="candich"><ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>だったら、<ruby>結婚式<rp>(</rp><rt>けっこんしき</rt><rp>)</rp></ruby>だけで　１５０<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>ぐらい　かかるわよ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nếu ở Nhật Bản, chỉ lễ kết hôn thì mất tầm 1,500,000 yên ấy.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>A:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">でも、<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>くても、<ruby>両親<rp>(</rp><rt>りょうしん</rt><rp>)</rp></ruby>や　<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て　くれなかったら、<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しいね。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nhưng mà, dù có rẻ mà bố mẹ, bạn bè không đến thì buồn lắm nhỉ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">あら、そう?　</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy à, anh nghĩ thế sao?</div></div></div><div class="tudich"><div class="candich">みんなが　<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>なくても、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Dù mọi người không đến.</div></div></div><div class="tudich"><div class="candich">あなたと　いっしょだったら、いいわ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nhưng nếu cùng chung với anh thôi là được rồi.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án: b</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	<strong><span>3)</span></strong></p>
+<p>
+	<a class="motaicho720" href="/images/minnaln/bai25/cau3-3.jpg"><span style="font-size: 16px;"><img alt="" src="/images/minnaln/bai25/cau3-3.jpg" style="width: 100%; "></span></a></p>
+<p>
+	</p><div class="slide"><div class="slide-title sl2"><span>&lt;&lt;&lt;&nbsp;&nbsp; Script &amp; Dịch &nbsp; &gt;&gt;&gt;</span></div><div class="slide-content sl2"><p></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung2" style="width: 100%; ">
+	<tbody>
+		<tr>
+			<td style="width: 4%;">
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">ねえ、わたし、<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>しても、<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>を　<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えたくないわ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Này, dù có lấy chồng em cũng không muốn đổi tên mình.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>C:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">えっ、<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>を　<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えなかったら、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Hả, nếu không đổi tên thì.</div></div></div><div class="tudich"><div class="candich"><ruby>不便<rp>(</rp><rt>ふべん</rt><rp>)</rp></ruby>だよ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Bất tiện đấy.</div></div></div><div class="tudich"><div class="candich">みんな、<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>したら、</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Mọi người, nếu kết hôn.</div></div></div><div class="tudich"><div class="candich"><ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>を　<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えるよ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Sẽ đổi tên mà.</div></div></div><div class="tudich"><div class="candich">「<ruby>赤井<rp>(</rp><rt>あかい</rt><rp>)</rp></ruby>ひかる」すてきだよ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">[Akai Hikaru] dễ thương mà.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><ruby>不便<rp>(</rp><rt>ふべん</rt><rp>)</rp></ruby>でも、<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えたくないわ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Dù có bất tiện nhưng em cũng không muốn đổi.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>C:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">でも、いろいろ　<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>だよ。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Nhưng mà, sẽ vất vả nhiều đấy.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="font-size:14px;"><strong>B:</strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich">じゃ、あなたが　<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えて。</div><div class="kqdich" style="opacity: 0; display: none;"><span></span><div class="nddich">Vậy thì, anh đổi đi.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<strong><span style="font-size:14px;">Đáp án: b</span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	</p></div></div><p></p>
+<p>
+	</p></div></div><p></p>
+
+
+<br />
+<?php
+$de_stt = "25";
+
+?>
+
+    <div class="vnjp-link-grid">
+        <a href="/minna-no-nihongo/bai-25-tu-vung.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Từ vựng</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-ngu-phap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Ngữ pháp</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-luyen-doc.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện đọc</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-hoi-thoai.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hội thoại</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-luyen-nghe.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện nghe</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-bai-tap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Bài tập</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-han-tu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hán tự</span>
+        </a>
+
+        <a href="/minna-no-nihongo/luyen-chu-han-bai-25.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện Kanji</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-25-bai-doc-hieu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Đọc hiểu</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-kiem-tra.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Kiểm tra</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-25-tham-khao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Tham khảo</span>
+        </a>
+
+        <a href="#" class="vnjp-link-item disabled">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a>
+<!--         <a href="/minna-no-nihongo/bai-<!?php echo $de_stt; ?>-nang-cao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a> -->
+    </div>
+
+    <div class="essb_links essb_displayed_bottom essb_share essb_content_responsive essb_template_light-retina essb_template_classic-retina essb_416803976 essb_size_s essb_size_s_mobile essb_width_flex essb_network_align_center essb_responsive_adaptive print-no" id="essb_displayed_bottom_416803976" data-essb-postid="3302" data-essb-position="bottom" data-essb-button-style="icon" data-essb-template="light-retina essb_template_classic-retina" data-essb-counter-pos="hidden" data-essb-url="https://www.vnjpclub.com/minna-no-nihongo/bai-25-luyen-nghe.html" data-essb-fullurl="https://www.vnjpclub.com/minna-no-nihongo/bai-25-luyen-nghe.html" data-essb-instance="416803976"><ul class="essb_links_list essb_force_hide_name essb_force_hide"><li class="essb_item essb_link_facebook nolightbox essb_link_svg_icon"> <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html&t=Minna+no+Nihongo+B%C3%A0i+25+%E2%80%93+Luy%E1%BB%87n+nghe+%28%E8%81%B4%E8%A7%A3%E3%82%BF%E3%82%B9%E3%82%AF25%29" title="Share on Facebook" onclick="essb.window(&#39;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html&t=Minna+no+Nihongo+B%C3%A0i+25+%E2%80%93+Luy%E1%BB%87n+nghe+%28%E8%81%B4%E8%A7%A3%E3%82%BF%E3%82%B9%E3%82%AF25%29&#39;,&#39;facebook&#39;,&#39;416803976&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-facebook essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_facebook"><svg class="essb-svg-icon essb-svg-icon-facebook" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewbox="0 0 16 16"><path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_twitter nolightbox essb_link_twitter_x essb_link_svg_icon"> <a href="https://x.com/intent/post?text=Minna%20no%20Nihongo%20Bài%2025%20–%20Luyện%20nghe%20(聴解タスク25)&amp;url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html" title="Share on Twitter" onclick="essb.window(&#39;https://x.com/intent/post?text=Minna%20no%20Nihongo%20Bài%2025%20–%20Luyện%20nghe%20(聴解タスク25)&amp;url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html&#39;,&#39;twitter&#39;,&#39;416803976&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-twitter essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_twitter_x"><svg class="essb-svg-icon essb-svg-icon-twitter_x" aria-hidden="true" role="img" focusable="false" viewbox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_pinterest nolightbox essb_link_svg_icon"> <a href="#" title="Share on Pinterest" onclick="essb.pinterest_picker(&#39;416803976&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-pinterest essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_pinterest"><svg class="essb-svg-icon essb-svg-icon-pinterest" aria-hidden="true" role="img" focusable="false" width="32" height="32" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M10.625 12.25c0-1.375 0.313-2.5 1.063-3.438 0.688-0.938 1.563-1.438 2.563-1.438 0.813 0 1.438 0.25 1.875 0.813s0.688 1.25 0.688 2.063c0 0.5-0.125 1.125-0.313 1.813-0.188 0.75-0.375 1.625-0.688 2.563-0.313 1-0.563 1.75-0.688 2.313-0.25 1-0.063 1.875 0.563 2.625 0.625 0.688 1.438 1.063 2.438 1.063 1.75 0 3.188-1 4.313-2.938 1.125-2 1.688-4.375 1.688-7.188 0-2.125-0.688-3.875-2.063-5.25-1.375-1.313-3.313-2-5.813-2-2.813 0-5.063 0.875-6.75 2.688-1.75 1.75-2.625 3.875-2.625 6.375 0 1.5 0.438 2.75 1.25 3.75 0.313 0.313 0.375 0.688 0.313 1.063-0.125 0.313-0.25 0.813-0.375 1.5-0.063 0.25-0.188 0.438-0.375 0.5s-0.375 0.063-0.563 0c-1.313-0.563-2.25-1.438-2.938-2.75s-1-2.813-1-4.5c0-1.125 0.188-2.188 0.563-3.313s0.875-2.188 1.625-3.188c0.75-1.063 1.688-1.938 2.688-2.75 1.063-0.813 2.313-1.438 3.875-1.938 1.5-0.438 3.125-0.688 4.813-0.688 1.813 0 3.438 0.313 4.938 0.938 1.5 0.563 2.813 1.375 3.813 2.375 1.063 1.063 1.813 2.188 2.438 3.5 0.563 1.313 0.875 2.688 0.875 4.063 0 3.75-0.938 6.875-2.875 9.313-1.938 2.5-4.375 3.688-7.375 3.688-1 0-1.938-0.188-2.813-0.688-0.875-0.438-1.5-1-1.875-1.688-0.688 2.938-1.125 4.688-1.313 5.25-0.375 1.438-1.25 3.188-2.688 5.25h-1.313c-0.25-2.563-0.188-4.688 0.188-6.375l2.438-10.313c-0.375-0.813-0.563-1.813-0.563-3.063z"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_linkedin nolightbox essb_link_svg_icon"> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;trk=EasySocialShareButtons&amp;title=Minna+no+Nihongo+B%C3%A0i+25+%E2%80%93+Luy%E1%BB%87n+nghe+%28%E8%81%B4%E8%A7%A3%E3%82%BF%E3%82%B9%E3%82%AF25%29&amp;url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html" title="Share on LinkedIn" onclick="essb.window(&#39;https://www.linkedin.com/shareArticle?mini=true&amp;ro=true&amp;trk=EasySocialShareButtons&amp;title=Minna+no+Nihongo+B%C3%A0i+25+%E2%80%93+Luy%E1%BB%87n+nghe+%28%E8%81%B4%E8%A7%A3%E3%82%BF%E3%82%B9%E3%82%AF25%29&amp;url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html&#39;,&#39;linkedin&#39;,&#39;416803976&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-linkedin essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_linkedin"><svg class="essb-svg-icon essb-svg-icon-linkedin" aria-hidden="true" role="img" focusable="false" width="32" height="32" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M23.938 16.375c-0.438-0.5-1.188-0.75-2.25-0.75-1.375 0-2.313 0.438-2.875 1.188-0.563 0.813-0.813 1.938-0.813 3.375v10.938c0 0.188-0.063 0.375-0.25 0.563-0.125 0.125-0.375 0.25-0.563 0.25h-5.75c-0.188 0-0.375-0.125-0.563-0.25-0.125-0.188-0.25-0.375-0.25-0.563v-20.188c0-0.188 0.125-0.375 0.25-0.563 0.188-0.125 0.375-0.25 0.563-0.25h5.563c0.188 0 0.375 0.063 0.5 0.125s0.188 0.25 0.25 0.438c0 0.188 0.063 0.375 0.063 0.438s0 0.25 0 0.5c1.438-1.375 3.375-2 5.688-2 2.688 0 4.75 0.625 6.25 1.938 1.5 1.375 2.25 3.313 2.25 5.938v13.625c0 0.188-0.063 0.375-0.25 0.563-0.125 0.125-0.375 0.25-0.563 0.25h-5.875c-0.188 0-0.375-0.125-0.563-0.25-0.125-0.188-0.25-0.375-0.25-0.563v-12.313c0-1.063-0.188-1.875-0.563-2.438zM6.625 6.688c-0.75 0.75-1.688 1.125-2.75 1.125s-2-0.375-2.75-1.125c-0.75-0.75-1.125-1.625-1.125-2.75 0-1.063 0.375-1.938 1.125-2.688s1.688-1.188 2.75-1.188c1.063 0 2 0.438 2.75 1.188s1.125 1.625 1.125 2.688c0 1.125-0.375 2-1.125 2.75zM7.563 10.938v20.188c0 0.188-0.125 0.375-0.25 0.563-0.188 0.125-0.375 0.25-0.563 0.25h-5.75c-0.188 0-0.375-0.125-0.563-0.25-0.125-0.188-0.25-0.375-0.25-0.563v-20.188c0-0.188 0.125-0.375 0.25-0.563 0.188-0.125 0.375-0.25 0.563-0.25h5.75c0.188 0 0.375 0.125 0.563 0.25 0.125 0.188 0.25 0.375 0.25 0.563z"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_gmail nolightbox essb_link_svg_icon"> <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&su=Minna+no+Nihongo+B%C3%A0i+25+%E2%80%93+Luy%E1%BB%87n+nghe+%28%E8%81%B4%E8%A7%A3%E3%82%BF%E3%82%B9%E3%82%AF25%29&body=B%C3%A0i+25+%E2%80%93+Luy%E1%BB%87n+nghe+%28%E8%81%B4%E8%A7%A3%E3%82%BF%E3%82%B9%E3%82%AF25%29%3A+Th%E1%BB%AD+th%C3%A1ch+nghe+t%E1%BB%91c+%C4%91%E1%BB%99+t%E1%BB%B1+nhi%C3%AAn%2C+t%E1%BB%95ng+h%E1%BB%A3p+k%E1%BB%B9+n%C4%83ng+nghe+%C4%91%E1%BB%83+chu%E1%BA%A9n+b%E1%BB%8B+t%E1%BB%91t+cho+tr%C3%ACnh+%C4%91%E1%BB%99+N4+v%C3%A0+giao+ti%E1%BA%BFp+th%E1%BB%B1c+t%E1%BA%BF. https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html&ui=2&tf=1" title="Share on Gmail" onclick="essb.window(&#39;https://mail.google.com/mail/u/0/?view=cm&fs=1&su=Minna+no+Nihongo+B%C3%A0i+25+%E2%80%93+Luy%E1%BB%87n+nghe+%28%E8%81%B4%E8%A7%A3%E3%82%BF%E3%82%B9%E3%82%AF25%29&body=B%C3%A0i+25+%E2%80%93+Luy%E1%BB%87n+nghe+%28%E8%81%B4%E8%A7%A3%E3%82%BF%E3%82%B9%E3%82%AF25%29%3A+Th%E1%BB%AD+th%C3%A1ch+nghe+t%E1%BB%91c+%C4%91%E1%BB%99+t%E1%BB%B1+nhi%C3%AAn%2C+t%E1%BB%95ng+h%E1%BB%A3p+k%E1%BB%B9+n%C4%83ng+nghe+%C4%91%E1%BB%83+chu%E1%BA%A9n+b%E1%BB%8B+t%E1%BB%91t+cho+tr%C3%ACnh+%C4%91%E1%BB%99+N4+v%C3%A0+giao+ti%E1%BA%BFp+th%E1%BB%B1c+t%E1%BA%BF. https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html&ui=2&tf=1&#39;,&#39;gmail&#39;,&#39;416803976&#39;); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-gmail essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_gmail"><svg class="essb-svg-icon essb-svg-icon-gmail" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32" width="32" height="32"><path d="M28.7,4c-0.1,0-0.3,0-0.4,0.1l-12.3,9l-12.3-9C3.6,4,3.5,4,3.3,4C1.5,4,0,5.5,0,7.3v17.3C0,26.5,1.5,28,3.3,28h1.3c0.4,0,0.7-0.3,0.7-0.7V12l10.3,7.3c0.2,0.2,0.5,0.2,0.8,0L26.7,12v15.4c0,0.4,0.3,0.7,0.7,0.7h1.3c1.8,0,3.3-1.5,3.3-3.3V7.3C32,5.5,30.5,4,28.7,4z" /></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_line nolightbox essb_link_svg_icon"> <a href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html" title="Share on Line" onclick="essb.tracking_only('', 'line', '416803976', true);" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-line essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_line"><svg class="essb-svg-icon essb-svg-icon-line" aria-hidden="true" role="img" focusable="false" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32"><path d="M15.2,31C15.2,31,15.2,31,15.2,31c-0.1,0-0.2,0-0.3-0.1l0,0c-0.3-0.2-0.2-0.8-0.1-1.5c0.1-0.4,0.2-0.8,0.2-1.2c0-0.2,0-0.4,0-0.5l0,0c-0.1-0.6-0.6-1.1-1.2-1.1h0c-0.2,0-0.4,0-0.5-0.1c-1.9-0.3-3.7-0.8-5.3-1.6l0.1,0c-0.9-0.4-1.6-0.8-2.3-1.3l0.1,0c-0.7-0.5-1.4-1-1.9-1.6l0,0c-0.6-0.5-1.1-1.1-1.6-1.8l0,0c-0.4-0.6-0.8-1.2-1.2-1.9l0-0.1c-0.6-1.3-1-2.9-1-4.5c0-0.9,0.1-1.8,0.3-2.7l0,0.1c0.2-0.9,0.6-1.7,1-2.5l0,0.1C1.7,8,2.2,7.3,2.7,6.7l0,0C3.3,6,4,5.4,4.7,4.8l0,0C5.4,4.2,6.2,3.7,7,3.3l0.1,0c0.8-0.4,1.7-0.8,2.6-1.1l0.1,0c0.8-0.3,1.9-0.6,2.9-0.7l0.1,0C13.7,1.1,14.9,1,16,1s2.3,0.1,3.3,0.3l-0.1,0c1.2,0.2,2.2,0.4,3.1,0.8l-0.1,0c1.1,0.4,2,0.8,2.8,1.2l-0.1,0c0.9,0.5,1.7,1,2.4,1.6l0,0C28,5.4,28.7,6,29.2,6.7l0,0c0.5,0.6,1,1.3,1.4,2.1l0,0.1c0.4,0.7,0.7,1.5,0.9,2.3l0,0.1c0.2,0.8,0.3,1.7,0.3,2.6c0,1.3-0.2,2.5-0.7,3.6l0-0.1c-0.5,1.2-1,2.3-1.8,3.2l0,0c-0.1,0.1-0.2,0.3-0.3,0.4l0,0l0,0c-0.5,0.6-1.1,1.2-1.7,1.7l0,0c-2.1,1.9-4.4,3.8-6.9,5.4l-0.2,0.1c-0.9,0.6-1.9,1.3-3,1.9l-0.2,0.1c-0.3,0.2-0.7,0.4-1.1,0.5l-0.1,0C15.8,30.9,15.5,31,15.2,31L15.2,31L15.2,31z M22.7,10.1c-0.5,0-0.8,0.4-0.8,0.8v6.2c0,0.5,0.4,0.8,0.8,0.8h3.2c0.5,0,0.8-0.4,0.8-0.8V17c0-0.5-0.4-0.8-0.8-0.8h-2.3v-1.3h2.3c0.5,0,0.8-0.4,0.8-0.8V14c0-0.5-0.4-0.8-0.8-0.8h-2.3v-1.3h2.3c0.5,0,0.8-0.4,0.8-0.8v-0.1c0-0.5-0.4-0.8-0.8-0.8L22.7,10.1z M15.2,10.1c-0.5,0-0.8,0.4-0.8,0.8v6.2c0,0.5,0.4,0.8,0.8,0.8h0.1c0.5,0,0.8-0.4,0.8-0.8v-3.7l3,4.1c0,0,0,0.1,0.1,0.1l0,0c0.1,0.1,0.2,0.2,0.3,0.2l0,0c0.1,0,0.2,0.1,0.3,0.1h0h0.1c0.1,0,0.3,0,0.4-0.1l0,0c0.1,0,0.1-0.1,0.2-0.2v0c0.1-0.1,0.2-0.4,0.2-0.6v0v-6.2c0-0.5-0.4-0.8-0.8-0.8h-0.1c-0.5,0-0.8,0.4-0.8,0.8v3.6l-3-4C15.8,10.2,15.6,10.1,15.2,10.1L15.2,10.1z M12.3,10.1c-0.5,0-0.8,0.4-0.8,0.8v6.2c0,0.5,0.4,0.8,0.8,0.8h0.1c0.5,0,0.8-0.4,0.8-0.8v-6.2C13.2,10.4,12.8,10.1,12.3,10.1L12.3,10.1z M6.7,10.1c-0.5,0-0.8,0.4-0.8,0.8v6.2c0,0.5,0.4,0.8,0.8,0.8h3.2c0.5,0,0.8-0.4,0.8-0.8V17c0-0.5-0.4-0.8-0.8-0.8H7.6v-5.3C7.6,10.4,7.2,10.1,6.7,10.1L6.7,10.1z" /></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_telegram nolightbox essb_link_svg_icon"> <a href="https://telegram.me/share/url?url=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html&text=Minna%20no%20Nihongo%20Bài%2025%20–%20Luyện%20nghe%20(聴解タスク25)" title="Share on Telegram" onclick="essb.tracking_only('', 'telegram', '416803976', true);" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-telegram essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_telegram"><svg class="essb-svg-icon essb-svg-icon-telegram" aria-hidden="true" role="img" focusable="false" width="28" height="32" viewbox="0 0 28 32" xmlns="http://www.w3.org/2000/svg"><path d="M27.919 6.162l-4.225 19.925c-0.319 1.406-1.15 1.756-2.331 1.094l-6.438-4.744-3.106 2.988c-0.344 0.344-0.631 0.631-1.294 0.631l0.463-6.556 11.931-10.781c0.519-0.463-0.113-0.719-0.806-0.256l-14.75 9.287-6.35-1.988c-1.381-0.431-1.406-1.381 0.288-2.044l24.837-9.569c1.15-0.431 2.156 0.256 1.781 2.013z"></path></svg></span><span class="essb_network_name essb_noname"></span></a></li><li class="essb_item essb_link_messenger nolightbox essb_link_svg_icon"> <a href="fb-messenger://share/?link=https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html" title="Share on Messenger" onclick="essb.fbmessenger('', 'https%3A%2F%2Fwww.vnjpclub.com%2Fminna-no-nihongo%2Fbai-25-luyen-nghe.html', '416803976'); return false;" target="_blank" rel="noreferrer noopener nofollow" class="nolightbox essb-s-c-messenger essb-s-c-network essb-s-ch-dark" ><span class="essb_icon essb_icon_messenger"><svg class="essb-svg-icon essb-svg-icon-messenger" aria-hidden="true" role="img" focusable="false" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32"><path d="M0,15.5C0,6.6,7,0,16,0s16,6.6,16,15.5S25,31,16,31c-1.6,0-3.2-0.2-4.6-0.6c-0.3-0.1-0.6-0.1-0.9,0.1l-3.2,1.4c-0.6,0.3-1.4,0-1.7-0.6c-0.1-0.2-0.1-0.3-0.1-0.5l-0.1-2.9c0-0.3-0.2-0.7-0.4-0.9C1.8,24.1-0.1,19.9,0,15.5z M11.1,12.6l-4.7,7.5c-0.5,0.7,0.4,1.5,1.1,1l5.1-3.8c0.3-0.3,0.8-0.3,1.2,0l3.7,2.8c1.1,0.8,2.7,0.5,3.5-0.6l4.7-7.5c0.5-0.7-0.4-1.5-1.1-1l-5.1,3.8c-0.3,0.3-0.8,0.3-1.1,0L14.6,12c-1.1-0.8-2.6-0.6-3.4,0.5C11.2,12.5,11.1,12.5,11.1,12.6z" /></svg></span><span class="essb_network_name essb_noname"></span></a></li></ul></div>

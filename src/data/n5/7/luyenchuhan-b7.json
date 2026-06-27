@@ -1,0 +1,101 @@
+{
+  "lesson": 7,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca70f462144a12a6dec06f2",
+      "index": 1,
+      "character": "母",
+      "sinoVietnameseWord": "MẪU",
+      "mean": "Mẹ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l8/kanji/img/1_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 母 MẪU giống h&igrave;nh ảnh của người mẹ đang bế đứa con nhỏ.</p>",
+      "onReading": "ボ",
+      "kunReading": "はは",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 127px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.0936%; height: 21px;\"><span style=\"color: #e74c3c;\">母</span></td>\n<td style=\"width: 27.5328%; height: 21px;\"><span style=\"color: #e74c3c;\">はは</span></td>\n<td style=\"width: 42.3735%; height: 21px;\"><span style=\"color: #e74c3c;\">mẹ (n&oacute;i về mẹ của m&igrave;nh</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.0936%; height: 21px;\"><span style=\"color: #e74c3c;\">お母さん</span></td>\n<td style=\"width: 27.5328%; height: 21px;\"><span style=\"color: #e74c3c;\">おかあさん</span></td>\n<td style=\"width: 42.3735%; height: 21px;\"><span style=\"color: #e74c3c;\">mẹ (c&aacute;ch gọi k&iacute;nh trọng)</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.0936%; height: 21px;\">祖母</td>\n<td style=\"width: 27.5328%; height: 21px;\">そぼ</td>\n<td style=\"width: 42.3735%; height: 21px;\">b&agrave; nội, b&agrave; ngoại (n&oacute;i về b&agrave; của m&igrave;nh)&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 30.0936%;\">母語</td>\n<td style=\"width: 27.5328%;\">ぼご</td>\n<td style=\"width: 42.3735%;\">tiếng mẹ đẻ&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca710962144a12a6dec06fa",
+      "index": 2,
+      "character": "父",
+      "sinoVietnameseWord": "PHỤ",
+      "mean": "Người bố",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l8/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 父 PHỤ giống như h&igrave;nh ảnh người bố nheo mắt v&agrave; c&oacute; ria m&eacute;p.</p>",
+      "onReading": "フ",
+      "kunReading": "ちち",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 74px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">父</span></td>\n<td style=\"width: 29.9851%; height: 21px;\"><span style=\"color: #e74c3c;\">ちち</span></td>\n<td style=\"width: 36.6815%; height: 21px;\"><span style=\"color: #e74c3c;\">bố (n&oacute;i về bố của m&igrave;nh)</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">お父さん</span></td>\n<td style=\"width: 29.9851%; height: 21px;\"><span style=\"color: #e74c3c;\">おとうさん</span></td>\n<td style=\"width: 36.6815%; height: 21px;\"><span style=\"color: #e74c3c;\">bố (c&aacute;ch gọi k&iacute;nh trọng)</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 10px;\">祖父</td>\n<td style=\"width: 29.9851%; height: 10px;\">そふ</td>\n<td style=\"width: 36.6815%; height: 10px;\">&ocirc;ng nội, &ocirc;ng ngoại (n&oacute;i về &ocirc;ng của m&igrave;nh)</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">祖父母</td>\n<td style=\"width: 29.9851%; height: 22px;\">そふぼ</td>\n<td style=\"width: 36.6815%; height: 22px;\">&ocirc;ng b&agrave; (n&oacute;i về &ocirc;ng b&agrave; m&igrave;nh)</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca712272144a12a6dec070c",
+      "index": 3,
+      "character": "物",
+      "sinoVietnameseWord": "VẬT",
+      "mean": "Đồ vật",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l8/kanji/img/3_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 物 VẬT gh&eacute;p bởi bộ 牛 NGƯU (con b&ograve;) v&agrave; h&igrave;nh con c&aacute;o, vốn l&agrave; 2 con vật ti&ecirc;u biểu ở Nhật.</p>",
+      "onReading": "ブツ、モツ",
+      "kunReading": "もの",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 127px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.363%; height: 21px;\"><span style=\"color: #e74c3c;\">食べ物</span></td>\n<td style=\"width: 36.3036%; height: 21px;\"><span style=\"color: #e74c3c;\">たべもの</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">đồ ăn</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.363%; height: 21px;\"><span style=\"color: #e74c3c;\">着物</span></td>\n<td style=\"width: 36.3036%; height: 21px;\"><span style=\"color: #e74c3c;\">きもの</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">kimono</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.363%; height: 21px;\"><span style=\"color: #e74c3c;\">荷物</span></td>\n<td style=\"width: 36.3036%; height: 21px;\"><span style=\"color: #e74c3c;\">にもつ</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">h&agrave;nh l&yacute;</span></td>\n</tr>\n<tr>\n<td style=\"width: 30.363%;\"><span style=\"color: #e74c3c;\">動物</span></td>\n<td style=\"width: 36.3036%;\"><span style=\"color: #e74c3c;\">どうぶつ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">động vật</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca713772144a12a6dec0717",
+      "index": 4,
+      "character": "朝",
+      "sinoVietnameseWord": "TRIỀU",
+      "mean": "Buổi sáng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l8/kanji/img/4_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 朝 TRIỀU giống như quang cảnh buổi s&aacute;ng, khi đ&oacute; 日 mặt trời mới mọc lấp l&oacute; sau ngọn c&acirc;y, c&ograve;n 月 mặt trăng th&igrave; vẫn chưa lặn.</p>",
+      "onReading": "チョウ",
+      "kunReading": "あさ",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 90px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">毎朝</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">まいあさ</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">h&agrave;ng s&aacute;ng&nbsp;</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">朝ご飯</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">あさごはん</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">bữa s&aacute;ng&nbsp;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">朝早く</td>\n<td style=\"width: 33.3333%;\">あさはやく</td>\n<td style=\"width: 33.3333%;\">s&aacute;ng sớm&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">今朝</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">けさ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">s&aacute;ng nay</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">朝食</td>\n<td style=\"width: 33.3333%;\">ちょうしょく</td>\n<td style=\"width: 33.3333%;\">bữa s&aacute;ng&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca714c22144a12a6dec0721",
+      "index": 5,
+      "character": "昼",
+      "sinoVietnameseWord": "TRÚ",
+      "mean": "Buổi trưa",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l8/kanji/img/5_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 昼 TR&Uacute; giống như h&igrave;nh ảnh l&uacute;c buổi trưa nh&igrave;n từ trong nh&agrave;, ta phải k&eacute;o r&egrave;m để che mặt trời chiếu v&agrave;o.</p>",
+      "onReading": "チュウ",
+      "kunReading": "ひる",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 25.5225%; height: 22px;\"><span style=\"color: #e74c3c;\">昼</span></td>\n<td style=\"width: 41.1441%; height: 22px;\"><span style=\"color: #e74c3c;\">ひる</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">buổi trưa, ban ng&agrave;y</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 25.5225%; height: 22px;\"><span style=\"color: #e74c3c;\">昼休み</span></td>\n<td style=\"width: 41.1441%; height: 22px;\"><span style=\"color: #e74c3c;\">ひるやすみ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">giờ nghỉ trưa</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 25.5225%; height: 22px;\"><span style=\"color: #e74c3c;\">昼ご飯</span></td>\n<td style=\"width: 41.1441%; height: 22px;\"><span style=\"color: #e74c3c;\">ひるごはん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">bữa trưa</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 25.5225%; height: 22px;\">昼食</td>\n<td style=\"width: 41.1441%; height: 22px;\">ちゅうしょく</td>\n<td style=\"width: 33.3333%; height: 22px;\">bữa trưa</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65a5028fe6a4de6699512442",
+      "index": 6,
+      "character": "夜",
+      "sinoVietnameseWord": "DẠ",
+      "mean": "Buổi tối, buổi đêm",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l8/kanji/img/6_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 夜 DẠ giống như h&igrave;nh ảnh dưới m&aacute;i hi&ecirc;n c&oacute; một người đang ngắm trăng mọc b&ecirc;n kia đồi v&agrave;o buổi đ&ecirc;m.&nbsp;</p>",
+      "onReading": "ヤ",
+      "kunReading": "よる",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 88px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">夜</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">よる</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">buổi tối, buổi đ&ecirc;m</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">夜遅く</td>\n<td style=\"width: 33.3333%; height: 22px;\">よるおそく</td>\n<td style=\"width: 33.3333%; height: 22px;\">đ&ecirc;m khuya</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">今夜</td>\n<td style=\"width: 33.3333%; height: 22px;\">こんや</td>\n<td style=\"width: 33.3333%; height: 22px;\">tối nay, đ&ecirc;m nay</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">夜食</td>\n<td style=\"width: 33.3333%; height: 22px;\">やしょく</td>\n<td style=\"width: 33.3333%; height: 22px;\">bữa ăn đ&ecirc;m</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a50378e6a4de6699512444",
+      "index": 7,
+      "character": "晩",
+      "sinoVietnameseWord": "VÃN",
+      "mean": "Buổi tối",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l8/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 晩 V&Atilde;N giống như cảnh buổi tối khi mặt trời lặn người ta cắp cặp đi về sau khi tan học, tan l&agrave;m.</p>",
+      "onReading": "バン",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 30px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">今晩</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">こんばん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">tối nay</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">晩ご飯</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ばんごはん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">bữa tối</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">毎晩</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">まいばん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">h&agrave;ng tối, mỗi tối</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a5043ae6a4de6699512446",
+      "index": 8,
+      "character": "町",
+      "sinoVietnameseWord": "ĐINH",
+      "mean": "Khu phố, thành phố",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l8/kanji/img/8_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 町 ĐINH gh&eacute;p bởi chữ 田 ĐIỀN (c&aacute;nh đồng) v&agrave; h&igrave;nh ảnh ng&atilde; ba đường th&agrave;nh thị, &aacute;m chỉ việc từ v&ugrave;ng n&ocirc;ng th&ocirc;n đi đường lớn để l&ecirc;n th&agrave;nh phố.</p>",
+      "onReading": "",
+      "kunReading": "まち",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 96px;\">\n<tbody>\n<tr style=\"height: 41px;\">\n<td style=\"width: 26.1983%; height: 14px;\"><span style=\"color: #e74c3c;\">町</span></td>\n<td style=\"width: 27.735%; height: 14px;\"><span style=\"color: #e74c3c;\">まち</span></td>\n<td style=\"width: 46.0666%; height: 14px;\"><span style=\"color: #e74c3c;\">khu phố, thị trấn, th&agrave;nh phố nhỏ, th&agrave;nh thị n&oacute;i chung</span></td>\n</tr>\n<tr style=\"height: 41px;\">\n<td style=\"width: 26.1983%; height: 41px;\">&nbsp;</td>\n<td style=\"width: 27.735%; height: 41px;\">&nbsp;</td>\n<td style=\"width: 46.0666%; height: 41px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 41px;\">\n<td style=\"width: 26.1983%; height: 41px;\">&nbsp;</td>\n<td style=\"width: 27.735%; height: 41px;\">&nbsp;</td>\n<td style=\"width: 46.0666%; height: 41px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

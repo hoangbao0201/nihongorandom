@@ -1,0 +1,435 @@
+{
+  "lesson": 5,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "祝祭日（しゅくさいじつ） Ngày nghỉ quốc gia",
+      "titleHtml": "<ruby>祝祭日<rp>（</rp><rt>しゅくさいじつ</rt><rp>）</rp></ruby> Ngày nghỉ quốc gia",
+      "introHtml": "",
+      "columns": [],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "1月1日",
+              "html": "1月1日"
+            },
+            {
+              "text": "元日（がんじつ）",
+              "html": "<ruby>元日<rp>（</rp><rt>がんじつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày mồng một tết",
+              "html": "Ngày mồng một tết"
+            }
+          ],
+          "col1": "1月1日",
+          "col1Html": "1月1日",
+          "col2": "元日（がんじつ）",
+          "col2Html": "<ruby>元日<rp>（</rp><rt>がんじつ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày mồng một tết",
+          "col3Html": "Ngày mồng một tết",
+          "country": "1月1日",
+          "countryHtml": "1月1日",
+          "person": "元日（がんじつ）",
+          "personHtml": "<ruby>元日<rp>（</rp><rt>がんじつ</rt><rp>）</rp></ruby>",
+          "language": "Ngày mồng một tết",
+          "languageHtml": "Ngày mồng một tết"
+        },
+        {
+          "cells": [
+            {
+              "text": "1月2第月曜日*",
+              "html": "1月2第月曜日*"
+            },
+            {
+              "text": "成人（せいじん）の日（ひ）",
+              "html": "<ruby>成人<rp>（</rp><rt>せいじん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Trưởng thành",
+              "html": "Ngày Trưởng thành"
+            }
+          ],
+          "col1": "1月2第月曜日*",
+          "col1Html": "1月2第月曜日*",
+          "col2": "成人（せいじん）の日（ひ）",
+          "col2Html": "<ruby>成人<rp>（</rp><rt>せいじん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Trưởng thành",
+          "col3Html": "Ngày Trưởng thành",
+          "country": "1月2第月曜日*",
+          "countryHtml": "1月2第月曜日*",
+          "person": "成人（せいじん）の日（ひ）",
+          "personHtml": "<ruby>成人<rp>（</rp><rt>せいじん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Trưởng thành",
+          "languageHtml": "Ngày Trưởng thành"
+        },
+        {
+          "cells": [
+            {
+              "text": "2月11日",
+              "html": "2月11日"
+            },
+            {
+              "text": "建国（けんこく）記念（きねん）の日（ひ）",
+              "html": "<ruby>建国<rp>（</rp><rt>けんこく</rt><rp>）</rp></ruby><ruby>記念<rp>（</rp><rt>きねん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Quốc khánh (kỉ niệm kiến quốc)",
+              "html": "Ngày Quốc khánh (kỉ niệm kiến quốc)"
+            }
+          ],
+          "col1": "2月11日",
+          "col1Html": "2月11日",
+          "col2": "建国（けんこく）記念（きねん）の日（ひ）",
+          "col2Html": "<ruby>建国<rp>（</rp><rt>けんこく</rt><rp>）</rp></ruby><ruby>記念<rp>（</rp><rt>きねん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Quốc khánh (kỉ niệm kiến quốc)",
+          "col3Html": "Ngày Quốc khánh (kỉ niệm kiến quốc)",
+          "country": "2月11日",
+          "countryHtml": "2月11日",
+          "person": "建国（けんこく）記念（きねん）の日（ひ）",
+          "personHtml": "<ruby>建国<rp>（</rp><rt>けんこく</rt><rp>）</rp></ruby><ruby>記念<rp>（</rp><rt>きねん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Quốc khánh (kỉ niệm kiến quốc)",
+          "languageHtml": "Ngày Quốc khánh (kỉ niệm kiến quốc)"
+        },
+        {
+          "cells": [
+            {
+              "text": "3月20日**",
+              "html": "3月20日**"
+            },
+            {
+              "text": "春分（しゅんぶん）の日（ひ）",
+              "html": "<ruby>春分<rp>（</rp><rt>しゅんぶん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Xuân phân",
+              "html": "Ngày Xuân phân"
+            }
+          ],
+          "col1": "3月20日**",
+          "col1Html": "3月20日**",
+          "col2": "春分（しゅんぶん）の日（ひ）",
+          "col2Html": "<ruby>春分<rp>（</rp><rt>しゅんぶん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Xuân phân",
+          "col3Html": "Ngày Xuân phân",
+          "country": "3月20日**",
+          "countryHtml": "3月20日**",
+          "person": "春分（しゅんぶん）の日（ひ）",
+          "personHtml": "<ruby>春分<rp>（</rp><rt>しゅんぶん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Xuân phân",
+          "languageHtml": "Ngày Xuân phân"
+        },
+        {
+          "cells": [
+            {
+              "text": "4月29日",
+              "html": "4月29日"
+            },
+            {
+              "text": "昭和（しょうわ）の日（ひ）",
+              "html": "<ruby>昭和<rp>（</rp><rt>しょうわ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày kỉ niệm Thiên Hoàng Showa",
+              "html": "Ngày kỉ niệm Thiên Hoàng Showa"
+            }
+          ],
+          "col1": "4月29日",
+          "col1Html": "4月29日",
+          "col2": "昭和（しょうわ）の日（ひ）",
+          "col2Html": "<ruby>昭和<rp>（</rp><rt>しょうわ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày kỉ niệm Thiên Hoàng Showa",
+          "col3Html": "Ngày kỉ niệm Thiên Hoàng Showa",
+          "country": "4月29日",
+          "countryHtml": "4月29日",
+          "person": "昭和（しょうわ）の日（ひ）",
+          "personHtml": "<ruby>昭和<rp>（</rp><rt>しょうわ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày kỉ niệm Thiên Hoàng Showa",
+          "languageHtml": "Ngày kỉ niệm Thiên Hoàng Showa"
+        },
+        {
+          "cells": [
+            {
+              "text": "5月3日",
+              "html": "5月3日"
+            },
+            {
+              "text": "憲法（けんぽう）記念（きねん）の碑（ひ）",
+              "html": "<ruby>憲法<rp>（</rp><rt>けんぽう</rt><rp>）</rp></ruby><ruby>記念<rp>（</rp><rt>きねん</rt><rp>）</rp></ruby>の<ruby>碑<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày kỉ niệm Hiến Pháp",
+              "html": "Ngày kỉ niệm Hiến Pháp"
+            }
+          ],
+          "col1": "5月3日",
+          "col1Html": "5月3日",
+          "col2": "憲法（けんぽう）記念（きねん）の碑（ひ）",
+          "col2Html": "<ruby>憲法<rp>（</rp><rt>けんぽう</rt><rp>）</rp></ruby><ruby>記念<rp>（</rp><rt>きねん</rt><rp>）</rp></ruby>の<ruby>碑<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày kỉ niệm Hiến Pháp",
+          "col3Html": "Ngày kỉ niệm Hiến Pháp",
+          "country": "5月3日",
+          "countryHtml": "5月3日",
+          "person": "憲法（けんぽう）記念（きねん）の碑（ひ）",
+          "personHtml": "<ruby>憲法<rp>（</rp><rt>けんぽう</rt><rp>）</rp></ruby><ruby>記念<rp>（</rp><rt>きねん</rt><rp>）</rp></ruby>の<ruby>碑<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày kỉ niệm Hiến Pháp",
+          "languageHtml": "Ngày kỉ niệm Hiến Pháp"
+        },
+        {
+          "cells": [
+            {
+              "text": "5月4日",
+              "html": "5月4日"
+            },
+            {
+              "text": "みどりの日（ひ）",
+              "html": "みどりの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Màu xanh",
+              "html": "Ngày Màu xanh"
+            }
+          ],
+          "col1": "5月4日",
+          "col1Html": "5月4日",
+          "col2": "みどりの日（ひ）",
+          "col2Html": "みどりの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Màu xanh",
+          "col3Html": "Ngày Màu xanh",
+          "country": "5月4日",
+          "countryHtml": "5月4日",
+          "person": "みどりの日（ひ）",
+          "personHtml": "みどりの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Màu xanh",
+          "languageHtml": "Ngày Màu xanh"
+        },
+        {
+          "cells": [
+            {
+              "text": "5月5日",
+              "html": "5月5日"
+            },
+            {
+              "text": "こどもの日（ひ）",
+              "html": "こどもの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Trẻ em",
+              "html": "Ngày Trẻ em"
+            }
+          ],
+          "col1": "5月5日",
+          "col1Html": "5月5日",
+          "col2": "こどもの日（ひ）",
+          "col2Html": "こどもの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Trẻ em",
+          "col3Html": "Ngày Trẻ em",
+          "country": "5月5日",
+          "countryHtml": "5月5日",
+          "person": "こどもの日（ひ）",
+          "personHtml": "こどもの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Trẻ em",
+          "languageHtml": "Ngày Trẻ em"
+        },
+        {
+          "cells": [
+            {
+              "text": "7月第3月曜日***",
+              "html": "7月第3月曜日***"
+            },
+            {
+              "text": "海（うみ）の日（ひ）",
+              "html": "<ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Biển",
+              "html": "Ngày Biển"
+            }
+          ],
+          "col1": "7月第3月曜日***",
+          "col1Html": "7月第3月曜日***",
+          "col2": "海（うみ）の日（ひ）",
+          "col2Html": "<ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Biển",
+          "col3Html": "Ngày Biển",
+          "country": "7月第3月曜日***",
+          "countryHtml": "7月第3月曜日***",
+          "person": "海（うみ）の日（ひ）",
+          "personHtml": "<ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Biển",
+          "languageHtml": "Ngày Biển"
+        },
+        {
+          "cells": [
+            {
+              "text": "9月第3月月曜日***",
+              "html": "9月第3月月曜日***"
+            },
+            {
+              "text": "敬老（けいろう）の日（ひ）",
+              "html": "<ruby>敬老<rp>（</rp><rt>けいろう</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Kính lão",
+              "html": "Ngày Kính lão"
+            }
+          ],
+          "col1": "9月第3月月曜日***",
+          "col1Html": "9月第3月月曜日***",
+          "col2": "敬老（けいろう）の日（ひ）",
+          "col2Html": "<ruby>敬老<rp>（</rp><rt>けいろう</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Kính lão",
+          "col3Html": "Ngày Kính lão",
+          "country": "9月第3月月曜日***",
+          "countryHtml": "9月第3月月曜日***",
+          "person": "敬老（けいろう）の日（ひ）",
+          "personHtml": "<ruby>敬老<rp>（</rp><rt>けいろう</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Kính lão",
+          "languageHtml": "Ngày Kính lão"
+        },
+        {
+          "cells": [
+            {
+              "text": "9月23日",
+              "html": "9月23日"
+            },
+            {
+              "text": "秋分（しゅうぶん）の日（ひ）",
+              "html": "<ruby>秋分<rp>（</rp><rt>しゅうぶん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Thu phân",
+              "html": "Ngày Thu phân"
+            }
+          ],
+          "col1": "9月23日",
+          "col1Html": "9月23日",
+          "col2": "秋分（しゅうぶん）の日（ひ）",
+          "col2Html": "<ruby>秋分<rp>（</rp><rt>しゅうぶん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Thu phân",
+          "col3Html": "Ngày Thu phân",
+          "country": "9月23日",
+          "countryHtml": "9月23日",
+          "person": "秋分（しゅうぶん）の日（ひ）",
+          "personHtml": "<ruby>秋分<rp>（</rp><rt>しゅうぶん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Thu phân",
+          "languageHtml": "Ngày Thu phân"
+        },
+        {
+          "cells": [
+            {
+              "text": "10月第2月曜日",
+              "html": "10月第2月曜日"
+            },
+            {
+              "text": "体育（たいいく）の日（ひ）",
+              "html": "<ruby>体育<rp>（</rp><rt>たいいく</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Thể thao",
+              "html": "Ngày Thể thao"
+            }
+          ],
+          "col1": "10月第2月曜日",
+          "col1Html": "10月第2月曜日",
+          "col2": "体育（たいいく）の日（ひ）",
+          "col2Html": "<ruby>体育<rp>（</rp><rt>たいいく</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Thể thao",
+          "col3Html": "Ngày Thể thao",
+          "country": "10月第2月曜日",
+          "countryHtml": "10月第2月曜日",
+          "person": "体育（たいいく）の日（ひ）",
+          "personHtml": "<ruby>体育<rp>（</rp><rt>たいいく</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Thể thao",
+          "languageHtml": "Ngày Thể thao"
+        },
+        {
+          "cells": [
+            {
+              "text": "11月3日",
+              "html": "11月3日"
+            },
+            {
+              "text": "文化（ぶんか）の日（ひ）",
+              "html": "<ruby>文化<rp>（</rp><rt>ぶんか</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Văn hóa",
+              "html": "Ngày Văn hóa"
+            }
+          ],
+          "col1": "11月3日",
+          "col1Html": "11月3日",
+          "col2": "文化（ぶんか）の日（ひ）",
+          "col2Html": "<ruby>文化<rp>（</rp><rt>ぶんか</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Văn hóa",
+          "col3Html": "Ngày Văn hóa",
+          "country": "11月3日",
+          "countryHtml": "11月3日",
+          "person": "文化（ぶんか）の日（ひ）",
+          "personHtml": "<ruby>文化<rp>（</rp><rt>ぶんか</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Văn hóa",
+          "languageHtml": "Ngày Văn hóa"
+        },
+        {
+          "cells": [
+            {
+              "text": "11月23日",
+              "html": "11月23日"
+            },
+            {
+              "text": "勤労（きんろう）感謝（かんしゃ）の日（ひ）",
+              "html": "<ruby>勤労<rp>（</rp><rt>きんろう</rt><rp>）</rp></ruby><ruby>感謝<rp>（</rp><rt>かんしゃ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày Cảm tạ Lao động",
+              "html": "Ngày Cảm tạ Lao động"
+            }
+          ],
+          "col1": "11月23日",
+          "col1Html": "11月23日",
+          "col2": "勤労（きんろう）感謝（かんしゃ）の日（ひ）",
+          "col2Html": "<ruby>勤労<rp>（</rp><rt>きんろう</rt><rp>）</rp></ruby><ruby>感謝<rp>（</rp><rt>かんしゃ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col3": "Ngày Cảm tạ Lao động",
+          "col3Html": "Ngày Cảm tạ Lao động",
+          "country": "11月23日",
+          "countryHtml": "11月23日",
+          "person": "勤労（きんろう）感謝（かんしゃ）の日（ひ）",
+          "personHtml": "<ruby>勤労<rp>（</rp><rt>きんろう</rt><rp>）</rp></ruby><ruby>感謝<rp>（</rp><rt>かんしゃ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "language": "Ngày Cảm tạ Lao động",
+          "languageHtml": "Ngày Cảm tạ Lao động"
+        },
+        {
+          "cells": [
+            {
+              "text": "12月23日",
+              "html": "12月23日"
+            },
+            {
+              "text": "天皇（てんのう）誕生日（たんじょうび）",
+              "html": "<ruby>天皇<rp>（</rp><rt>てんのう</rt><rp>）</rp></ruby><ruby>誕生日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Sinh nhật của Thiên Hoàng",
+              "html": "Sinh nhật của Thiên Hoàng"
+            }
+          ],
+          "col1": "12月23日",
+          "col1Html": "12月23日",
+          "col2": "天皇（てんのう）誕生日（たんじょうび）",
+          "col2Html": "<ruby>天皇<rp>（</rp><rt>てんのう</rt><rp>）</rp></ruby><ruby>誕生日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>",
+          "col3": "Sinh nhật của Thiên Hoàng",
+          "col3Html": "Sinh nhật của Thiên Hoàng",
+          "country": "12月23日",
+          "countryHtml": "12月23日",
+          "person": "天皇（てんのう）誕生日（たんじょうび）",
+          "personHtml": "<ruby>天皇<rp>（</rp><rt>てんのう</rt><rp>）</rp></ruby><ruby>誕生日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby>",
+          "language": "Sinh nhật của Thiên Hoàng",
+          "languageHtml": "Sinh nhật của Thiên Hoàng"
+        }
+      ],
+      "contentHtml": "<table class=\"search_result vnjp-ngaynghi-table\"> <tbody> <tr> <td>1月1日</td> <td><ruby>元日<rp>（</rp><rt>がんじつ</rt><rp>）</rp></ruby></td> <td>Ngày mồng một tết</td> </tr> <tr> <td>1月2第月曜日*</td> <td><ruby>成人<rp>（</rp><rt>せいじん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Trưởng thành</td> </tr> <tr> <td>2月11日</td> <td><ruby>建国<rp>（</rp><rt>けんこく</rt><rp>）</rp></ruby><ruby>記念<rp>（</rp><rt>きねん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Quốc khánh (kỉ niệm kiến quốc)</td> </tr> <tr> <td>3月20日**</td> <td><ruby>春分<rp>（</rp><rt>しゅんぶん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Xuân phân</td> </tr> <tr> <td>4月29日</td> <td><ruby>昭和<rp>（</rp><rt>しょうわ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày kỉ niệm Thiên Hoàng Showa</td> </tr> <tr> <td>5月3日</td> <td><ruby>憲法<rp>（</rp><rt>けんぽう</rt><rp>）</rp></ruby><ruby>記念<rp>（</rp><rt>きねん</rt><rp>）</rp></ruby>の<ruby>碑<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày kỉ niệm Hiến Pháp</td> </tr> <tr> <td>5月4日</td> <td>みどりの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Màu xanh</td> </tr> <tr> <td>5月5日</td> <td>こどもの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Trẻ em</td> </tr> <tr> <td>7月第3月曜日***</td> <td><ruby>海<rp>（</rp><rt>うみ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Biển</td> </tr> <tr> <td>9月第3月月曜日***</td> <td><ruby>敬老<rp>（</rp><rt>けいろう</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Kính lão</td> </tr> <tr> <td>9月23日</td> <td><ruby>秋分<rp>（</rp><rt>しゅうぶん</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Thu phân</td> </tr> <tr> <td>10月第2月曜日</td> <td><ruby>体育<rp>（</rp><rt>たいいく</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Thể thao</td> </tr> <tr> <td>11月3日</td> <td><ruby>文化<rp>（</rp><rt>ぶんか</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Văn hóa</td> </tr> <tr> <td>11月23日</td> <td><ruby>勤労<rp>（</rp><rt>きんろう</rt><rp>）</rp></ruby><ruby>感謝<rp>（</rp><rt>かんしゃ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày Cảm tạ Lao động</td> </tr> <tr> <td>12月23日</td> <td><ruby>天皇<rp>（</rp><rt>てんのう</rt><rp>）</rp></ruby><ruby>誕生日<rp>（</rp><rt>たんじょうび</rt><rp>）</rp></ruby></td> <td>Sinh nhật của Thiên Hoàng</td> </tr> </tbody> </table> <br /> * Thay đổi theo năm <br /> ** Thứ hai của tuần thứ hai <br /> *** Thứ hai của tuần thứ ba <br /> Nếu một ngày nghỉ quốc gia rơi vào ngày chủ nhật thì ngày thứ hai liền sau sẽ được nghỉ bù. Có một kì nghỉ Liền từ ngày 29 tháng 4 đến ngày mồng 5 tháng 5, được gọi là 「ゴールデンウィーク」 (Tuần lễ vàng [Golden Week])」. Một số công ty cho nhân viên nghỉ suốt cả tuần. </p>"
+    }
+  ]
+}

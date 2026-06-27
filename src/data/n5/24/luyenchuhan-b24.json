@@ -1,0 +1,102 @@
+{
+  "lesson": 24,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca958ab51364352b62b7b4c",
+      "index": 1,
+      "character": "特",
+      "sinoVietnameseWord": "ĐẶC",
+      "mean": "Đặc biệt",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l28/kanji/img/1_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 特 ĐẶC gh&eacute;p bởi bộ 牛 NGƯU (con b&ograve;) v&agrave; chữ 寺 TỰ (ng&ocirc;i ch&ugrave;a). C&oacute; con b&ograve; trong ch&ugrave;a th&igrave; đ&uacute;ng l&agrave; lạ, l&agrave; trường hợp đặc biệt.</p>",
+      "onReading": "トク",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 24px;\">\n<tbody>\n<tr style=\"height: 14px;\">\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">特別な</span></td>\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">とくべつな</span></td>\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">đặc biệt&nbsp;</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">特に</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">とくに</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">đặc biệt l&agrave;</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9599951364352b62b7b4e",
+      "index": 2,
+      "character": "終",
+      "sinoVietnameseWord": "CHUNG",
+      "mean": "Kết thúc, cuối",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l28/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 終 CHUNG gh&eacute;p bởi bộ 糸 MỊCH (sợi chỉ) v&agrave; chữ 冬 Đ&Ocirc;NG (m&ugrave;a đ&ocirc;ng). Nu&ocirc;i tằm se chỉ đến m&ugrave;a đ&ocirc;ng l&agrave; phải kết th&uacute;c để kịp may &aacute;o đợt cuối c&ugrave;ng.</p>",
+      "onReading": "シュウ",
+      "kunReading": "お・わる",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">終わる</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">おわる</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">kết th&uacute;c&nbsp;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">最終</td>\n<td style=\"width: 33.3333%;\">さいしゅう</td>\n<td style=\"width: 33.3333%;\">cuối c&ugrave;ng</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">終電</td>\n<td style=\"width: 33.3333%;\">しゅうでん</td>\n<td style=\"width: 33.3333%;\">chuyến t&agrave;u cuối</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca95bd551364352b62b7b51",
+      "index": 3,
+      "character": "駅",
+      "sinoVietnameseWord": "DỊCH",
+      "mean": "Nhà ga",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l28/kanji/img/3_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 駅 DỊCH (nh&agrave; ga) gh&eacute;p bởi chữ 馬 M&Atilde; (ngựa) v&agrave; h&igrave;nh ảnh b&ecirc;n phải tr&ocirc;ng giống bảng ghi t&ecirc;n ga t&agrave;u.</p>",
+      "onReading": "エキ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">駅</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">えき</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">nh&agrave; ga</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">駅前</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">えきまえ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">trước nh&agrave; ga</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">駅員</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">えきいん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">nh&acirc;n vi&ecirc;n nh&agrave; ga</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca95cb251364352b62b7b53",
+      "index": 4,
+      "character": "写",
+      "sinoVietnameseWord": "TẢ",
+      "mean": "Miêu tả",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l28/kanji/img/4_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 写 TẢ tr&ocirc;ng giống như con chim trong lồng, đang được người ta tả lại trong tranh hoặc chụp bằng m&aacute;y ảnh.</p>",
+      "onReading": "シャ",
+      "kunReading": "うつ・る、うつ・す",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">写す</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">うつす</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">chụp, sao ch&eacute;p</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">写る</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">うつる</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">được chụp</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">写真</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">しゃしん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">bức ảnh (h&igrave;nh chụp)</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca95d8c51364352b62b7b55",
+      "index": 5,
+      "character": "真",
+      "sinoVietnameseWord": "CHÂN",
+      "mean": "Thật, đúng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l28/kanji/img/5_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 真 CH&Acirc;N (thật, đ&uacute;ng) gh&eacute;p bởi chữ 十 THẬP (số 10), chữ 目 MỤC (con mắt), chữ 一 NHẤT (số 1) v&agrave; chữ 八 B&Aacute;T (số 8). 10 con mắt c&ugrave;ng nh&igrave;n đi nh&igrave;n lại 18 lần để biết được đ&acirc;u l&agrave; ch&acirc;n thật, đ&uacute;ng đắn.</p>",
+      "onReading": "シン",
+      "kunReading": "ま",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">写真</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">しゃしん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">h&igrave;nh ảnh</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">真っ白な</td>\n<td style=\"width: 33.3333%; height: 22px;\">まっしろな</td>\n<td style=\"width: 33.3333%; height: 22px;\">trắng xo&aacute;, trắng to&aacute;t</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">真っ黒な</td>\n<td style=\"width: 33.3333%; height: 22px;\">まっくろな</td>\n<td style=\"width: 33.3333%; height: 22px;\">đen s&igrave;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">真ん中</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">まんなか</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">ch&iacute;nh giữa</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a9f90fe6a4de6699512563",
+      "index": 6,
+      "character": "牛",
+      "sinoVietnameseWord": "NGƯU",
+      "mean": "Con bò",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l28/kanji/img/6_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 牛 NGƯU l&agrave; tượng h&igrave;nh của c&aacute;i đầu con b&ograve; c&oacute; một c&aacute;i sừng.</p>",
+      "onReading": "ギュウ",
+      "kunReading": "うし",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">牛</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">うし</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">con b&ograve;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">牛乳</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">ぎゅうにゅう</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">sữa b&ograve;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">牛肉</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">ぎゅうにく</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">thịt b&ograve;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">水牛</td>\n<td style=\"width: 33.3333%;\">すいぎゅう</td>\n<td style=\"width: 33.3333%;\">con tr&acirc;u</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a9f9c6e6a4de6699512564",
+      "index": 7,
+      "character": "林",
+      "sinoVietnameseWord": "LÂM",
+      "mean": "Rừng thưa",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l28/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 林 L&Acirc;M (rừng thưa) được gh&eacute;p bởi 2 chữ 木 MỘC.</p>",
+      "onReading": "リン",
+      "kunReading": "はやし",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 33.3333%; height: 17px;\"><span style=\"color: #e74c3c;\">林</span></td>\n<td style=\"width: 33.3333%; height: 17px;\"><span style=\"color: #e74c3c;\">はやし</span></td>\n<td style=\"width: 33.3333%; height: 17px;\"><span style=\"color: #e74c3c;\">rừng</span></td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 33.3333%; height: 15px;\"><span style=\"color: #e74c3c;\">小林</span></td>\n<td style=\"width: 33.3333%; height: 15px;\"><span style=\"color: #e74c3c;\">こばやし</span></td>\n<td style=\"width: 33.3333%; height: 15px;\"><span style=\"color: #e74c3c;\">Kobayashi (họ của người Nhật)</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a9fa75e6a4de6699512565",
+      "index": 8,
+      "character": "森",
+      "sinoVietnameseWord": "SÂM",
+      "mean": "Rừng rậm",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l28/kanji/img/8_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 森 S&Acirc;M (rừng rậm) được gh&eacute;p bởi 3 chữ 木 MỘC.</p>",
+      "onReading": "シン",
+      "kunReading": "もり",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 12px;\">\n<td style=\"width: 33.3333%; height: 12px;\"><span style=\"color: #e74c3c;\">森</span></td>\n<td style=\"width: 33.3333%; height: 12px;\"><span style=\"color: #e74c3c;\">もり</span></td>\n<td style=\"width: 33.3333%; height: 12px;\"><span style=\"color: #e74c3c;\">rừng rậm</span></td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 33.3333%; height: 18px;\">森林</td>\n<td style=\"width: 33.3333%; height: 18px;\">しんりん</td>\n<td style=\"width: 33.3333%; height: 18px;\">rừng (n&oacute;i chung)</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

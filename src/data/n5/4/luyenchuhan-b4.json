@@ -1,0 +1,102 @@
+{
+  "lesson": 4,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "65a8def3e6a4de66995124fe",
+      "index": 1,
+      "character": "国",
+      "sinoVietnameseWord": "QUỐC",
+      "mean": "Đất nước",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l4/kanji/img/1_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 国 QUỐC giống như &ocirc;ng vua ngồi trong bốn bức tường th&agrave;nh của đất nước m&igrave;nh.</p>",
+      "onReading": "コク",
+      "kunReading": "くに",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 88px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">国</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">くに</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">đất nước</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">外国</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">がいこく</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">nước ngo&agrave;i</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">韓国</td>\n<td style=\"width: 33.3333%; height: 22px;\">かんこく</td>\n<td style=\"width: 33.3333%; height: 22px;\">H&agrave;n Quốc</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">中国</td>\n<td style=\"width: 33.3333%; height: 22px;\">ちゅうごく</td>\n<td style=\"width: 33.3333%; height: 22px;\">Trung Quốc</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca6dd2f2144a12a6dec0598",
+      "index": 2,
+      "character": "月",
+      "sinoVietnameseWord": "NGUYỆT",
+      "mean": "Mặt trăng, tháng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l4/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 月 NGUYỆT nh&igrave;n giống như mặt trăng với 2 đ&aacute;m m&acirc;y lơ lửng.</p>",
+      "onReading": "ゲツ、ガツ",
+      "kunReading": "つき",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 106px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">月</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">つき</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">mặt trăng&nbsp;</span></td>\n</tr>\n<tr style=\"height: 11px;\">\n<td style=\"width: 33.3333%; height: 11px;\"><span style=\"color: #e74c3c;\">毎月</span></td>\n<td style=\"width: 33.3333%; height: 11px;\"><span style=\"color: #e74c3c;\">まいつき</span></td>\n<td style=\"width: 33.3333%; height: 11px;\"><span style=\"color: #e74c3c;\">h&agrave;ng th&aacute;ng</span></td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">一月</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">いちがつ</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">th&aacute;ng 1</span></td>\n</tr>\n<tr style=\"height: 13px;\">\n<td style=\"width: 33.3333%; height: 13px;\"><span style=\"color: #e74c3c;\">一か月</span></td>\n<td style=\"width: 33.3333%; height: 13px;\"><span style=\"color: #e74c3c;\">いっかげつ</span></td>\n<td style=\"width: 33.3333%; height: 13px;\"><span style=\"color: #e74c3c;\">một th&aacute;ng</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">今月</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">こんげつ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">th&aacute;ng n&agrave;y</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">月曜日</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">げつようび</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">thứ Hai</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca6de5f2144a12a6dec05b1",
+      "index": 3,
+      "character": "火",
+      "sinoVietnameseWord": "HOẢ",
+      "mean": "Lửa",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l4/kanji/img/3_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 火 HOẢ giống như đống lửa đang ch&aacute;y bập b&ugrave;ng.</p>",
+      "onReading": "カ",
+      "kunReading": "ひ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 167px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">火</td>\n<td style=\"width: 33.3333%;\">ひ</td>\n<td style=\"width: 33.3333%;\">ngọn lửa</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">火事</td>\n<td style=\"width: 33.3333%;\">かじ</td>\n<td style=\"width: 33.3333%;\">đ&aacute;m ch&aacute;y, hỏa hoạn</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">火星</td>\n<td style=\"width: 33.3333%;\">かせい</td>\n<td style=\"width: 33.3333%;\">sao Hoả</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">火曜日</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">かようび</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">thứ Ba</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca6df792144a12a6dec05bd",
+      "index": 4,
+      "character": "水",
+      "sinoVietnameseWord": "THUỶ",
+      "mean": "Nước",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l4/kanji/img/4_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 水 THUỶ như d&ograve;ng nước chảy bắn tung to&eacute; sang hai b&ecirc;n.</p>",
+      "onReading": "スイ",
+      "kunReading": "みず",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 88px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">水</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">みず</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">nước</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">水道</td>\n<td style=\"width: 33.3333%; height: 22px;\">すいどう</td>\n<td style=\"width: 33.3333%; height: 22px;\">đường nước m&aacute;y&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">水星</td>\n<td style=\"width: 33.3333%; height: 22px;\">すいせい</td>\n<td style=\"width: 33.3333%; height: 22px;\">sao Thuỷ</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">水曜日</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">すいようび</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">thứ Tư</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca6d81a2144a12a6dec054b",
+      "index": 5,
+      "character": "木",
+      "sinoVietnameseWord": "MỘC",
+      "mean": "Cây, gỗ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l4/kanji/img/5_kotsu.png",
+      "reminiscentDescription": "<p>H&igrave;nh dạng c&aacute;i c&acirc;y．</p>",
+      "onReading": "モク",
+      "kunReading": "き",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">桜の木</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">さくらのき</span></td>\n<td style=\"width: 33.3333%; height: 10px;\">\n<p><span style=\"color: #e74c3c;\">c&acirc;y hoa anh đ&agrave;o, gỗ c&acirc;y hoa anh đ&agrave;o</span></p>\n</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">木の椅子</td>\n<td style=\"width: 33.3333%; height: 10px;\">きのいす</td>\n<td style=\"width: 33.3333%; height: 10px;\">ghế gỗ</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">木星</td>\n<td style=\"width: 33.3333%; height: 10px;\">もくせい</td>\n<td style=\"width: 33.3333%; height: 10px;\">sao Mộc</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">木曜日</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">もくようび</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">thứ Năm&nbsp;</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca6dc0d2144a12a6dec0584",
+      "index": 6,
+      "character": "金",
+      "sinoVietnameseWord": "KIM",
+      "mean": "Vàng, tiền",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l4/kanji/img/6_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 金 KIM giống như những thỏi v&agrave;ng nằm trong l&ograve;ng n&uacute;i.</p>",
+      "onReading": "キン",
+      "kunReading": "かね",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">お金</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">おかね</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">tiền</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">金</td>\n<td style=\"width: 33.3333%; height: 22px;\">きん</td>\n<td style=\"width: 33.3333%; height: 22px;\">v&agrave;ng (kim loại)</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">金星</td>\n<td style=\"width: 33.3333%; height: 22px;\">きんせい</td>\n<td style=\"width: 33.3333%; height: 22px;\">sao Kim</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">金曜日</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">きんようび</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">thứ S&aacute;u</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a8e459e6a4de669951250a",
+      "index": 7,
+      "character": "土",
+      "sinoVietnameseWord": "THỔ",
+      "mean": "Đất",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l4/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 土 THỔ giống h&igrave;nh ảnh mầm c&acirc;y mọc l&ecirc;n từ mặt đất.</p>",
+      "onReading": "ド、ト",
+      "kunReading": "つち",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 66px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">土</td>\n<td style=\"width: 33.3333%; height: 22px;\">つち</td>\n<td style=\"width: 33.3333%; height: 22px;\">đất&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">土地</td>\n<td style=\"width: 33.3333%; height: 22px;\">とち</td>\n<td style=\"width: 33.3333%; height: 22px;\">mảnh đất</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">土星</td>\n<td style=\"width: 33.3333%;\">どせい</td>\n<td style=\"width: 33.3333%;\">sao Thổ</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">土曜日</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">どようび</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">thứ Bảy</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a8e527e6a4de669951250e",
+      "index": 8,
+      "character": "書",
+      "sinoVietnameseWord": "THƯ",
+      "mean": "Viết, sách",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l4/kanji/img/8_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 書 THƯ giống như ai đ&oacute; đang cầm b&uacute;t viết xuống tờ giấy.</p>",
+      "onReading": "ショ",
+      "kunReading": "か・きます",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 88px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">書きます</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">かきます</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">viết</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">辞書</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">じしょ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">từ điển</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">図書館</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">としょかん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">thư viện</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">教科書</td>\n<td style=\"width: 33.3333%; height: 22px;\">きょうかしょ</td>\n<td style=\"width: 33.3333%; height: 22px;\">s&aacute;ch gi&aacute;o khoa</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

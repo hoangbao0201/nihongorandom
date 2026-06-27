@@ -1,0 +1,102 @@
+{
+  "lesson": 18,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca72dda2144a12a6dec084f",
+      "index": null,
+      "character": "漢",
+      "sinoVietnameseWord": "HÁN",
+      "mean": "Nhà Hán",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l21/kanji/img/1_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 漢 H&Aacute;N vốn d&ugrave;ng để chỉ s&ocirc;ng H&aacute;n, l&agrave; nguồn gốc của t&ecirc;n triều đại nh&agrave; H&aacute;n của Trung Hoa cổ đại, v&igrave; vậy c&oacute; bộ THUỶ ở b&ecirc;n tr&aacute;i. Phần b&ecirc;n phải của chữ nh&igrave;n giống như một người H&aacute;n trong trang phục cổ đại.</p>",
+      "onReading": "カン",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 42px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.143%; height: 21px;\"><span style=\"color: #e74c3c;\">漢字</span></td>\n<td style=\"width: 36.5236%; height: 21px;\"><span style=\"color: #e74c3c;\">かんじ</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">chữ H&aacute;n</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.143%; height: 21px;\">漢語</td>\n<td style=\"width: 36.5236%; height: 21px;\">かんご</td>\n<td style=\"width: 33.3333%; height: 21px;\">từ gốc H&aacute;n&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca72eb32144a12a6dec0858",
+      "index": 2,
+      "character": "料",
+      "sinoVietnameseWord": "LIỆU",
+      "mean": "Lo liệu, vật liệu",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l21/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 料 LIỆU nghĩa l&agrave; c&acirc;n đong đo lường, t&iacute;nh to&aacute;n lo liệu, được gh&eacute;p bởi bộ 米 MỄ (gạo) v&agrave; chữ 斗 ĐẤU (dụng cụ đo lường ng&agrave;y xưa).</p>",
+      "onReading": "リョウ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 52px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.5155%; height: 10px;\"><span style=\"color: #e74c3c;\">料理</span></td>\n<td style=\"width: 32.4224%; height: 10px;\"><span style=\"color: #e74c3c;\">りょうり</span></td>\n<td style=\"width: 34.062%; height: 10px;\"><span style=\"color: #e74c3c;\">m&oacute;n ăn, việc nấu ăn</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.5155%; height: 21px;\">資料</td>\n<td style=\"width: 32.4224%; height: 21px;\">しりょう</td>\n<td style=\"width: 34.062%; height: 21px;\">t&agrave;i liệu</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.5155%; height: 21px;\">無料</td>\n<td style=\"width: 32.4224%; height: 21px;\">むりょう</td>\n<td style=\"width: 34.062%; height: 21px;\">miễn ph&iacute;&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca72ff92144a12a6dec0868",
+      "index": 3,
+      "character": "理",
+      "sinoVietnameseWord": "LÝ",
+      "mean": "Lý do, quản lý",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l21/kanji/img/3_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 理 L&Yacute; tr&ocirc;ng giống như gh&eacute;p bởi chữ 王 VƯƠNG c&ugrave;ng chữ 田 ĐIỀN v&agrave; chữ 土 THỔ, giống như việc &ocirc;ng vua phải quản l&yacute; đồng ruộng v&agrave; đất đai.&nbsp;</p>",
+      "onReading": "リ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 32.0132%; height: 21px;\">理由</td>\n<td style=\"width: 34.6534%; height: 21px;\">りゆう&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">l&yacute; do</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 32.0132%; height: 21px;\">物理学</td>\n<td style=\"width: 34.6534%; height: 21px;\">ぶつりがく</td>\n<td style=\"width: 33.3333%; height: 21px;\">m&ocirc;n Vật L&yacute;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 32.0132%; height: 21px;\"><span style=\"color: #e74c3c;\">無理</span></td>\n<td style=\"width: 34.6534%; height: 21px;\"><span style=\"color: #e74c3c;\">むり</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">qu&aacute; sức, kh&oacute; thực hiện được</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 32.0132%; height: 21px;\">管理</td>\n<td style=\"width: 34.6534%; height: 21px;\">かんり</td>\n<td style=\"width: 33.3333%; height: 21px;\">quản l&yacute;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca732762144a12a6dec0874",
+      "index": 4,
+      "character": "主",
+      "sinoVietnameseWord": "CHỦ",
+      "mean": "Chủ yếu, chủ nhân",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l21/kanji/img/4_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 主 CHỦ tr&ocirc;ng giống như h&igrave;nh ảnh một &ocirc;ng chủ đội mũ đứng khoanh tay.</p>",
+      "onReading": "シュ",
+      "kunReading": "おも",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 28.6028%; height: 21px;\">主な</td>\n<td style=\"width: 38.7013%; height: 21px;\">おもな</td>\n<td style=\"width: 32.6958%; height: 21px;\">ch&iacute;nh, chủ yếu&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 28.6028%; height: 21px;\"><span style=\"color: #e74c3c;\">主人</span></td>\n<td style=\"width: 38.7013%; height: 21px;\"><span style=\"color: #e74c3c;\">しゅじん</span></td>\n<td style=\"width: 32.6958%; height: 21px;\"><span style=\"color: #e74c3c;\">chồng m&igrave;nh</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 28.6028%; height: 21px;\">主婦</td>\n<td style=\"width: 38.7013%; height: 21px;\">しゅふ</td>\n<td style=\"width: 32.6958%; height: 21px;\">nội trợ</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65aa40dae6a4de66995125d7",
+      "index": 5,
+      "character": "着",
+      "sinoVietnameseWord": "TRƯỚC",
+      "mean": "Mặc áo, đến nơi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l21/kanji/img/5_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 着 TRƯỚC trong từ 着物 KIMONO tr&ocirc;ng giống như bộ kimono truyền thống của Nhật, với phần cổ &aacute;o, đai obi, c&aacute;nh tay xo&egrave; ra, c&ugrave;ng với th&acirc;n &aacute;o dưới.</p>",
+      "onReading": "チャク",
+      "kunReading": "き・る、つ・く",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 112px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">着く</span></td>\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">つく</span></td>\n<td style=\"width: 33.3333%; height: 14px;\"><span style=\"color: #e74c3c;\">đến nơi</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">着る</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">きる</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">mặc (&aacute;o)</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">着物</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">きもの</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">kimono&nbsp;</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">上着</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">うわぎ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">&aacute;o kho&aacute;c&nbsp;</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">到着</td>\n<td style=\"width: 33.3333%; height: 22px;\">とうちゃく</td>\n<td style=\"width: 33.3333%; height: 22px;\">đến nơi</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">～着</td>\n<td style=\"width: 33.3333%; height: 22px;\">～ちゃく</td>\n<td style=\"width: 33.3333%; height: 22px;\">trợ từ đếm (&aacute;o kho&aacute;c, bộ quần &aacute;o)</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65aa4444e6a4de66995125da",
+      "index": 6,
+      "character": "新",
+      "sinoVietnameseWord": "TÂN",
+      "mean": "Mới",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l21/kanji/img/6_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 新 T&Acirc;N giống như được gh&eacute;p bởi chữ 立 LẬP (đứng), chữ 木 MỘC (c&aacute;i c&acirc;y) v&agrave; bộ 斤 C&Acirc;N (c&aacute;i r&igrave;u), ta li&ecirc;n tưởng đến việc một người đứng trong rừng đang d&ugrave;ng r&igrave;u chặt c&acirc;y để khai hoang v&ugrave;ng đất mới.</p>",
+      "onReading": "しん",
+      "kunReading": "あたら・しい",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 40px;\">\n<tbody>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">新しい</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">あたらしい</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">mới</span></td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">新聞</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">しんぶん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">b&aacute;o, tờ b&aacute;o</span></td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\">新車</td>\n<td style=\"width: 33.3333%; height: 10px;\">しんしゃ</td>\n<td style=\"width: 33.3333%; height: 10px;\">xe &ocirc; t&ocirc; mới</td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\">新型</td>\n<td style=\"width: 33.3333%; height: 10px;\">しんがた</td>\n<td style=\"width: 33.3333%; height: 10px;\">dạng mới</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca72d0b2144a12a6dec0843",
+      "index": 7,
+      "character": "古",
+      "sinoVietnameseWord": "CỔ",
+      "mean": "Cũ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l21/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 古 CỔ được gh&eacute;p bởi chữ 十 THẬP (số mười) v&agrave; chữ 口 KHẨU (c&aacute;i miệng), giống như việc chuyện g&igrave; đ&atilde; n&oacute;i đến tận 10 lần th&igrave; đều trở th&agrave;nh chuyện cũ.</p>",
+      "onReading": "コ",
+      "kunReading": "ふる・い",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 63px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.363%; height: 21px;\"><span style=\"color: #e74c3c;\">古い</span></td>\n<td style=\"width: 36.3036%; height: 21px;\"><span style=\"color: #e74c3c;\">ふるい</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">cũ, cổ</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.363%; height: 10px;\">古着</td>\n<td style=\"width: 36.3036%; height: 10px;\">ふるぎ</td>\n<td style=\"width: 33.3333%; height: 10px;\">quần &aacute;o cũ&nbsp;</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 30.363%; height: 10px;\">古代</td>\n<td style=\"width: 36.3036%; height: 10px;\">こだい</td>\n<td style=\"width: 33.3333%; height: 10px;\">cổ đại</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 30.363%; height: 22px;\">中古車</td>\n<td style=\"width: 36.3036%; height: 22px;\">ちゅうこしゃ</td>\n<td style=\"width: 33.3333%; height: 22px;\">xe &ocirc; t&ocirc; cũ&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65aa45f4e6a4de66995125dc",
+      "index": 8,
+      "character": "持",
+      "sinoVietnameseWord": "TRÌ",
+      "mean": "Cầm, nắm",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l21/kanji/img/8_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 持 TR&Igrave; (cầm nắm, mang v&aacute;c) gh&eacute;p bởi bộ 扌 THỦ (c&aacute;i tay) v&agrave; chữ 寺 TỰ (ng&ocirc;i ch&ugrave;a), giống như việc khi đến đền ch&ugrave;a th&igrave; tay ta lu&ocirc;n mang rất nhiều thứ để d&acirc;ng lễ.</p>",
+      "onReading": "",
+      "kunReading": "も・つ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">持つ</td>\n<td style=\"width: 33.3333%; height: 22px;\">もつ</td>\n<td style=\"width: 33.3333%; height: 22px;\">cầm nắm, sở hữu&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">気持ち</td>\n<td style=\"width: 33.3333%; height: 22px;\">きもち</td>\n<td style=\"width: 33.3333%; height: 22px;\">cảm x&uacute;c, cảm gi&aacute;c&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

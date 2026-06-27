@@ -1,0 +1,134 @@
+{
+  "lesson": 15,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "置きます",
+      "kanjiHtml": "置きます",
+      "sinoVietnamese": "TRÍ",
+      "kana": "おきます",
+      "kanaHtml": "おきます"
+    },
+    {
+      "index": 2,
+      "kanji": "作ります, 造ります",
+      "kanjiHtml": "作ります, <br />造ります",
+      "sinoVietnamese": "TÁC, TẠO",
+      "kana": "つくります",
+      "kanaHtml": "つくります"
+    },
+    {
+      "index": 3,
+      "kanji": "売ります",
+      "kanjiHtml": "売ります",
+      "sinoVietnamese": "MẠI",
+      "kana": "うります",
+      "kanaHtml": "うります"
+    },
+    {
+      "index": 4,
+      "kanji": "知ります",
+      "kanjiHtml": "知ります",
+      "sinoVietnamese": "TRI",
+      "kana": "しります",
+      "kanaHtml": "しります"
+    },
+    {
+      "index": 5,
+      "kanji": "住みます",
+      "kanjiHtml": "住みます",
+      "sinoVietnamese": "TRÚ, TRỤ",
+      "kana": "すみます",
+      "kanaHtml": "すみます"
+    },
+    {
+      "index": 6,
+      "kanji": "研究します",
+      "kanjiHtml": "研究します",
+      "sinoVietnamese": "NGHIÊN CỬU",
+      "kana": "けんきゅうします",
+      "kanaHtml": "けんきゅうします"
+    },
+    {
+      "index": 7,
+      "kanji": "資料",
+      "kanjiHtml": "資料",
+      "sinoVietnamese": "TƯ LIỆU",
+      "kana": "しりょう",
+      "kanaHtml": "しりょう"
+    },
+    {
+      "index": 8,
+      "kanji": "時刻表",
+      "kanjiHtml": "時刻表",
+      "sinoVietnamese": "THỜI KHẮC BIỂU",
+      "kana": "じこくひょう",
+      "kanaHtml": "じこくひょう"
+    },
+    {
+      "index": 9,
+      "kanji": "服",
+      "kanjiHtml": "服",
+      "sinoVietnamese": "PHỤC",
+      "kana": "ふく",
+      "kanaHtml": "ふく"
+    },
+    {
+      "index": 10,
+      "kanji": "製品",
+      "kanjiHtml": "製品",
+      "sinoVietnamese": "CHẾ PHẨM",
+      "kana": "せいひん",
+      "kanaHtml": "せいひん"
+    },
+    {
+      "index": 11,
+      "kanji": "電子辞書",
+      "kanjiHtml": "電子辞書",
+      "sinoVietnamese": "ĐIỆN TỪ TỪ ĐIỂN",
+      "kana": "でんしじしょ",
+      "kanaHtml": "でんしじしょ"
+    },
+    {
+      "index": 12,
+      "kanji": "経済",
+      "kanjiHtml": "経済",
+      "sinoVietnamese": "KINH TẾ",
+      "kana": "けいざい",
+      "kanaHtml": "けいざい"
+    },
+    {
+      "index": 13,
+      "kanji": "市役所",
+      "kanjiHtml": "市役所",
+      "sinoVietnamese": "THỊ DỊCH SỞ",
+      "kana": "しやくしょ",
+      "kanaHtml": "しやくしょ"
+    },
+    {
+      "index": 14,
+      "kanji": "高校",
+      "kanjiHtml": "高校",
+      "sinoVietnamese": "CAO HIỆU",
+      "kana": "こうこう",
+      "kanaHtml": "こうこう"
+    },
+    {
+      "index": 15,
+      "kanji": "歯医者",
+      "kanjiHtml": "歯医者",
+      "sinoVietnamese": "XỈ Y GIẢ",
+      "kana": "はいしゃ",
+      "kanaHtml": "はいしゃ"
+    },
+    {
+      "index": 16,
+      "kanji": "独身",
+      "kanjiHtml": "独身",
+      "sinoVietnamese": "ĐỘC THÂN",
+      "kana": "どくしん",
+      "kanaHtml": "どくしん"
+    }
+  ]
+}

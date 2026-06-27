@@ -1,0 +1,210 @@
+{
+  "lesson": 23,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "道路（どうろ）・ 交通（こうつう） Đường sá và Giao thông",
+      "titleHtml": "<ruby>道路<rp>（</rp><rt>どうろ</rt><rp>）</rp></ruby>・ <ruby>交通<rp>（</rp><rt>こうつう</rt><rp>）</rp></ruby> Đường sá và Giao thông",
+      "introHtml": "<style> .vnjp-minna-bai23-table { width: 100%; border-collapse: collapse; } .vnjp-minna-bai23-table th { background: #333; color: white; font-weight: bold; border: 1px solid #ccc; } .vnjp-minna-bai23-table td, .vnjp-minna-bai23-table th { padding: 6px; border: 1px solid #ccc; text-align: left; } @media only screen and (max-width: 768px){ .vnjp-minna-bai23-table, .vnjp-minna-bai23-table thead, .vnjp-minna-bai23-table tbody, .vnjp-minna-bai23-table th, .vnjp-minna-bai23-table td, .vnjp-minna-bai23-table tr { display: block; } .vnjp-minna-bai23-table thead tr { position: absolute; top: -9999px; left: -9999px; } .vnjp-minna-bai23-table tr { border: 1px solid #ccc; } .vnjp-minna-bai23-table td { border: none; border-bottom: 1px solid #eee; position: relative; width: 100% !important; } } </style> <p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "① 歩道（ほどう）",
+              "html": "① <ruby>歩道<rp>（</rp><rt>ほどう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đường cho người đi bộ",
+              "html": "đường cho người đi bộ"
+            }
+          ],
+          "term": "① 歩道（ほどう）",
+          "termHtml": "① <ruby>歩道<rp>（</rp><rt>ほどう</rt><rp>）</rp></ruby>",
+          "meaning": "đường cho người đi bộ",
+          "meaningHtml": "đường cho người đi bộ"
+        },
+        {
+          "cells": [
+            {
+              "text": "② 車道（しゃどう）",
+              "html": "② <ruby>車道<rp>（</rp><rt>しゃどう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đường cho xe ô tô",
+              "html": "đường cho xe ô tô"
+            }
+          ],
+          "term": "② 車道（しゃどう）",
+          "termHtml": "② <ruby>車道<rp>（</rp><rt>しゃどう</rt><rp>）</rp></ruby>",
+          "meaning": "đường cho xe ô tô",
+          "meaningHtml": "đường cho xe ô tô"
+        },
+        {
+          "cells": [
+            {
+              "text": "③ 高速（こうそく）道路（どうろ）",
+              "html": "③ <ruby>高速<rp>（</rp><rt>こうそく</rt><rp>）</rp></ruby><ruby>道路<rp>（</rp><rt>どうろ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đường cao tốc",
+              "html": "đường cao tốc"
+            }
+          ],
+          "term": "③ 高速（こうそく）道路（どうろ）",
+          "termHtml": "③ <ruby>高速<rp>（</rp><rt>こうそく</rt><rp>）</rp></ruby><ruby>道路<rp>（</rp><rt>どうろ</rt><rp>）</rp></ruby>",
+          "meaning": "đường cao tốc",
+          "meaningHtml": "đường cao tốc"
+        },
+        {
+          "cells": [
+            {
+              "text": "④ 通（とお）り",
+              "html": "④ <ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>り"
+            },
+            {
+              "text": "đường, phố",
+              "html": "đường, phố"
+            }
+          ],
+          "term": "④ 通（とお）り",
+          "termHtml": "④ <ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>り",
+          "meaning": "đường, phố",
+          "meaningHtml": "đường, phố"
+        },
+        {
+          "cells": [
+            {
+              "text": "⑤ 交差点（こうさてん）",
+              "html": "⑤ <ruby>交差点<rp>（</rp><rt>こうさてん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ngã tư, giao lộ",
+              "html": "ngã tư, giao lộ"
+            }
+          ],
+          "term": "⑤ 交差点（こうさてん）",
+          "termHtml": "⑤ <ruby>交差点<rp>（</rp><rt>こうさてん</rt><rp>）</rp></ruby>",
+          "meaning": "ngã tư, giao lộ",
+          "meaningHtml": "ngã tư, giao lộ"
+        },
+        {
+          "cells": [
+            {
+              "text": "⑥ 横断（おうだん）歩道（ほどう）",
+              "html": "⑥ <ruby>横断<rp>（</rp><rt>おうだん</rt><rp>）</rp></ruby><ruby>歩道<rp>（</rp><rt>ほどう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "phần đường dành cho người đi bộ qua đường",
+              "html": "phần đường dành cho người đi bộ qua đường"
+            }
+          ],
+          "term": "⑥ 横断（おうだん）歩道（ほどう）",
+          "termHtml": "⑥ <ruby>横断<rp>（</rp><rt>おうだん</rt><rp>）</rp></ruby><ruby>歩道<rp>（</rp><rt>ほどう</rt><rp>）</rp></ruby>",
+          "meaning": "phần đường dành cho người đi bộ qua đường",
+          "meaningHtml": "phần đường dành cho người đi bộ qua đường"
+        },
+        {
+          "cells": [
+            {
+              "text": "⑦ 歩道橋（ほどうきょう）",
+              "html": "⑦ <ruby>歩道橋<rp>（</rp><rt>ほどうきょう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "cầu vượt cho người đi bộ",
+              "html": "cầu vượt cho người đi bộ"
+            }
+          ],
+          "term": "⑦ 歩道橋（ほどうきょう）",
+          "termHtml": "⑦ <ruby>歩道橋<rp>（</rp><rt>ほどうきょう</rt><rp>）</rp></ruby>",
+          "meaning": "cầu vượt cho người đi bộ",
+          "meaningHtml": "cầu vượt cho người đi bộ"
+        },
+        {
+          "cells": [
+            {
+              "text": "⑧ 角（かど）",
+              "html": "⑧ <ruby>角<rp>（</rp><rt>かど</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "góc",
+              "html": "góc"
+            }
+          ],
+          "term": "⑧ 角（かど）",
+          "termHtml": "⑧ <ruby>角<rp>（</rp><rt>かど</rt><rp>）</rp></ruby>",
+          "meaning": "góc",
+          "meaningHtml": "góc"
+        },
+        {
+          "cells": [
+            {
+              "text": "⑨ 信号（しんごう）",
+              "html": "⑨ <ruby>信号<rp>（</rp><rt>しんごう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đèn tín hiệu",
+              "html": "đèn tín hiệu"
+            }
+          ],
+          "term": "⑨ 信号（しんごう）",
+          "termHtml": "⑨ <ruby>信号<rp>（</rp><rt>しんごう</rt><rp>）</rp></ruby>",
+          "meaning": "đèn tín hiệu",
+          "meaningHtml": "đèn tín hiệu"
+        },
+        {
+          "cells": [
+            {
+              "text": "⑩ 坂（さか）",
+              "html": "⑩ <ruby>坂<rp>（</rp><rt>さか</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "dốc",
+              "html": "dốc"
+            }
+          ],
+          "term": "⑩ 坂（さか）",
+          "termHtml": "⑩ <ruby>坂<rp>（</rp><rt>さか</rt><rp>）</rp></ruby>",
+          "meaning": "dốc",
+          "meaningHtml": "dốc"
+        },
+        {
+          "cells": [
+            {
+              "text": "⑪ 踏切（ふみきり）",
+              "html": "⑪ <ruby>踏切<rp>（</rp><rt>ふみきり</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đường ngang",
+              "html": "đường ngang"
+            }
+          ],
+          "term": "⑪ 踏切（ふみきり）",
+          "termHtml": "⑪ <ruby>踏切<rp>（</rp><rt>ふみきり</rt><rp>）</rp></ruby>",
+          "meaning": "đường ngang",
+          "meaningHtml": "đường ngang"
+        },
+        {
+          "cells": [
+            {
+              "text": "⑫ ガソリンスタンド",
+              "html": "⑫ ガソリンスタンド"
+            },
+            {
+              "text": "trạm xăng",
+              "html": "trạm xăng"
+            }
+          ],
+          "term": "⑫ ガソリンスタンド",
+          "termHtml": "⑫ ガソリンスタンド",
+          "meaning": "trạm xăng",
+          "meaningHtml": "trạm xăng"
+        }
+      ],
+      "contentHtml": "<style> .vnjp-minna-bai23-table { width: 100%; border-collapse: collapse; } .vnjp-minna-bai23-table th { background: #333; color: white; font-weight: bold; border: 1px solid #ccc; } .vnjp-minna-bai23-table td, .vnjp-minna-bai23-table th { padding: 6px; border: 1px solid #ccc; text-align: left; } @media only screen and (max-width: 768px){ .vnjp-minna-bai23-table, .vnjp-minna-bai23-table thead, .vnjp-minna-bai23-table tbody, .vnjp-minna-bai23-table th, .vnjp-minna-bai23-table td, .vnjp-minna-bai23-table tr { display: block; } .vnjp-minna-bai23-table thead tr { position: absolute; top: -9999px; left: -9999px; } .vnjp-minna-bai23-table tr { border: 1px solid #ccc; } .vnjp-minna-bai23-table td { border: none; border-bottom: 1px solid #eee; position: relative; width: 100% !important; } } </style> <p> <table class=\"search_result vnjp-minna-bai23-table\"><thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead><tbody><tr><td>① <ruby>歩道<rp>（</rp><rt>ほどう</rt><rp>）</rp></ruby></td><td>đường cho người đi bộ</td></tr><tr><td>② <ruby>車道<rp>（</rp><rt>しゃどう</rt><rp>）</rp></ruby></td><td>đường cho xe ô tô</td></tr><tr><td>③ <ruby>高速<rp>（</rp><rt>こうそく</rt><rp>）</rp></ruby><ruby>道路<rp>（</rp><rt>どうろ</rt><rp>）</rp></ruby></td><td>đường cao tốc</td></tr><tr><td>④ <ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>り</td><td>đường, phố</td></tr><tr><td>⑤ <ruby>交差点<rp>（</rp><rt>こうさてん</rt><rp>）</rp></ruby></td><td>ngã tư, giao lộ</td></tr><tr><td>⑥ <ruby>横断<rp>（</rp><rt>おうだん</rt><rp>）</rp></ruby><ruby>歩道<rp>（</rp><rt>ほどう</rt><rp>）</rp></ruby></td><td>phần đường dành cho người đi bộ qua đường</td></tr><tr><td>⑦ <ruby>歩道橋<rp>（</rp><rt>ほどうきょう</rt><rp>）</rp></ruby></td><td>cầu vượt cho người đi bộ</td></tr><tr><td>⑧ <ruby>角<rp>（</rp><rt>かど</rt><rp>）</rp></ruby></td><td>góc</td></tr><tr><td>⑨ <ruby>信号<rp>（</rp><rt>しんごう</rt><rp>）</rp></ruby></td><td>đèn tín hiệu</td></tr><tr><td>⑩ <ruby>坂<rp>（</rp><rt>さか</rt><rp>）</rp></ruby></td><td>dốc</td></tr><tr><td>⑪ <ruby>踏切<rp>（</rp><rt>ふみきり</rt><rp>）</rp></ruby></td><td>đường ngang</td></tr><tr><td>⑫ ガソリンスタンド</td><td>trạm xăng</td></tr></tbody></table> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnatuvungthamkhao/bai23.jpg\" style=\"width:100%;\"><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai23.jpg\" style=\"width:100%;\"></noscript> </p> <br> <p> <table class=\"search_result vnjp-minna-bai23-table\"><thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> <th>Biển báo</th> </tr> </thead><tbody><tr><td><ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まれ</td><td>dừng lại</td><td height=\"100\"><center><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" data-src=\"/images/minnatuvungthamkhao/bai23_1.jpg\" style=\"width:100px;height:80px;\" alt=\"\"><noscript><img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai23_1.jpg\" style=\"width:100px;height:80px;\" alt=\"\"></noscript></center></td></tr><tr><td><ruby>進入<rp>（</rp><rt>しんにゅう</rt><rp>）</rp></ruby><ruby>禁止<rp>（</rp><rt>きんし</rt><rp>）</rp></ruby></td><td>cấm đi vào</td><td height=\"100\"><center><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" data-src=\"/images/minnatuvungthamkhao/bai23_2.jpg\" style=\"width:100px;height:80px;\" alt=\"\"><noscript><img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai23_2.jpg\" style=\"width:100px;height:80px;\" alt=\"\"></noscript></center></td></tr><tr><td><ruby>一方通行<rp>（</rp><rt>いっぽうつうこう</rt><rp>）</rp></ruby></td><td>đường một chiều</td><td height=\"100\"><center><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" data-src=\"/images/minnatuvungthamkhao/bai23_3.jpg\" style=\"width:100px;height:80px;\" alt=\"\"><noscript><img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai23_3.jpg\" style=\"width:100px;height:80px;\" alt=\"\"></noscript></center></td></tr><tr><td><ruby>駐車<rp>（</rp><rt>ちゅうしゃ</rt><rp>）</rp></ruby><ruby>禁止<rp>（</rp><rt>きんし</rt><rp>）</rp></ruby></td><td>cấm đỗ xe</td><td height=\"100\"><center><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" data-src=\"/images/minnatuvungthamkhao/bai23_4.jpg\" style=\"width:100px;height:80px;\" alt=\"\"><noscript><img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai23_4.jpg\" style=\"width:100px;height:80px;\" alt=\"\"></noscript></center></td></tr><tr><td><ruby>右折<rp>（</rp><rt>うせつ</rt><rp>）</rp></ruby><ruby>禁止<rp>（</rp><rt>きんし</rt><rp>）</rp></ruby></td><td>cấm rẽ phải</td><td height=\"100\"><center><img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" data-src=\"/images/minnatuvungthamkhao/bai23_5.jpg\" style=\"width:100px;height:80px;\" alt=\"\"><noscript><img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai23_5.jpg\" style=\"width:100px;height:80px;\" alt=\"\"></noscript></center></td></tr></tbody></table> </p> <style> .vnjp-link-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); /* Desktop: 4 ô / hàng */ gap: 10px 10px; margin: 10px 0 20px; clear: both; /* cắt float cũ nếu có */ } .vnjp-link-item { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; /* nếu muốn chữ giữa thì đổi thành center */ padding: 7px 5px 5px 15px; border-radius: 10px; background: #ffffff; border: 1px solid #e0e4ef; box-shadow: 0 2px 5px rgba(0,0,0,0.04); text-decoration: none; transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease; float: none; /* ép bỏ mọi float từ CSS cũ */ } .vnjp-link-item:hover { background-color: #f5f7ff; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transform: translateY(-2px); } .vnjp-link-title { display: block; font-size: 14px; font-weight: 600; color: #222; margin-bottom: 3px; } .vnjp-link-sub { display: block; font-size: 11px; color: #6b7280; } a.disabled { pointer-events: none; /* ❌ không click được */ opacity: 0.5; /* làm mờ */ cursor: not-allowed; text-decoration: none; } /* Tablet: 3 ô / hàng */ @media (max-width: 1024px) { .vnjp-link-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } } /* Mobile: 2 ô / hàng */ @media (max-width: 768px) { .vnjp-link-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .vnjp-link-title { font-size: 13px; } .vnjp-link-sub { font-size: 10px; } } </style>"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "lesson": 25,
+  "meta": {
+    "practiceUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=25",
+    "flashcardUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=25&mf=fc"
+  },
+  "sections": [
+    {
+      "key": "main",
+      "label": null,
+      "labelHtml": null,
+      "items": [
+        {
+          "kind": "entry",
+          "index": 1,
+          "word": "かんがえます",
+          "wordHtml": "かんがえます",
+          "kanji": "考えます",
+          "kanjiHtml": "考えます",
+          "sinoVietnamese": "KHẢO",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100011100.mp3",
+          "meaning": "nghĩ, suy nghĩ",
+          "meaningHtml": "nghĩ, suy nghĩ"
+        },
+        {
+          "kind": "entry",
+          "index": 2,
+          "word": "つきます",
+          "wordHtml": "つきます",
+          "kanji": "着きます",
+          "kanjiHtml": "着きます",
+          "sinoVietnamese": "TRƯỚC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100011101.mp3",
+          "meaning": "đến",
+          "meaningHtml": "đến"
+        },
+        {
+          "kind": "entry",
+          "index": 3,
+          "word": "とります [としを～]",
+          "wordHtml": "とります<br />[としを～]",
+          "kanji": "取ります [年を～]",
+          "kanjiHtml": "取ります<br />[年を～]",
+          "sinoVietnamese": "THỦ NIÊN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100011110.mp3",
+          "meaning": "thêm [tuổi]",
+          "meaningHtml": "thêm [tuổi]"
+        },
+        {
+          "kind": "entry",
+          "index": 4,
+          "word": "たります",
+          "wordHtml": "たります",
+          "kanji": "足ります",
+          "kanjiHtml": "足ります",
+          "sinoVietnamese": "ĐỦ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100011111.mp3",
+          "meaning": "đủ",
+          "meaningHtml": "đủ"
+        },
+        {
+          "kind": "entry",
+          "index": 5,
+          "word": "いなか",
+          "wordHtml": "いなか",
+          "kanji": "田舎",
+          "kanjiHtml": "田舎",
+          "sinoVietnamese": "ĐIỀN XÁ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100100000.mp3",
+          "meaning": "quê, nông thôn",
+          "meaningHtml": "quê, nông thôn"
+        },
+        {
+          "kind": "entry",
+          "index": 6,
+          "word": "チャンス",
+          "wordHtml": "チャンス",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100100001.mp3",
+          "meaning": "cơ hội",
+          "meaningHtml": "cơ hội"
+        },
+        {
+          "kind": "entry",
+          "index": 7,
+          "word": "おく",
+          "wordHtml": "おく",
+          "kanji": "億",
+          "kanjiHtml": "億",
+          "sinoVietnamese": "ỨC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100100010.mp3",
+          "meaning": "một trăm triệu",
+          "meaningHtml": "một trăm triệu"
+        },
+        {
+          "kind": "entry",
+          "index": 8,
+          "word": "もし[～たら]",
+          "wordHtml": "もし[～たら]",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100100011.mp3",
+          "meaning": "nếu [~ thì]",
+          "meaningHtml": "nếu [~ thì]"
+        },
+        {
+          "kind": "entry",
+          "index": 9,
+          "word": "いみ",
+          "wordHtml": "いみ",
+          "kanji": "意味",
+          "kanjiHtml": "意味",
+          "sinoVietnamese": "Ý VỊ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100100100.mp3",
+          "meaning": "nghĩa, ý nghĩa",
+          "meaningHtml": "nghĩa, ý nghĩa"
+        }
+      ]
+    },
+    {
+      "key": "c",
+      "label": "練習(れんしゅう) C",
+      "labelHtml": "＜<b><ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby> C</b>＞",
+      "items": [
+        {
+          "kind": "phrase",
+          "index": 10,
+          "text": "もしもし",
+          "textHtml": "もしもし",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100100101.mp3",
+          "meaning": "A-lô",
+          "meaningHtml": "A-lô"
+        }
+      ]
+    },
+    {
+      "key": "section-3",
+      "label": "会話(かいわ)",
+      "labelHtml": "＜<b><ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby></b>＞",
+      "items": [
+        {
+          "kind": "phrase",
+          "index": 11,
+          "text": "転勤（てんきん）",
+          "textHtml": "<ruby>転勤<rp>（</rp><rt>てんきん</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100100110.mp3",
+          "meaning": "việc chuyển địa điểm làm việc (～します：chuyển địa điểm làm việc)",
+          "meaningHtml": "việc chuyển địa điểm làm việc<br />(～します：chuyển địa điểm làm việc)"
+        },
+        {
+          "kind": "phrase",
+          "index": 12,
+          "text": "こと",
+          "textHtml": "こと",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100100111.mp3",
+          "meaning": "việc , chuyện (~の こと: việc ~)",
+          "meaningHtml": "việc , chuyện (~の こと: việc ~)"
+        },
+        {
+          "kind": "phrase",
+          "index": 13,
+          "text": "暇（ひま）",
+          "textHtml": "<ruby>暇<rp>（</rp><rt>ひま</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100101000.mp3",
+          "meaning": "thời gian rảnh",
+          "meaningHtml": "thời gian rảnh"
+        },
+        {
+          "kind": "phrase",
+          "index": 14,
+          "text": "[いろいろ]お世話（せわ）になりました。",
+          "textHtml": "[いろいろ]お<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>になりました。",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100101001.mp3",
+          "meaning": "Anh/chị đã giúp tôi (nhiều).",
+          "meaningHtml": "Anh/chị đã giúp tôi (nhiều)."
+        },
+        {
+          "kind": "phrase",
+          "index": 15,
+          "text": "頑張（がんば）ります",
+          "textHtml": "<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>ります",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100101010.mp3",
+          "meaning": "cố, cố gắng",
+          "meaningHtml": "cố, cố gắng"
+        },
+        {
+          "kind": "phrase",
+          "index": 16,
+          "text": "どうぞお元気（げんき）で。",
+          "textHtml": "どうぞお<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>で。",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100101011.mp3",
+          "meaning": "Chúc anh/chị mạnh khỏe.",
+          "meaningHtml": "Chúc anh/chị mạnh khỏe."
+        },
+        {
+          "kind": "divider"
+        },
+        {
+          "kind": "phrase",
+          "index": 17,
+          "text": "ベトナム",
+          "textHtml": "ベトナム",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai25/00010101100101100.mp3",
+          "meaning": "Việt Nam",
+          "meaningHtml": "Việt Nam"
+        }
+      ]
+    }
+  ]
+}

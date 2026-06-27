@@ -1,0 +1,194 @@
+{
+  "lesson": 3,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "デパート Cửa hàng bách hóa",
+      "titleHtml": "デパート Cửa hàng bách hóa",
+      "introHtml": "",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "遊園地（ゆうえんち）",
+              "html": "<ruby>遊園地<rp>（</rp><rt>ゆうえんち</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Công viên giải trí",
+              "html": "Công viên giải trí"
+            }
+          ],
+          "term": "遊園地（ゆうえんち）",
+          "termHtml": "<ruby>遊園地<rp>（</rp><rt>ゆうえんち</rt><rp>）</rp></ruby>",
+          "meaning": "Công viên giải trí",
+          "meaningHtml": "Công viên giải trí"
+        },
+        {
+          "cells": [
+            {
+              "text": "食堂（しょくどう）・催（もよお）し物（もの）会場（かいじょう）",
+              "html": "<ruby>食堂<rp>（</rp><rt>しょくどう</rt><rp>）</rp></ruby>・<ruby>催<rp>（</rp><rt>もよお</rt><rp>）</rp></ruby>し<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><ruby>会場<rp>（</rp><rt>かいじょう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Nhà ăn, Phòng tổ chức sự kiện",
+              "html": "Nhà ăn, Phòng tổ chức sự kiện"
+            }
+          ],
+          "term": "食堂（しょくどう）・催（もよお）し物（もの）会場（かいじょう）",
+          "termHtml": "<ruby>食堂<rp>（</rp><rt>しょくどう</rt><rp>）</rp></ruby>・<ruby>催<rp>（</rp><rt>もよお</rt><rp>）</rp></ruby>し<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><ruby>会場<rp>（</rp><rt>かいじょう</rt><rp>）</rp></ruby>",
+          "meaning": "Nhà ăn, Phòng tổ chức sự kiện",
+          "meaningHtml": "Nhà ăn, Phòng tổ chức sự kiện"
+        },
+        {
+          "cells": [
+            {
+              "text": "時計（とけい）・眼鏡（めがね）・カメラ",
+              "html": "<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>・<ruby>眼鏡<rp>（</rp><rt>めがね</rt><rp>）</rp></ruby>・カメラ"
+            },
+            {
+              "text": "Đồng hồ, Kính mắt, Máy ảnh",
+              "html": "Đồng hồ, Kính mắt, Máy ảnh"
+            }
+          ],
+          "term": "時計（とけい）・眼鏡（めがね）・カメラ",
+          "termHtml": "<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>・<ruby>眼鏡<rp>（</rp><rt>めがね</rt><rp>）</rp></ruby>・カメラ",
+          "meaning": "Đồng hồ, Kính mắt, Máy ảnh",
+          "meaningHtml": "Đồng hồ, Kính mắt, Máy ảnh"
+        },
+        {
+          "cells": [
+            {
+              "text": "スポーツ用品（ようひん）・旅行（りょこう）用品（ようひん）",
+              "html": "スポーツ<ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby>・<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby><ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Dụng cụ thể thao, Đồ du lịch",
+              "html": "Dụng cụ thể thao, Đồ du lịch"
+            }
+          ],
+          "term": "スポーツ用品（ようひん）・旅行（りょこう）用品（ようひん）",
+          "termHtml": "スポーツ<ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby>・<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby><ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby>",
+          "meaning": "Dụng cụ thể thao, Đồ du lịch",
+          "meaningHtml": "Dụng cụ thể thao, Đồ du lịch"
+        },
+        {
+          "cells": [
+            {
+              "text": "子（こ）ども服（ふく）・おもちゃ・本（ほん）・文房具（ぶんぼうぐ）",
+              "html": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>・おもちゃ・<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>・<ruby>文房具<rp>（</rp><rt>ぶんぼうぐ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Quần áo Trẻ em, Đồ chơi, Sách, Văn phòng phẩm",
+              "html": "Quần áo Trẻ em, Đồ chơi, Sách, Văn phòng phẩm"
+            }
+          ],
+          "term": "子（こ）ども服（ふく）・おもちゃ・本（ほん）・文房具（ぶんぼうぐ）",
+          "termHtml": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>・おもちゃ・<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>・<ruby>文房具<rp>（</rp><rt>ぶんぼうぐ</rt><rp>）</rp></ruby>",
+          "meaning": "Quần áo Trẻ em, Đồ chơi, Sách, Văn phòng phẩm",
+          "meaningHtml": "Quần áo Trẻ em, Đồ chơi, Sách, Văn phòng phẩm"
+        },
+        {
+          "cells": [
+            {
+              "text": "家具（かぐ）・食器（しょっき）・電気（でんき）製品（せいひん）",
+              "html": "<ruby>家具<rp>（</rp><rt>かぐ</rt><rp>）</rp></ruby>・<ruby>食器<rp>（</rp><rt>しょっき</rt><rp>）</rp></ruby>・<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Dụng cụ gia đình, Bát đũa, Đồ điện",
+              "html": "Dụng cụ gia đình, Bát đũa, Đồ điện"
+            }
+          ],
+          "term": "家具（かぐ）・食器（しょっき）・電気（でんき）製品（せいひん）",
+          "termHtml": "<ruby>家具<rp>（</rp><rt>かぐ</rt><rp>）</rp></ruby>・<ruby>食器<rp>（</rp><rt>しょっき</rt><rp>）</rp></ruby>・<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>",
+          "meaning": "Dụng cụ gia đình, Bát đũa, Đồ điện",
+          "meaningHtml": "Dụng cụ gia đình, Bát đũa, Đồ điện"
+        },
+        {
+          "cells": [
+            {
+              "text": "紳士服（しんしふく）",
+              "html": "<ruby>紳士服<rp>（</rp><rt>しんしふく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Quần áo nam",
+              "html": "Quần áo nam"
+            }
+          ],
+          "term": "紳士服（しんしふく）",
+          "termHtml": "<ruby>紳士服<rp>（</rp><rt>しんしふく</rt><rp>）</rp></ruby>",
+          "meaning": "Quần áo nam",
+          "meaningHtml": "Quần áo nam"
+        },
+        {
+          "cells": [
+            {
+              "text": "婦人服（ふじんふく）",
+              "html": "<ruby>婦人服<rp>（</rp><rt>ふじんふく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Quần áo nữ",
+              "html": "Quần áo nữ"
+            }
+          ],
+          "term": "婦人服（ふじんふく）",
+          "termHtml": "<ruby>婦人服<rp>（</rp><rt>ふじんふく</rt><rp>）</rp></ruby>",
+          "meaning": "Quần áo nữ",
+          "meaningHtml": "Quần áo nữ"
+        },
+        {
+          "cells": [
+            {
+              "text": "靴（くつ）・かばん・アクセサリー・化粧品（けしょうひん）",
+              "html": "<ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>・かばん・アクセサリー・<ruby>化粧品<rp>（</rp><rt>けしょうひん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Giầy, Cặp sách, Đồ trang sức, Mỹ phẩm",
+              "html": "Giầy, Cặp sách, Đồ trang sức, Mỹ phẩm"
+            }
+          ],
+          "term": "靴（くつ）・かばん・アクセサリー・化粧品（けしょうひん）",
+          "termHtml": "<ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>・かばん・アクセサリー・<ruby>化粧品<rp>（</rp><rt>けしょうひん</rt><rp>）</rp></ruby>",
+          "meaning": "Giầy, Cặp sách, Đồ trang sức, Mỹ phẩm",
+          "meaningHtml": "Giầy, Cặp sách, Đồ trang sức, Mỹ phẩm"
+        },
+        {
+          "cells": [
+            {
+              "text": "食料品（しょくりょうひん）",
+              "html": "<ruby>食料品<rp>（</rp><rt>しょくりょうひん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Lương thực- thực phẩm",
+              "html": "Lương thực- thực phẩm"
+            }
+          ],
+          "term": "食料品（しょくりょうひん）",
+          "termHtml": "<ruby>食料品<rp>（</rp><rt>しょくりょうひん</rt><rp>）</rp></ruby>",
+          "meaning": "Lương thực- thực phẩm",
+          "meaningHtml": "Lương thực- thực phẩm"
+        },
+        {
+          "cells": [
+            {
+              "text": "駐車場（ちゅうしゃじょう）",
+              "html": "<ruby>駐車場<rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Bãi đỗ xe",
+              "html": "Bãi đỗ xe"
+            }
+          ],
+          "term": "駐車場（ちゅうしゃじょう）",
+          "termHtml": "<ruby>駐車場<rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby>",
+          "meaning": "Bãi đỗ xe",
+          "meaningHtml": "Bãi đỗ xe"
+        }
+      ],
+      "contentHtml": "<table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>遊園地<rp>（</rp><rt>ゆうえんち</rt><rp>）</rp></ruby></td> <td>Công viên giải trí</td> </tr><tr> <td width=\"40%\"><ruby>食堂<rp>（</rp><rt>しょくどう</rt><rp>）</rp></ruby>・<ruby>催<rp>（</rp><rt>もよお</rt><rp>）</rp></ruby>し<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><ruby>会場<rp>（</rp><rt>かいじょう</rt><rp>）</rp></ruby></td> <td>Nhà ăn, Phòng tổ chức sự kiện</td> </tr><tr> <td width=\"40%\"><ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>・<ruby>眼鏡<rp>（</rp><rt>めがね</rt><rp>）</rp></ruby>・カメラ</td> <td>Đồng hồ, Kính mắt, Máy ảnh</td> </tr><tr> <td width=\"40%\">スポーツ<ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby>・<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby><ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby></td> <td>Dụng cụ thể thao, Đồ du lịch</td> </tr><tr> <td width=\"40%\"><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>・おもちゃ・<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>・<ruby>文房具<rp>（</rp><rt>ぶんぼうぐ</rt><rp>）</rp></ruby></td> <td>Quần áo Trẻ em, Đồ chơi, Sách, Văn phòng phẩm</td> </tr><tr> <td width=\"40%\"><ruby>家具<rp>（</rp><rt>かぐ</rt><rp>）</rp></ruby>・<ruby>食器<rp>（</rp><rt>しょっき</rt><rp>）</rp></ruby>・<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby></td> <td>Dụng cụ gia đình, Bát đũa, Đồ điện</td> </tr><tr> <td width=\"40%\"><ruby>紳士服<rp>（</rp><rt>しんしふく</rt><rp>）</rp></ruby></td> <td>Quần áo nam</td> </tr><tr> <td width=\"40%\"><ruby>婦人服<rp>（</rp><rt>ふじんふく</rt><rp>）</rp></ruby></td> <td>Quần áo nữ</td> </tr><tr> <td width=\"40%\"><ruby>靴<rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>・かばん・アクセサリー・<ruby>化粧品<rp>（</rp><rt>けしょうひん</rt><rp>）</rp></ruby></td> <td>Giầy, Cặp sách, Đồ trang sức, Mỹ phẩm</td> </tr><tr> <td width=\"40%\"><ruby>食料品<rp>（</rp><rt>しょくりょうひん</rt><rp>）</rp></ruby></td> <td>Lương thực- thực phẩm</td> </tr><tr> <td width=\"40%\"><ruby>駐車場<rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby></td> <td>Bãi đỗ xe</td> </tr></tbody></table> <img src=\"/images/minnatuvungthamkhao/bai3.jpg\" alt=\"Từ vựng minna tham khảo bài 3\" style=\"width:100%;height:100%;\">"
+    }
+  ]
+}

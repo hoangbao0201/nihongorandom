@@ -1,0 +1,102 @@
+{
+  "lesson": 24,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "直します",
+      "kanjiHtml": "直します",
+      "sinoVietnamese": "TRỰC",
+      "kana": "なおします",
+      "kanaHtml": "なおします"
+    },
+    {
+      "index": 2,
+      "kanji": "連れて行きます",
+      "kanjiHtml": "連れて行きます",
+      "sinoVietnamese": "LIÊN HÀNH",
+      "kana": "つれていきます",
+      "kanaHtml": "つれていきます"
+    },
+    {
+      "index": 3,
+      "kanji": "連れて来ます",
+      "kanjiHtml": "連れて来ます",
+      "sinoVietnamese": "LIÊN LAI",
+      "kana": "つれてきます",
+      "kanaHtml": "つれてきます"
+    },
+    {
+      "index": 4,
+      "kanji": "送ります [人を～]",
+      "kanjiHtml": "送ります<br />[人を～]",
+      "sinoVietnamese": "TỐNG NHÂN",
+      "kana": "おくります [ひとを～]",
+      "kanaHtml": "おくります<br />[ひとを～]"
+    },
+    {
+      "index": 5,
+      "kanji": "紹介します",
+      "kanjiHtml": "紹介します",
+      "sinoVietnamese": "THIỆU GIỚI",
+      "kana": "しょうかいします",
+      "kanaHtml": "しょうかいします"
+    },
+    {
+      "index": 6,
+      "kanji": "案内します",
+      "kanjiHtml": "案内します",
+      "sinoVietnamese": "ÁN NỘI",
+      "kana": "あんないします",
+      "kanaHtml": "あんないします"
+    },
+    {
+      "index": 7,
+      "kanji": "説明します",
+      "kanjiHtml": "説明します",
+      "sinoVietnamese": "THUYẾT MINH",
+      "kana": "せつめいします",
+      "kanaHtml": "せつめいします"
+    },
+    {
+      "index": 8,
+      "kanji": "準備",
+      "kanjiHtml": "準備",
+      "sinoVietnamese": "CHUẨN BỊ",
+      "kana": "じゅんび",
+      "kanaHtml": "じゅんび"
+    },
+    {
+      "index": 9,
+      "kanji": "引っ越し",
+      "kanjiHtml": "引っ越し",
+      "sinoVietnamese": "DẪN VIỆT",
+      "kana": "ひっこし",
+      "kanaHtml": "ひっこし"
+    },
+    {
+      "index": 10,
+      "kanji": "[お]菓子",
+      "kanjiHtml": "[お]菓子",
+      "sinoVietnamese": "QUẢ TỬ",
+      "kana": "[お]かし",
+      "kanaHtml": "[お]かし"
+    },
+    {
+      "index": 11,
+      "kanji": "全部",
+      "kanjiHtml": "全部",
+      "sinoVietnamese": "TOÀN BỘ",
+      "kana": "ぜんぶ",
+      "kanaHtml": "ぜんぶ"
+    },
+    {
+      "index": 12,
+      "kanji": "自分で",
+      "kanjiHtml": "自分で",
+      "sinoVietnamese": "TỰ PHÂN",
+      "kana": "じぶんで",
+      "kanaHtml": "じぶんで"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "lesson": 7,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "切ります",
+      "kanjiHtml": "切ります",
+      "sinoVietnamese": "THIẾT",
+      "kana": "きります",
+      "kanaHtml": "きります"
+    },
+    {
+      "index": 2,
+      "kanji": "送ります",
+      "kanjiHtml": "送ります",
+      "sinoVietnamese": "TỐNG",
+      "kana": "おくります",
+      "kanaHtml": "おくります"
+    },
+    {
+      "index": 3,
+      "kanji": "貸します",
+      "kanjiHtml": "貸します",
+      "sinoVietnamese": "THẢI",
+      "kana": "かします",
+      "kanaHtml": "かします"
+    },
+    {
+      "index": 4,
+      "kanji": "借ります",
+      "kanjiHtml": "借ります",
+      "sinoVietnamese": "TÁ",
+      "kana": "かります",
+      "kanaHtml": "かります"
+    },
+    {
+      "index": 5,
+      "kanji": "教えます",
+      "kanjiHtml": "教えます",
+      "sinoVietnamese": "GIÁO",
+      "kana": "おしえます",
+      "kanaHtml": "おしえます"
+    },
+    {
+      "index": 6,
+      "kanji": "習います",
+      "kanjiHtml": "習います",
+      "sinoVietnamese": "TẬP",
+      "kana": "ならいます",
+      "kanaHtml": "ならいます"
+    },
+    {
+      "index": 7,
+      "kanji": "かけます [電話を～]",
+      "kanjiHtml": "かけます<br />[電話を～]",
+      "sinoVietnamese": "ĐIỆN THOẠI",
+      "kana": "かけます [でんわを～]",
+      "kanaHtml": "かけます<br /> [でんわを～]"
+    },
+    {
+      "index": 8,
+      "kanji": "手",
+      "kanjiHtml": "手",
+      "sinoVietnamese": "THỦ",
+      "kana": "て",
+      "kanaHtml": "て"
+    },
+    {
+      "index": 9,
+      "kanji": "年賀状",
+      "kanjiHtml": "年賀状",
+      "sinoVietnamese": "NIÊN HẠ TRẠNG",
+      "kana": "ねんがじょう",
+      "kanaHtml": "ねんがじょう"
+    },
+    {
+      "index": 10,
+      "kanji": "紙",
+      "kanjiHtml": "紙",
+      "sinoVietnamese": "CHỈ",
+      "kana": "かみ",
+      "kanaHtml": "かみ"
+    },
+    {
+      "index": 11,
+      "kanji": "花",
+      "kanjiHtml": "花",
+      "sinoVietnamese": "HOA",
+      "kana": "はな",
+      "kanaHtml": "はな"
+    },
+    {
+      "index": 12,
+      "kanji": "荷物",
+      "kanjiHtml": "荷物",
+      "sinoVietnamese": "HÀ VẬT",
+      "kana": "にもつ",
+      "kanaHtml": "にもつ"
+    },
+    {
+      "index": 13,
+      "kanji": "お金",
+      "kanjiHtml": "お金",
+      "sinoVietnamese": "KIM",
+      "kana": "おかね",
+      "kanaHtml": "おかね"
+    },
+    {
+      "index": 14,
+      "kanji": "切符",
+      "kanjiHtml": "切符",
+      "sinoVietnamese": "THIẾT PHÙ",
+      "kana": "きっぷ",
+      "kanaHtml": "きっぷ"
+    },
+    {
+      "index": 15,
+      "kanji": "父",
+      "kanjiHtml": "父",
+      "sinoVietnamese": "PHỤ",
+      "kana": "ちち",
+      "kanaHtml": "ちち"
+    },
+    {
+      "index": 16,
+      "kanji": "母",
+      "kanjiHtml": "母",
+      "sinoVietnamese": "MẪU",
+      "kana": "はは",
+      "kanaHtml": "はは"
+    },
+    {
+      "index": 17,
+      "kanji": "お父さん",
+      "kanjiHtml": "お父さん",
+      "sinoVietnamese": "PHỤ",
+      "kana": "おとうさん",
+      "kanaHtml": "おとうさん"
+    },
+    {
+      "index": 18,
+      "kanji": "お母さん",
+      "kanjiHtml": "お母さん",
+      "sinoVietnamese": "MẪU",
+      "kana": "おかあさん",
+      "kanaHtml": "おかあさん"
+    }
+  ]
+}

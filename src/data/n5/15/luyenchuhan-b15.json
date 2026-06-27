@@ -1,0 +1,102 @@
+{
+  "lesson": 15,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca7ff7b2144a12a6dec08b8",
+      "index": 1,
+      "character": "体",
+      "sinoVietnameseWord": "THỂ",
+      "mean": "Cơ thể",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l17/kanji/img/1_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 体 THỂ gh&eacute;p bởi bộ 亻 NH&Acirc;N ĐỨNG v&agrave; chữ 本 BẢN, giống như việc cơ thể ch&iacute;nh l&agrave; gốc rễ, l&agrave; c&aacute;i căn bản nhất của con người.</p>",
+      "onReading": "タイ",
+      "kunReading": "からだ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">体</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">からだ</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">cơ thể</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">体育</td>\n<td style=\"width: 33.3333%; height: 10px;\">たいいく</td>\n<td style=\"width: 33.3333%; height: 10px;\">gi&aacute;o dục thể chất&nbsp;</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">全体</td>\n<td style=\"width: 33.3333%; height: 10px;\">ぜんたい</td>\n<td style=\"width: 33.3333%; height: 10px;\">to&agrave;n thể, tổng thể&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca801162144a12a6dec08c5",
+      "index": 2,
+      "character": "足",
+      "sinoVietnameseWord": "TÚC",
+      "mean": "Chân",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l17/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 足 T&Uacute;C giống như h&igrave;nh ảnh một người đang co ch&acirc;n chạy.&nbsp; &nbsp;</p>",
+      "onReading": "ソク",
+      "kunReading": "あし",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">足</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">あし</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ch&acirc;n</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">～足</td>\n<td style=\"width: 33.3333%; height: 10px;\">そく</td>\n<td style=\"width: 33.3333%; height: 10px;\">đ&ocirc;i (gi&agrave;y, d&eacute;p, tất, ...)</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca803272144a12a6dec08da",
+      "index": 3,
+      "character": "口",
+      "sinoVietnameseWord": "KHẨU",
+      "mean": "Miệng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l17/kanji/img/3_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 口 KHẨU l&agrave; chữ tượng h&igrave;nh m&ocirc; phỏng h&igrave;nh ảnh c&aacute;i miệng đang mở ra.</p>",
+      "onReading": "コウ",
+      "kunReading": "くち",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">口</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">くち</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">miệng</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">入口</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">いりぐち</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">lối v&agrave;o&nbsp;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">出口</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">でぐち</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">lối ra</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">人口</td>\n<td style=\"width: 33.3333%;\">じんこう</td>\n<td style=\"width: 33.3333%;\">d&acirc;n số</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca804862144a12a6dec08e9",
+      "index": 4,
+      "character": "顔",
+      "sinoVietnameseWord": "NHAN",
+      "mean": "Khuôn mặt",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l17/kanji/img/4_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 顔 NHAN giống như h&igrave;nh ảnh gương mặt quay nghi&ecirc;ng c&oacute; 3 vết sẹo, c&ograve;n gương mặt nh&igrave;n thẳng th&igrave; đang nhấc mũ l&ecirc;n.</p>",
+      "onReading": "",
+      "kunReading": "かお",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 20px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">顔</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">かお</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">khu&ocirc;n mặt</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">笑顔</td>\n<td style=\"width: 33.3333%; height: 10px;\">えがお</td>\n<td style=\"width: 33.3333%; height: 10px;\">nụ cười</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca8020b2144a12a6dec08d0",
+      "index": 5,
+      "character": "耳",
+      "sinoVietnameseWord": "NHĨ",
+      "mean": "Tai",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l17/kanji/img/5_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 耳 NHĨ l&agrave; chữ tượng h&igrave;nh m&ocirc; phỏng h&igrave;nh ảnh c&aacute;i tai.</p>",
+      "onReading": "",
+      "kunReading": "みみ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 50px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">耳</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">みみ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">tai</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">パンの耳</td>\n<td style=\"width: 33.3333%;\">パンのみみ</td>\n<td style=\"width: 33.3333%;\">viền của b&aacute;nh m&igrave; sandwich</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65aa318fe6a4de66995125af",
+      "index": 6,
+      "character": "目",
+      "sinoVietnameseWord": "MỤC",
+      "mean": "Mắt",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l17/kanji/img/6_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 目 MỤC tr&ocirc;ng giống như h&igrave;nh ảnh c&aacute;i mắt nhưng được xoay dọc ra.</p>",
+      "onReading": "モク",
+      "kunReading": "め",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">目</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">め</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">mắt</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">目薬</td>\n<td style=\"width: 33.3333%; height: 10px;\">めぐすり</td>\n<td style=\"width: 33.3333%; height: 10px;\">thuốc nhỏ mắt&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">目標</td>\n<td style=\"width: 33.3333%; height: 22px;\">もくひょう</td>\n<td style=\"width: 33.3333%; height: 22px;\">mục ti&ecirc;u</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">目的</td>\n<td style=\"width: 33.3333%; height: 22px;\">もくてき</td>\n<td style=\"width: 33.3333%; height: 22px;\">mục đ&iacute;ch</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65aa321fe6a4de66995125b3",
+      "index": 7,
+      "character": "立",
+      "sinoVietnameseWord": "LẬP",
+      "mean": "Đứng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l17/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 立 LẬP tr&ocirc;ng giống như một người đang đứng với hai ch&acirc;n chạm đất.</p>",
+      "onReading": "リツ",
+      "kunReading": "た・ちます、た・てます",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 76px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">立ちます</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">たちます</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">đứng</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">立てます</td>\n<td style=\"width: 33.3333%; height: 10px;\">たてます</td>\n<td style=\"width: 33.3333%; height: 10px;\">dựng đứng, x&acirc;y dựng (kế hoạch)</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">国立</td>\n<td style=\"width: 33.3333%; height: 22px;\">こくりつ</td>\n<td style=\"width: 33.3333%; height: 22px;\">do nh&agrave; nước lập ra</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">私立</td>\n<td style=\"width: 33.3333%; height: 22px;\">しりつ</td>\n<td style=\"width: 33.3333%; height: 22px;\">d&acirc;n lập</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65aa3286e6a4de66995125b9",
+      "index": 8,
+      "character": "知",
+      "sinoVietnameseWord": "TRI",
+      "mean": "Biết",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l17/kanji/img/8_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 知 TRI gh&eacute;p bởi chữ 矢 THỈ (mũi t&ecirc;n) c&ugrave;ng chữ 口 KHẨU (c&aacute;i miệng), giống như việc mũi t&ecirc;n bắn đi rồi th&igrave; kh&ocirc;ng thể thu lại được, điều g&igrave; n&oacute;i ra rồi th&igrave; ai cũng sẽ biết.</p>",
+      "onReading": "チ",
+      "kunReading": "し・ります",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">知ります</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">しります</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">biết</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">知り合い</td>\n<td style=\"width: 33.3333%;\">しりあい</td>\n<td style=\"width: 33.3333%;\">người quen</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">知識</td>\n<td style=\"width: 33.3333%;\">ちしき</td>\n<td style=\"width: 33.3333%;\">kiến thức</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

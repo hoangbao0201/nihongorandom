@@ -1,0 +1,648 @@
+{
+  "lesson": 13,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たからくじ</b></div> <div class=\"kanji\">宝くじ</div> <div class=\"nghia_viet\">xổ số</div> <div class=\"nghia_anh\">lottery</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あたります</b></div> <div class=\"kanji\">当たります</div> <div class=\"nghia_viet\">trúng</div> <div class=\"nghia_anh\">win</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おく</b></div> <div class=\"kanji\">億</div> <div class=\"nghia_viet\">100 triệu</div> <div class=\"nghia_anh\">hundred million</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しんじられません</b></div> <div class=\"kanji\">信じられません</div> <div class=\"nghia_viet\">không thể tin nổi</div> <div class=\"nghia_anh\">i can’t believe (that)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>やめます</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">bỏ</div> <div class=\"nghia_anh\">quit</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>[ーえん] さつ</b></div> <div class=\"kanji\">[ー円]</div> <div class=\"nghia_viet\">tờ [-yên]</div> <div class=\"nghia_anh\">[-yen] note</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きかい</b></div> <div class=\"kanji\">機械</div> <div class=\"nghia_viet\">máy</div> <div class=\"nghia_anh\">machine</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かぞえます</b></div> <div class=\"kanji\">数えます</div> <div class=\"nghia_viet\">đếm</div> <div class=\"nghia_anh\">count</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じぶんで</b></div> <div class=\"kanji\">自分で</div> <div class=\"nghia_viet\">tự mình</div> <div class=\"nghia_anh\">by oneself</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>また</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">lại</div> <div class=\"nghia_anh\">again</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>けいかん</b></div> <div class=\"kanji\">警官</div> <div class=\"nghia_viet\">cảnh sát</div> <div class=\"nghia_anh\">policeman</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あなた</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">mình, anh (từ người vợ dùng để gọi chồng)</div> <div class=\"nghia_anh\">darling</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こえ</b></div> <div class=\"kanji\">声</div> <div class=\"nghia_viet\">tiếng </div> <div class=\"nghia_anh\">voice</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ゆめ</b></div> <div class=\"kanji\">夢</div> <div class=\"nghia_viet\">giấc mơ</div> <div class=\"nghia_anh\">dream</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おなじ</b></div> <div class=\"kanji\">同じ</div> <div class=\"nghia_viet\">giống</div> <div class=\"nghia_anh\">same</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ゆめをみます</b></div> <div class=\"kanji\">夢を見ます</div> <div class=\"nghia_viet\">mơ, nằm mơ</div> <div class=\"nghia_anh\">have a dream</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うま</b></div> <div class=\"kanji\">馬</div> <div class=\"nghia_viet\">con ngựa</div> <div class=\"nghia_anh\">horse</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーとう</b></div> <div class=\"kanji\">ー頭</div> <div class=\"nghia_viet\">- con (lượng từ đếm những con vật to)</div> <div class=\"nghia_anh\">(counter for llarge animals)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>スポーツカー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">xe ô tô thể thao</div> <div class=\"nghia_anh\">sports car</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うちゅう</b></div> <div class=\"kanji\">宇宙</div> <div class=\"nghia_viet\">vũ trụ</div> <div class=\"nghia_anh\">universe, outer space</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きん</b></div> <div class=\"kanji\">金</div> <div class=\"nghia_viet\">vàng</div> <div class=\"nghia_anh\">gold</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ぎんざ</b></div> <div class=\"kanji\">銀座</div> <div class=\"nghia_viet\">Ginza (một địa danh của Tokyo)</div> <div class=\"nghia_anh\">district in Tokyo</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とち</b></div> <div class=\"kanji\">土地</div> <div class=\"nghia_viet\">đất</div> <div class=\"nghia_anh\">land</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ハンバーガー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">bánh hăm-bơ-gơ</div> <div class=\"nghia_anh\">hambarger</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーこ</b></div> <div class=\"kanji\">一個</div> <div class=\"nghia_viet\">- cái</div> <div class=\"nghia_anh\">(counter for small objects)</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじ</b></h3> <p></p> <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじが <ruby>当<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>たりました。 ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>です。 <ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じられません。 <ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をやめました。 そして、いろいろな <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ <ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>びに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたいです。 うちや <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>が <ruby>欲<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>しいます。 <p></p> <ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby> 9<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に <ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>へ ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>を もらいに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に <ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい <ruby>一万円札<rp>（</rp><rt>いちまんえんさつ</rt><rp>）</rp></ruby>が <ruby>三万枚<rp>（</rp><rt>さんまんまい</rt><rp>）</rp></ruby> ありました。 <ruby>銀行員<rp>（</rp><rt>ぎんこういん</rt><rp>）</rp></ruby>は <ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。 わたしは <ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えたかったですから、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。 １<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ２<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ３<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ……とても <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れましたから、 ちょっと <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みました。 <ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>の <ruby>隣<rp>（</rp><rt>とな</rt><rp>）</rp></ruby>りの レストランへ <ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>に <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <p></p> そして、 また <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。 5<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>まで かかりました。 それから <ruby>警官<rp>（</rp><rt>けいかん</rt><rp>）</rp></ruby>と いっしょに うちへ <ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。 3<ruby>万枚<rp>（</rp><rt>まんまい</rt><rp>）</rp></ruby>の<ruby>一万<rp>（</rp><rt>いちまん</rt><rp>）</rp></ruby>円<ruby>札<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>は とても <ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>かったです。 3<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby> ありますから、 <ruby>警官<rp>（</rp><rt>けいかん</rt><rp>）</rp></ruby>に 100<ruby>万円<rp>（</rp><rt>まんえん</rt><rp>）</rp></ruby> あげました。 ｢ありがとう ございます。あなたは いい<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですね。 あなたは……」 <p></p> ｢あなた、あなた、7<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ですよ。」 <ruby>妻<rp>（</rp><rt>つま</rt><rp>）</rp></ruby>の<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>です。 <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>が <ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりました。 <p></p> <ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>です。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>でした。 <ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>も <ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じ <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>を みたいです。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I    1 （<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>:E） → 2（ ） →3（ ） →4（ ） →5（ ） →6（ ） <img src=\"/images/minnamoi/bai13/doc13_1.png\" alt=\"minna 25 bai doc hieu Bai 13 - 1\"> <p></p>II   1. あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>に <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじが ありますか。 <p></p>    どんな <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじですか。 <p></p> 2. あなたは ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>で <ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>を したいですか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじ</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Vé số.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじが <ruby>当<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>たりました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã trúng số </div></div></div> <div class=\"tudich\"><div class=\"candich\">３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">300 triệu yên.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じられません。</div><div class=\"kqdich\"><div class=\"nddich\">Thật không thể tin được. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をやめました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã nghỉ việc.</div></div></div> <div class=\"tudich\"><div class=\"candich\">そして、いろいろな <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ <ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>びに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたいです。</div><div class=\"kqdich\"><div class=\"nddich\">Và rồi, tôi muốn đi du lịch đến nhiều đất nước. </div></div></div> <div class=\"tudich\"><div class=\"candich\">うちや <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>が <ruby>欲<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>しいます。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi muốn có nhà và xe…</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby> 9<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に <ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>へ ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>を もらいに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Vào 9 giờ sáng tôi đến ngân hàng để nhận 300 triệu yên. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に <ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい <ruby>一万円札<rp>（</rp><rt>いちまんえんさつ</rt><rp>）</rp></ruby>が <ruby>三万枚<rp>（</rp><rt>さんまんまい</rt><rp>）</rp></ruby> ありました。</div><div class=\"kqdich\"><div class=\"nddich\">Trên bàn có 3 vạn tờ 1 vạn yên mới. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>銀行員<rp>（</rp><rt>ぎんこういん</rt><rp>）</rp></ruby>は <ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。</div><div class=\"kqdich\"><div class=\"nddich\">Nhân viên ngân hàng đã đếm bằng máy.</div></div></div> <div class=\"tudich\"><div class=\"candich\">わたしは <ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えたかったですから、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。</div><div class=\"kqdich\"><div class=\"nddich\">Vì muốn tự mình đếm nên tôi đã đếm bằng tay.</div></div></div> <div class=\"tudich\"><div class=\"candich\">１<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ２<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ３<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ……とても <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れましたから、 ちょっと <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みました。</div><div class=\"kqdich\"><div class=\"nddich\">1 tờ, 2 tờ, 3 tờ…Vì rất mệt mỏi nên tôi đã nghỉ một chút.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>の <ruby>隣<rp>（</rp><rt>とな</rt><rp>）</rp></ruby>りの レストランへ <ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>に <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đi dùng bữa ở một nhà hàng bên cạnh ngân hàng.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">そして、 また <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。</div><div class=\"kqdich\"><div class=\"nddich\">Và rồi, tôi lại đếm.</div></div></div> <div class=\"tudich\"><div class=\"candich\">5<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>まで かかりました。</div><div class=\"kqdich\"><div class=\"nddich\">Mất thời gian đến 5 giờ.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それから <ruby>警官<rp>（</rp><rt>けいかん</rt><rp>）</rp></ruby>と いっしょに うちへ <ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。</div><div class=\"kqdich\"><div class=\"nddich\">Rồi sau đó tôi trở về nhà cùng cảnh sát.</div></div></div> <div class=\"tudich\"><div class=\"candich\">3<ruby>万枚<rp>（</rp><rt>まんまい</rt><rp>）</rp></ruby>の<ruby>一万<rp>（</rp><rt>いちまん</rt><rp>）</rp></ruby>円<ruby>札<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>は とても <ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>かったです。</div><div class=\"kqdich\"><div class=\"nddich\">3 vạn tờ 1 vạn yên thật sự rất nặng. </div></div></div> <div class=\"tudich\"><div class=\"candich\">3<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby> ありますから、 <ruby>警官<rp>（</rp><rt>けいかん</rt><rp>）</rp></ruby>に 100<ruby>万円<rp>（</rp><rt>まんえん</rt><rp>）</rp></ruby> あげました。</div><div class=\"kqdich\"><div class=\"nddich\">Vì có 300 vạn yên nên tôi đã cho cảnh sát 100 vạn yên. </div></div></div> <div class=\"tudich\"><div class=\"candich\">｢ありがとう ございます。あなたは いい<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですね。 あなたは……」</div><div class=\"kqdich\"><div class=\"nddich\">Cảnh sát đã nói: “Cảm ơn rất nhiều. Bạn là một người tốt nhỉ. Bạn là…”.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">｢あなた、あなた、7<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ですよ。」 <ruby>妻<rp>（</rp><rt>つま</rt><rp>）</rp></ruby>の<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Vợ tôi gọi:”Anh ơi, anh ơi 7 giờ rồi đấy.”</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>が <ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりました。</div><div class=\"kqdich\"><div class=\"nddich\">Giấc mơ đã kết thúc.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>です。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>でした。</div><div class=\"kqdich\"><div class=\"nddich\">Trời sáng. Giấc mơ thật sự vui. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>も <ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じ <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>を みたいです。</div><div class=\"kqdich\"><div class=\"nddich\">Tối nay tôi cũng muốn thấy một giấc mơ như vậy.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I    1 （<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>:E） → 2（ ） →3（ ） →4（ ） →5（ ） →6（ ）</div><div class=\"kqdich\"><div class=\"nddich\"></div></div></div> <img src=\"/images/minnamoi/bai13/doc13_1.png\" alt=\"minna 25 bai doc hieu Bai 13 - 1\"> <p></p> Đáp án: 2(A) 3(D) 4(C) 5(F) 6(B) <p></p><div class=\"tudich\"><div class=\"candich\">II   1. あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>に <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじが ありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Ở đất nước của bạn có vé số không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">    どんな <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじですか。</div><div class=\"kqdich\"><div class=\"nddich\">Vé số như thế nào nhỉ?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2. あなたは ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>で <ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>を したいですか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn muốn làm gì với số tiền 300 triệu yên.</div></div></div> </div> <p></p> <h5>Tham khảo</h5> <img src=\"/images/minnamoi/bai13/doc13_2.png\" alt=\"minna 25 bai doc hieu Bai 13 - 2\"> </div><!--END--> </div> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "宝（たから）くじ",
+          "textHtml": "<b><ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじ</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじが <ruby>当<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>たりました。 ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>です。 <ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じられません。 <ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をやめました。 そして、いろいろな <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ <ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>びに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたいです。 うちや <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>が <ruby>欲<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>しいます。 <p></p> <ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby> 9<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に <ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>へ ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>を もらいに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に <ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい <ruby>一万円札<rp>（</rp><rt>いちまんえんさつ</rt><rp>）</rp></ruby>が <ruby>三万枚<rp>（</rp><rt>さんまんまい</rt><rp>）</rp></ruby> ありました。 <ruby>銀行員<rp>（</rp><rt>ぎんこういん</rt><rp>）</rp></ruby>は <ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。 わたしは <ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えたかったですから、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。 １<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ２<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ３<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ……とても <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れましたから、 ちょっと <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みました。 <ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>の <ruby>隣<rp>（</rp><rt>とな</rt><rp>）</rp></ruby>りの レストランへ <ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>に <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <p></p> そして、 また <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。 5<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>まで かかりました。 それから <ruby>警官<rp>（</rp><rt>けいかん</rt><rp>）</rp></ruby>と いっしょに うちへ <ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。 3<ruby>万枚<rp>（</rp><rt>まんまい</rt><rp>）</rp></ruby>の<ruby>一万<rp>（</rp><rt>いちまん</rt><rp>）</rp></ruby>円<ruby>札<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>は とても <ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>かったです。 3<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby> ありますから、 <ruby>警官<rp>（</rp><rt>けいかん</rt><rp>）</rp></ruby>に 100<ruby>万円<rp>（</rp><rt>まんえん</rt><rp>）</rp></ruby> あげました。 ｢ありがとう ございます。あなたは いい<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですね。 あなたは……」 <p></p> ｢あなた、あなた、7<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ですよ。」 <ruby>妻<rp>（</rp><rt>つま</rt><rp>）</rp></ruby>の<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>です。 <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>が <ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりました。 <p></p> <ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>です。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>でした。 <ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>も <ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じ <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>を みたいです。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1 （<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>:E） → 2（ ） →3（ ） →4（ ） →5（ ） →6（ ）"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai13/doc13_1.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai13/doc13_1.png\" alt=\"minna 25 bai doc hieu Bai 13 - 1\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>II 1. あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>に <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじが ありますか。 <p></p> どんな <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじですか。 <p></p> 2. あなたは ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>で <ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>を したいですか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじ</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Vé số.",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "宝（たから）くじ",
+              "japaneseHtml": "<h3 style=\"text-align: center; \"><b><ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじ</b></h3>",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vé số."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "宝（たから）くじが 当（あ）たりました。",
+          "japaneseHtml": "<ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじが <ruby>当<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>たりました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tôi đã trúng số </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３億円（おくえん）です。",
+          "japaneseHtml": "３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">300 triệu yên.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "信（しん）じられません。",
+          "japaneseHtml": "<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じられません。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Thật không thể tin được. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "仕事（しごと）をやめました。",
+          "japaneseHtml": "<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をやめました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tôi đã nghỉ việc.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "そして、いろいろな 国（くに）へ 遊（あそ）びに 行（い）きたいです。",
+          "japaneseHtml": "そして、いろいろな <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ <ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>びに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたいです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Và rồi, tôi muốn đi du lịch đến nhiều đất nước. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "うちや 車（くるま）が 欲（ほ）しいます。",
+          "japaneseHtml": "うちや <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>が <ruby>欲<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>しいます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tôi muốn có nhà và xe…</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "朝（あさ） 9時（じ）に 銀行（ぎんこう）へ ３億円（おくえん）を もらいに 行（い）きました。",
+          "japaneseHtml": "<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby> 9<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に <ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>へ ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>を もらいに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vào 9 giờ sáng tôi đến ngân hàng để nhận 300 triệu yên. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "机（つくえ）の 上（うえ）に 新（あたら）しい 一万円札（いちまんえんさつ）が 三万枚（さんまんまい） ありました。",
+          "japaneseHtml": "<ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に <ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい <ruby>一万円札<rp>（</rp><rt>いちまんえんさつ</rt><rp>）</rp></ruby>が <ruby>三万枚<rp>（</rp><rt>さんまんまい</rt><rp>）</rp></ruby> ありました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Trên bàn có 3 vạn tờ 1 vạn yên mới. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "銀行員（ぎんこういん）は 機械（きかい）で 数（かぞ）えました。",
+          "japaneseHtml": "<ruby>銀行員<rp>（</rp><rt>ぎんこういん</rt><rp>）</rp></ruby>は <ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Nhân viên ngân hàng đã đếm bằng máy.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "わたしは 自分（じぶん）で 数（かぞ）えたかったですから、手（て）で 数（かぞ）えました。",
+          "japaneseHtml": "わたしは <ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えたかったですから、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vì muốn tự mình đếm nên tôi đã đếm bằng tay.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１枚（まい） ２枚（まい） ３枚（まい） ……とても 疲（つか）れましたから、 ちょっと 休（やす）みました。",
+          "japaneseHtml": "１<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ２<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ３<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> ……とても <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れましたから、 ちょっと <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>みました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">1 tờ, 2 tờ, 3 tờ…Vì rất mệt mỏi nên tôi đã nghỉ một chút.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "銀行（ぎんこう）の 隣（とな）りの レストランへ 食事（しょくじ）に 行（い）きました。",
+          "japaneseHtml": "<ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>の <ruby>隣<rp>（</rp><rt>とな</rt><rp>）</rp></ruby>りの レストランへ <ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>に <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tôi đi dùng bữa ở một nhà hàng bên cạnh ngân hàng.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "そして、 また 数（かぞ）えました。",
+          "japaneseHtml": "そして、 また <ruby>数<rp>（</rp><rt>かぞ</rt><rp>）</rp></ruby>えました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Và rồi, tôi lại đếm.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "5時（じ）まで かかりました。",
+          "japaneseHtml": "5<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>まで かかりました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Mất thời gian đến 5 giờ.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それから 警官（けいかん）と いっしょに うちへ 帰（かえ）りました。",
+          "japaneseHtml": "それから <ruby>警官<rp>（</rp><rt>けいかん</rt><rp>）</rp></ruby>と いっしょに うちへ <ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Rồi sau đó tôi trở về nhà cùng cảnh sát.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3万枚（まんまい）の一万（いちまん）円札（さつ）は とても 重（おも）かったです。",
+          "japaneseHtml": "3<ruby>万枚<rp>（</rp><rt>まんまい</rt><rp>）</rp></ruby>の<ruby>一万<rp>（</rp><rt>いちまん</rt><rp>）</rp></ruby>円<ruby>札<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>は とても <ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>かったです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">3 vạn tờ 1 vạn yên thật sự rất nặng. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3億円（おくえん） ありますから、 警官（けいかん）に 100万円（まんえん） あげました。",
+          "japaneseHtml": "3<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby> ありますから、 <ruby>警官<rp>（</rp><rt>けいかん</rt><rp>）</rp></ruby>に 100<ruby>万円<rp>（</rp><rt>まんえん</rt><rp>）</rp></ruby> あげました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vì có 300 vạn yên nên tôi đã cho cảnh sát 100 vạn yên. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "｢ありがとう ございます。あなたは いい人（ひと）ですね。 あなたは……」",
+          "japaneseHtml": "｢ありがとう ございます。あなたは いい<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですね。 あなたは……」",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Cảnh sát đã nói: “Cảm ơn rất nhiều. Bạn là một người tốt nhỉ. Bạn là…”.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "｢あなた、あなた、7時（じ）ですよ。」 妻（つま）の声（こえ）です。",
+          "japaneseHtml": "｢あなた、あなた、7<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>ですよ。」 <ruby>妻<rp>（</rp><rt>つま</rt><rp>）</rp></ruby>の<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vợ tôi gọi:”Anh ơi, anh ơi 7 giờ rồi đấy.”</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "夢（ゆめ）が 終（お）わりました。",
+          "japaneseHtml": "<ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>が <ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Giấc mơ đã kết thúc.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "朝（あさ）です。 楽（たの）しい 夢（ゆめ）でした。",
+          "japaneseHtml": "<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>です。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>でした。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Trời sáng. Giấc mơ thật sự vui. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今晩（こんばん）も 同（おな）じ 夢（ゆめ）を みたいです。",
+          "japaneseHtml": "<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>も <ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じ <ruby>夢<rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby>を みたいです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tối nay tôi cũng muốn thấy một giấc mơ như vậy.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1 （例（れい）:E） → 2（ ） →3（ ） →4（ ） →5（ ） →6（ ）",
+          "japaneseHtml": "I 1 （<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>:E） → 2（ ） →3（ ） →4（ ） →5（ ） →6（ ）",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai13/doc13_1.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai13/doc13_1.png\" alt=\"minna 25 bai doc hieu Bai 13 - 1\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> Đáp án: 2(A) 3(D) 4(C) 5(F) 6(B) <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II 1. あなたの 国（くに）に 宝（たから）くじが ありますか。",
+          "japaneseHtml": "II 1. あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>に <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじが ありますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Ở đất nước của bạn có vé số không?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どんな 宝（たから）くじですか。",
+          "japaneseHtml": "どんな <ruby>宝<rp>（</rp><rt>たから</rt><rp>）</rp></ruby>くじですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vé số như thế nào nhỉ?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. あなたは ３億円（おくえん）で 何（なに）を したいですか。",
+          "japaneseHtml": "2. あなたは ３<ruby>億円<rp>（</rp><rt>おくえん</rt><rp>）</rp></ruby>で <ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>を したいですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bạn muốn làm gì với số tiền 300 triệu yên.</div></div></div> </div> <p></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Tham khảo",
+          "textHtml": "Tham khảo"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai13/doc13_2.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai13/doc13_2.png\" alt=\"minna 25 bai doc hieu Bai 13 - 2\">"
+        }
+      ]
+    }
+  ]
+}

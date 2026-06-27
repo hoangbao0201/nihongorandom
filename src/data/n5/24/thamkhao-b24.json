@@ -1,0 +1,178 @@
+{
+  "lesson": 24,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "贈答（ぞうとう）の習慣（しゅうかん） Tập quán tặng quà",
+      "titleHtml": "<ruby>贈答<rp>（</rp><rt>ぞうとう</rt><rp>）</rp></ruby>の<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby> Tập quán tặng quà",
+      "introHtml": "<style> table.search_result { width: 100%; border-collapse: collapse; } table.search_result th { background: #333; color: #fff; font-weight: bold; } table.search_result td, table.search_result th { padding: 6px; border: 1px solid #ccc; } @media only screen and (max-width: 768px){ table.search_result, table.search_result thead, table.search_result tbody, table.search_result th, table.search_result td, table.search_result tr { display: block; } table.search_result thead tr { position: absolute; top: -9999px; left: -9999px; } table.search_result tr { border: 1px solid #ccc; } table.search_result td { border: none; border-bottom: 1px solid #eee; position: relative; width: 100% !important; } table.search_result td:before { position: absolute; top: 6px; left: 6px; width: 45%; padding-right: 10px; white-space: nowrap; } } </style>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "お年玉（としだま）",
+              "html": "お<ruby>年玉<rp>（</rp><rt>としだま</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tiền bố mẹ hoặc họ hàng tặng cho trẻ con trong ngày tết",
+              "html": "tiền bố mẹ hoặc họ hàng tặng cho trẻ con trong ngày tết"
+            }
+          ],
+          "term": "お年玉（としだま）",
+          "termHtml": "お<ruby>年玉<rp>（</rp><rt>としだま</rt><rp>）</rp></ruby>",
+          "meaning": "tiền bố mẹ hoặc họ hàng tặng cho trẻ con trong ngày tết",
+          "meaningHtml": "tiền bố mẹ hoặc họ hàng tặng cho trẻ con trong ngày tết"
+        },
+        {
+          "cells": [
+            {
+              "text": "入学祝（にゅうがくいわ）い",
+              "html": "<ruby>入学祝<rp>（</rp><rt>にゅうがくいわ</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "tặng cho người vào học cấp mới, thường là tiền, văn phòng phẩm hoặc sách",
+              "html": "tặng cho người vào học cấp mới, thường là tiền, văn phòng phẩm hoặc sách"
+            }
+          ],
+          "term": "入学祝（にゅうがくいわ）い",
+          "termHtml": "<ruby>入学祝<rp>（</rp><rt>にゅうがくいわ</rt><rp>）</rp></ruby>い",
+          "meaning": "tặng cho người vào học cấp mới, thường là tiền, văn phòng phẩm hoặc sách",
+          "meaningHtml": "tặng cho người vào học cấp mới, thường là tiền, văn phòng phẩm hoặc sách"
+        },
+        {
+          "cells": [
+            {
+              "text": "卒業（そつぎょう）祝（いわ）い",
+              "html": "<ruby>卒業<rp>（</rp><rt>そつぎょう</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "tặng cho người tốt nghiệp, thường là tiền, văn phòng phẩm hoặc sách",
+              "html": "tặng cho người tốt nghiệp, thường là tiền, văn phòng phẩm hoặc sách"
+            }
+          ],
+          "term": "卒業（そつぎょう）祝（いわ）い",
+          "termHtml": "<ruby>卒業<rp>（</rp><rt>そつぎょう</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い",
+          "meaning": "tặng cho người tốt nghiệp, thường là tiền, văn phòng phẩm hoặc sách",
+          "meaningHtml": "tặng cho người tốt nghiệp, thường là tiền, văn phòng phẩm hoặc sách"
+        },
+        {
+          "cells": [
+            {
+              "text": "結婚（けっこん）祝（いわ）い",
+              "html": "<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "tặng cho người lập gia đình, thường là tiền hoặc đồ vặt dùng trong nhà",
+              "html": "tặng cho người lập gia đình, thường là tiền hoặc đồ vặt dùng trong nhà"
+            }
+          ],
+          "term": "結婚（けっこん）祝（いわ）い",
+          "termHtml": "<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い",
+          "meaning": "tặng cho người lập gia đình, thường là tiền hoặc đồ vặt dùng trong nhà",
+          "meaningHtml": "tặng cho người lập gia đình, thường là tiền hoặc đồ vặt dùng trong nhà"
+        },
+        {
+          "cells": [
+            {
+              "text": "出産（しゅっさん）祝（いわ）い",
+              "html": "<ruby>出産<rp>（</rp><rt>しゅっさん</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "tặng cho người mới sinh con, thường là áo quần trẻ con, đồ chơi",
+              "html": "tặng cho người mới sinh con, thường là áo quần trẻ con, đồ chơi"
+            }
+          ],
+          "term": "出産（しゅっさん）祝（いわ）い",
+          "termHtml": "<ruby>出産<rp>（</rp><rt>しゅっさん</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い",
+          "meaning": "tặng cho người mới sinh con, thường là áo quần trẻ con, đồ chơi",
+          "meaningHtml": "tặng cho người mới sinh con, thường là áo quần trẻ con, đồ chơi"
+        },
+        {
+          "cells": [
+            {
+              "text": "お中元（ちゅうげん）",
+              "html": "お<ruby>中元<rp>（</rp><rt>ちゅうげん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 7 hoặc tháng 8)",
+              "html": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 7 hoặc tháng 8)"
+            }
+          ],
+          "term": "お中元（ちゅうげん）",
+          "termHtml": "お<ruby>中元<rp>（</rp><rt>ちゅうげん</rt><rp>）</rp></ruby>",
+          "meaning": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 7 hoặc tháng 8)",
+          "meaningHtml": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 7 hoặc tháng 8)"
+        },
+        {
+          "cells": [
+            {
+              "text": "お歳暮（せいぼ）",
+              "html": "お<ruby>歳暮<rp>（</rp><rt>せいぼ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 12)",
+              "html": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 12)"
+            }
+          ],
+          "term": "お歳暮（せいぼ）",
+          "termHtml": "お<ruby>歳暮<rp>（</rp><rt>せいぼ</rt><rp>）</rp></ruby>",
+          "meaning": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 12)",
+          "meaningHtml": "tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 12)"
+        },
+        {
+          "cells": [
+            {
+              "text": "お香典（こうでん）",
+              "html": "お<ruby>香典<rp>（</rp><rt>こうでん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tiền cúng điếu cho gia đình có người qua đời",
+              "html": "tiền cúng điếu cho gia đình có người qua đời"
+            }
+          ],
+          "term": "お香典（こうでん）",
+          "termHtml": "お<ruby>香典<rp>（</rp><rt>こうでん</rt><rp>）</rp></ruby>",
+          "meaning": "tiền cúng điếu cho gia đình có người qua đời",
+          "meaningHtml": "tiền cúng điếu cho gia đình có người qua đời"
+        },
+        {
+          "cells": [
+            {
+              "text": "お見舞（みま）い",
+              "html": "お<ruby>見舞<rp>（</rp><rt>みま</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "tặng cho người bệnh, thường là hoa hoặc quả",
+              "html": "tặng cho người bệnh, thường là hoa hoặc quả"
+            }
+          ],
+          "term": "お見舞（みま）い",
+          "termHtml": "お<ruby>見舞<rp>（</rp><rt>みま</rt><rp>）</rp></ruby>い",
+          "meaning": "tặng cho người bệnh, thường là hoa hoặc quả",
+          "meaningHtml": "tặng cho người bệnh, thường là hoa hoặc quả"
+        },
+        {
+          "cells": [
+            {
+              "text": "熨斗袋（のしぶくろ）",
+              "html": "<ruby>熨斗袋<rp>（</rp><rt>のしぶくろ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "một kiểu phong bì đặc biệt để đựng tiền khi tặng cho người khác.",
+              "html": "một kiểu phong bì đặc biệt để đựng tiền khi tặng cho người khác."
+            }
+          ],
+          "term": "熨斗袋（のしぶくろ）",
+          "termHtml": "<ruby>熨斗袋<rp>（</rp><rt>のしぶくろ</rt><rp>）</rp></ruby>",
+          "meaning": "một kiểu phong bì đặc biệt để đựng tiền khi tặng cho người khác.",
+          "meaningHtml": "một kiểu phong bì đặc biệt để đựng tiền khi tặng cho người khác."
+        }
+      ],
+      "contentHtml": "<style> table.search_result { width: 100%; border-collapse: collapse; } table.search_result th { background: #333; color: #fff; font-weight: bold; } table.search_result td, table.search_result th { padding: 6px; border: 1px solid #ccc; } @media only screen and (max-width: 768px){ table.search_result, table.search_result thead, table.search_result tbody, table.search_result th, table.search_result td, table.search_result tr { display: block; } table.search_result thead tr { position: absolute; top: -9999px; left: -9999px; } table.search_result tr { border: 1px solid #ccc; } table.search_result td { border: none; border-bottom: 1px solid #eee; position: relative; width: 100% !important; } table.search_result td:before { position: absolute; top: 6px; left: 6px; width: 45%; padding-right: 10px; white-space: nowrap; } } </style> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">お<ruby>年玉<rp>（</rp><rt>としだま</rt><rp>）</rp></ruby></td> <td>tiền bố mẹ hoặc họ hàng tặng cho trẻ con trong ngày tết</td> </tr><tr> <td width=\"40%\"><ruby>入学祝<rp>（</rp><rt>にゅうがくいわ</rt><rp>）</rp></ruby>い</td> <td>tặng cho người vào học cấp mới, thường là tiền, văn phòng phẩm hoặc sách</td> </tr><tr> <td width=\"40%\"><ruby>卒業<rp>（</rp><rt>そつぎょう</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い</td> <td>tặng cho người tốt nghiệp, thường là tiền, văn phòng phẩm hoặc sách</td> </tr><tr> <td width=\"40%\"><ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い</td> <td>tặng cho người lập gia đình, thường là tiền hoặc đồ vặt dùng trong nhà</td> </tr><tr> <td width=\"40%\"><ruby>出産<rp>（</rp><rt>しゅっさん</rt><rp>）</rp></ruby><ruby>祝<rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>い</td> <td>tặng cho người mới sinh con, thường là áo quần trẻ con, đồ chơi</td> </tr><tr> <td width=\"40%\">お<ruby>中元<rp>（</rp><rt>ちゅうげん</rt><rp>）</rp></ruby></td> <td>tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 7 hoặc tháng 8)</td> </tr><tr> <td width=\"40%\">お<ruby>歳暮<rp>（</rp><rt>せいぼ</rt><rp>）</rp></ruby></td> <td>tặng cho những người hàng ngày đã giúp đỡ mình như bác sĩ, thấy cô giáo, cấp trên, thường là đồ ăn (tháng 12)</td> </tr><tr> <td width=\"40%\">お<ruby>香典<rp>（</rp><rt>こうでん</rt><rp>）</rp></ruby></td> <td>tiền cúng điếu cho gia đình có người qua đời</td> </tr><tr> <td width=\"40%\">お<ruby>見舞<rp>（</rp><rt>みま</rt><rp>）</rp></ruby>い</td> <td>tặng cho người bệnh, thường là hoa hoặc quả</td> </tr><tr> <td width=\"40%\"><ruby>熨斗袋<rp>（</rp><rt>のしぶくろ</rt><rp>）</rp></ruby></td> <td>một kiểu phong bì đặc biệt để đựng tiền khi tặng cho người khác.</td> </tr></tbody></table> <br /> <p> <br /> Khi tặng tiền thì dùng một kiểu phong bì đặc biệt. Chọn loại thích hợp với mục đích tặng. </p> <p> Dùng cho đám cưới(có ruy-băng màu đỏ-trắng hoặc màu vàng-bạc) <br /> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnatuvungthamkhao/bai24_1.jpg\" style=\"width: 100px; \"><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai24_1.jpg\" style=\"width: 100px; \"></noscript> </p> <p> Dùng để chúc mừng(có ruy-băng màu đỏ-trắng hoặc màu vàng-bạc) <br /> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnatuvungthamkhao/bai24_2.jpg\" style=\"width: 100px; \"><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai24_2.jpg\" style=\"width: 100px; \"></noscript> </p> <p> Dùng để chia buồn(đám tang)(có ruy-băng màu trắng-đen) <br /> <img data-lazyloaded=\"1\" src=\"data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=\" decoding=\"async\" alt=\"\" data-src=\"/images/minnatuvungthamkhao/bai24_3.jpg\" style=\"width: 100px; \"><noscript><img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai24_3.jpg\" style=\"width: 100px; \"></noscript> </p> <style> .vnjp-link-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); /* Desktop: 4 ô / hàng */ gap: 10px 10px; margin: 10px 0 20px; clear: both; /* cắt float cũ nếu có */ } .vnjp-link-item { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; /* nếu muốn chữ giữa thì đổi thành center */ padding: 7px 5px 5px 15px; border-radius: 10px; background: #ffffff; border: 1px solid #e0e4ef; box-shadow: 0 2px 5px rgba(0,0,0,0.04); text-decoration: none; transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease; float: none; /* ép bỏ mọi float từ CSS cũ */ } .vnjp-link-item:hover { background-color: #f5f7ff; box-shadow: 0 4px 10px rgba(0,0,0,0.08); transform: translateY(-2px); } .vnjp-link-title { display: block; font-size: 14px; font-weight: 600; color: #222; margin-bottom: 3px; } .vnjp-link-sub { display: block; font-size: 11px; color: #6b7280; } a.disabled { pointer-events: none; /* ❌ không click được */ opacity: 0.5; /* làm mờ */ cursor: not-allowed; text-decoration: none; } /* Tablet: 3 ô / hàng */ @media (max-width: 1024px) { .vnjp-link-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } } /* Mobile: 2 ô / hàng */ @media (max-width: 768px) { .vnjp-link-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .vnjp-link-title { font-size: 13px; } .vnjp-link-sub { font-size: 10px; } } </style>"
+    }
+  ]
+}

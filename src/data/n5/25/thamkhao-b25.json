@@ -1,0 +1,370 @@
+{
+  "lesson": 25,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "人（ひと）の一生（いっしょう） Cuộc đời của một con người",
+      "titleHtml": "<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>一生<rp>（</rp><rt>いっしょう</rt><rp>）</rp></ruby> Cuộc đời của một con người",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "赤（あか）ちゃん",
+              "html": "<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃん"
+            },
+            {
+              "text": "em bé",
+              "html": "em bé"
+            }
+          ],
+          "term": "赤（あか）ちゃん",
+          "termHtml": "<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃん",
+          "meaning": "em bé",
+          "meaningHtml": "em bé"
+        },
+        {
+          "cells": [
+            {
+              "text": "生（う）まれます",
+              "html": "<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます"
+            },
+            {
+              "text": "được sinh ra",
+              "html": "được sinh ra"
+            }
+          ],
+          "term": "生（う）まれます",
+          "termHtml": "<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます",
+          "meaning": "được sinh ra",
+          "meaningHtml": "được sinh ra"
+        },
+        {
+          "cells": [
+            {
+              "text": "保育園（ほいくえん）",
+              "html": "<ruby>保育園<rp>（</rp><rt>ほいくえん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nhà trẻ",
+              "html": "nhà trẻ"
+            }
+          ],
+          "term": "保育園（ほいくえん）",
+          "termHtml": "<ruby>保育園<rp>（</rp><rt>ほいくえん</rt><rp>）</rp></ruby>",
+          "meaning": "nhà trẻ",
+          "meaningHtml": "nhà trẻ"
+        },
+        {
+          "cells": [
+            {
+              "text": "幼稚園（ようちえん）",
+              "html": "<ruby>幼稚園<rp>（</rp><rt>ようちえん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "mẫu giáo",
+              "html": "mẫu giáo"
+            }
+          ],
+          "term": "幼稚園（ようちえん）",
+          "termHtml": "<ruby>幼稚園<rp>（</rp><rt>ようちえん</rt><rp>）</rp></ruby>",
+          "meaning": "mẫu giáo",
+          "meaningHtml": "mẫu giáo"
+        },
+        {
+          "cells": [
+            {
+              "text": "子（こ）ども",
+              "html": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども"
+            },
+            {
+              "text": "trẻ em",
+              "html": "trẻ em"
+            }
+          ],
+          "term": "子（こ）ども",
+          "termHtml": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども",
+          "meaning": "trẻ em",
+          "meaningHtml": "trẻ em"
+        },
+        {
+          "cells": [
+            {
+              "text": "学校（がっこう）に入（はい）ります",
+              "html": "<ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ります"
+            },
+            {
+              "text": "đi học",
+              "html": "đi học"
+            }
+          ],
+          "term": "学校（がっこう）に入（はい）ります",
+          "termHtml": "<ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ります",
+          "meaning": "đi học",
+          "meaningHtml": "đi học"
+        },
+        {
+          "cells": [
+            {
+              "text": "小学校（しょうがっこう）",
+              "html": "<ruby>小学校<rp>（</rp><rt>しょうがっこう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tiểu học",
+              "html": "tiểu học"
+            }
+          ],
+          "term": "小学校（しょうがっこう）",
+          "termHtml": "<ruby>小学校<rp>（</rp><rt>しょうがっこう</rt><rp>）</rp></ruby>",
+          "meaning": "tiểu học",
+          "meaningHtml": "tiểu học"
+        },
+        {
+          "cells": [
+            {
+              "text": "中学校（ちゅうがっこう）",
+              "html": "<ruby>中学校<rp>（</rp><rt>ちゅうがっこう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "trung học cơ sở",
+              "html": "trung học cơ sở"
+            }
+          ],
+          "term": "中学校（ちゅうがっこう）",
+          "termHtml": "<ruby>中学校<rp>（</rp><rt>ちゅうがっこう</rt><rp>）</rp></ruby>",
+          "meaning": "trung học cơ sở",
+          "meaningHtml": "trung học cơ sở"
+        },
+        {
+          "cells": [
+            {
+              "text": "高等（こうとう）学校（がっこう）",
+              "html": "<ruby>高等<rp>（</rp><rt>こうとう</rt><rp>）</rp></ruby><ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "trung học phổ thông",
+              "html": "trung học phổ thông"
+            }
+          ],
+          "term": "高等（こうとう）学校（がっこう）",
+          "termHtml": "<ruby>高等<rp>（</rp><rt>こうとう</rt><rp>）</rp></ruby><ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>",
+          "meaning": "trung học phổ thông",
+          "meaningHtml": "trung học phổ thông"
+        },
+        {
+          "cells": [
+            {
+              "text": "青年（せいねん）",
+              "html": "<ruby>青年<rp>（</rp><rt>せいねん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "thanh niên",
+              "html": "thanh niên"
+            }
+          ],
+          "term": "青年（せいねん）",
+          "termHtml": "<ruby>青年<rp>（</rp><rt>せいねん</rt><rp>）</rp></ruby>",
+          "meaning": "thanh niên",
+          "meaningHtml": "thanh niên"
+        },
+        {
+          "cells": [
+            {
+              "text": "大学（だいがく）",
+              "html": "<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đại học (4năm)",
+              "html": "đại học (4năm)"
+            }
+          ],
+          "term": "大学（だいがく）",
+          "termHtml": "<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>",
+          "meaning": "đại học (4năm)",
+          "meaningHtml": "đại học (4năm)"
+        },
+        {
+          "cells": [
+            {
+              "text": "大学院（だいがくいん）",
+              "html": "<ruby>大学院<rp>（</rp><rt>だいがくいん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "trên đại học (cao học)",
+              "html": "trên đại học (cao học)"
+            }
+          ],
+          "term": "大学院（だいがくいん）",
+          "termHtml": "<ruby>大学院<rp>（</rp><rt>だいがくいん</rt><rp>）</rp></ruby>",
+          "meaning": "trên đại học (cao học)",
+          "meaningHtml": "trên đại học (cao học)"
+        },
+        {
+          "cells": [
+            {
+              "text": "学校（がっこう）を出（で）ます",
+              "html": "<ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>を<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ます"
+            },
+            {
+              "text": "tốt nghiệp",
+              "html": "tốt nghiệp"
+            }
+          ],
+          "term": "学校（がっこう）を出（で）ます",
+          "termHtml": "<ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>を<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ます",
+          "meaning": "tốt nghiệp",
+          "meaningHtml": "tốt nghiệp"
+        },
+        {
+          "cells": [
+            {
+              "text": "就職（しゅうしょく）します",
+              "html": "<ruby>就職<rp>（</rp><rt>しゅうしょく</rt><rp>）</rp></ruby>します"
+            },
+            {
+              "text": "đi làm",
+              "html": "đi làm"
+            }
+          ],
+          "term": "就職（しゅうしょく）します",
+          "termHtml": "<ruby>就職<rp>（</rp><rt>しゅうしょく</rt><rp>）</rp></ruby>します",
+          "meaning": "đi làm",
+          "meaningHtml": "đi làm"
+        },
+        {
+          "cells": [
+            {
+              "text": "結婚（けっこん）します",
+              "html": "<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>します"
+            },
+            {
+              "text": "kết hôn",
+              "html": "kết hôn"
+            }
+          ],
+          "term": "結婚（けっこん）します",
+          "termHtml": "<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>します",
+          "meaning": "kết hôn",
+          "meaningHtml": "kết hôn"
+        },
+        {
+          "cells": [
+            {
+              "text": "子（こ）どもが生（う）まれます。",
+              "html": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもが<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます。"
+            },
+            {
+              "text": "sinh con",
+              "html": "sinh con"
+            }
+          ],
+          "term": "子（こ）どもが生（う）まれます。",
+          "termHtml": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもが<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます。",
+          "meaning": "sinh con",
+          "meaningHtml": "sinh con"
+        },
+        {
+          "cells": [
+            {
+              "text": "中年（ちゅうねん）",
+              "html": "<ruby>中年<rp>（</rp><rt>ちゅうねん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "trung niên",
+              "html": "trung niên"
+            }
+          ],
+          "term": "中年（ちゅうねん）",
+          "termHtml": "<ruby>中年<rp>（</rp><rt>ちゅうねん</rt><rp>）</rp></ruby>",
+          "meaning": "trung niên",
+          "meaningHtml": "trung niên"
+        },
+        {
+          "cells": [
+            {
+              "text": "離婚（りこん）します",
+              "html": "<ruby>離婚<rp>（</rp><rt>りこん</rt><rp>）</rp></ruby>します"
+            },
+            {
+              "text": "li hôn",
+              "html": "li hôn"
+            }
+          ],
+          "term": "離婚（りこん）します",
+          "termHtml": "<ruby>離婚<rp>（</rp><rt>りこん</rt><rp>）</rp></ruby>します",
+          "meaning": "li hôn",
+          "meaningHtml": "li hôn"
+        },
+        {
+          "cells": [
+            {
+              "text": "再婚（さいこん）します",
+              "html": "<ruby>再婚<rp>（</rp><rt>さいこん</rt><rp>）</rp></ruby>します"
+            },
+            {
+              "text": "tái hôn",
+              "html": "tái hôn"
+            }
+          ],
+          "term": "再婚（さいこん）します",
+          "termHtml": "<ruby>再婚<rp>（</rp><rt>さいこん</rt><rp>）</rp></ruby>します",
+          "meaning": "tái hôn",
+          "meaningHtml": "tái hôn"
+        },
+        {
+          "cells": [
+            {
+              "text": "仕事（しごと）をやめます。",
+              "html": "<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をやめます。"
+            },
+            {
+              "text": "nghỉ hưu",
+              "html": "nghỉ hưu"
+            }
+          ],
+          "term": "仕事（しごと）をやめます。",
+          "termHtml": "<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をやめます。",
+          "meaning": "nghỉ hưu",
+          "meaningHtml": "nghỉ hưu"
+        },
+        {
+          "cells": [
+            {
+              "text": "老人（ろうじん）",
+              "html": "<ruby>老人<rp>（</rp><rt>ろうじん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "người già",
+              "html": "người già"
+            }
+          ],
+          "term": "老人（ろうじん）",
+          "termHtml": "<ruby>老人<rp>（</rp><rt>ろうじん</rt><rp>）</rp></ruby>",
+          "meaning": "người già",
+          "meaningHtml": "người già"
+        },
+        {
+          "cells": [
+            {
+              "text": "死（し）にます",
+              "html": "<ruby>死<rp>（</rp><rt>し</rt><rp>）</rp></ruby>にます"
+            },
+            {
+              "text": "chết",
+              "html": "chết"
+            }
+          ],
+          "term": "死（し）にます",
+          "termHtml": "<ruby>死<rp>（</rp><rt>し</rt><rp>）</rp></ruby>にます",
+          "meaning": "chết",
+          "meaningHtml": "chết"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃん</td> <td>em bé</td> </tr><tr> <td width=\"40%\"><ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます</td> <td>được sinh ra</td> </tr><tr> <td width=\"40%\"><ruby>保育園<rp>（</rp><rt>ほいくえん</rt><rp>）</rp></ruby></td> <td>nhà trẻ</td> </tr><tr> <td width=\"40%\"><ruby>幼稚園<rp>（</rp><rt>ようちえん</rt><rp>）</rp></ruby></td> <td>mẫu giáo</td> </tr><tr> <td width=\"40%\"><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども</td> <td>trẻ em</td> </tr><tr> <td width=\"40%\"><ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ります</td> <td>đi học</td> </tr><tr> <td width=\"40%\"><ruby>小学校<rp>（</rp><rt>しょうがっこう</rt><rp>）</rp></ruby></td> <td>tiểu học</td> </tr><tr> <td width=\"40%\"><ruby>中学校<rp>（</rp><rt>ちゅうがっこう</rt><rp>）</rp></ruby></td> <td>trung học cơ sở</td> </tr><tr> <td width=\"40%\"><ruby>高等<rp>（</rp><rt>こうとう</rt><rp>）</rp></ruby><ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby></td> <td>trung học phổ thông</td> </tr><tr> <td width=\"40%\"><ruby>青年<rp>（</rp><rt>せいねん</rt><rp>）</rp></ruby></td> <td>thanh niên</td> </tr><tr> <td width=\"40%\"><ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby></td> <td>đại học (4năm)</td> </tr><tr> <td width=\"40%\"><ruby>大学院<rp>（</rp><rt>だいがくいん</rt><rp>）</rp></ruby></td> <td>trên đại học (cao học)</td> </tr><tr> <td width=\"40%\"><ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>を<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ます</td> <td>tốt nghiệp</td> </tr><tr> <td width=\"40%\"><ruby>就職<rp>（</rp><rt>しゅうしょく</rt><rp>）</rp></ruby>します</td> <td>đi làm</td> </tr><tr> <td width=\"40%\"><ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>します</td> <td>kết hôn</td> </tr><tr> <td width=\"40%\"><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもが<ruby>生<rp>（</rp><rt>う</rt><rp>）</rp></ruby>まれます。</td> <td>sinh con</td> </tr><tr> <td width=\"40%\"><ruby>中年<rp>（</rp><rt>ちゅうねん</rt><rp>）</rp></ruby></td> <td>trung niên</td> </tr><tr> <td width=\"40%\"><ruby>離婚<rp>（</rp><rt>りこん</rt><rp>）</rp></ruby>します</td> <td>li hôn</td> </tr><tr> <td width=\"40%\"><ruby>再婚<rp>（</rp><rt>さいこん</rt><rp>）</rp></ruby>します</td> <td>tái hôn</td> </tr><tr> <td width=\"40%\"><ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をやめます。</td> <td>nghỉ hưu</td> </tr><tr> <td width=\"40%\"><ruby>老人<rp>（</rp><rt>ろうじん</rt><rp>）</rp></ruby></td> <td>người già</td> </tr><tr> <td width=\"40%\"><ruby>死<rp>（</rp><rt>し</rt><rp>）</rp></ruby>にます</td> <td>chết</td> </tr></tbody></table> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai25.jpg\" style=\"width: 100%; \"> </p>"
+    }
+  ]
+}

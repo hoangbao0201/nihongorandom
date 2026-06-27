@@ -1,0 +1,190 @@
+{
+  "lesson": 21,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "思います",
+      "kanjiHtml": "思います",
+      "sinoVietnamese": "TƯ",
+      "kana": "おもいます",
+      "kanaHtml": "おもいます"
+    },
+    {
+      "index": 2,
+      "kanji": "言います",
+      "kanjiHtml": "言います",
+      "sinoVietnamese": "NGÔN",
+      "kana": "いいます",
+      "kanaHtml": "いいます"
+    },
+    {
+      "index": 3,
+      "kanji": "勝ちます",
+      "kanjiHtml": "勝ちます",
+      "sinoVietnamese": "THẮNG",
+      "kana": "かちます",
+      "kanaHtml": "かちます"
+    },
+    {
+      "index": 4,
+      "kanji": "負けます",
+      "kanjiHtml": "負けます",
+      "sinoVietnamese": "PHỤ",
+      "kana": "まけます",
+      "kanaHtml": "まけます"
+    },
+    {
+      "index": 5,
+      "kanji": "あります [お祭りが～]",
+      "kanjiHtml": "あります<br />[お祭りが～]",
+      "sinoVietnamese": "TẾ",
+      "kana": "あります [おまつりが～]",
+      "kanaHtml": "あります<br />[おまつりが～]"
+    },
+    {
+      "index": 6,
+      "kanji": "役に立ちます",
+      "kanjiHtml": "役に立ちます",
+      "sinoVietnamese": "DỊCH LẬP",
+      "kana": "やくにたちます",
+      "kanaHtml": "やくにたちます"
+    },
+    {
+      "index": 7,
+      "kanji": "動きます",
+      "kanjiHtml": "動きます",
+      "sinoVietnamese": "",
+      "kana": "うごきます",
+      "kanaHtml": "うごきます"
+    },
+    {
+      "index": 8,
+      "kanji": "[会社を～]",
+      "kanjiHtml": "[会社を～]",
+      "sinoVietnamese": "HỘI XÃ",
+      "kana": "やめます [かいしゃを～]",
+      "kanaHtml": "やめます<br />[かいしゃを～]"
+    },
+    {
+      "index": 9,
+      "kanji": "気をつけます",
+      "kanjiHtml": "気をつけます",
+      "sinoVietnamese": "KHÍ",
+      "kana": "きをつけます",
+      "kanaHtml": "きをつけます"
+    },
+    {
+      "index": 10,
+      "kanji": "留学します",
+      "kanjiHtml": "留学します",
+      "sinoVietnamese": "LƯU HỌC",
+      "kana": "りゅうがくします",
+      "kanaHtml": "りゅうがくします"
+    },
+    {
+      "index": 11,
+      "kanji": "不便[な]",
+      "kanjiHtml": "不便[な]",
+      "sinoVietnamese": "BẤT TIỆN",
+      "kana": "ふべん[な]",
+      "kanaHtml": "ふべん[な]"
+    },
+    {
+      "index": 12,
+      "kanji": "自動車",
+      "kanjiHtml": "自動車",
+      "sinoVietnamese": "TỰ ĐỘNG XA",
+      "kana": "じどうしゃ",
+      "kanaHtml": "じどうしゃ"
+    },
+    {
+      "index": 13,
+      "kanji": "交通",
+      "kanjiHtml": "交通",
+      "sinoVietnamese": "GIAO THÔNG",
+      "kana": "こうつう",
+      "kanaHtml": "こうつう"
+    },
+    {
+      "index": 14,
+      "kanji": "物価",
+      "kanjiHtml": "物価",
+      "sinoVietnamese": "VẬT GIÁ",
+      "kana": "ぶっか",
+      "kanaHtml": "ぶっか"
+    },
+    {
+      "index": 15,
+      "kanji": "放送",
+      "kanjiHtml": "放送",
+      "sinoVietnamese": "PHÓNG TỐNG",
+      "kana": "ほうそう",
+      "kanaHtml": "ほうそう"
+    },
+    {
+      "index": 16,
+      "kanji": "夢",
+      "kanjiHtml": "夢",
+      "sinoVietnamese": "MỘNG",
+      "kana": "ゆめ",
+      "kanaHtml": "ゆめ"
+    },
+    {
+      "index": 17,
+      "kanji": "天才",
+      "kanjiHtml": "天才",
+      "sinoVietnamese": "THIÊN TÀI",
+      "kana": "てんさい",
+      "kanaHtml": "てんさい"
+    },
+    {
+      "index": 18,
+      "kanji": "試合",
+      "kanjiHtml": "試合",
+      "sinoVietnamese": "THÍ HỢP",
+      "kana": "しあい",
+      "kanaHtml": "しあい"
+    },
+    {
+      "index": 19,
+      "kanji": "意見",
+      "kanjiHtml": "意見",
+      "sinoVietnamese": "Ý KIẾN",
+      "kana": "いけん",
+      "kanaHtml": "いけん"
+    },
+    {
+      "index": 20,
+      "kanji": "[お]話",
+      "kanjiHtml": "[お]話",
+      "sinoVietnamese": "THOẠI",
+      "kana": "[お]はなし",
+      "kanaHtml": "[お]はなし"
+    },
+    {
+      "index": 21,
+      "kanji": "地球",
+      "kanjiHtml": "地球",
+      "sinoVietnamese": "ĐỊA CẦU",
+      "kana": "ちきゅう",
+      "kanaHtml": "ちきゅう"
+    },
+    {
+      "index": 22,
+      "kanji": "月",
+      "kanjiHtml": "月",
+      "sinoVietnamese": "NGUYỆT",
+      "kana": "つき",
+      "kanaHtml": "つき"
+    },
+    {
+      "index": 23,
+      "kanji": "最近",
+      "kanjiHtml": "最近",
+      "sinoVietnamese": "TỐI CẬN",
+      "kana": "さいきん",
+      "kanaHtml": "さいきん"
+    }
+  ]
+}

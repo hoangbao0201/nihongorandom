@@ -1,0 +1,120 @@
+{
+  "lesson": 21,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "役職名（やくしょくめい） Chức danh",
+      "titleHtml": "<ruby>役職名<rp>（</rp><rt>やくしょくめい</rt><rp>）</rp></ruby> Chức danh",
+      "introHtml": "<b>Chính phủ</b>",
+      "columns": [
+        "Nơi làm việc",
+        "Nghĩa",
+        "Chức danh",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "国（くに）",
+              "html": "<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nhà nước, chính phủ",
+              "html": "nhà nước, chính phủ"
+            },
+            {
+              "text": "首相（しゅしょう）（内閣（ないかく）総理（そうり）大臣（だいじん））",
+              "html": "<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>（<ruby>内閣<rp>（</rp><rt>ないかく</rt><rp>）</rp></ruby><ruby>総理<rp>（</rp><rt>そうり</rt><rp>）</rp></ruby><ruby>大臣<rp>（</rp><rt>だいじん</rt><rp>）</rp></ruby>）"
+            },
+            {
+              "text": "thủ tướng",
+              "html": "thủ tướng"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "text": "都道府県（とどうふけん）",
+              "html": "<ruby>都道府県<rp>（</rp><rt>とどうふけん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tỉnh, thành phố",
+              "html": "tỉnh, thành phố"
+            },
+            {
+              "text": "知事（ちじ）",
+              "html": "<ruby>知事<rp>（</rp><rt>ちじ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tỉnh trưởng, thị trưởng",
+              "html": "tỉnh trưởng, thị trưởng"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "text": "市（し）",
+              "html": "<ruby>市<rp>（</rp><rt>し</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "thành phố(trong tỉnh)",
+              "html": "thành phố(trong tỉnh)"
+            },
+            {
+              "text": "市長（しちょう）",
+              "html": "<ruby>市長<rp>（</rp><rt>しちょう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "thị trưởng",
+              "html": "thị trưởng"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "text": "町（まち）",
+              "html": "<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "khu phố",
+              "html": "khu phố"
+            },
+            {
+              "text": "町長（ちょうちょう）",
+              "html": "<ruby>町長<rp>（</rp><rt>ちょうちょう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "trưởng khu phố",
+              "html": "trưởng khu phố"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "text": "村（むら）",
+              "html": "<ruby>村<rp>（</rp><rt>むら</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "thôn",
+              "html": "thôn"
+            },
+            {
+              "text": "村長（そんちょう）",
+              "html": "<ruby>村長<rp>（</rp><rt>そんちょう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "trưởng thôn",
+              "html": "trưởng thôn"
+            }
+          ]
+        }
+      ],
+      "contentHtml": "<b>Chính phủ</b> <table class=\"search_result vnjp-yakushoku-table\"><thead> <tr> <th>Nơi làm việc</th> <th>Nghĩa</th> <th>Chức danh</th> <th>Nghĩa</th> </tr> </thead><tbody><tr><td style=\"width:25%;\"><ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby></td><td style=\"width:25%;\">nhà nước, chính phủ</td><td style=\"width:25%;\"><ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>（<ruby>内閣<rp>（</rp><rt>ないかく</rt><rp>）</rp></ruby><ruby>総理<rp>（</rp><rt>そうり</rt><rp>）</rp></ruby><ruby>大臣<rp>（</rp><rt>だいじん</rt><rp>）</rp></ruby>）</td><td>thủ tướng</td></tr><tr><td style=\"width:25%;\"><ruby>都道府県<rp>（</rp><rt>とどうふけん</rt><rp>）</rp></ruby></td><td style=\"width:25%;\">tỉnh, thành phố</td><td style=\"width:25%;\"><ruby>知事<rp>（</rp><rt>ちじ</rt><rp>）</rp></ruby></td><td>tỉnh trưởng, thị trưởng</td></tr><tr><td style=\"width:25%;\"><ruby>市<rp>（</rp><rt>し</rt><rp>）</rp></ruby></td><td style=\"width:25%;\">thành phố(trong tỉnh)</td><td style=\"width:25%;\"><ruby>市長<rp>（</rp><rt>しちょう</rt><rp>）</rp></ruby></td><td>thị trưởng</td></tr><tr><td style=\"width:25%;\"><ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby></td><td style=\"width:25%;\">khu phố</td><td style=\"width:25%;\"><ruby>町長<rp>（</rp><rt>ちょうちょう</rt><rp>）</rp></ruby></td><td>trưởng khu phố</td></tr><tr><td style=\"width:25%;\"><ruby>村<rp>（</rp><rt>むら</rt><rp>）</rp></ruby></td><td style=\"width:25%;\">thôn</td><td style=\"width:25%;\"><ruby>村長<rp>（</rp><rt>そんちょう</rt><rp>）</rp></ruby></td><td>trưởng thôn</td></tr></tbody></table> <br> <b>Giáo dục</b> <table class=\"search_result vnjp-yakushoku-table\"><thead> <tr> <th>Chức danh</th> <th>Nghĩa</th> </tr> </thead><tbody><tr><td style=\"width:50%;\"><ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby></td><td>đại học</td></tr><tr><td style=\"width:50%;\"><ruby>高等<rp>（</rp><rt>こうとう</rt><rp>）</rp></ruby><ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby></td><td>trung học phổ thông</td></tr><tr><td style=\"width:50%;\"><ruby>中学校<rp>（</rp><rt>ちゅうがっこう</rt><rp>）</rp></ruby></td><td>trung học cơ sở</td></tr><tr><td style=\"width:50%;\"><ruby>小学校<rp>（</rp><rt>しょうがっこう</rt><rp>）</rp></ruby></td><td>tiểu học</td></tr><tr><td style=\"width:50%;\"><ruby>幼稚園<rp>（</rp><rt>ようちえん</rt><rp>）</rp></ruby></td><td>mẫu giáo</td></tr></tbody></table> <br> <b>Công ty</b> <table class=\"search_result vnjp-yakushoku-table\"><thead> <tr> <th>Chức danh</th> <th>Nghĩa</th> </tr> </thead><tbody><tr><td style=\"width:50%;\"><ruby>会長<rp>（</rp><rt>かいちょう</rt><rp>）</rp></ruby></td><td>chủ tịch</td></tr><tr><td style=\"width:50%;\"><ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby></td><td>giám đốc điều hành</td></tr><tr><td style=\"width:50%;\"><ruby>重役<rp>（</rp><rt>じゅうやく</rt><rp>）</rp></ruby></td><td>thành viên ban quản trị</td></tr><tr><td style=\"width:50%;\"><ruby>部長<rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby></td><td>trưởng phòng</td></tr><tr><td style=\"width:50%;\"><ruby>課長<rp>（</rp><rt>かちょう</rt><rp>）</rp></ruby></td><td>tổ trưởng</td></tr></tbody></table> <br> <b>Bệnh viện</b> <table class=\"search_result vnjp-yakushoku-table\"><thead> <tr> <th>Chức danh</th> <th>Nghĩa</th> </tr> </thead><tbody><tr><td style=\"width:50%;\"><ruby>院長<rp>（</rp><rt>いんちょう</rt><rp>）</rp></ruby></td><td>giám đốc bệnh viện</td></tr><tr><td style=\"width:50%;\"><ruby>部長<rp>（</rp><rt>ぶちょう</rt><rp>）</rp></ruby></td><td>trưởng phòng, trưởng khoa</td></tr><tr><td style=\"width:50%;\"><ruby>婦長<rp>（</rp><rt>ふちょう</rt><rp>）</rp></ruby></td><td>y tá trưởng</td></tr></tbody></table> <br> <b>Ngân hàng</b> <table class=\"search_result vnjp-yakushoku-table\"><thead> <tr> <th>Chức danh</th> <th>Nghĩa</th> </tr> </thead><tbody><tr><td style=\"width:50%;\"><ruby>頭取<rp>（</rp><rt>とうどり</rt><rp>）</rp></ruby></td><td>giám đốc</td></tr><tr><td style=\"width:50%;\"><ruby>支店長<rp>（</rp><rt>してんちょう</rt><rp>）</rp></ruby></td><td>trưởng chi nhánh, giám đốc chi nhánh</td></tr></tbody></table> <br> <b>Nhà ga</b> <table class=\"search_result vnjp-yakushoku-table\"><thead> <tr> <th>Chức danh</th> <th>Nghĩa</th> </tr> </thead><tbody><tr><td style=\"width:50%;\"><ruby>駅長<rp>（</rp><rt>えきちょう</rt><rp>）</rp></ruby></td><td>trưởng ga</td></tr></tbody></table> <br> <b>Khác</b> <table class=\"search_result vnjp-yakushoku-table\"><thead> <tr> <th>Chức danh</th> <th>Nghĩa</th> </tr> </thead><tbody><tr><td style=\"width:50%;\"><ruby>警察<rp>（</rp><rt>けいさつ</rt><rp>）</rp></ruby></td><td>cảnh sát</td></tr><tr><td style=\"width:50%;\"><ruby>署長<rp>（</rp><rt>しょちょう</rt><rp>）</rp></ruby></td><td>cảnh sát trưởng, trưởng đồn</td></tr></tbody></table>"
+    }
+  ]
+}
