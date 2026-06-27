@@ -2,6 +2,7 @@
 
 import NextTopLoader from "nextjs-toploader"
 import { useEffect } from "react"
+import SiteHeader from "@/src/components/layouts/SiteHeader"
 import OnlineCount from "@/src/components/shared/OnlineCount"
 import { preloadJapaneseSpeech } from "@/src/lib/japaneseSpeechEngine"
 
@@ -22,6 +23,7 @@ const ProviderLayout = ({ children }: { children: React.ReactNode }) => {
                 easing="ease"
                 speed={200}
             />
+            <SiteHeader />
             <OnlineCount />
             {children}
         </>

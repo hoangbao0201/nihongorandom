@@ -1,7 +1,6 @@
 "use client";
 
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
-import Link from "next/link";
 import { useEffect, useState } from "react";
 import KanaStudyView from "@/src/components/modules/HomePage/KanaStudyView";
 import LessonQuizStudyView from "@/src/components/modules/HomePage/LessonQuizStudyView";
@@ -76,31 +75,12 @@ export default function HomePage() {
 
       <PageBackground />
 
-      <main className="relative z-10 mx-auto flex min-h-screen max-w-5xl flex-col px-4 py-8 sm:px-6 sm:py-10">
-        <header className="mb-5 text-center">
-          <h1 className="text-xl font-extrabold uppercase tracking-tight">
-            <span className="bg-linear-to-r from-[#fe9842] via-[#f94300] to-[#ff5e7e] bg-clip-text text-transparent">
-              NIHONGO RANDOM V2
-            </span>
-          </h1>
-          <p className="mt-2 text-xs text-white/30">
+      <main className="relative z-10 mx-auto flex min-h-[calc(100vh-3.5rem)] max-w-5xl flex-col px-4 py-6 sm:px-6 sm:py-8">
+        <div className="mb-5 text-center">
+          <p className="text-xs text-white/30">
             Số câu đã luyện tập: {countCorrect.toLocaleString("vi-VN")}
           </p>
-          <div className="mt-4 flex flex-wrap items-center justify-center gap-3">
-            <Link
-              href="/n5/lessons"
-              className="inline-flex items-center gap-2 rounded-lg border border-[var(--accent)]/40 bg-[var(--accent)]/10 px-4 py-2 text-sm font-semibold text-[var(--accent-soft)] transition-colors hover:bg-[var(--accent)]/20 hover:text-white"
-            >
-              Danh sách 25 bài học
-            </Link>
-            <Link
-              href="/n5/kanji"
-              className="inline-flex items-center gap-2 rounded-lg border border-white/10 bg-white/5 px-4 py-2 text-sm font-semibold text-white/80 transition-colors hover:border-white/20 hover:bg-white/10 hover:text-white"
-            >
-              Bảng Kanji N5
-            </Link>
-          </div>
-        </header>
+        </div>
 
         <TabGroup>
           <TabList className="glass-panel mb-3 grid grid-cols-2 gap-1 rounded-lg border border-white/6 bg-black/35 p-1">
