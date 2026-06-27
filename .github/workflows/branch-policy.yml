@@ -1,0 +1,28 @@
+name: Branch Policy
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, edited]
+    branches: [main, develop]
+
+jobs:
+  branch-policy:
+    name: branch-policy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate PR source branch
+        env:
+          BASE: ${{ github.base_ref }}
+          HEAD: ${{ github.head_ref }}
+        run: |
+          if [ "$BASE" = "main" ] && [ "$HEAD" != "develop" ]; then
+            echo "PR into main must come from the develop branch only."
+            exit 1
+          fi
+
+          if [ "$BASE" = "develop" ] && [[ ! "$HEAD" =~ ^feature/ ]]; then
+            echo "PR into develop must come from a feature/* branch only."
+            exit 1
+          fi
+
+          echo "Branch policy OK: $HEAD -> $BASE"
