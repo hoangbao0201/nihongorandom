@@ -21,7 +21,7 @@ export default function LessonPageShell({
     <div className="relative min-h-screen overflow-x-hidden">
       <PageBackground variant="simple" />
 
-      <main className="relative z-10 mx-auto flex min-h-screen max-w-5xl flex-col px-4 py-8 sm:px-6 sm:py-10">
+      <main className="relative z-10 mx-auto flex min-h-[calc(100vh-3.5rem)] max-w-5xl flex-col px-4 py-6 sm:px-6 sm:py-8">
         <header className="mb-6">
           <Link
             href={backHref}
