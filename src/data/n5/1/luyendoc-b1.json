@@ -1,0 +1,409 @@
+{
+  "lesson": 1,
+  "type": "luyendoc",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Đọc 文型(ぶんけい) (văn mẫu)",
+      "titleHtml": "Đọc <ruby>文型<rp>(</rp><rt>ぶんけい</rt><rp>)</rp></ruby> (văn mẫu)",
+      "contentHtml": "</p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/011111010012.mp3\" type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><span>１．</span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_bk_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span>わたしは マイク・ミラーです。</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tôi là Mike Miller.</div></div></div></span></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><span>２．</span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_bk_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>サントスさんは <ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby> じゃ ありません。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh Santos không phải là sinh viên.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><span>３．</span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_bk_3.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>ミラーさんは <ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh Miller có phải là nhân viên công ty không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><span>４．</span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_bk_4.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>サントスさんも <ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh Santos cũng là nhân viên công ty.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> </div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/011111010012.mp3"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><span>１．</span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_bk_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "わたしは マイク・ミラーです。",
+          "japaneseHtml": "</span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span>わたしは マイク・ミラーです。</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tôi là Mike Miller.</div></div></div></span></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><span>２．</span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_bk_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "サントスさんは 学生(がくせい) じゃ ありません。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>サントスさんは <ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby> じゃ ありません。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh Santos không phải là sinh viên.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><span>３．</span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_bk_3.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ミラーさんは 会社員(かいしゃいん)ですか。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>ミラーさんは <ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh Miller có phải là nhân viên công ty không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"><span>４．</span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_bk_4.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "サントスさんも 会社員(かいしゃいん)です。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>サントスさんも <ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh Santos cũng là nhân viên công ty.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> </div>"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Đọc 例文(れいぶん) (ví dụ)",
+      "titleHtml": "Đọc <ruby>例文<rp>(</rp><rt>れいぶん</rt><rp>)</rp></ruby> (ví dụ)",
+      "contentHtml": "</p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/011111010102.mp3\" type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>１．  </span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_rb_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>[あなたは] マイク・ミラーさんですか。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh có phải là anh Mike Miller không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;はい、[わたしは] マイク・ミラーです。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">… Vâng, tôi là Mike Miller.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>２．  </span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_rb_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span>ミラーさんは <ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh Miller có phải là sinh viên không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;いいえ、[わたしは] <ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>じゃ ありません。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Không, tôi không phải là sinh viên.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>３．  </span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_rb_3.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>ワンさんは <ruby>銀行員<rp>(</rp><rt>ぎんこういん</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">ông wang có phải là nhân viên ngân hàng không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;いいえ、ワンさんは <ruby>銀行員<rp>(</rp><rt>ぎんこういん</rt><rp>)</rp></ruby>じゃ ありません。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Không, ông Wang không phải là nhân viên ngân hàng.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span><ruby>医者<rp>(</rp><rt>いしゃ</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">ông ấy là bác sĩ.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>４．  </span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_rb_4.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>あの<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>は どなたですか。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Vị kia là ai?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;ワットさんです。さくら<ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby>の <ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Đó là ông Watt. ông ấy là giảng viên của trường Đại học Sakura.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>５．  </span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_rb_4.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>グプタさんは <ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Ông Gupta là nhân viên công ty phải không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;はい、<ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Vâng, là nhân viên công ty.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>カリナさんも <ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Chị Karina cũng là nhân viên công ty phải không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;いいえ。「カリナさんは」<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Không.[Chị Karina] là sinh viên.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>６．  </span></span><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/Minna_Bai1_rb_5.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>テレーザちゃんは <ruby>何歳<rp>(</rp><rt>なんさい</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span<span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Em Teresa mấy tuổi?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"><div class=\"tudich\"><div class=\"candich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span>&hellip;９<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\"></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Em 9 tuổi.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> </div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/011111010102.mp3"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>１． </span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_rb_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "[あなたは] マイク・ミラーさんですか。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>[あなたは] マイク・ミラーさんですか。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh có phải là anh Mike Miller không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;はい、[わたしは] マイク・ミラーです。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;はい、[わたしは] マイク・ミラーです。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">… Vâng, tôi là Mike Miller.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>２． </span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_rb_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ミラーさんは 学生(がくせい)ですか。",
+          "japaneseHtml": "</span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span>ミラーさんは <ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Anh Miller có phải là sinh viên không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;いいえ、[わたしは] 学生(がくせい)じゃ ありません。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;いいえ、[わたしは] <ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>じゃ ありません。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Không, tôi không phải là sinh viên.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>３． </span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_rb_3.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ワンさんは 銀行員(ぎんこういん)ですか。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>ワンさんは <ruby>銀行員<rp>(</rp><rt>ぎんこういん</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">ông wang có phải là nhân viên ngân hàng không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;いいえ、ワンさんは 銀行員(ぎんこういん)じゃ ありません。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;いいえ、ワンさんは <ruby>銀行員<rp>(</rp><rt>ぎんこういん</rt><rp>)</rp></ruby>じゃ ありません。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Không, ông Wang không phải là nhân viên ngân hàng.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "医者(いしゃ)です。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span><ruby>医者<rp>(</rp><rt>いしゃ</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">ông ấy là bác sĩ.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>４． </span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_rb_4.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "あの方(かた)は どなたですか。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>あの<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>は どなたですか。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Vị kia là ai?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;ワットさんです。さくら大学(だいがく)の 先生(せんせい)です。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;ワットさんです。さくら<ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby>の <ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Đó là ông Watt. ông ấy là giảng viên của trường Đại học Sakura.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>５． </span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_rb_4.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "グプタさんは 会社員(かいしゃいん)ですか。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>グプタさんは <ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Ông Gupta là nhân viên công ty phải không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;はい、会社員(かいしゃいん)です。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;はい、<ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Vâng, là nhân viên công ty.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "カリナさんも 会社員(かいしゃいん)ですか。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>カリナさんも <ruby>会社員<rp>(</rp><rt>かいしゃいん</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Chị Karina cũng là nhân viên công ty phải không?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;いいえ。「カリナさんは」学生(がくせい)です。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>&hellip;いいえ。「カリナさんは」<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Không.[Chị Karina] là sinh viên.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span>６． </span></span>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/Minna_Bai1_rb_5.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "テレーザちゃんは 何歳(なんさい)ですか。",
+          "japaneseHtml": "</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span>テレーザちゃんは <ruby>何歳<rp>(</rp><rt>なんさい</rt><rp>)</rp></ruby>ですか。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span<span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">Em Teresa mấy tuổi?</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;９歳(さい)です。",
+          "japaneseHtml": "</span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span>&hellip;９<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>です。</span><span style=\"font-size: 16px;\">",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</span><div class=\"kqdich\"><span></span><div class=\"nddich\"></span></span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\">&hellip; Em 9 tuổi.</span></span><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size: 16px;\"></div></div></div></span></span></p> <p> </div>"
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": "Đọc 練習(れんしゅう) A(Luyện tập A)",
+      "titleHtml": "Đọc <ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby> A(Luyện tập A)",
+      "contentHtml": "</p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">１．</span></span></td> <td rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">わたしは</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>マイク・ミラー</strong></span></span></span></td> <td rowspan=\"4\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">です。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color: rgb(0, 0, 205);\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>かいしゃいん</strong></span></span></span></td> </tr> <tr> <td rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ワンさんは</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>ちゅうごくじん</strong></span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color: rgb(0, 0, 205);\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>いしゃ</strong></span></span></span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là Mike Miller.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là nhân viên công ty.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Wang là người Trung Quốc.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Wang là bác sĩ.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">２．</span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">わたしは</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>カ<span _fck_bookmark=\"1\" style=\"display: none;\"> </span>ール・シュミッ<span _fck_bookmark=\"1\" style=\"display: none;\"> </span>ト</strong></span></span></span><span><span style=\"font-family: arial,helvetica,sans-serif;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> <td rowspan=\"4\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">じゃ（では） ありません。</span></span></td> </tr> <tr> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">イーさんは</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>きょうし</strong></span></span></span><span><span style=\"font-family: arial,helvetica,sans-serif;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>アメリカじん</strong></span></span></span><span><span style=\"font-family: arial,helvetica,sans-serif;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>がくせい</strong></span></span></span><span><span style=\"font-family: arial,helvetica,sans-serif;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi không phải là Karl Schmidt.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là giáo viên.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là người Mỹ.</span></span></p <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là sinh viên.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" width=\"20px\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">３．</span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\"> <br />あの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>（<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>）は</span></span><br /> </td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>きむらさん</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ですか。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>マリアさん</strong></span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204);\"> <span style=\"color:#ff0000;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>だれ（どなた）</strong></span></span></span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là chị Kimura phải không?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là chị Maria phải không?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là ai vậy (là vị nào vậy)?</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">４．</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>わたし</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">は</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>ＩＭＣ</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">の</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>しゃいん</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">です。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>カリナさん</strong></span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>ふじだいがく</strong> </span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>がくせい</strong></span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>ワンさん</strong></span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>さくらだいがく</strong> </span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>せんせい</strong></span></span></span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là nhân viên công ty IMC.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Karina là sinh viên trường đại học Fuji.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Ông Watt là giáo viên của đại học Sakura.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">５．</span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">サントスさん </span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">は </span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ブラジルじんです。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>マリアさん</strong></span></span></span></td> <td colspan=\"1\" rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">も </span></span></td> <td colspan=\"1\" rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ブラジルじんです。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>あの ひと</strong></span></span></span></td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Santos là người Brasil.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Maria cũng là người Brasil.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia cũng là người Brasil.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">６．<span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>テレーザちゃん</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">は</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>９さい</strong></span></span></span></td> <td colspan=\"1\" rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">です。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>たろうちゃん</strong></span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>８さい</strong></span></span></span></td> </tr> <tr> <td>  </td> <td style=\"background-color: rgb(255, 204, 204);\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"color:#ff0000;\"><strong>なんさい </strong><strong>（おいくつ） </strong></span></span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ですか。</span></span></td> </tr> </tbody> </table> <p> <div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Teresa 9 tuổi.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Taro 8 tuổi.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Teresa mấy tuổi vậy?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Taro mấy tuổi vậy?</span></span></p> <p> </div></div></p> </div></div> <br /> <?php $de_stt = \"1\"; ?>",
+      "blocks": [
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">１．</span></span></td> <td rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">わたしは</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>マイク・ミラー</strong></span></span></span></td> <td rowspan=\"4\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">です。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color: rgb(0, 0, 205);\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>かいしゃいん</strong></span></span></span></td> </tr> <tr> <td rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ワンさんは</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>ちゅうごくじん</strong></span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color: rgb(0, 0, 205);\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>いしゃ</strong></span></span></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là Mike Miller.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là nhân viên công ty.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Wang là người Trung Quốc.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Wang là bác sĩ.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là Mike Miller.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là nhân viên công ty.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Wang là người Trung Quốc.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Wang là bác sĩ.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">２．</span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">わたしは</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>カ<span _fck_bookmark=\"1\" style=\"display: none;\"> </span>ール・シュミッ<span _fck_bookmark=\"1\" style=\"display: none;\"> </span>ト</strong></span></span></span><span><span style=\"font-family: arial,helvetica,sans-serif;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> <td rowspan=\"4\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">じゃ（では） ありません。</span></span></td> </tr> <tr> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">イーさんは</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>きょうし</strong></span></span></span><span><span style=\"font-family: arial,helvetica,sans-serif;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>アメリカじん</strong></span></span></span><span><span style=\"font-family: arial,helvetica,sans-serif;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>がくせい</strong></span></span></span><span><span style=\"font-family: arial,helvetica,sans-serif;\"><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi không phải là Karl Schmidt.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là giáo viên.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là người Mỹ.</span></span></p <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là sinh viên.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi không phải là Karl Schmidt.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là giáo viên.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là người Mỹ.</span></span></p <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Lee không phải là sinh viên.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" width=\"20px\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">３．</span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\"> <br />あの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>（<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>）は</span></span><br /> </td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>きむらさん</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ですか。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>マリアさん</strong></span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(255, 204, 204);\"> <span style=\"color:#ff0000;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>だれ（どなた）</strong></span></span></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là chị Kimura phải không?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là chị Maria phải không?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là ai vậy (là vị nào vậy)?</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là chị Kimura phải không?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là chị Maria phải không?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia (vị kia) là ai vậy (là vị nào vậy)?</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">４．</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>わたし</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">は</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>ＩＭＣ</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">の</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>しゃいん</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">です。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>カリナさん</strong></span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>ふじだいがく</strong> </span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>がくせい</strong></span></span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>ワンさん</strong></span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>さくらだいがく</strong> </span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>せんせい</strong></span></span></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là nhân viên công ty IMC.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Karina là sinh viên trường đại học Fuji.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Ông Watt là giáo viên của đại học Sakura.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Tôi là nhân viên công ty IMC.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Karina là sinh viên trường đại học Fuji.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Ông Watt là giáo viên của đại học Sakura.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">５．</span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">サントスさん </span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">は </span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ブラジルじんです。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>マリアさん</strong></span></span></span></td> <td colspan=\"1\" rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">も </span></span></td> <td colspan=\"1\" rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ブラジルじんです。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>あの ひと</strong></span></span></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Santos là người Brasil.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Maria cũng là người Brasil.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia cũng là người Brasil.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Anh Santos là người Brasil.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Chị Maria cũng là người Brasil.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Người kia cũng là người Brasil.</span></span></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 20px;\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">６．<span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>テレーザちゃん</strong></span></span></span></td> <td rowspan=\"3\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">は</span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>９さい</strong></span></span></span></td> <td colspan=\"1\" rowspan=\"2\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\">です。</span></span></td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>たろうちゃん</strong></span></span></span></td> <td style=\"background-color: rgb(205, 227, 235);\"> <span style=\"color:#0000cd;\"><span><span style=\"font-family: arial,helvetica,sans-serif;\"><strong>８さい</strong></span></span></span></td> </tr> <tr> <td> </td> <td style=\"background-color: rgb(255, 204, 204);\"> <span><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"color:#ff0000;\"><strong>なんさい </strong><strong>（おいくつ） </strong></span></span></span></td> <td> <span><span style=\"font-family: arial,helvetica,sans-serif;\">ですか。</span></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Teresa 9 tuổi.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Taro 8 tuổi.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Teresa mấy tuổi vậy?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Taro mấy tuổi vậy?</span></span></p> <p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Teresa 9 tuổi.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Taro 8 tuổi.</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Teresa mấy tuổi vậy?</span></span></p> <p> <span style=\"font-size:16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\">Em Taro mấy tuổi vậy?</span></span></p> <p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

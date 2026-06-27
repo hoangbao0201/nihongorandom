@@ -1,0 +1,754 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0c0f14;
+  --foreground: #f1f5f9;
+  --card: rgba(18, 22, 32, 0.72);
+  --card-border: rgba(255, 255, 255, 0.08);
+  --accent: #f94300;
+  --accent-soft: #fe9842;
+  --accent-glow: rgba(249, 67, 0, 0.35);
+  --muted: #94a3b8;
+  --success: #22c55e;
+  --surface: rgba(255, 255, 255, 0.04);
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans), system-ui, sans-serif;
+  --font-jp: var(--font-noto-jp), "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+label[for] {
+  cursor: pointer;
+}
+
+input:disabled + label[for] {
+  cursor: not-allowed;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 var(--accent-glow); }
+  70% { box-shadow: 0 0 0 12px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+.animate-fade-up {
+  animation: fade-up 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.animate-pulse-ring {
+  animation: pulse-ring 2s ease-out infinite;
+}
+
+.glass-panel {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.bg-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+.script-toggle:checked + label {
+  border-color: var(--accent);
+  background: rgba(249, 67, 0, 0.12);
+  box-shadow: 0 0 0 1px rgba(249, 67, 0, 0.25), 0 8px 24px rgba(249, 67, 0, 0.15);
+}
+
+.script-toggle:checked + label .toggle-dot {
+  background: var(--accent);
+  box-shadow: 0 0 12px var(--accent-glow);
+}
+
+.study-input:focus {
+  box-shadow: 0 0 0 3px rgba(249, 67, 0, 0.2), 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.font-jp {
+  font-family: var(--font-noto-jp), "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+}
+
+.example-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.example-content td {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0.5rem 0.35rem;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.example-content [style*="color: #e74c3c"],
+.example-content [style*="color:#e74c3c"] {
+  color: var(--accent-soft) !important;
+}
+
+.vocabulary-example {
+  font-size: 0.9375rem;
+  line-height: 1.7;
+}
+
+.vocabulary-example p {
+  margin: 0.35rem 0;
+}
+
+.vocabulary-example [style*="text-decoration: underline"],
+.vocabulary-example u {
+  text-decoration-color: var(--accent-soft) !important;
+  color: var(--accent-soft) !important;
+}
+
+.audio-player-seek::-webkit-slider-thumb {
+  appearance: none;
+  height: 0.875rem;
+  width: 0.875rem;
+  border-radius: 9999px;
+  border: 2px solid var(--accent-soft);
+  background: #fff;
+  cursor: pointer;
+}
+
+.audio-player-seek::-moz-range-thumb {
+  height: 0.875rem;
+  width: 0.875rem;
+  border-radius: 9999px;
+  border: 2px solid var(--accent-soft);
+  background: #fff;
+  cursor: pointer;
+}
+
+/* ── Furigana (hiragana trên kanji) — chỉnh tại đây ── */
+.jp-ruby {
+  --jp-ruby-size: 0.75em;
+  --jp-ruby-gap: 0.22em;
+  --jp-ruby-color: var(--accent-soft);
+  --jp-ruby-weight: 500;
+}
+
+.jp-ruby ruby {
+  ruby-align: center;
+  ruby-position: over;
+}
+
+.jp-ruby ruby rp {
+  display: none;
+}
+
+.jp-ruby ruby rt {
+  font-size: var(--jp-ruby-size);
+  font-weight: var(--jp-ruby-weight);
+  line-height: 1;
+  letter-spacing: 0;
+  color: var(--jp-ruby-color);
+  padding-bottom: var(--jp-ruby-gap);
+  user-select: none;
+}
+
+.jp-ruby ruby rb {
+  font-size: 1em;
+}
+
+/* Quiz prompt — kích thước động theo độ dài nội dung */
+.quiz-prompt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: var(--quiz-prompt-max-width, min(92vw, 32rem));
+  text-align: center;
+}
+
+.quiz-prompt__main,
+.quiz-prompt__html {
+  font-size: var(--quiz-prompt-size, clamp(2rem, 8vw, 5rem));
+  line-height: var(--quiz-prompt-line-height, 1.08);
+}
+
+.quiz-prompt__body {
+  position: relative;
+  display: grid;
+  width: 100%;
+  place-items: center;
+}
+
+.quiz-prompt__layer {
+  grid-area: 1 / 1;
+  width: 100%;
+}
+
+.quiz-prompt__layer--hover {
+  pointer-events: none;
+}
+
+.quiz-prompt__ruby-slot {
+  display: flex;
+  min-height: var(--quiz-ruby-reserve, 0px);
+  width: 100%;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.quiz-prompt__hover-text {
+  margin: 0;
+  font-size: calc(var(--quiz-prompt-size, 2rem) * 0.56);
+  font-weight: 500;
+  line-height: 1;
+  color: var(--accent-soft);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.quiz-prompt:hover .quiz-prompt__hover-text {
+  opacity: 1;
+}
+
+.quiz-prompt--ruby {
+  padding-top: var(--quiz-ruby-reserve, 0px);
+}
+
+/* Quiz phrase: ẩn furigana, hover mới hiện rt (đã dành chỗ phía trên) */
+.jp-ruby-hover-reveal ruby rt {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+}
+
+.jp-ruby-hover-reveal:hover ruby rt {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Raw HTML tudich — bấm để mở dropdown dịch */
+.lesson-html .tudich {
+  display: block;
+  max-width: 100%;
+  padding: 0.2rem 0.35rem;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.lesson-html .tudich:hover {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.lesson-html .tudich.is-open {
+  background: rgba(249, 67, 0, 0.08);
+}
+
+.lesson-html .tudich .candich {
+  display: block;
+}
+
+.lesson-html .tudich .kqdich,
+.lesson-html .tudich .nddich {
+  display: none !important;
+  opacity: 0 !important;
+}
+
+.lesson-html .tudich.is-open .kqdich {
+  display: block !important;
+  opacity: 1 !important;
+  margin-top: 0.35rem;
+  padding: 0.35rem 0.55rem;
+  border-left: 2px solid var(--accent-soft);
+  border-radius: 0.25rem;
+  background: rgba(249, 67, 0, 0.14);
+  color: var(--accent-soft);
+  font-size: 0.875rem;
+  line-height: 1.45;
+}
+
+.lesson-html .tudich.is-open .nddich {
+  display: block !important;
+  opacity: 1 !important;
+}
+
+.lesson-html img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0.75rem 0;
+  border-radius: 0.375rem;
+}
+
+.kanji-card img {
+  margin: 0;
+}
+
+/* Dropdown dịch (React) */
+.n5-dropdown-trans {
+  display: block;
+  max-width: 100%;
+}
+
+.n5-dropdown-trans__trigger {
+  display: flex;
+  width: 100%;
+  align-items: flex-start;
+  gap: 0.5rem;
+  padding: 0.25rem 0.35rem;
+  border: none;
+  border-radius: 0.375rem;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.n5-dropdown-trans__trigger:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.n5-dropdown-trans.is-open .n5-dropdown-trans__trigger {
+  background: rgba(249, 67, 0, 0.08);
+}
+
+.n5-dropdown-trans__original {
+  flex: 1;
+  min-width: 0;
+  color: #fff;
+  line-height: 1.65;
+}
+
+.n5-dropdown-trans__icon {
+  flex-shrink: 0;
+  padding-top: 0.15rem;
+  font-size: 0.75rem;
+  color: var(--muted);
+  transition: color 0.15s ease;
+}
+
+.n5-dropdown-trans.is-open .n5-dropdown-trans__icon {
+  color: var(--accent-soft);
+}
+
+.n5-dropdown-trans--sm .n5-dropdown-trans__original {
+  font-size: 0.9375rem;
+}
+
+.n5-dropdown-trans--md .n5-dropdown-trans__original {
+  font-size: 1.0625rem;
+}
+
+.n5-dropdown-trans--lg .n5-dropdown-trans__original {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.n5-dropdown-trans__panel {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.22s ease;
+}
+
+.n5-dropdown-trans.is-open .n5-dropdown-trans__panel {
+  grid-template-rows: 1fr;
+}
+
+.n5-dropdown-trans__panel-inner {
+  overflow: hidden;
+  margin: 0 0.35rem;
+  padding: 0 0.55rem;
+  border-left: 2px solid transparent;
+  color: var(--accent-soft);
+  font-size: 0.875rem;
+  line-height: 1.45;
+  transition:
+    margin-top 0.22s ease,
+    padding 0.22s ease,
+    background-color 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.n5-dropdown-trans.is-open .n5-dropdown-trans__panel-inner {
+  margin-top: 0.35rem;
+  padding: 0.35rem 0.55rem;
+  border-left-color: var(--accent-soft);
+  border-radius: 0.25rem;
+  background: rgba(249, 67, 0, 0.14);
+}
+
+/* Bảng từ vựng — bấm để xem nghĩa */
+.n5-vocab-row--clickable {
+  transition: background-color 0.15s ease;
+}
+
+.n5-vocab-row.is-open {
+  background: rgba(249, 67, 0, 0.06);
+}
+
+.n5-vocab-row__trigger {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 0.4rem;
+  border: none;
+  background: transparent;
+  padding: 0;
+  text-align: left;
+  cursor: pointer;
+  color: inherit;
+}
+
+.n5-vocab-row__icon {
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+.n5-vocab-row.is-open .n5-vocab-row__icon {
+  color: var(--accent-soft);
+}
+
+.n5-vocab-meaning-panel {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.22s ease;
+}
+
+.n5-vocab-row.is-open .n5-vocab-meaning-panel {
+  grid-template-rows: 1fr;
+}
+
+.n5-vocab-meaning-panel__inner {
+  overflow: hidden;
+  margin-top: 0;
+  padding: 0 0.5rem;
+  border-left: 2px solid transparent;
+  color: var(--accent-soft);
+  font-size: 0.8125rem;
+  line-height: 1.45;
+  transition:
+    margin-top 0.22s ease,
+    padding 0.22s ease,
+    background-color 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.n5-vocab-row.is-open .n5-vocab-meaning-panel__inner {
+  margin-top: 0.35rem;
+  padding: 0.3rem 0.5rem;
+  border-left-color: var(--accent-soft);
+  border-radius: 0.25rem;
+  background: rgba(249, 67, 0, 0.14);
+}
+
+/* Ngữ pháp — bảng cấu trúc / ví dụ */
+.nguphap-content table.khung,
+.nguphap-content table.khung2 {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.nguphap-content table.khung td,
+.nguphap-content table.khung2 td {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.65rem;
+  vertical-align: top;
+}
+
+.nguphap-content [style*="background-color: rgb(205, 227, 235)"],
+.nguphap-content [style*="background-color: rgb(205,227,235)"] {
+  background-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+.nguphap-content [style*="background-color: rgb(149, 177, 213)"],
+.nguphap-content [style*="background-color: rgb(149,177,213)"] {
+  background-color: rgba(249, 67, 0, 0.12) !important;
+}
+
+.nguphap-content [style*="background-color: rgb(248, 251, 252)"] {
+  background-color: rgba(255, 255, 255, 0.03) !important;
+}
+
+.nguphap-content [style*="color:#ff0000"],
+.nguphap-content [style*="color: rgb(255, 0, 0)"],
+.nguphap-content [style*="color:#000080"],
+.nguphap-content [style*="color: rgb(0,0,128)"] {
+  color: var(--accent-soft) !important;
+}
+
+.nguphap-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.375rem;
+}
+
+/* Luyện đọc */
+.luyendoc-content table.table_ngang,
+.luyendoc-content table.khung {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.luyendoc-content table.table_ngang td,
+.luyendoc-content table.khung td {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.65rem;
+  vertical-align: middle;
+}
+
+.luyendoc-content [style*="background-color: rgb(205, 227, 235)"],
+.luyendoc-content [style*="background-color: rgb(205,227,235)"] {
+  background-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+.luyendoc-content [style*="background-color: rgb(255, 204, 204)"] {
+  background-color: rgba(249, 67, 0, 0.15) !important;
+}
+
+.luyendoc-content [style*="color:#0000cd"],
+.luyendoc-content [style*="color: rgb(0, 0, 205)"],
+.luyendoc-content [style*="color:#ff0000"] {
+  color: var(--accent-soft) !important;
+}
+
+.luyendoc-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.375rem;
+}
+
+/* Hội thoại */
+.hoithoai-content table.khung {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.hoithoai-content table.khung td {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.65rem;
+  vertical-align: top;
+}
+
+.hoithoai-content [style*="color:#000080"],
+.hoithoai-content [style*="color: rgb(0, 0, 128)"],
+.hoithoai-content [style*="color:#0000cd"],
+.hoithoai-content [style*="color: rgb(0, 0, 205)"] {
+  color: var(--accent-soft) !important;
+}
+
+.hoithoai-content .hoithoaititle {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: white;
+}
+
+.hoithoai-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.375rem;
+}
+
+/* Luyện nghe */
+.luyennghe-content table.khung,
+.luyennghe-content table.khung2 {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.luyennghe-content table.khung td,
+.luyennghe-content table.khung2 td {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.65rem;
+  vertical-align: top;
+}
+
+.luyennghe-content [style*="color:#000080"],
+.luyennghe-content [style*="color: rgb(0, 0, 128)"],
+.luyennghe-content [style*="color:#0000cd"],
+.luyennghe-content [style*="color: rgb(0, 0, 205)"] {
+  color: var(--accent-soft) !important;
+}
+
+.luyennghe-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.375rem;
+}
+
+/* Bài tập */
+.baitap-content table.khung,
+.baitap-content table.khung2 {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.baitap-content table.khung td,
+.baitap-content table.khung2 td {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.65rem;
+  vertical-align: top;
+}
+
+.baitap-content [style*="background-color: rgb(205, 227, 235)"],
+.baitap-content [style*="background-color: rgb(205,227,235)"] {
+  background-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+.baitap-content [style*="background-color: rgb(248, 251, 252)"] {
+  background-color: rgba(255, 255, 255, 0.03) !important;
+}
+
+.baitap-content [style*="color:#ff0000"],
+.baitap-content [style*="color: rgb(255, 0, 0)"],
+.baitap-content [style*="color:#000080"],
+.baitap-content [style*="color: rgb(0, 0, 128)"],
+.baitap-content [style*="color:#0000cd"],
+.baitap-content [style*="color: rgb(0, 0, 205)"] {
+  color: var(--accent-soft) !important;
+}
+
+.baitap-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.375rem;
+}
+
+/* Luyện chữ Hán */
+.luyenchuhan-content table.tbngoai,
+.luyenchuhan-content table.khung,
+.luyenchuhan-content table.khung2 {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.luyenchuhan-content table.tbngoai td,
+.luyenchuhan-content table.khung td,
+.luyenchuhan-content table.khung2 td {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.65rem;
+  vertical-align: top;
+}
+
+.luyenchuhan-content .viethantu,
+.luyenchuhan-content .reload,
+.luyenchuhan-content .anhantu {
+  display: none;
+}
+
+.luyenchuhan-content .dong {
+  margin-bottom: 0.75rem;
+}
+
+.luyenchuhan-content u,
+.luyenchuhan-content [style*="text-decoration: underline"] {
+  text-decoration-color: var(--accent-soft);
+}
+
+.luyenchuhan-content [style*="color:#0000cd"],
+.luyenchuhan-content [style*="color: rgb(0, 0, 205)"] {
+  color: var(--accent-soft) !important;
+}
+
+.luyenchuhan-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.375rem;
+}
+
+/* Đọc hiểu */
+.dochieu-content .vnjp-minnasc-toolbar {
+  display: none;
+}
+
+.dochieu-content table[class*="dochieu"],
+.dochieu-content table.khung,
+.dochieu-content table.table-bordered {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.dochieu-content table[class*="dochieu"] td,
+.dochieu-content table.khung td,
+.dochieu-content table.table-bordered td {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.5rem 0.65rem;
+  vertical-align: top;
+}
+
+.dochieu-content [style*="border:1px solid black"],
+.dochieu-content [style*="border: 1px solid black"] {
+  border-color: rgba(255, 255, 255, 0.12) !important;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 0.5rem;
+}
+
+.dochieu-content [style*="color:#0000cd"],
+.dochieu-content [style*="color: rgb(0, 0, 205)"],
+.dochieu-content [style*="color:#000080"],
+.dochieu-content [style*="color: rgb(0, 0, 128)"],
+.dochieu-content [style*="color:#ff0000"],
+.dochieu-content [style*="color: rgb(255, 0, 0)"],
+.dochieu-content [style*="color:red"] {
+  color: var(--accent-soft) !important;
+}
+
+.dochieu-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+  border-radius: 0.375rem;
+}

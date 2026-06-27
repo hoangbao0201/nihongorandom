@@ -1,0 +1,340 @@
+{
+  "lesson": 23,
+  "meta": {
+    "practiceUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=23",
+    "flashcardUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=23&mf=fc"
+  },
+  "sections": [
+    {
+      "key": "main",
+      "label": null,
+      "labelHtml": null,
+      "items": [
+        {
+          "kind": "entry",
+          "index": 1,
+          "word": "ききます [せんせいに～]",
+          "wordHtml": "ききます<br />[せんせいに～]",
+          "kanji": "聞きます [先生に～]",
+          "kanjiHtml": "聞きます<br />[先生に～]",
+          "sinoVietnamese": "VĂN TIÊN SINH",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011101110.mp3",
+          "meaning": "hỏi [giáo viên]",
+          "meaningHtml": "hỏi [giáo viên]"
+        },
+        {
+          "kind": "entry",
+          "index": 2,
+          "word": "まわします",
+          "wordHtml": "まわします",
+          "kanji": "回します",
+          "kanjiHtml": "回します",
+          "sinoVietnamese": "HỒI",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011101111.mp3",
+          "meaning": "vặn (núm)",
+          "meaningHtml": "vặn (núm)"
+        },
+        {
+          "kind": "entry",
+          "index": 3,
+          "word": "ひきます",
+          "wordHtml": "ひきます",
+          "kanji": "引きます",
+          "kanjiHtml": "引きます",
+          "sinoVietnamese": "DẪN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011110000.mp3",
+          "meaning": "kéo",
+          "meaningHtml": "kéo"
+        },
+        {
+          "kind": "entry",
+          "index": 4,
+          "word": "かえます",
+          "wordHtml": "かえます",
+          "kanji": "変えます",
+          "kanjiHtml": "変えます",
+          "sinoVietnamese": "BIẾN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011110001.mp3",
+          "meaning": "đổi",
+          "meaningHtml": "đổi"
+        },
+        {
+          "kind": "entry",
+          "index": 5,
+          "word": "さわります [ドアに～]",
+          "wordHtml": "さわります<br />[ドアに～]",
+          "kanji": "触ります",
+          "kanjiHtml": "触ります",
+          "sinoVietnamese": "XÚC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011110010.mp3",
+          "meaning": "sờ, chạm vào [cửa]",
+          "meaningHtml": "sờ, chạm vào [cửa]"
+        },
+        {
+          "kind": "entry",
+          "index": 6,
+          "word": "でます [おつりが～]",
+          "wordHtml": "でます<br />[おつりが～]",
+          "kanji": "出ます [お釣りが～]",
+          "kanjiHtml": "出ます<br />[お釣りが～]",
+          "sinoVietnamese": "XUẤT ĐIẾU",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011110011.mp3",
+          "meaning": "[tiền thừa] ra, chạy ra",
+          "meaningHtml": "[tiền thừa] ra, chạy ra"
+        },
+        {
+          "kind": "entry",
+          "index": 7,
+          "word": "あるきます",
+          "wordHtml": "あるきます",
+          "kanji": "歩きます",
+          "kanjiHtml": "歩きます",
+          "sinoVietnamese": "BỘ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011110100.mp3",
+          "meaning": "đi bộ",
+          "meaningHtml": "đi bộ"
+        },
+        {
+          "kind": "entry",
+          "index": 8,
+          "word": "わたります [はしを～]",
+          "wordHtml": "わたります<br />[はしを～]",
+          "kanji": "渡ります [橋を～]",
+          "kanjiHtml": "渡ります<br />[橋を～]",
+          "sinoVietnamese": "ĐỘ KIỀU",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011110101.mp3",
+          "meaning": "qua, đi qua [cầu]",
+          "meaningHtml": "qua, đi qua [cầu]"
+        },
+        {
+          "kind": "entry",
+          "index": 9,
+          "word": "まがります [みぎへ～]",
+          "wordHtml": "まがります<br />[みぎへ～]",
+          "kanji": "曲がります [右へ～]",
+          "kanjiHtml": "曲がります<br />[右へ～]",
+          "sinoVietnamese": "KHÚC HỮU",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011110110.mp3",
+          "meaning": "rẽ, quẹo [phải]",
+          "meaningHtml": "rẽ, quẹo [phải]"
+        },
+        {
+          "kind": "entry",
+          "index": 10,
+          "word": "さびしい",
+          "wordHtml": "さびしい",
+          "kanji": "寂しい",
+          "kanjiHtml": "寂しい",
+          "sinoVietnamese": "TỊCH",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011110111.mp3",
+          "meaning": "buồn, cô đơn",
+          "meaningHtml": "buồn, cô đơn"
+        },
+        {
+          "kind": "entry",
+          "index": 11,
+          "word": "[お]ゆ",
+          "wordHtml": "[お]ゆ",
+          "kanji": "[お]湯",
+          "kanjiHtml": "[お]湯",
+          "sinoVietnamese": "THANG",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011111000.mp3",
+          "meaning": "nước nóng",
+          "meaningHtml": "nước nóng"
+        },
+        {
+          "kind": "entry",
+          "index": 12,
+          "word": "おと",
+          "wordHtml": "おと",
+          "kanji": "音",
+          "kanjiHtml": "音",
+          "sinoVietnamese": "ÂM",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011111001.mp3",
+          "meaning": "âm thanh",
+          "meaningHtml": "âm thanh"
+        },
+        {
+          "kind": "entry",
+          "index": 13,
+          "word": "サイズ",
+          "wordHtml": "サイズ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011111010.mp3",
+          "meaning": "cỡ, kích thước",
+          "meaningHtml": "cỡ, kích thước"
+        },
+        {
+          "kind": "entry",
+          "index": 14,
+          "word": "こしょう",
+          "wordHtml": "こしょう",
+          "kanji": "故障",
+          "kanjiHtml": "故障",
+          "sinoVietnamese": "CỐ CHƯỚNG",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011111011.mp3",
+          "meaning": "hỏng (~します：bị hỏng)",
+          "meaningHtml": "hỏng (~します：bị hỏng)"
+        },
+        {
+          "kind": "entry",
+          "index": 15,
+          "word": "みち",
+          "wordHtml": "みち",
+          "kanji": "道",
+          "kanjiHtml": "道",
+          "sinoVietnamese": "ĐẠO",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011111100.mp3",
+          "meaning": "đường",
+          "meaningHtml": "đường"
+        },
+        {
+          "kind": "entry",
+          "index": 16,
+          "word": "こうさてん",
+          "wordHtml": "こうさてん",
+          "kanji": "交差点",
+          "kanjiHtml": "交差点",
+          "sinoVietnamese": "GIAO SAI ĐIỂM",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011111101.mp3",
+          "meaning": "ngã tư",
+          "meaningHtml": "ngã tư"
+        },
+        {
+          "kind": "entry",
+          "index": 17,
+          "word": "しんごう",
+          "wordHtml": "しんごう",
+          "kanji": "信号",
+          "kanjiHtml": "信号",
+          "sinoVietnamese": "TÍN HIỆU",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011111110.mp3",
+          "meaning": "đèn tín hiệu",
+          "meaningHtml": "đèn tín hiệu"
+        },
+        {
+          "kind": "entry",
+          "index": 18,
+          "word": "かど",
+          "wordHtml": "かど",
+          "kanji": "角",
+          "kanjiHtml": "角",
+          "sinoVietnamese": "GIÁC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101011111111.mp3",
+          "meaning": "góc",
+          "meaningHtml": "góc"
+        },
+        {
+          "kind": "entry",
+          "index": 19,
+          "word": "はし",
+          "wordHtml": "はし",
+          "kanji": "橋",
+          "kanjiHtml": "橋",
+          "sinoVietnamese": "KIỀU",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100000000.mp3",
+          "meaning": "cầu",
+          "meaningHtml": "cầu"
+        },
+        {
+          "kind": "entry",
+          "index": 20,
+          "word": "ちゅうしゃじょう",
+          "wordHtml": "ちゅうしゃじょう",
+          "kanji": "駐車場",
+          "kanjiHtml": "駐車場",
+          "sinoVietnamese": "TRÚ XA TRƯỜNG",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100000001.mp3",
+          "meaning": "bãi đỗ xe",
+          "meaningHtml": "bãi đỗ xe"
+        },
+        {
+          "kind": "entry",
+          "index": 21,
+          "word": "たてもの",
+          "wordHtml": "たてもの",
+          "kanji": "建物",
+          "kanjiHtml": "建物",
+          "sinoVietnamese": "KIẾN VẬT",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100000010.mp3",
+          "meaning": "tòa nhà",
+          "meaningHtml": "tòa nhà"
+        },
+        {
+          "kind": "entry",
+          "index": 22,
+          "word": "なんかいも",
+          "wordHtml": "なんかいも",
+          "kanji": "何回も",
+          "kanjiHtml": "何回も",
+          "sinoVietnamese": "HÀ HỒI",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100000011.mp3",
+          "meaning": "nhiều lần",
+          "meaningHtml": "nhiều lần"
+        },
+        {
+          "kind": "entry",
+          "index": 23,
+          "word": "―め",
+          "wordHtml": "―め",
+          "kanji": "―目",
+          "kanjiHtml": "―目",
+          "sinoVietnamese": "MỤC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100000100.mp3",
+          "meaning": "thứ - , số - (biểu thị thứ tự)",
+          "meaningHtml": "thứ - , số - (biểu thị thứ tự)"
+        },
+        {
+          "kind": "divider"
+        },
+        {
+          "kind": "phrase",
+          "index": 24,
+          "text": "しょうとくたいし",
+          "textHtml": "しょうとくたいし",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100000101.mp3",
+          "meaning": "Thái tử Shotoku (574 – 622)",
+          "meaningHtml": "Thái tử Shotoku (574 – 622)"
+        },
+        {
+          "kind": "phrase",
+          "index": 25,
+          "text": "ほうりゅうじ",
+          "textHtml": "ほうりゅうじ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100000110.mp3",
+          "meaning": "Chùa Horyu-ji (một ngôi chùa ở Nara do hoàng tử Shotoku xây vào thế kỷ thứ 7)",
+          "meaningHtml": "Chùa Horyu-ji (một ngôi chùa ở Nara do <br />hoàng tử Shotoku xây vào thế kỷ thứ 7)"
+        },
+        {
+          "kind": "phrase",
+          "index": 26,
+          "text": "げんきちゃ",
+          "textHtml": "げんきちゃ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100000111.mp3",
+          "meaning": "tên một loại trà (giả tưởng)",
+          "meaningHtml": "tên một loại trà (giả tưởng)"
+        },
+        {
+          "kind": "phrase",
+          "index": 27,
+          "text": "ほんだえき",
+          "textHtml": "ほんだえき",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100001000.mp3",
+          "meaning": "tên một nhà ga (giả tưởng)",
+          "meaningHtml": "tên một nhà ga (giả tưởng)"
+        },
+        {
+          "kind": "phrase",
+          "index": 28,
+          "text": "としょかんまえ",
+          "textHtml": "としょかんまえ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai23/00010101100001001.mp3",
+          "meaning": "tên một bến xe buýt (giả tưởng",
+          "meaningHtml": "tên một bến xe buýt (giả tưởng"
+        }
+      ]
+    }
+  ]
+}

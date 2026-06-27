@@ -1,0 +1,101 @@
+{
+  "lesson": 20,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca857e12144a12a6dec0b55",
+      "index": 1,
+      "character": "貸",
+      "sinoVietnameseWord": "THẢI",
+      "mean": "Cho mượn, cho vay",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l23/kanji/img/z5098334896214_54773175aa4674697d9d54ba322d62d1.jpg",
+      "reminiscentDescription": "<p>Chữ 貸 THẢI (cho mượn, cho vay) c&oacute; phần ph&iacute;a tr&ecirc;n tr&ocirc;ng giống cảnh người bạn đang gọi m&igrave;nh lại để cho m&igrave;nh vay tiền. Phần dưới l&agrave; bộ 貝 BỐI (con s&ograve;) h&agrave;m &yacute; li&ecirc;n quan đến tiền bạc.</p>",
+      "onReading": "タイ",
+      "kunReading": "か・す",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">貸す</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">かす</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">cho mượn, cho vay</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">貸家</td>\n<td style=\"width: 33.3333%; height: 22px;\">かしや</td>\n<td style=\"width: 33.3333%; height: 22px;\">nh&agrave; cho thu&ecirc;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">賃貸アパート</td>\n<td style=\"width: 33.3333%; height: 22px;\">ちんたいアパート</td>\n<td style=\"width: 33.3333%; height: 22px;\">căn hộ cho thu&ecirc;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca85972a4ed344ff3ffd424",
+      "index": 2,
+      "character": "借",
+      "sinoVietnameseWord": "TÁ",
+      "mean": "Mượn, vay",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l23/kanji/img/2_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 借 T&Aacute; (mượn, vay) tr&ocirc;ng giống như cảnh một người mượn đồ trong v&ograve;ng 21 ng&agrave;y.&nbsp;</p>",
+      "onReading": "シャク",
+      "kunReading": "か・りる",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 66px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">借りる</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">かりる</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">mượn, vay</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">猫の手も借りたい</td>\n<td style=\"width: 33.3333%; height: 22px;\">ねこのてもかりたい</td>\n<td style=\"width: 33.3333%; height: 22px;\">rất bận (th&agrave;nh ngữ)</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">借金</td>\n<td style=\"width: 33.3333%; height: 22px;\">しゃっきん</td>\n<td style=\"width: 33.3333%; height: 22px;\">khoản vay, việc vay tiền</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca85ad7a4ed344ff3ffd434",
+      "index": 3,
+      "character": "送",
+      "sinoVietnameseWord": "TỐNG",
+      "mean": "Gửi đi, đưa đi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l23/kanji/img/「送」.png",
+      "reminiscentDescription": "<p>Chữ 送 TỐNG (gửi, đưa) tr&ocirc;ng như được gh&eacute;p bởi h&igrave;nh ảnh m&oacute;n qu&agrave; v&agrave; bộ 送 SƯỚC (việc đi lại), giống như việc người ta gửi qu&agrave; cả qu&atilde;ng đường xa rồi mới đến đ&iacute;ch.</p>",
+      "onReading": "ソウ",
+      "kunReading": "おく・る",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">送る</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">おくる</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">gửi đi, đưa đi</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">見送る</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">みおくる</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">tiễn</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">送別会</td>\n<td style=\"width: 33.3333%;\">そうべつかい</td>\n<td style=\"width: 33.3333%;\">tiệc chia tay</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">放送</td>\n<td style=\"width: 33.3333%;\">ほうそう</td>\n<td style=\"width: 33.3333%;\">việc ph&aacute;t s&oacute;ng</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca85c01a4ed344ff3ffd43b",
+      "index": 3,
+      "character": "強",
+      "sinoVietnameseWord": "CƯỜNG",
+      "mean": "Mạnh",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l23/kanji/img/4_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 強 CƯỜNG tr&ocirc;ng như gh&eacute;p bởi bộ 弓 CUNG v&agrave; h&igrave;nh người đội mũ, mặc gi&aacute;p, cưỡi ngựa, giống như việc ai đ&oacute; phải rất cường tr&aacute;ng khoẻ mạnh th&igrave; mới vừa bắn cung, vừa mặc gi&aacute;p, vừa cưỡi ngựa được.</p>",
+      "onReading": "キョウ",
+      "kunReading": "つよ・い",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 76px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">強い</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">つよい</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">mạnh</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">強み</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">つよみ</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">điểm mạnh</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">勉強</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">べんきょう</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">việc học</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">強調</td>\n<td style=\"width: 33.3333%; height: 22px;\">きょうちょう</td>\n<td style=\"width: 33.3333%; height: 22px;\">nhấn mạnh</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9537151364352b62b7b3f",
+      "index": 5,
+      "character": "勉",
+      "sinoVietnameseWord": "MIỄN",
+      "mean": "Gắng sức",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l23/kanji/img/5_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 勉 MIỄN (gắng sức) gh&eacute;p bởi chữ 免 MIỄN v&agrave; chữ 力 LỰC, tr&ocirc;ng giống như 2 người đang gắng sức, cần mẫn l&agrave;m việc.</p>",
+      "onReading": "ベン",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">勉強</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">べんきょう</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">việc học</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">勤勉</td>\n<td style=\"width: 33.3333%; height: 22px;\">きんべん</td>\n<td style=\"width: 33.3333%; height: 22px;\">chăm chỉ, cần c&ugrave;&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65af6d4ee6a4de669951274a",
+      "index": 6,
+      "character": "旅",
+      "sinoVietnameseWord": "LỮ",
+      "mean": "Du lịch",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l23/kanji/img/6_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 旅 LỮ tr&ocirc;ng giống như đo&agrave;n du lịch, với l&aacute; cờ đằng trước, c&ugrave;ng một nh&oacute;m người đi theo sau.</p>",
+      "onReading": "リョ",
+      "kunReading": "たび",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">旅</td>\n<td style=\"width: 33.3333%; height: 22px;\">たび</td>\n<td style=\"width: 33.3333%; height: 22px;\">chuyến đi</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">旅行</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">りょこう</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">du lịch</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">旅行者</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">りょこうしゃ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">kh&aacute;ch du lịch</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">旅館</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">りょかん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">kh&aacute;ch sạn kiểu Nhật</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65af6e4fe6a4de669951274c",
+      "index": 7,
+      "character": "室",
+      "sinoVietnameseWord": "THẤT",
+      "mean": "Phòng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l23/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 室 THẤT (ph&ograve;ng) tr&ocirc;ng giống như một căn ph&ograve;ng với cửa ra v&agrave;o, ghế salon v&agrave; b&agrave;n kh&aacute;ch.</p>",
+      "onReading": "シツ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">教室</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">きょうしつ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">lớp học</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">寝室</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">しんしつ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">ph&ograve;ng ngủ</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">会議室</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">かいぎしつ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">ph&ograve;ng họp</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65af6f27e6a4de669951274f",
+      "index": 8,
+      "character": "登",
+      "sinoVietnameseWord": "ĐĂNG",
+      "mean": "Trèo lên, leo lên",
+      "reminiscentDescription": "<p>Chữ 登 ĐĂNG (leo, tr&egrave;o) tr&ocirc;ng giống như h&igrave;nh ảnh ngọn n&uacute;i ở ph&iacute;a tr&ecirc;n, c&ograve;n ở dưới c&oacute; một người đội mũ, đeo balo, cầm hai c&aacute;i gậy để leo n&uacute;i.&nbsp;</p>",
+      "onReading": "トウ、ト",
+      "kunReading": "のぼ・る",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">登る</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">のぼる</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">leo, tr&egrave;o</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">登山</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">とざん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">việc leo n&uacute;i</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">登録</td>\n<td style=\"width: 33.3333%;\">とうろく</td>\n<td style=\"width: 33.3333%;\">việc đăng k&yacute;</td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l23/kanji/img/8_kotsu.png"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "lesson": 3,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca6cfdb2144a12a6dec04e1",
+      "index": 1,
+      "character": "百",
+      "sinoVietnameseWord": "BÁCH",
+      "mean": "Trăm",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l3/kanji/img/1_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 百 B&Aacute;CH nh&igrave;n giống số 100 khi nghi&ecirc;ng đầu sang phải.</p>",
+      "onReading": "ヒャク",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 28.8229%; height: 21px;\"><span style=\"color: #e74c3c;\">百</span></td>\n<td style=\"width: 37.8437%; height: 21px;\"><span style=\"color: #e74c3c;\">ひゃく</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">một trăm</span></td>\n</tr>\n<tr>\n<td style=\"width: 28.8229%;\"><span style=\"color: #e74c3c;\">二百</span></td>\n<td style=\"width: 37.8437%;\"><span style=\"color: #e74c3c;\">にひゃく</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">hai trăm</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 28.8229%; height: 21px;\"><span style=\"color: #e74c3c;\">三百</span></td>\n<td style=\"width: 37.8437%; height: 21px;\"><span style=\"color: #e74c3c;\">さんびゃく</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">ba trăm</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 28.8229%; height: 21px;\"><span style=\"color: #e74c3c;\">六百</span></td>\n<td style=\"width: 37.8437%; height: 21px;\"><span style=\"color: #e74c3c;\">ろっぴゃく</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">s&aacute;u trăm</span></td>\n</tr>\n<tr>\n<td style=\"width: 28.8229%;\"><span style=\"color: #e74c3c;\">八百</span></td>\n<td style=\"width: 37.8437%;\"><span style=\"color: #e74c3c;\">はっぴゃく</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">t&aacute;m trăm</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca706302144a12a6dec067e",
+      "index": 2,
+      "character": "千",
+      "sinoVietnameseWord": "THIÊN",
+      "mean": "Nghìn",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l3/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 千 THI&Ecirc;N nh&igrave;n như chữ T, vốn l&agrave; chữ c&aacute;i đứng đầu trong &acirc;m H&aacute;n Việt của n&oacute;.</p>",
+      "onReading": "セン",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">千</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">せん</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">một ngh&igrave;n</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">二千</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">にせん</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">hai ng&agrave;n</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">八千</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">はっせん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">t&aacute;m ngh&igrave;n</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">三千</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">さんぜん</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">ba ngh&igrave;n</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca700202144a12a6dec062e",
+      "index": 3,
+      "character": "万",
+      "sinoVietnameseWord": "VẠN",
+      "mean": "Mười nghìn",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l3/kanji/img/3_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 万 VẠN giống chữ 方 PHƯƠNG nhưng kh&ocirc;ng c&oacute; n&eacute;t chấm ở tr&ecirc;n.</p>",
+      "onReading": "マン",
+      "examples": "<table style=\"border-collapse: collapse; width: 101.646%; height: 30px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 49px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">一万</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">いちまん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">mười ngh&igrave;n</span></td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">十万</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">じゅうまん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">một trăm ngh&igrave;n</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">百万</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ひゃくまん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">một triệu</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca702f52144a12a6dec0656",
+      "index": 4,
+      "character": "円",
+      "sinoVietnameseWord": "VIÊN",
+      "mean": "Hình tròn, đồng Yên",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l3/kanji/img/4_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 円 VI&Ecirc;N tr&ocirc;ng giống như biển hiệu của ng&acirc;n h&agrave;ng.</p>",
+      "onReading": "エン",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 52px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">百円</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ひゃくえん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">một trăm Y&ecirc;n</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">二千円</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">にせんえん</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">hai ngh&igrave;n Y&ecirc;n</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">五万円</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">ごまんえん</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">năm mươi ngh&igrave;n Y&ecirc;n</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca704a62144a12a6dec0669",
+      "index": 5,
+      "character": "毎",
+      "sinoVietnameseWord": "MỖI",
+      "mean": "Mỗi, hàng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l3/kanji/img/5_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 毎 MỖI giống như h&igrave;nh ảnh cuốn lịch thể hiện mỗi ng&agrave;y, mỗi tuần, mỗi th&aacute;ng, mỗi năm.</p>",
+      "onReading": "マイ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 64px;\" border=\"0\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 27.2827%; height: 10px;\"><span style=\"color: #e74c3c;\">毎日</span></td>\n<td style=\"width: 39.3839%; height: 10px;\"><span style=\"color: #e74c3c;\">まいにち</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">h&agrave;ng ng&agrave;y</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 27.2827%; height: 10px;\"><span style=\"color: #e74c3c;\">毎週</span></td>\n<td style=\"width: 39.3839%; height: 10px;\"><span style=\"color: #e74c3c;\">まいしゅう</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">h&agrave;ng tuần</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 27.2827%; height: 22px;\"><span style=\"color: #e74c3c;\">毎月</span></td>\n<td style=\"width: 39.3839%; height: 22px;\"><span style=\"color: #e74c3c;\">まいつき</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">h&agrave;ng th&aacute;ng&nbsp;</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 27.2827%; height: 22px;\"><span style=\"color: #e74c3c;\">毎年</span></td>\n<td style=\"width: 39.3839%; height: 22px;\"><span style=\"color: #e74c3c;\">まいとし</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">h&agrave;ng năm</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a787bde6a4de66995124b4",
+      "index": 6,
+      "character": "時",
+      "sinoVietnameseWord": "THỜI",
+      "mean": "Giờ",
+      "reminiscentDescription": "<p>Chữ 時 THỜI được gh&eacute;p từ chữ 日 NHẬT v&agrave; chữ 寺 TỰ.</p>",
+      "onReading": "ジ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 88px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">一時</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">いちじ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">1 giờ</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">一時間</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">いちじかん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">1 tiếng đồng hồ</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">時間</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">じかん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">thời gian</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l3/kanji/img/6_kotsu.webp"
+    },
+    {
+      "_id": "65a7897ee6a4de66995124b7",
+      "index": 7,
+      "character": "分",
+      "sinoVietnameseWord": "PHÂN",
+      "mean": "Phút, phần",
+      "reminiscentDescription": "<p>Chữ 分 PH&Acirc;N giống h&igrave;nh ảnh thanh đao chặt kh&uacute;c gỗ ra l&agrave;m 2 phần để ph&acirc;n chia cho 2 người.</p>",
+      "onReading": "フン",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 30px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">1分</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">いっぷん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">1 ph&uacute;t</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">5分</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ごふん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">5 ph&uacute;t&nbsp;</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">10分</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">じゅっぷん</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">10 ph&uacute;t</span></td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l3/kanji/img/7_kotsu.png"
+    },
+    {
+      "_id": "65a78cb4e6a4de66995124ba",
+      "index": 8,
+      "character": "半",
+      "sinoVietnameseWord": "BÁN",
+      "mean": "Một nửa",
+      "reminiscentDescription": "<p>Chữ 半 B&Aacute;N giống h&igrave;nh ảnh chặt đ&ocirc;i những kh&uacute;c gỗ ra th&agrave;nh một nửa.</p>",
+      "onReading": "ハン",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">9時半</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">くじはん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">9 rưỡi</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">半分</td>\n<td style=\"width: 33.3333%; height: 22px;\">はんぶん</td>\n<td style=\"width: 33.3333%; height: 22px;\">một nửa</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">半年</td>\n<td style=\"width: 33.3333%; height: 22px;\">はんとし</td>\n<td style=\"width: 33.3333%; height: 22px;\">nửa năm</td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l3/kanji/img/8_kotsu.png"
+    }
+  ]
+}

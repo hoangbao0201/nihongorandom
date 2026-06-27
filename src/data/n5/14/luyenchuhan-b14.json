@@ -1,0 +1,99 @@
+{
+  "lesson": 14,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca71ae92144a12a6dec075d",
+      "index": 1,
+      "character": "世",
+      "sinoVietnameseWord": "THẾ",
+      "mean": "Thế giới, thế hệ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l16/kanji/img/1_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 世 THẾ qua nhiều thế hệ biến đổi đ&atilde; h&igrave;nh th&agrave;nh n&ecirc;n chữ せ v&agrave; chữ セ như b&acirc;y giờ.</p>",
+      "onReading": "セ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">世界</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">せかい</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">thế giới</span></td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\">三世代</td>\n<td style=\"width: 33.3333%; height: 10px;\">さんせだい</td>\n<td style=\"width: 33.3333%; height: 10px;\">ba thế hệ</td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca71d432144a12a6dec077d",
+      "index": 2,
+      "character": "界",
+      "sinoVietnameseWord": "GIỚI",
+      "mean": "Vùng, cõi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l16/kanji/img/2_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 界 GIỚI tr&ocirc;ng giống như h&igrave;nh ảnh đồng ruộng gh&eacute;p với m&aacute;i nh&agrave; c&oacute; 2 người ở b&ecirc;n dưới, như l&agrave; việc c&oacute; ruộng c&oacute; nh&agrave; l&agrave; c&oacute; cả thế giới.</p>",
+      "onReading": "カイ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 30px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">世界</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">せかい</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">thế giới</span></td>\n</tr>\n<tr style=\"height: 30px;\">\n<td style=\"width: 33.3333%; height: 10px;\">境界</td>\n<td style=\"width: 33.3333%; height: 10px;\">きょうかい</td>\n<td style=\"width: 33.3333%; height: 10px;\">ranh giới</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca71ea72144a12a6dec078d",
+      "index": 3,
+      "character": "画",
+      "sinoVietnameseWord": "HOẠ, HOẠCH",
+      "mean": "Tranh, vạch rõ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l16/kanji/img/「画」.png",
+      "reminiscentDescription": "<p>Chữ 画 HOẠ tr&ocirc;ng giống như việc ph&aacute;c hoạ đồng ruộng bằng 1 n&eacute;t b&uacute;t chạy v&ograve;ng quanh.</p>",
+      "onReading": "ガ、カク",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">絵画</td>\n<td style=\"width: 33.3333%; height: 10px;\">かいが</td>\n<td style=\"width: 33.3333%; height: 10px;\">bức hội hoạ</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">画数</td>\n<td style=\"width: 33.3333%; height: 10px;\">かくすう</td>\n<td style=\"width: 33.3333%; height: 10px;\">số n&eacute;t (của chữ H&aacute;n)</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">計画</td>\n<td style=\"width: 33.3333%; height: 10px;\">けいかく</td>\n<td style=\"width: 33.3333%; height: 10px;\">kế hoạch</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca71f812144a12a6dec07a3",
+      "index": 4,
+      "character": "映",
+      "sinoVietnameseWord": "ÁNH",
+      "mean": "Phản chiếu",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l16/kanji/img/4_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 映 &Aacute;NH nghĩa l&agrave; phản chiếu, tr&ocirc;ng giống như m&agrave;n chiếu v&agrave; m&aacute;y chiếu phim trong rạp.</p>",
+      "onReading": "エイ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">映画</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">えいが</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">phim, bộ phim&nbsp;</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">上映</td>\n<td style=\"width: 33.3333%; height: 10px;\">じょうえい</td>\n<td style=\"width: 33.3333%; height: 10px;\">việc chiếu phim</td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "5ca720c82144a12a6dec07b9",
+      "index": 5,
+      "character": "花",
+      "sinoVietnameseWord": "HOA",
+      "mean": "Hoa",
+      "reminiscentDescription": "<p>Chữ 花 HOA được gh&eacute;p bởi bộ THẢO v&agrave; chữ 化 HO&Aacute;. Ta li&ecirc;n tưởng đến b&ocirc;ng hoa, với hoa ở tr&ecirc;n v&agrave; th&acirc;n l&aacute; ở dưới.</p>",
+      "onReading": "カ",
+      "kunReading": "はな",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 20px;\">\n<td style=\"width: 33.3333%; height: 20px;\"><span style=\"color: #e74c3c;\">花火</span></td>\n<td style=\"width: 33.3333%; height: 20px;\"><span style=\"color: #e74c3c;\">はなび</span></td>\n<td style=\"width: 33.3333%; height: 20px;\"><span style=\"color: #e74c3c;\">ph&aacute;o hoa</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">お花見</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">おはなみ</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ngắm hoa anh đ&agrave;o</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">花屋</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">はなや</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">cửa h&agrave;ng hoa</span></td>\n</tr>\n<tr style=\"height: 12px;\">\n<td style=\"width: 33.3333%; height: 12px;\">花瓶</td>\n<td style=\"width: 33.3333%; height: 12px;\">かびん</td>\n<td style=\"width: 33.3333%; height: 12px;\">lọ hoa</td>\n</tr>\n</tbody>\n</table>",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l16/kanji/img/5_kotsu.png"
+    },
+    {
+      "_id": "65a9e521e6a4de6699512548",
+      "index": 6,
+      "character": "茶",
+      "sinoVietnameseWord": "TRÀ",
+      "mean": "Trà",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l16/kanji/img/6_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 茶 TR&Agrave; tr&ocirc;ng giống một bụi ch&egrave;, với ph&iacute;a tr&ecirc;n l&agrave; bộ THẢO c&ugrave;ng h&igrave;nh ảnh l&aacute; ch&egrave; sum su&ecirc;, v&agrave; ph&iacute;a dưới l&agrave; c&aacute;c n&eacute;t nh&igrave;n gần giống chữ 木 MỘC.</p>",
+      "onReading": "チャ、サ",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">お茶</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">おちゃ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">tr&agrave;&nbsp;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">抹茶</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">まっちゃ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">bột tr&agrave; xanh</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">茶色</td>\n<td style=\"width: 33.3333%;\">ちゃいろ</td>\n<td style=\"width: 33.3333%;\">m&agrave;u n&acirc;u</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">茶道</td>\n<td style=\"width: 33.3333%;\">さどう</td>\n<td style=\"width: 33.3333%;\">nghi thức tr&agrave; đạo</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a9e61ce6a4de669951254a",
+      "index": 7,
+      "character": "語",
+      "sinoVietnameseWord": "NGỮ",
+      "mean": "Tiếng nói, ngôn ngữ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l16/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 語 NGỮ gh&eacute;p bởi bộ 言 NG&Ocirc;N, chữ 五 NGŨ v&agrave; chữ 口 KHẨU. Ta c&oacute; thể nhớ l&agrave;, chữ 語 NGỮ li&ecirc;n quan đến việc n&oacute;i năng, v&agrave; đọc giống chữ Ngũ.&nbsp;&nbsp;&nbsp;</p>",
+      "onReading": "ゴ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 48px;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">日本語</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">にほんご</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">tiếng Nhật</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">言語</td>\n<td style=\"width: 33.3333%; height: 10px;\">げんご</td>\n<td style=\"width: 33.3333%; height: 10px;\">ng&ocirc;n ngữ&nbsp;</td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 28px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a9e70ae6a4de669951254c",
+      "index": 8,
+      "character": "英",
+      "sinoVietnameseWord": "ANH",
+      "mean": "Giỏi giang, nước Anh",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l16/kanji/img/8_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 英 ANH được d&ugrave;ng để n&oacute;i về nước Anh, ta li&ecirc;n tưởng đến h&igrave;nh ảnh Nữ ho&agrave;ng Anh đội vương miện v&agrave; mặc &aacute;o cho&agrave;ng.</p>",
+      "onReading": "エイ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 31px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">英語</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">えいご</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">tiếng Anh</span></td>\n</tr>\n<tr style=\"height: 31px;\">\n<td style=\"width: 33.3333%; height: 10px;\">日英関係</td>\n<td style=\"width: 33.3333%; height: 10px;\">にちえいかんけい</td>\n<td style=\"width: 33.3333%; height: 10px;\">quan hệ Nhật - Anh</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">和英辞典</td>\n<td style=\"width: 33.3333%; height: 10px;\">わえいじてん</td>\n<td style=\"width: 33.3333%; height: 10px;\">từ điển Nhật - Anh</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

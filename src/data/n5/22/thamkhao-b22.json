@@ -1,0 +1,418 @@
+{
+  "lesson": 22,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "衣服（いふく） Quần áo",
+      "titleHtml": "<ruby>衣服<rp>（</rp><rt>いふく</rt><rp>）</rp></ruby> Quần áo",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "スーツ",
+              "html": "スーツ"
+            },
+            {
+              "text": "com-lê",
+              "html": "com-lê"
+            }
+          ],
+          "term": "スーツ",
+          "termHtml": "スーツ",
+          "meaning": "com-lê",
+          "meaningHtml": "com-lê"
+        },
+        {
+          "cells": [
+            {
+              "text": "ワンピース",
+              "html": "ワンピース"
+            },
+            {
+              "text": "váy liền thân",
+              "html": "váy liền thân"
+            }
+          ],
+          "term": "ワンピース",
+          "termHtml": "ワンピース",
+          "meaning": "váy liền thân",
+          "meaningHtml": "váy liền thân"
+        },
+        {
+          "cells": [
+            {
+              "text": "上着（うわぎ）",
+              "html": "<ruby>上着<rp>（</rp><rt>うわぎ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "áo khoát",
+              "html": "áo khoát"
+            }
+          ],
+          "term": "上着（うわぎ）",
+          "termHtml": "<ruby>上着<rp>（</rp><rt>うわぎ</rt><rp>）</rp></ruby>",
+          "meaning": "áo khoát",
+          "meaningHtml": "áo khoát"
+        },
+        {
+          "cells": [
+            {
+              "text": "ズボン/パンツ",
+              "html": "ズボン/パンツ"
+            },
+            {
+              "text": "quần âu",
+              "html": "quần âu"
+            }
+          ],
+          "term": "ズボン/パンツ",
+          "termHtml": "ズボン/パンツ",
+          "meaning": "quần âu",
+          "meaningHtml": "quần âu"
+        },
+        {
+          "cells": [
+            {
+              "text": "ジーンズ",
+              "html": "ジーンズ"
+            },
+            {
+              "text": "quần bò, quần jeans",
+              "html": "quần bò, quần jeans"
+            }
+          ],
+          "term": "ジーンズ",
+          "termHtml": "ジーンズ",
+          "meaning": "quần bò, quần jeans",
+          "meaningHtml": "quần bò, quần jeans"
+        },
+        {
+          "cells": [
+            {
+              "text": "スカート",
+              "html": "スカート"
+            },
+            {
+              "text": "váy ngắn",
+              "html": "váy ngắn"
+            }
+          ],
+          "term": "スカート",
+          "termHtml": "スカート",
+          "meaning": "váy ngắn",
+          "meaningHtml": "váy ngắn"
+        },
+        {
+          "cells": [
+            {
+              "text": "ブラウス",
+              "html": "ブラウス"
+            },
+            {
+              "text": "áo bờ-lu-zông",
+              "html": "áo bờ-lu-zông"
+            }
+          ],
+          "term": "ブラウス",
+          "termHtml": "ブラウス",
+          "meaning": "áo bờ-lu-zông",
+          "meaningHtml": "áo bờ-lu-zông"
+        },
+        {
+          "cells": [
+            {
+              "text": "ワイシャツ",
+              "html": "ワイシャツ"
+            },
+            {
+              "text": "áo sơ mi (trắng)",
+              "html": "áo sơ mi (trắng)"
+            }
+          ],
+          "term": "ワイシャツ",
+          "termHtml": "ワイシャツ",
+          "meaning": "áo sơ mi (trắng)",
+          "meaningHtml": "áo sơ mi (trắng)"
+        },
+        {
+          "cells": [
+            {
+              "text": "セーター",
+              "html": "セーター"
+            },
+            {
+              "text": "áo len",
+              "html": "áo len"
+            }
+          ],
+          "term": "セーター",
+          "termHtml": "セーター",
+          "meaning": "áo len",
+          "meaningHtml": "áo len"
+        },
+        {
+          "cells": [
+            {
+              "text": "マフラー",
+              "html": "マフラー"
+            },
+            {
+              "text": "khăn",
+              "html": "khăn"
+            }
+          ],
+          "term": "マフラー",
+          "termHtml": "マフラー",
+          "meaning": "khăn",
+          "meaningHtml": "khăn"
+        },
+        {
+          "cells": [
+            {
+              "text": "手袋（てぶくろ）",
+              "html": "<ruby>手袋<rp>（</rp><rt>てぶくろ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "găng tay",
+              "html": "găng tay"
+            }
+          ],
+          "term": "手袋（てぶくろ）",
+          "termHtml": "<ruby>手袋<rp>（</rp><rt>てぶくろ</rt><rp>）</rp></ruby>",
+          "meaning": "găng tay",
+          "meaningHtml": "găng tay"
+        },
+        {
+          "cells": [
+            {
+              "text": "下着（したぎ）",
+              "html": "<ruby>下着<rp>（</rp><rt>したぎ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "quần áo lót",
+              "html": "quần áo lót"
+            }
+          ],
+          "term": "下着（したぎ）",
+          "termHtml": "<ruby>下着<rp>（</rp><rt>したぎ</rt><rp>）</rp></ruby>",
+          "meaning": "quần áo lót",
+          "meaningHtml": "quần áo lót"
+        },
+        {
+          "cells": [
+            {
+              "text": "靴下（くつした）",
+              "html": "<ruby>靴下<rp>（</rp><rt>くつした</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tất",
+              "html": "tất"
+            }
+          ],
+          "term": "靴下（くつした）",
+          "termHtml": "<ruby>靴下<rp>（</rp><rt>くつした</rt><rp>）</rp></ruby>",
+          "meaning": "tất",
+          "meaningHtml": "tất"
+        },
+        {
+          "cells": [
+            {
+              "text": "パンスト",
+              "html": "パンスト"
+            },
+            {
+              "text": "quần tất",
+              "html": "quần tất"
+            }
+          ],
+          "term": "パンスト",
+          "termHtml": "パンスト",
+          "meaning": "quần tất",
+          "meaningHtml": "quần tất"
+        },
+        {
+          "cells": [
+            {
+              "text": "オーバーコート",
+              "html": "オーバーコート"
+            },
+            {
+              "text": "áo choàng",
+              "html": "áo choàng"
+            }
+          ],
+          "term": "オーバーコート",
+          "termHtml": "オーバーコート",
+          "meaning": "áo choàng",
+          "meaningHtml": "áo choàng"
+        },
+        {
+          "cells": [
+            {
+              "text": "レインコート",
+              "html": "レインコート"
+            },
+            {
+              "text": "áo mưa",
+              "html": "áo mưa"
+            }
+          ],
+          "term": "レインコート",
+          "termHtml": "レインコート",
+          "meaning": "áo mưa",
+          "meaningHtml": "áo mưa"
+        },
+        {
+          "cells": [
+            {
+              "text": "ネクタイ",
+              "html": "ネクタイ"
+            },
+            {
+              "text": "cà vạt",
+              "html": "cà vạt"
+            }
+          ],
+          "term": "ネクタイ",
+          "termHtml": "ネクタイ",
+          "meaning": "cà vạt",
+          "meaningHtml": "cà vạt"
+        },
+        {
+          "cells": [
+            {
+              "text": "ベルト",
+              "html": "ベルト"
+            },
+            {
+              "text": "thắt lưng",
+              "html": "thắt lưng"
+            }
+          ],
+          "term": "ベルト",
+          "termHtml": "ベルト",
+          "meaning": "thắt lưng",
+          "meaningHtml": "thắt lưng"
+        },
+        {
+          "cells": [
+            {
+              "text": "ハイヒール",
+              "html": "ハイヒール"
+            },
+            {
+              "text": "giầy cao gót",
+              "html": "giầy cao gót"
+            }
+          ],
+          "term": "ハイヒール",
+          "termHtml": "ハイヒール",
+          "meaning": "giầy cao gót",
+          "meaningHtml": "giầy cao gót"
+        },
+        {
+          "cells": [
+            {
+              "text": "ブーツ",
+              "html": "ブーツ"
+            },
+            {
+              "text": "ủng, giầy cao cổ",
+              "html": "ủng, giầy cao cổ"
+            }
+          ],
+          "term": "ブーツ",
+          "termHtml": "ブーツ",
+          "meaning": "ủng, giầy cao cổ",
+          "meaningHtml": "ủng, giầy cao cổ"
+        },
+        {
+          "cells": [
+            {
+              "text": "運動（うんどう）靴（ぐつ）",
+              "html": "<ruby>運動<rp>（</rp><rt>うんどう</rt><rp>）</rp></ruby><ruby>靴<rp>（</rp><rt>ぐつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "giầy thể thao",
+              "html": "giầy thể thao"
+            }
+          ],
+          "term": "運動（うんどう）靴（ぐつ）",
+          "termHtml": "<ruby>運動<rp>（</rp><rt>うんどう</rt><rp>）</rp></ruby><ruby>靴<rp>（</rp><rt>ぐつ</rt><rp>）</rp></ruby>",
+          "meaning": "giầy thể thao",
+          "meaningHtml": "giầy thể thao"
+        },
+        {
+          "cells": [
+            {
+              "text": "着物（きもの）",
+              "html": "<ruby>着物<rp>（</rp><rt>きもの</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kimono",
+              "html": "kimono"
+            }
+          ],
+          "term": "着物（きもの）",
+          "termHtml": "<ruby>着物<rp>（</rp><rt>きもの</rt><rp>）</rp></ruby>",
+          "meaning": "kimono",
+          "meaningHtml": "kimono"
+        },
+        {
+          "cells": [
+            {
+              "text": "帯（おび）",
+              "html": "<ruby>帯<rp>（</rp><rt>おび</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đai",
+              "html": "đai"
+            }
+          ],
+          "term": "帯（おび）",
+          "termHtml": "<ruby>帯<rp>（</rp><rt>おび</rt><rp>）</rp></ruby>",
+          "meaning": "đai",
+          "meaningHtml": "đai"
+        },
+        {
+          "cells": [
+            {
+              "text": "ぞうり",
+              "html": "ぞうり"
+            },
+            {
+              "text": "guốc(đi kèm với kimono)",
+              "html": "guốc(đi kèm với kimono)"
+            }
+          ],
+          "term": "ぞうり",
+          "termHtml": "ぞうり",
+          "meaning": "guốc(đi kèm với kimono)",
+          "meaningHtml": "guốc(đi kèm với kimono)"
+        },
+        {
+          "cells": [
+            {
+              "text": "たび",
+              "html": "たび"
+            },
+            {
+              "text": "tất (đi kèm với kimono)",
+              "html": "tất (đi kèm với kimono)"
+            }
+          ],
+          "term": "たび",
+          "termHtml": "たび",
+          "meaning": "tất (đi kèm với kimono)",
+          "meaningHtml": "tất (đi kèm với kimono)"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">スーツ</td> <td>com-lê</td> </tr><tr> <td width=\"40%\">ワンピース</td> <td>váy liền thân</td> </tr><tr> <td width=\"40%\"><ruby>上着<rp>（</rp><rt>うわぎ</rt><rp>）</rp></ruby></td> <td>áo khoát</td> </tr><tr> <td width=\"40%\">ズボン/パンツ</td> <td>quần âu</td> </tr><tr> <td width=\"40%\">ジーンズ</td> <td>quần bò, quần jeans</td> </tr><tr> <td width=\"40%\">スカート</td> <td>váy ngắn</td> </tr><tr> <td width=\"40%\">ブラウス</td> <td>áo bờ-lu-zông</td> </tr><tr> <td width=\"40%\">ワイシャツ</td> <td>áo sơ mi (trắng)</td> </tr><tr> <td width=\"40%\">セーター</td> <td>áo len</td> </tr><tr> <td width=\"40%\">マフラー</td> <td>khăn</td> </tr><tr> <td width=\"40%\"><ruby>手袋<rp>（</rp><rt>てぶくろ</rt><rp>）</rp></ruby></td> <td>găng tay</td> </tr><tr> <td width=\"40%\"><ruby>下着<rp>（</rp><rt>したぎ</rt><rp>）</rp></ruby></td> <td>quần áo lót</td> </tr><tr> <td width=\"40%\"><ruby>靴下<rp>（</rp><rt>くつした</rt><rp>）</rp></ruby></td> <td>tất</td> </tr><tr> <td width=\"40%\">パンスト</td> <td>quần tất</td> </tr><tr> <td width=\"40%\">オーバーコート</td> <td>áo choàng</td> </tr><tr> <td width=\"40%\">レインコート</td> <td>áo mưa</td> </tr><tr> <td width=\"40%\">ネクタイ</td> <td>cà vạt</td> </tr><tr> <td width=\"40%\">ベルト</td> <td>thắt lưng</td> </tr><tr> <td width=\"40%\">ハイヒール</td> <td>giầy cao gót</td> </tr><tr> <td width=\"40%\">ブーツ</td> <td>ủng, giầy cao cổ</td> </tr><tr> <td width=\"40%\"><ruby>運動<rp>（</rp><rt>うんどう</rt><rp>）</rp></ruby><ruby>靴<rp>（</rp><rt>ぐつ</rt><rp>）</rp></ruby></td> <td>giầy thể thao</td> </tr><tr> <td width=\"40%\"><ruby>着物<rp>（</rp><rt>きもの</rt><rp>）</rp></ruby></td> <td>kimono</td> </tr><tr> <td width=\"40%\"><ruby>帯<rp>（</rp><rt>おび</rt><rp>）</rp></ruby></td> <td>đai</td> </tr><tr> <td width=\"40%\">ぞうり</td> <td>guốc(đi kèm với kimono)</td> </tr><tr> <td width=\"40%\">たび</td> <td>tất (đi kèm với kimono)</td> </tr></tbody></table> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai22.jpg\" style=\"width: 100%; \"> </p>"
+    }
+  ]
+}

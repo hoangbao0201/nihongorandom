@@ -1,0 +1,178 @@
+{
+  "lesson": 10,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "うちの中（なか） Trong nhà",
+      "titleHtml": "うちの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby> Trong nhà",
+      "introHtml": "<p> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai10_1.jpg\" style=\"width: 100%; \">",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "玄関（げんかん）",
+              "html": "<ruby>玄関<rp>（</rp><rt>げんかん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "cửa ra vào",
+              "html": "cửa ra vào"
+            }
+          ],
+          "term": "玄関（げんかん）",
+          "termHtml": "<ruby>玄関<rp>（</rp><rt>げんかん</rt><rp>）</rp></ruby>",
+          "meaning": "cửa ra vào",
+          "meaningHtml": "cửa ra vào"
+        },
+        {
+          "cells": [
+            {
+              "text": "トイレ",
+              "html": "トイレ"
+            },
+            {
+              "text": "toa-lét, phòng vệ sinh",
+              "html": "toa-lét, phòng vệ sinh"
+            }
+          ],
+          "term": "トイレ",
+          "termHtml": "トイレ",
+          "meaning": "toa-lét, phòng vệ sinh",
+          "meaningHtml": "toa-lét, phòng vệ sinh"
+        },
+        {
+          "cells": [
+            {
+              "text": "風呂（ふろ）場（ば）",
+              "html": "<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby><ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "phòng tắm",
+              "html": "phòng tắm"
+            }
+          ],
+          "term": "風呂（ふろ）場（ば）",
+          "termHtml": "<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby><ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby>",
+          "meaning": "phòng tắm",
+          "meaningHtml": "phòng tắm"
+        },
+        {
+          "cells": [
+            {
+              "text": "洗面（せんめん）所（じょ）",
+              "html": "<ruby>洗面<rp>（</rp><rt>せんめん</rt><rp>）</rp></ruby><ruby>所<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "bồn rửa",
+              "html": "bồn rửa"
+            }
+          ],
+          "term": "洗面（せんめん）所（じょ）",
+          "termHtml": "<ruby>洗面<rp>（</rp><rt>せんめん</rt><rp>）</rp></ruby><ruby>所<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>",
+          "meaning": "bồn rửa",
+          "meaningHtml": "bồn rửa"
+        },
+        {
+          "cells": [
+            {
+              "text": "台所（だいどころ）",
+              "html": "<ruby>台所<rp>（</rp><rt>だいどころ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "bếp",
+              "html": "bếp"
+            }
+          ],
+          "term": "台所（だいどころ）",
+          "termHtml": "<ruby>台所<rp>（</rp><rt>だいどころ</rt><rp>）</rp></ruby>",
+          "meaning": "bếp",
+          "meaningHtml": "bếp"
+        },
+        {
+          "cells": [
+            {
+              "text": "食堂（しょくどう）",
+              "html": "<ruby>食堂<rp>（</rp><rt>しょくどう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nhà ăn, phòng ăn",
+              "html": "nhà ăn, phòng ăn"
+            }
+          ],
+          "term": "食堂（しょくどう）",
+          "termHtml": "<ruby>食堂<rp>（</rp><rt>しょくどう</rt><rp>）</rp></ruby>",
+          "meaning": "nhà ăn, phòng ăn",
+          "meaningHtml": "nhà ăn, phòng ăn"
+        },
+        {
+          "cells": [
+            {
+              "text": "居間（いま）",
+              "html": "<ruby>居間<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "phòng khách, phòng sinh hoạt chung",
+              "html": "phòng khách, phòng sinh hoạt chung"
+            }
+          ],
+          "term": "居間（いま）",
+          "termHtml": "<ruby>居間<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>",
+          "meaning": "phòng khách, phòng sinh hoạt chung",
+          "meaningHtml": "phòng khách, phòng sinh hoạt chung"
+        },
+        {
+          "cells": [
+            {
+              "text": "寝室（しんしつ）",
+              "html": "<ruby>寝室<rp>（</rp><rt>しんしつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "phòng ngủ",
+              "html": "phòng ngủ"
+            }
+          ],
+          "term": "寝室（しんしつ）",
+          "termHtml": "<ruby>寝室<rp>（</rp><rt>しんしつ</rt><rp>）</rp></ruby>",
+          "meaning": "phòng ngủ",
+          "meaningHtml": "phòng ngủ"
+        },
+        {
+          "cells": [
+            {
+              "text": "廊下（ろうか）",
+              "html": "<ruby>廊下<rp>（</rp><rt>ろうか</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "hành lang",
+              "html": "hành lang"
+            }
+          ],
+          "term": "廊下（ろうか）",
+          "termHtml": "<ruby>廊下<rp>（</rp><rt>ろうか</rt><rp>）</rp></ruby>",
+          "meaning": "hành lang",
+          "meaningHtml": "hành lang"
+        },
+        {
+          "cells": [
+            {
+              "text": "ベランダ",
+              "html": "ベランダ"
+            },
+            {
+              "text": "ban-công",
+              "html": "ban-công"
+            }
+          ],
+          "term": "ベランダ",
+          "termHtml": "ベランダ",
+          "meaning": "ban-công",
+          "meaningHtml": "ban-công"
+        }
+      ],
+      "contentHtml": "<p> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai10_1.jpg\" style=\"width: 100%; \"> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>玄関<rp>（</rp><rt>げんかん</rt><rp>）</rp></ruby></td> <td>cửa ra vào</td> </tr><tr> <td width=\"40%\">トイレ</td> <td>toa-lét, phòng vệ sinh</td> </tr><tr> <td width=\"40%\"><ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby><ruby>場<rp>（</rp><rt>ば</rt><rp>）</rp></ruby></td> <td>phòng tắm</td> </tr><tr> <td width=\"40%\"><ruby>洗面<rp>（</rp><rt>せんめん</rt><rp>）</rp></ruby><ruby>所<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby></td> <td>bồn rửa</td> </tr><tr> <td width=\"40%\"><ruby>台所<rp>（</rp><rt>だいどころ</rt><rp>）</rp></ruby></td> <td>bếp</td> </tr><tr> <td width=\"40%\"><ruby>食堂<rp>（</rp><rt>しょくどう</rt><rp>）</rp></ruby></td> <td>nhà ăn, phòng ăn</td> </tr><tr> <td width=\"40%\"><ruby>居間<rp>（</rp><rt>いま</rt><rp>）</rp></ruby></td> <td>phòng khách, phòng sinh hoạt chung</td> </tr><tr> <td width=\"40%\"><ruby>寝室<rp>（</rp><rt>しんしつ</rt><rp>）</rp></ruby></td> <td>phòng ngủ</td> </tr><tr> <td width=\"40%\"><ruby>廊下<rp>（</rp><rt>ろうか</rt><rp>）</rp></ruby></td> <td>hành lang</td> </tr><tr> <td width=\"40%\">ベランダ</td> <td>ban-công</td> </tr></tbody></table> </p> <br /> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai10_2.jpg\" style=\"width: 100%; \">"
+    }
+  ]
+}

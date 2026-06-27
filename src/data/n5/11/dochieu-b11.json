@@ -1,0 +1,819 @@
+{
+  "lesson": 11,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ワシントン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Oa-sinh-tơn</div> <div class=\"nghia_anh\">Washington</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>リオデジャネイロ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Ri-ô đờ Da-nê-rô</div> <div class=\"nghia_anh\">Rio de Janeiro</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ハノイ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Hà Nội</div> <div class=\"nghia_anh\">Hanoi</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ニューデリー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">New Delhi</div> <div class=\"nghia_anh\">New Delhi</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>カイロ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Cairo</div> <div class=\"nghia_anh\">Cario</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>みなさん</b></div> <div class=\"kanji\">皆さん</div> <div class=\"nghia_viet\">Thưa các bạn!</div> <div class=\"nghia_anh\">everybody</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>エジプト</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Ai Cập</div> <div class=\"nghia_anh\">Egypt</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かた</b></div> <div class=\"kanji\">方</div> <div class=\"nghia_viet\">người (cách nói lịch sự của ひと)</div> <div class=\"nghia_anh\">person (polite equivalent of ひと)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ベトナム</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Việt Nam </div> <div class=\"nghia_anh\">Vietnam</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り</b></h3> <p></p> <ruby>先週<rp>（</rp><rt>せんしゅう</rt><rp>）</rp></ruby> <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちで <ruby>一週間<rp>（</rp><rt>いっしゅうかん</rt><rp>）</rp></ruby> ホームステイを しました。 <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>は 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。 お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんと お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さんと 8<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんと 5<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の みきちゃんです。 <p></p> <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちの <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに <ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>が あります。 <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>の <ruby>夏<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りは とても <ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>です。 わたしは <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>と いっしょに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <p></p> <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>に いろいろな ゲームの <ruby>店<rp>（</rp><rt>みせ</rt><rp>）</rp></ruby>や <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>の <ruby>店<rp>（</rp><rt>みせ</rt><rp>）</rp></ruby>が ありました。 <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは ゲームを 3<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby> しました。 そして、 おもちゃの <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を 2<ruby>台<rp>（</rp><rt>だい</rt><rp>）</rp></ruby> もらいました。 わたしは お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りの Tシャツを <ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。 それから たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。 <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは 6つ、 みきちゃんは ４つ、わたしは ８つ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。 お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを 2<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。 <p></p> それから おみこしを <ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。 お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りの <ruby>踊<rp>（</rp><rt>おど</rt><rp>）</rp></ruby>りも <ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。 <ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に きれいな <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>と かわいい <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。 <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は、<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>を たくさん <ruby>撮<rp>（</rp><rt>と</rt><rp>）</rp></ruby>りました。 <p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りは おもしろいです。 そして、 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいです。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1．<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>1:（O）<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちの <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>が あります。 <p></p> <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>2:（X）<ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>は <ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さいです。 <p></p> 1)（ ）わたしは <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <p></p> 2)（ ）<ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは ゲームを 1<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>だけ しました。 <p></p> 3)（ ）お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べませんでした。 <p></p> 4)（ ）<ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に 5<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。 <p></p> 2. 1) <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは おもちゃの <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を <ruby>何台<rp>（</rp><rt>なんだい</rt><rp>）</rp></ruby> もらいましたか。 <p></p> 2) みきちゃんは たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを いくつ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べましたか。 <p></p> 3) お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>何枚<rp>（</rp><rt>なんまい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べましたか。 <p></p> 4) <ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が <ruby>何人<rp>（</rp><rt>なんにん</rt><rp>）</rp></ruby> いますか。 <p></p>II あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りを <ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>して ください。 <br /><br /> <h5>Hình ảnh tham khảo</h5> <p>神社</p> <img src=\"/images/minnamoi/bai11/doc11_0.png\" alt=\"minna 25 bai doc hieu Bai 11 - 0\" style=\"width:100%;max-width:400px;\"> <br /><br /> <p>お祭りのTシャツ</p> <img src=\"/images/minnamoi/bai11/doc11_1.png\" alt=\"minna 25 bai doc hieu Bai 11 - 1\" style=\"width:100%;max-width:400px;\"> <br /><br /> <p>たこ焼き</p> <img src=\"/images/minnamoi/bai11/doc11_2.png\" alt=\"minna 25 bai doc hieu Bai 11 - 2\" style=\"width:100%;max-width:400px;\"> <br /><br /> <p>お好み焼き</p> <img src=\"/images/minnamoi/bai11/doc11_3.png\" alt=\"minna 25 bai doc hieu Bai 11 - 3\" style=\"width:100%;max-width:400px;\"> <br /><br /> <p>おみこし</p> <img src=\"/images/minnamoi/bai11/doc11_4.png\" alt=\"minna 25 bai doc hieu Bai 11 - 4\" style=\"width:100%;max-width:400px;\"> <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Lễ hội.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>先週<rp>（</rp><rt>せんしゅう</rt><rp>）</rp></ruby> <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちで <ruby>一週間<rp>（</rp><rt>いっしゅうかん</rt><rp>）</rp></ruby> ホームステイを しました。</div><div class=\"kqdich\"><div class=\"nddich\">Tuần trước tôi đã Homestay ở nhà anh Satou một tuần lễ.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>は 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Gia đình của anh Satou gồm bốn người. </div></div></div> <div class=\"tudich\"><div class=\"candich\">お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんと お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さんと 8<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんと 5<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の みきちゃんです。</div><div class=\"kqdich\"><div class=\"nddich\">Gồm bố, mẹ, bé Kenta 8 tuổi và bé Miki 5 tuổi.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちの <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに <ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>が あります。</div><div class=\"kqdich\"><div class=\"nddich\">Ở gần nhà Satou có ngôi đền lớn.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>の <ruby>夏<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りは とても <ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Lễ hội mùa hè ở ngôi đền rất nổi tiếng.</div></div></div> <div class=\"tudich\"><div class=\"candich\">わたしは <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>と いっしょに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã đi cùng gia đình Satou.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>に いろいろな ゲームの <ruby>店<rp>（</rp><rt>みせ</rt><rp>）</rp></ruby>や <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>の <ruby>店<rp>（</rp><rt>みせ</rt><rp>）</rp></ruby>が ありました。</div><div class=\"kqdich\"><div class=\"nddich\">Ở miếu thờ có rất nhiều cửa hàng chơi game hay quán ăn. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは ゲームを 3<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby> しました。</div><div class=\"kqdich\"><div class=\"nddich\">Bé Kenta đã chơi game 3 lần. </div></div></div> <div class=\"tudich\"><div class=\"candich\">そして、 おもちゃの <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を 2<ruby>台<rp>（</rp><rt>だい</rt><rp>）</rp></ruby> もらいました。</div><div class=\"kqdich\"><div class=\"nddich\">Và đã nhận 2 chiếc ô tô đồ chơi.</div></div></div> <div class=\"tudich\"><div class=\"candich\">わたしは お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りの Tシャツを <ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi thì đã mua áo sơ mi lễ hội.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それから たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。</div><div class=\"kqdich\"><div class=\"nddich\">Sau đó đã ăn bánh Takoyaki.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは 6つ、 みきちゃんは ４つ、わたしは ８つ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。</div><div class=\"kqdich\"><div class=\"nddich\">Kenta ăn 6 cái, Miki ăn 4 cái, tôi đã ăn 8 cái.</div></div></div> <div class=\"tudich\"><div class=\"candich\">お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを 2<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。</div><div class=\"kqdich\"><div class=\"nddich\">Bố của Satou đã ăn 2 miếng bánh xèo Nhật Bản.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> それから おみこしを <ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。</div><div class=\"kqdich\"><div class=\"nddich\">Sau đó chúng tôi đi xem Mikoshi (cái kiệu). </div></div></div> <div class=\"tudich\"><div class=\"candich\">お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りの <ruby>踊<rp>（</rp><rt>おど</rt><rp>）</rp></ruby>りも <ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。</div><div class=\"kqdich\"><div class=\"nddich\">Xem khiêu vũ ở lễ hội.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に きれいな <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>と かわいい <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。</div><div class=\"kqdich\"><div class=\"nddich\">Trên sân khấu có một người phụ nữ xinh đẹp và bốn bé gái dễ thương.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は、<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>を たくさん <ruby>撮<rp>（</rp><rt>と</rt><rp>）</rp></ruby>りました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã chụp rất nhiều hình ảnh.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りは おもしろいです。 そして、 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいです。</div><div class=\"kqdich\"><div class=\"nddich\">Lễ hội Nhật bản thật thú vị. Và cũng vui nữa.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I 1．<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>1:（O）<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちの <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>が あります。</div><div class=\"kqdich\"><div class=\"nddich\">Ví dụ 1: Gần nhà Satou có đền thờ.( Đúng )</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>2:（X）<ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>は <ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さいです。</div><div class=\"kqdich\"><div class=\"nddich\">Ví dụ 2: Miếu thờ nhỏ bé.( Sai )</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（X）わたしは <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã đi đến miếu thờ một mình. </div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（X）<ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは ゲームを 1<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>だけ しました。</div><div class=\"kqdich\"><div class=\"nddich\">Bé Kenta chỉ chơi game một lần. </div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（O）お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Bố đã không ăn bánh Takoyaki. </div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（O）<ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に 5<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。</div><div class=\"kqdich\"><div class=\"nddich\">Trên sân khấu có 5 người. </div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2. 1) <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは おもちゃの <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を <ruby>何台<rp>（</rp><rt>なんだい</rt><rp>）</rp></ruby> もらいましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Bé Kenta đã nhận bao nhiêu chiếc ô tô đồ chơi?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>解答<rp>（</rp><rt>かいとう</rt><rp>）</rp></ruby>: 2<ruby>台<rp>（</rp><rt>だい</rt><rp>）</rp></ruby> もらいました。</div><div class=\"kqdich\"><div class=\"nddich\">Đã nhận 2 chiếc.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2) みきちゃんは たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを いくつ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Bé Miki đã ăn bao nhiêu cái bánh Takoyaki?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>解答<rp>（</rp><rt>かいとう</rt><rp>）</rp></ruby>: 4つ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。</div><div class=\"kqdich\"><div class=\"nddich\">Đã ăn 4 cái.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3) お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>何枚<rp>（</rp><rt>なんまい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Bố đã ăn bao nhiêu miếng bánh xèo Nhật Bản?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>解答<rp>（</rp><rt>かいとう</rt><rp>）</rp></ruby>: 2<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。</div><div class=\"kqdich\"><div class=\"nddich\">Đã ăn 2 cái.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4) <ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が <ruby>何人<rp>（</rp><rt>なんにん</rt><rp>）</rp></ruby> いますか。</div><div class=\"kqdich\"><div class=\"nddich\">Trên sân khấu có bao nhiêu bé gái?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>解答<rp>（</rp><rt>かいとう</rt><rp>）</rp></ruby>: 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。</div><div class=\"kqdich\"><div class=\"nddich\">Có 4 bé gái.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">II あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りを <ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>して ください。</div><div class=\"kqdich\"><div class=\"nddich\">II Hãy giới thiệu lễ hội ở đất nước bạn.</div></div></div> </div> </div><!--END--> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "お祭（まつ）り",
+          "textHtml": "<b>お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>先週<rp>（</rp><rt>せんしゅう</rt><rp>）</rp></ruby> <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちで <ruby>一週間<rp>（</rp><rt>いっしゅうかん</rt><rp>）</rp></ruby> ホームステイを しました。 <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>は 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。 お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんと お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さんと 8<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんと 5<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の みきちゃんです。 <p></p> <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちの <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに <ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>が あります。 <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>の <ruby>夏<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りは とても <ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>です。 わたしは <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>と いっしょに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <p></p> <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>に いろいろな ゲームの <ruby>店<rp>（</rp><rt>みせ</rt><rp>）</rp></ruby>や <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>の <ruby>店<rp>（</rp><rt>みせ</rt><rp>）</rp></ruby>が ありました。 <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは ゲームを 3<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby> しました。 そして、 おもちゃの <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を 2<ruby>台<rp>（</rp><rt>だい</rt><rp>）</rp></ruby> もらいました。 わたしは お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りの Tシャツを <ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。 それから たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。 <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは 6つ、 みきちゃんは ４つ、わたしは ８つ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。 お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを 2<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。 <p></p> それから おみこしを <ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。 お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りの <ruby>踊<rp>（</rp><rt>おど</rt><rp>）</rp></ruby>りも <ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。 <ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に きれいな <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>と かわいい <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。 <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は、<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>を たくさん <ruby>撮<rp>（</rp><rt>と</rt><rp>）</rp></ruby>りました。 <p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りは おもしろいです。 そして、 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいです。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1．<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>1:（O）<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちの <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>が あります。 <p></p> <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>2:（X）<ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>は <ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さいです。 <p></p> 1)（ ）わたしは <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <p></p> 2)（ ）<ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは ゲームを 1<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>だけ しました。 <p></p> 3)（ ）お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べませんでした。 <p></p> 4)（ ）<ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に 5<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。 <p></p> 2. 1) <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは おもちゃの <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を <ruby>何台<rp>（</rp><rt>なんだい</rt><rp>）</rp></ruby> もらいましたか。 <p></p> 2) みきちゃんは たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを いくつ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べましたか。 <p></p> 3) お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>何枚<rp>（</rp><rt>なんまい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べましたか。 <p></p> 4) <ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が <ruby>何人<rp>（</rp><rt>なんにん</rt><rp>）</rp></ruby> いますか。 <p></p>II あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りを <ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>して ください。 <br /><br />"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Hình ảnh tham khảo",
+          "textHtml": "Hình ảnh tham khảo"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>神社</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc11_0.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc11_0.png\" alt=\"minna 25 bai doc hieu Bai 11 - 0\" style=\"width:100%;max-width:400px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<br /><br /> <p>お祭りのTシャツ</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc11_1.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc11_1.png\" alt=\"minna 25 bai doc hieu Bai 11 - 1\" style=\"width:100%;max-width:400px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<br /><br /> <p>たこ焼き</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc11_2.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc11_2.png\" alt=\"minna 25 bai doc hieu Bai 11 - 2\" style=\"width:100%;max-width:400px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<br /><br /> <p>お好み焼き</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc11_3.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc11_3.png\" alt=\"minna 25 bai doc hieu Bai 11 - 3\" style=\"width:100%;max-width:400px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<br /><br /> <p>おみこし</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc11_4.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc11_4.png\" alt=\"minna 25 bai doc hieu Bai 11 - 4\" style=\"width:100%;max-width:400px;\">"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Lễ hội.",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "お祭（まつ）り",
+              "japaneseHtml": "<h3 style=\"text-align: center; \"><b>お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り</b></h3>",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Lễ hội."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "先週（せんしゅう） 佐藤（さとう）さんの うちで 一週間（いっしゅうかん） ホームステイを しました。",
+          "japaneseHtml": "<ruby>先週<rp>（</rp><rt>せんしゅう</rt><rp>）</rp></ruby> <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちで <ruby>一週間<rp>（</rp><rt>いっしゅうかん</rt><rp>）</rp></ruby> ホームステイを しました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tuần trước tôi đã Homestay ở nhà anh Satou một tuần lễ.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "佐藤（さとう）さんの 家族（かぞく）は 4人（にん）です。",
+          "japaneseHtml": "<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>は 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Gia đình của anh Satou gồm bốn người. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お父（とう）さんと お母（かあ）さんと 8歳（さい）の 健太（けんた）ちゃんと 5歳（さい）の みきちゃんです。",
+          "japaneseHtml": "お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんと お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さんと 8<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんと 5<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の みきちゃんです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Gồm bố, mẹ, bé Kenta 8 tuổi và bé Miki 5 tuổi.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "佐藤（さとう）さんの うちの 近（ちか）くに 大（おお）きい 神社（じんじゃ）が あります。",
+          "japaneseHtml": "<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちの <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに <ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>が あります。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Ở gần nhà Satou có ngôi đền lớn.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "神社（じんじゃ）の 夏（なつ）の お祭（まつ）りは とても 有名（ゆうめい）です。",
+          "japaneseHtml": "<ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>の <ruby>夏<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りは とても <ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Lễ hội mùa hè ở ngôi đền rất nổi tiếng.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "わたしは 佐藤（さとう）さんの 家族（かぞく）と いっしょに 行（い）きました。",
+          "japaneseHtml": "わたしは <ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの <ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>と いっしょに <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tôi đã đi cùng gia đình Satou.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "神社（じんじゃ）に いろいろな ゲームの 店（みせ）や 食（た）べ物（もの）の 店（みせ）が ありました。",
+          "japaneseHtml": "<ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>に いろいろな ゲームの <ruby>店<rp>（</rp><rt>みせ</rt><rp>）</rp></ruby>や <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>の <ruby>店<rp>（</rp><rt>みせ</rt><rp>）</rp></ruby>が ありました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Ở miếu thờ có rất nhiều cửa hàng chơi game hay quán ăn. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "健太（けんた）ちゃんは ゲームを 3回（かい） しました。",
+          "japaneseHtml": "<ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは ゲームを 3<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby> しました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bé Kenta đã chơi game 3 lần. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "そして、 おもちゃの 車（くるま）を 2台（だい） もらいました。",
+          "japaneseHtml": "そして、 おもちゃの <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を 2<ruby>台<rp>（</rp><rt>だい</rt><rp>）</rp></ruby> もらいました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Và đã nhận 2 chiếc ô tô đồ chơi.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "わたしは お祭（まつ）りの Tシャツを 買（か）いました。",
+          "japaneseHtml": "わたしは お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りの Tシャツを <ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tôi thì đã mua áo sơ mi lễ hội.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それから たこ焼（や）きを 食（た）べました。",
+          "japaneseHtml": "それから たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Sau đó đã ăn bánh Takoyaki.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "健太（けんた）ちゃんは 6つ、 みきちゃんは ４つ、わたしは ８つ 食（た）べました。",
+          "japaneseHtml": "<ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは 6つ、 みきちゃんは ４つ、わたしは ８つ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Kenta ăn 6 cái, Miki ăn 4 cái, tôi đã ăn 8 cái.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お父（とう）さんは お好（この）み焼（や）きを 2枚（まい） 食（た）べました。",
+          "japaneseHtml": "お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを 2<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bố của Satou đã ăn 2 miếng bánh xèo Nhật Bản.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それから おみこしを 見（み）ました。",
+          "japaneseHtml": "それから おみこしを <ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Sau đó chúng tôi đi xem Mikoshi (cái kiệu). </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お祭（まつ）りの 踊（おど）りも 見（み）ました。",
+          "japaneseHtml": "お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りの <ruby>踊<rp>（</rp><rt>おど</rt><rp>）</rp></ruby>りも <ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Xem khiêu vũ ở lễ hội.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "舞台（ぶたい）の 上（うえ）に きれいな 女（おんな）の 人（ひと）が 一人（ひとり）と かわいい 女（おんな）の 子（こ）が 4人（にん） いました。",
+          "japaneseHtml": "<ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に きれいな <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>と かわいい <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Trên sân khấu có một người phụ nữ xinh đẹp và bốn bé gái dễ thương.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）は、写真（しゃしん）を たくさん 撮（と）りました。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は、<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>を たくさん <ruby>撮<rp>（</rp><rt>と</rt><rp>）</rp></ruby>りました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tôi đã chụp rất nhiều hình ảnh.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）の お祭（まつ）りは おもしろいです。 そして、 楽（たの）しいです。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りは おもしろいです。 そして、 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Lễ hội Nhật bản thật thú vị. Và cũng vui nữa.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1．例（れい）1:（O）佐藤（さとう）さんの うちの 近（ちか）くに 神社（じんじゃ）が あります。",
+          "japaneseHtml": "I 1．<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>1:（O）<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>さんの うちの <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>が あります。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Ví dụ 1: Gần nhà Satou có đền thờ.( Đúng )</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "例（れい）2:（X）神社（じんじゃ）は 小（ちい）さいです。",
+          "japaneseHtml": "<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>2:（X）<ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>は <ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さいです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Ví dụ 2: Miếu thờ nhỏ bé.( Sai )</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（X）わたしは 一人（ひとり）で 神社（じんじゃ）へ 行（い）きました。",
+          "japaneseHtml": "1)（X）わたしは <ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で <ruby>神社<rp>（</rp><rt>じんじゃ</rt><rp>）</rp></ruby>へ <ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tôi đã đi đến miếu thờ một mình. </div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（X）健太（けんた）ちゃんは ゲームを 1回（かい）だけ しました。",
+          "japaneseHtml": "2)（X）<ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは ゲームを 1<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>だけ しました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bé Kenta chỉ chơi game một lần. </div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（O）お父（とう）さんは たこ焼（や）きを 食（た）べませんでした。",
+          "japaneseHtml": "3)（O）お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べませんでした。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bố đã không ăn bánh Takoyaki. </div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（O）舞台（ぶたい）の 上（うえ）に 5人（にん） いました。",
+          "japaneseHtml": "4)（O）<ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に 5<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Trên sân khấu có 5 người. </div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. 1) 健太（けんた）ちゃんは おもちゃの 車（くるま）を 何台（なんだい） もらいましたか。",
+          "japaneseHtml": "2. 1) <ruby>健太<rp>（</rp><rt>けんた</rt><rp>）</rp></ruby>ちゃんは おもちゃの <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を <ruby>何台<rp>（</rp><rt>なんだい</rt><rp>）</rp></ruby> もらいましたか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bé Kenta đã nhận bao nhiêu chiếc ô tô đồ chơi?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "解答（かいとう）: 2台（だい） もらいました。",
+          "japaneseHtml": "<ruby>解答<rp>（</rp><rt>かいとう</rt><rp>）</rp></ruby>: 2<ruby>台<rp>（</rp><rt>だい</rt><rp>）</rp></ruby> もらいました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đã nhận 2 chiếc.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2) みきちゃんは たこ焼（や）きを いくつ 食（た）べましたか。",
+          "japaneseHtml": "2) みきちゃんは たこ<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを いくつ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べましたか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bé Miki đã ăn bao nhiêu cái bánh Takoyaki?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "解答（かいとう）: 4つ 食（た）べました。",
+          "japaneseHtml": "<ruby>解答<rp>（</rp><rt>かいとう</rt><rp>）</rp></ruby>: 4つ <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đã ăn 4 cái.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3) お父（とう）さんは お好（この）み焼（や）きを 何枚（なんまい） 食（た）べましたか。",
+          "japaneseHtml": "3) お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんは お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きを <ruby>何枚<rp>（</rp><rt>なんまい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べましたか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bố đã ăn bao nhiêu miếng bánh xèo Nhật Bản?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "解答（かいとう）: 2枚（まい） 食（た）べました。",
+          "japaneseHtml": "<ruby>解答<rp>（</rp><rt>かいとう</rt><rp>）</rp></ruby>: 2<ruby>枚<rp>（</rp><rt>まい</rt><rp>）</rp></ruby> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đã ăn 2 cái.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4) 舞台（ぶたい）の 上（うえ）に 女（おんな）の 子（こ）が 何人（なんにん） いますか。",
+          "japaneseHtml": "4) <ruby>舞台<rp>（</rp><rt>ぶたい</rt><rp>）</rp></ruby>の <ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の <ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が <ruby>何人<rp>（</rp><rt>なんにん</rt><rp>）</rp></ruby> いますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Trên sân khấu có bao nhiêu bé gái?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "解答（かいとう）: 4人（にん） いました。",
+          "japaneseHtml": "<ruby>解答<rp>（</rp><rt>かいとう</rt><rp>）</rp></ruby>: 4<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby> いました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Có 4 bé gái.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II あなたの 国（くに）の お祭（まつ）りを 紹介（しょうかい）して ください。",
+          "japaneseHtml": "II あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>の お<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>りを <ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>して ください。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">II Hãy giới thiệu lễ hội ở đất nước bạn.</div></div></div> </div> </div><!--END--> </div>"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Bổ sung",
+      "titleHtml": "Bổ sung",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>お<ruby>祭<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>りに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう</b></h3> <p></p>A. <ruby>金魚<rp>（</rp><rt>きんぎょ</rt><rp>）</rp></ruby>すくいを しませんか。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいですよ。 <p></p>&emsp;&emsp;１（<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>：⑥）１００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。 <p></p>&emsp;&emsp;……………… <p></p>&emsp;&emsp;<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>！ <ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>！ はい。 ２（ ）どうぞ。 <p>&emsp;&emsp;<img src=\"/images/minnamoi/bai11/doc_plus_11-1.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 1 \" style=\"width:200px;max-width:200px;\"></p> <p></p>B. りんごあめは いかがですか。 おいしいですよ。 <p></p>&emsp;&emsp;…２（ ）ください。 <p></p>&emsp;&emsp;はい、 ３００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>。 <p>&emsp;&emsp;<img src=\"/images/minnamoi/bai11/doc_plus_11-2.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 2 \" style=\"width:200px;max-width:200px;\"></p> <p></p>C. お<ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby>は いかがですか。 <p></p>&emsp;&emsp;お<ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby>は、ひょっとこ、 キャラクターもの、 いろいろあります。 １（ ）５００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>！ <p>&emsp;&emsp;<img src=\"/images/minnamoi/bai11/doc_plus_11-3.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 3 \" style=\"width:200px;max-width:200px;\"></p> <p></p>D. <ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いですね。 ジュースを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みましょう。 <p></p>&emsp;&emsp;すみません。 みかんジュース、４（ ）ください。 <p></p>E. あ、あそこに あひるが いますよ。 <p></p>&emsp;&emsp;いち、に、さん、し、ご。 <p></p>&emsp;&emsp;５（ ）いますね。 <p>&emsp;&emsp;<img src=\"/images/minnamoi/bai11/doc_plus_11-4.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 4 \" style=\"width:200px;max-width:200px;\"></p> <p></p>F. わあ、<ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>い<ruby>馬<rp>（</rp><rt>うま</rt><rp>）</rp></ruby>が ２（ ）います。きれいですね。 <p>&emsp;&emsp;<img src=\"/images/minnamoi/bai11/doc_plus_11-5.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 5 \" style=\"width:200px;max-width:200px;\"></p> <p></p> <p></p>☆（ ）に ①∼⑦を <ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてください。 <table class=\"table table-bordered\"><tbody><tr><td><p>①<ruby>羽<rp>(</rp><rt>はね</rt><rp>)</rp></ruby> ②<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> ③<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby> <span style=\"background-color: transparent;\">④<ruby>匹<rp>(</rp><rt>ひき</rt><rp>)</rp></ruby> ⑤<ruby>頭<rp>(</rp><rt>とう</rt><rp>)</rp></ruby> <strike>⑥<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby></strike> ⑦<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby></span></p></td></tr></tbody></table> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <p></p><div class=\"tudich\"><div class=\"candich\">A. <ruby>金魚<rp>（</rp><rt>きんぎょ</rt><rp>）</rp></ruby>すくいを しませんか。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいですよ。</div><div class=\"kqdich\"><div class=\"nddich\">Chơi trò cứu cá vàng không? Vui lắm đấy.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;１（<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>：⑥）１００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Là 100 yên.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;………………</div><div class=\"kqdich\"><div class=\"nddich\"></div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>！ <ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>！ はい。 ２（ ④ ）どうぞ。</div><div class=\"kqdich\"><div class=\"nddich\">Giỏi ! Giỏi ! Vâng. ２con gửi cậu.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">B. りんごあめは いかがですか。 おいしいですよ。</div><div class=\"kqdich\"><div class=\"nddich\">Có muốn ăn kẹo táo không? Ngon lắm đấy.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;…２（ ⑦ ）ください。</div><div class=\"kqdich\"><div class=\"nddich\">Cho tôi 2 cái.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;はい、 ３００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>。</div><div class=\"kqdich\"><div class=\"nddich\">Vâng, 300 yên.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">C. お<ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby>は いかがですか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn có muốn mua mặt nạ không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;お<ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby>は、ひょっとこ、 キャラクターもの、 いろいろあります。 １（ ② ）５００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>！</div><div class=\"kqdich\"><div class=\"nddich\">Mặt nạ thì có nhiều loại khác nhau như Hyottoko, các nhân vật. Một tấm 500 yên.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">D. <ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いですね。 ジュースを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みましょう。</div><div class=\"kqdich\"><div class=\"nddich\">Trời nóng nhỉ. Uống nước ép trái cây nhé.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;すみません。 みかんジュース、４（ ③ ）ください。</div><div class=\"kqdich\"><div class=\"nddich\">Xin lỗi, cho tôi 4 ly nước ép cam.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">E. あ、あそこに あひるが いますよ。</div><div class=\"kqdich\"><div class=\"nddich\">A, có vịt ở đằng kia ấy.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;いち、に、さん、し、ご。</div><div class=\"kqdich\"><div class=\"nddich\">Một, hai, ba, bốn, năm.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">&emsp;&emsp;５（ ① ）いますね。</div><div class=\"kqdich\"><div class=\"nddich\">Có 5 con nhỉ!</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">F. わあ、<ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>い<ruby>馬<rp>（</rp><rt>うま</rt><rp>）</rp></ruby>が ２（ ⑤ ）います。きれいですね。</div><div class=\"kqdich\"><div class=\"nddich\">Woa, có 2 con ngựa màu trắng. Đẹp nhỉ.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">☆（ ）に ①∼⑦を <ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy điền 1 đến 7 vào chỗ trống.</div></div></div> </div></div> </div> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "お祭(まつ)りに行(い)きましょう",
+          "textHtml": "<b>お<ruby>祭<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>りに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>A. <ruby>金魚<rp>（</rp><rt>きんぎょ</rt><rp>）</rp></ruby>すくいを しませんか。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいですよ。 <p></p>&emsp;&emsp;１（<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>：⑥）１００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。 <p></p>&emsp;&emsp;……………… <p></p>&emsp;&emsp;<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>！ <ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>！ はい。 ２（ ）どうぞ。 <p>&emsp;&emsp;"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc_plus_11-1.jpg",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc_plus_11-1.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 1 \" style=\"width:200px;max-width:200px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p></p>B. りんごあめは いかがですか。 おいしいですよ。 <p></p>&emsp;&emsp;…２（ ）ください。 <p></p>&emsp;&emsp;はい、 ３００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>。 <p>&emsp;&emsp;"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc_plus_11-2.jpg",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc_plus_11-2.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 2 \" style=\"width:200px;max-width:200px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p></p>C. お<ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby>は いかがですか。 <p></p>&emsp;&emsp;お<ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby>は、ひょっとこ、 キャラクターもの、 いろいろあります。 １（ ）５００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>！ <p>&emsp;&emsp;"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc_plus_11-3.jpg",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc_plus_11-3.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 3 \" style=\"width:200px;max-width:200px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p></p>D. <ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いですね。 ジュースを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みましょう。 <p></p>&emsp;&emsp;すみません。 みかんジュース、４（ ）ください。 <p></p>E. あ、あそこに あひるが いますよ。 <p></p>&emsp;&emsp;いち、に、さん、し、ご。 <p></p>&emsp;&emsp;５（ ）いますね。 <p>&emsp;&emsp;"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc_plus_11-4.jpg",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc_plus_11-4.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 4 \" style=\"width:200px;max-width:200px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p></p>F. わあ、<ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>い<ruby>馬<rp>（</rp><rt>うま</rt><rp>）</rp></ruby>が ２（ ）います。きれいですね。 <p>&emsp;&emsp;"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai11/doc_plus_11-5.jpg",
+          "contentHtml": "<img src=\"/images/minnamoi/bai11/doc_plus_11-5.jpg\" alt=\"minna 25 bai doc hieu, Plus Bai 11 - 5 \" style=\"width:200px;max-width:200px;\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p></p> <p></p>☆（ ）に ①∼⑦を <ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてください。 <table class=\"table table-bordered\"><tbody><tr><td><p>①<ruby>羽<rp>(</rp><rt>はね</rt><rp>)</rp></ruby> ②<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> ③<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby> <span style=\"background-color: transparent;\">④<ruby>匹<rp>(</rp><rt>ひき</rt><rp>)</rp></ruby> ⑤<ruby>頭<rp>(</rp><rt>とう</rt><rp>)</rp></ruby> <strike>⑥<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby></strike> ⑦<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby></span></p></td></tr></tbody></table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<p></p><div class=\"tudich\"><div class=\"candich\">A. <ruby>金魚<rp>（</rp><rt>きんぎょ</rt><rp>）</rp></ruby>すくいを しませんか。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいですよ。</div><div class=\"kqdich\"><div class=\"nddich\">Chơi trò cứu cá vàng không? Vui lắm đấy.",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "A. 金魚（きんぎょ）すくいを しませんか。 楽（たの）しいですよ。",
+              "japaneseHtml": "A. <ruby>金魚<rp>（</rp><rt>きんぎょ</rt><rp>）</rp></ruby>すくいを しませんか。 <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいですよ。",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Chơi trò cứu cá vàng không? Vui lắm đấy."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;１（例（れい）：⑥）１００円（えん）です。",
+          "japaneseHtml": "&emsp;&emsp;１（<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>：⑥）１００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Là 100 yên.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;………………",
+          "japaneseHtml": "&emsp;&emsp;………………",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;上手（じょうず）！ 上手（じょうず）！ はい。 ２（ ④ ）どうぞ。",
+          "japaneseHtml": "&emsp;&emsp;<ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>！ <ruby>上手<rp>（</rp><rt>じょうず</rt><rp>）</rp></ruby>！ はい。 ２（ ④ ）どうぞ。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Giỏi ! Giỏi ! Vâng. ２con gửi cậu.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B. りんごあめは いかがですか。 おいしいですよ。",
+          "japaneseHtml": "B. りんごあめは いかがですか。 おいしいですよ。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Có muốn ăn kẹo táo không? Ngon lắm đấy.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;…２（ ⑦ ）ください。",
+          "japaneseHtml": "&emsp;&emsp;…２（ ⑦ ）ください。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Cho tôi 2 cái.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;はい、 ３００円（えん）。",
+          "japaneseHtml": "&emsp;&emsp;はい、 ３００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vâng, 300 yên.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "C. お面（めん）は いかがですか。",
+          "japaneseHtml": "C. お<ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby>は いかがですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bạn có muốn mua mặt nạ không?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;お面（めん）は、ひょっとこ、 キャラクターもの、 いろいろあります。 １（ ② ）５００円（えん）！",
+          "japaneseHtml": "&emsp;&emsp;お<ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby>は、ひょっとこ、 キャラクターもの、 いろいろあります。 １（ ② ）５００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>！",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Mặt nạ thì có nhiều loại khác nhau như Hyottoko, các nhân vật. Một tấm 500 yên.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "D. 暑（あつ）いですね。 ジュースを 飲（の）みましょう。",
+          "japaneseHtml": "D. <ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いですね。 ジュースを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みましょう。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Trời nóng nhỉ. Uống nước ép trái cây nhé.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;すみません。 みかんジュース、４（ ③ ）ください。",
+          "japaneseHtml": "&emsp;&emsp;すみません。 みかんジュース、４（ ③ ）ください。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Xin lỗi, cho tôi 4 ly nước ép cam.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "E. あ、あそこに あひるが いますよ。",
+          "japaneseHtml": "E. あ、あそこに あひるが いますよ。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">A, có vịt ở đằng kia ấy.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;いち、に、さん、し、ご。",
+          "japaneseHtml": "&emsp;&emsp;いち、に、さん、し、ご。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Một, hai, ba, bốn, năm.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&emsp;&emsp;５（ ① ）いますね。",
+          "japaneseHtml": "&emsp;&emsp;５（ ① ）いますね。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Có 5 con nhỉ!</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "F. わあ、白（しろ）い馬（うま）が ２（ ⑤ ）います。きれいですね。",
+          "japaneseHtml": "F. わあ、<ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>い<ruby>馬<rp>（</rp><rt>うま</rt><rp>）</rp></ruby>が ２（ ⑤ ）います。きれいですね。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Woa, có 2 con ngựa màu trắng. Đẹp nhỉ.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "☆（ ）に ①∼⑦を 入（い）れてください。",
+          "japaneseHtml": "☆（ ）に ①∼⑦を <ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてください。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Hãy điền 1 đến 7 vào chỗ trống.</div></div></div> </div></div> </div> </div>"
+        }
+      ]
+    }
+  ]
+}

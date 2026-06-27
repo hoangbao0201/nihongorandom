@@ -1,0 +1,223 @@
+{
+  "lesson": 6,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "食べ物（たべもの） Thức ăn",
+      "titleHtml": "<ruby>食べ物<rp>（</rp><rt>たべもの</rt><rp>）</rp></ruby> Thức ăn",
+      "introHtml": "<b><ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby> Rau</b>",
+      "columns": [],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "きゅうり",
+              "html": "きゅうり"
+            },
+            {
+              "text": "dưa chuột",
+              "html": "dưa chuột"
+            }
+          ],
+          "term": "きゅうり",
+          "termHtml": "きゅうり",
+          "meaning": "dưa chuột",
+          "meaningHtml": "dưa chuột"
+        },
+        {
+          "cells": [
+            {
+              "text": "トマト",
+              "html": "トマト"
+            },
+            {
+              "text": "cà chua",
+              "html": "cà chua"
+            }
+          ],
+          "term": "トマト",
+          "termHtml": "トマト",
+          "meaning": "cà chua",
+          "meaningHtml": "cà chua"
+        },
+        {
+          "cells": [
+            {
+              "text": "なす",
+              "html": "なす"
+            },
+            {
+              "text": "cà",
+              "html": "cà"
+            }
+          ],
+          "term": "なす",
+          "termHtml": "なす",
+          "meaning": "cà",
+          "meaningHtml": "cà"
+        },
+        {
+          "cells": [
+            {
+              "text": "まめ",
+              "html": "まめ"
+            },
+            {
+              "text": "đậu",
+              "html": "đậu"
+            }
+          ],
+          "term": "まめ",
+          "termHtml": "まめ",
+          "meaning": "đậu",
+          "meaningHtml": "đậu"
+        },
+        {
+          "cells": [
+            {
+              "text": "キャベツ",
+              "html": "キャベツ"
+            },
+            {
+              "text": "bắp cải",
+              "html": "bắp cải"
+            }
+          ],
+          "term": "キャベツ",
+          "termHtml": "キャベツ",
+          "meaning": "bắp cải",
+          "meaningHtml": "bắp cải"
+        },
+        {
+          "cells": [
+            {
+              "text": "ねぎ",
+              "html": "ねぎ"
+            },
+            {
+              "text": "hành",
+              "html": "hành"
+            }
+          ],
+          "term": "ねぎ",
+          "termHtml": "ねぎ",
+          "meaning": "hành",
+          "meaningHtml": "hành"
+        },
+        {
+          "cells": [
+            {
+              "text": "はくさい",
+              "html": "はくさい"
+            },
+            {
+              "text": "rau cải bẹ trắng",
+              "html": "rau cải bẹ trắng"
+            }
+          ],
+          "term": "はくさい",
+          "termHtml": "はくさい",
+          "meaning": "rau cải bẹ trắng",
+          "meaningHtml": "rau cải bẹ trắng"
+        },
+        {
+          "cells": [
+            {
+              "text": "ほうれんそう",
+              "html": "ほうれんそう"
+            },
+            {
+              "text": "rau nina",
+              "html": "rau nina"
+            }
+          ],
+          "term": "ほうれんそう",
+          "termHtml": "ほうれんそう",
+          "meaning": "rau nina",
+          "meaningHtml": "rau nina"
+        },
+        {
+          "cells": [
+            {
+              "text": "レタス",
+              "html": "レタス"
+            },
+            {
+              "text": "rau diếp",
+              "html": "rau diếp"
+            }
+          ],
+          "term": "レタス",
+          "termHtml": "レタス",
+          "meaning": "rau diếp",
+          "meaningHtml": "rau diếp"
+        },
+        {
+          "cells": [
+            {
+              "text": "じゃがいも",
+              "html": "じゃがいも"
+            },
+            {
+              "text": "khoai tây",
+              "html": "khoai tây"
+            }
+          ],
+          "term": "じゃがいも",
+          "termHtml": "じゃがいも",
+          "meaning": "khoai tây",
+          "meaningHtml": "khoai tây"
+        },
+        {
+          "cells": [
+            {
+              "text": "だいこん",
+              "html": "だいこん"
+            },
+            {
+              "text": "củ cải",
+              "html": "củ cải"
+            }
+          ],
+          "term": "だいこん",
+          "termHtml": "だいこん",
+          "meaning": "củ cải",
+          "meaningHtml": "củ cải"
+        },
+        {
+          "cells": [
+            {
+              "text": "たまねぎ",
+              "html": "たまねぎ"
+            },
+            {
+              "text": "củ hành",
+              "html": "củ hành"
+            }
+          ],
+          "term": "たまねぎ",
+          "termHtml": "たまねぎ",
+          "meaning": "củ hành",
+          "meaningHtml": "củ hành"
+        },
+        {
+          "cells": [
+            {
+              "text": "にんじん",
+              "html": "にんじん"
+            },
+            {
+              "text": "cà rốt",
+              "html": "cà rốt"
+            }
+          ],
+          "term": "にんじん",
+          "termHtml": "にんじん",
+          "meaning": "cà rốt",
+          "meaningHtml": "cà rốt"
+        }
+      ],
+      "contentHtml": "<b><ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby> Rau</b> <table class=\"search_result vnjp-minna-bai06-table\"><tbody><tr><td style=\"width:40%;\">きゅうり</td><td>dưa chuột</td></tr><tr><td style=\"width:40%;\">トマト</td><td>cà chua</td></tr><tr><td style=\"width:40%;\">なす</td><td>cà</td></tr><tr><td style=\"width:40%;\">まめ</td><td>đậu</td></tr><tr><td style=\"width:40%;\">キャベツ</td><td> bắp cải</td></tr><tr><td style=\"width:40%;\">ねぎ</td><td>hành</td></tr><tr><td style=\"width:40%;\">はくさい</td><td>rau cải bẹ trắng</td></tr><tr><td style=\"width:40%;\">ほうれんそう</td><td>rau nina</td></tr><tr><td style=\"width:40%;\">レタス</td><td>rau diếp</td></tr><tr><td style=\"width:40%;\">じゃがいも</td><td>khoai tây</td></tr><tr><td style=\"width:40%;\">だいこん</td><td>củ cải</td></tr><tr><td style=\"width:40%;\">たまねぎ</td><td>củ hành</td></tr><tr><td style=\"width:40%;\">にんじん</td><td>cà rốt</td></tr></tbody></table> <br> <b><ruby>果物<rp>（</rp><rt>くだもの</rt><rp>）</rp></ruby> Hoa quả</b> <table class=\"search_result vnjp-minna-bai06-table\"><tbody><tr><td style=\"width:40%;\">いちご</td><td>dâu tây</td></tr><tr><td style=\"width:40%;\">もも</td><td>đào</td></tr><tr><td style=\"width:40%;\">すいか</td><td>dưa hấu</td></tr><tr><td style=\"width:40%;\">ぶどう</td><td>nho</td></tr><tr><td style=\"width:40%;\">なし</td><td>lê</td></tr><tr><td style=\"width:40%;\">かき</td><td>hồng</td></tr><tr><td style=\"width:40%;\">みかん</td><td>quýt</td></tr><tr><td style=\"width:40%;\">りんご</td><td>táo</td></tr><tr><td style=\"width:40%;\">バナナ</td><td>chuối</td></tr></tbody></table> <br> <b><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby> Thịt</b> <table class=\"search_result vnjp-minna-bai06-table\"><tbody><tr><td style=\"width:40%;\">ぎゅうにく</td><td>thịt bò</td></tr><tr><td style=\"width:40%;\">とりにく</td><td>thịt gà</td></tr><tr><td style=\"width:40%;\">ぶたにく</td><td>thịt lợn</td></tr><tr><td style=\"width:40%;\">ソーセージ</td><td>xúc xích</td></tr><tr><td style=\"width:40%;\">ハム</td><td>giò, giăm bông</td></tr></tbody></table> <br> <b><ruby>海産<rp>（</rp><rt>かいさん</rt><rp>）</rp></ruby> Hải sản</b> <table class=\"search_result vnjp-minna-bai06-table\"><tbody><tr><td style=\"width:40%;\">あじ</td><td>cá sòng</td></tr><tr><td style=\"width:40%;\">いわし</td><td>cá trích, cá xác đin</td></tr><tr><td style=\"width:40%;\">さば</td><td>cá thu</td></tr><tr><td style=\"width:40%;\">さんま</td><td>cá thu đao</td></tr><tr><td style=\"width:40%;\">さけ</td><td>cá hồi</td></tr><tr><td style=\"width:40%;\">まぐろ</td><td>cá ngừ</td></tr><tr><td style=\"width:40%;\">たい</td><td>cá tráp</td></tr><tr><td style=\"width:40%;\">たら</td><td>cá tuyết</td></tr><tr><td style=\"width:40%;\">えび</td><td>tôm</td></tr><tr><td style=\"width:40%;\">かに</td><td>cua</td></tr><tr><td style=\"width:40%;\">いか</td><td>mực</td></tr><tr><td style=\"width:40%;\">たこ</td><td>mực phủ, bạch tuột</td></tr><tr><td style=\"width:40%;\">かい</td><td>sò, ngao</td></tr></tbody></table> <br> <b>その<ruby>他<rp>（</rp><rt>た</rt><rp>）</rp></ruby> Thực phẩm khác</b> <table class=\"search_result vnjp-minna-bai06-table\"><tbody><tr><td style=\"width:40%;\">こめ</td><td>gạo</td></tr><tr><td style=\"width:40%;\">たまご</td><td>trứng</td></tr></tbody></table>"
+    }
+  ]
+}

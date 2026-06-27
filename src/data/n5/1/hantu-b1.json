@@ -1,0 +1,126 @@
+{
+  "lesson": 1,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "あの人",
+      "kanjiHtml": "あの人",
+      "sinoVietnamese": "NHÂN",
+      "kana": "あのひと",
+      "kanaHtml": "あのひと"
+    },
+    {
+      "index": 2,
+      "kanji": "あの方",
+      "kanjiHtml": "あの方",
+      "sinoVietnamese": "PHƯƠNG",
+      "kana": "あのかた",
+      "kanaHtml": "あのかた"
+    },
+    {
+      "index": 3,
+      "kanji": "～人",
+      "kanjiHtml": "～人",
+      "sinoVietnamese": "NHÂN",
+      "kana": "～じん",
+      "kanaHtml": "～じん"
+    },
+    {
+      "index": 4,
+      "kanji": "先生",
+      "kanjiHtml": "先生",
+      "sinoVietnamese": "TIÊN SINH",
+      "kana": "せんせい",
+      "kanaHtml": "せんせい"
+    },
+    {
+      "index": 5,
+      "kanji": "教師",
+      "kanjiHtml": "教師",
+      "sinoVietnamese": "GIÁO SƯ",
+      "kana": "きょうし",
+      "kanaHtml": "きょうし"
+    },
+    {
+      "index": 6,
+      "kanji": "学生",
+      "kanjiHtml": "学生",
+      "sinoVietnamese": "HỌC SINH",
+      "kana": "がくせい",
+      "kanaHtml": "がくせい"
+    },
+    {
+      "index": 7,
+      "kanji": "会社員",
+      "kanjiHtml": "会社員",
+      "sinoVietnamese": "HỘI XÃ VIÊN",
+      "kana": "かいしゃいん",
+      "kanaHtml": "かいしゃいん"
+    },
+    {
+      "index": 8,
+      "kanji": "社員",
+      "kanjiHtml": "社員",
+      "sinoVietnamese": "XÃ VIÊN",
+      "kana": "しゃいん",
+      "kanaHtml": "しゃいん"
+    },
+    {
+      "index": 9,
+      "kanji": "銀行員",
+      "kanjiHtml": "銀行員",
+      "sinoVietnamese": "NGÂN HÀNH VIÊN",
+      "kana": "ぎんこういん",
+      "kanaHtml": "ぎんこういん"
+    },
+    {
+      "index": 10,
+      "kanji": "医者",
+      "kanjiHtml": "医者",
+      "sinoVietnamese": "Y GIẢ",
+      "kana": "いしゃ",
+      "kanaHtml": "いしゃ"
+    },
+    {
+      "index": 11,
+      "kanji": "研究者",
+      "kanjiHtml": "研究者",
+      "sinoVietnamese": "NGHIÊN CỨU GIẢ",
+      "kana": "けんきゅうしゃ",
+      "kanaHtml": "けんきゅうしゃ"
+    },
+    {
+      "index": 12,
+      "kanji": "大学",
+      "kanjiHtml": "大学",
+      "sinoVietnamese": "ĐẠI HỌC",
+      "kana": "だいがく",
+      "kanaHtml": "だいがく"
+    },
+    {
+      "index": 13,
+      "kanji": "病院",
+      "kanjiHtml": "病院",
+      "sinoVietnamese": "BỆNH VIỆN",
+      "kana": "びょういん",
+      "kanaHtml": "びょういん"
+    },
+    {
+      "index": 14,
+      "kanji": "－歳",
+      "kanjiHtml": "－歳",
+      "sinoVietnamese": "NHẤT TUẾ",
+      "kana": "―さい",
+      "kanaHtml": "―さい"
+    },
+    {
+      "index": 15,
+      "kanji": "何歳",
+      "kanjiHtml": "何歳",
+      "sinoVietnamese": "HÀ TUẾ",
+      "kana": "なんさい (おいくつ）",
+      "kanaHtml": "なんさい<br /> (おいくつ）"
+    }
+  ]
+}

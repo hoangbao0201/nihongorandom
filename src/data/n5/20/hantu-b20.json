@@ -1,0 +1,78 @@
+{
+  "lesson": 20,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "要ります [ビザが～]",
+      "kanjiHtml": "要ります<br />[ビザが～]",
+      "sinoVietnamese": "YẾU",
+      "kana": "いります [ビザが～]",
+      "kanaHtml": "いります<br />[ビザが～]"
+    },
+    {
+      "index": 2,
+      "kanji": "調べます",
+      "kanjiHtml": "調べます",
+      "sinoVietnamese": "ĐIỀU",
+      "kana": "しらべます",
+      "kanaHtml": "しらべます"
+    },
+    {
+      "index": 3,
+      "kanji": "修理します",
+      "kanjiHtml": "修理します",
+      "sinoVietnamese": "TU LÝ",
+      "kana": "しゅうりします",
+      "kanaHtml": "しゅうりします"
+    },
+    {
+      "index": 4,
+      "kanji": "僕",
+      "kanjiHtml": "僕",
+      "sinoVietnamese": "BỘC",
+      "kana": "ぼく",
+      "kanaHtml": "ぼく"
+    },
+    {
+      "index": 5,
+      "kanji": "君",
+      "kanjiHtml": "君",
+      "sinoVietnamese": "QUÂN",
+      "kana": "きみ",
+      "kanaHtml": "きみ"
+    },
+    {
+      "index": 6,
+      "kanji": "～君",
+      "kanjiHtml": "～君",
+      "sinoVietnamese": "QUÂN",
+      "kana": "～くん",
+      "kanaHtml": "～くん"
+    },
+    {
+      "index": 7,
+      "kanji": "着物",
+      "kanjiHtml": "着物",
+      "sinoVietnamese": "TRƯỚC VẬT",
+      "kana": "きもの",
+      "kanaHtml": "きもの"
+    },
+    {
+      "index": 8,
+      "kanji": "始め",
+      "kanjiHtml": "始め",
+      "sinoVietnamese": "THỦY",
+      "kana": "はじめ",
+      "kanaHtml": "はじめ"
+    },
+    {
+      "index": 9,
+      "kanji": "終わり",
+      "kanjiHtml": "終わり",
+      "sinoVietnamese": "CHUNG",
+      "kana": "おわり",
+      "kanaHtml": "おわり"
+    }
+  ]
+}

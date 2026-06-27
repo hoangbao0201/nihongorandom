@@ -1,0 +1,662 @@
+{
+  "lesson": 23,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>オランダ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Hà Lan</div> <div class=\"nghia_anh\">Netherlands, Holland</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>めいじじだい</b></div> <div class=\"kanji\">明治時代</div> <div class=\"nghia_viet\">Thời kì Minh Trị (1868-1912)</div> <div class=\"nghia_anh\">Meiji period (1868-1912)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーはい（ーばい／ーぱい）</b></div> <div class=\"kanji\">一杯</div> <div class=\"nghia_viet\">cốc (lượng từ những thứ đựng trong cốc,li, bát..)</div> <div class=\"nghia_anh\">glass or cup of (counter for full cups, glasses, etc.)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ところで</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">tuy nhiên</div> <div class=\"nghia_anh\">by the way</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じつは</b></div> <div class=\"kanji\">実は</div> <div class=\"nghia_viet\">thực ra</div> <div class=\"nghia_anh\">actually</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はたらき</b></div> <div class=\"kanji\">働き</div> <div class=\"nghia_viet\">tác dụng, làm việc</div> <div class=\"nghia_anh\">effect, function</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>トラック</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">xe tải</div> <div class=\"nghia_anh\">truck</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うんてんしゅ</b></div> <div class=\"kanji\">運転手</div> <div class=\"nghia_viet\">tài xế</div> <div class=\"nghia_anh\">driver</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>けいさん</b></div> <div class=\"kanji\">計算</div> <div class=\"nghia_viet\">tính toán</div> <div class=\"nghia_anh\">calculation</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まちがい</b></div> <div class=\"kanji\">間違い</div> <div class=\"nghia_viet\">lỗi</div> <div class=\"nghia_anh\">mistake</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>リラックス</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">thư giãn</div> <div class=\"nghia_anh\">relax</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>また</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ngoài ra</div> <div class=\"nghia_anh\">also</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>(～と）おなじ</b></div> <div class=\"kanji\">同じ</div> <div class=\"nghia_viet\">giống~, giống như ~</div> <div class=\"nghia_anh\">same as ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>インスタントコーヒー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">cà phê hòa tan</div> <div class=\"nghia_anh\">instant coffee</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はつめいします</b></div> <div class=\"kanji\">発明します</div> <div class=\"nghia_viet\">phát minh</div> <div class=\"nghia_anh\">invent</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>シカゴ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Chicago</div> <div class=\"nghia_anh\">chicago</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふんまつ</b></div> <div class=\"kanji\">粉末</div> <div class=\"nghia_viet\">bột</div> <div class=\"nghia_anh\">powder</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はっぴょうします</b></div> <div class=\"kanji\">発表します</div> <div class=\"nghia_viet\">công bố, cho ra mắt</div> <div class=\"nghia_anh\">introduce</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しかし</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nhưng</div> <div class=\"nghia_anh\">but</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～がいしゃ</b></div> <div class=\"kanji\">～会社</div> <div class=\"nghia_viet\">công ty ~</div> <div class=\"nghia_anh\">~ company</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ほうほう</b></div> <div class=\"kanji\">方法</div> <div class=\"nghia_viet\">phương pháp</div> <div class=\"nghia_anh\">method</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと</b></h3> <p></p> コーヒーは <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>から ２００<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>ぐらい <ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、オランダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ <ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って きました。 <ruby>明治<rp>（</rp><rt>めいじ</rt><rp>）</rp></ruby><ruby>時代<rp>（</rp><rt>じだい</rt><rp>）</rp></ruby>の <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまで コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は <ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なかったですが、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に <ruby>1人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby> ５６０<ruby>杯<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ぐらい コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。 <p></p> ところで、コーヒーは <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に <ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いと <ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>って いる <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はいませんか。 <ruby>実<rp>（</rp><rt>じつ</rt><rp>）</rp></ruby>は コーヒーは いろいろ いい <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが あります。 <p></p> まず <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れた とき、<ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>いけど、<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>や <ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>を しなければならない とき、コーヒー <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>に なります。 <ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが <ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>く なります。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の <ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>で コーヒーの <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きについて <ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べた ことが あります。 トラックの <ruby>運転手<rp>（</rp><rt>うんてんしゅ</rt><rp>）</rp></ruby>が <ruby>長<rp>（</rp><rt> なが</rt><rp>）</rp></ruby>い <ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby> <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を <ruby>運転<rp>（</rp><rt>うんてん</rt><rp>）</rp></ruby>してから、<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>な <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>を しました。 <ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>かったですから、 <ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>いが たくさん ありました。 コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んでから、もう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby> <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>を しました。 <ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>いは <ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なく なりました。 <p></p> <ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>に コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、リラックスする ことが できます。 ですから <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは <ruby>喫茶店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で <ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>と <ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>すとき、 <ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>が <ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わって <ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>むとき、よく コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。 <p></p> また <ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が <ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かく なります。 コーヒー 1<ruby>杯<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>は ２<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>の ジョギングと <ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じ を します。 <p></p> みなさん、ちょっと <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んで、コーヒーでも <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みませんか。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1. <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>1：（〇） コーヒーは オランダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ <ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って きました。 <p></p> <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>2：（Ｘ） <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby> <ruby>1人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby> １００<ruby>杯<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>ぐらい コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。 <p></p> 1)（ ） <ruby>明治<rp>（</rp><rt>めいじ</rt><rp>）</rp></ruby><ruby>時代<rp>（</rp><rt>じだい</rt><rp>）</rp></ruby>の <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>め <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は よく コーヒーを みました。 <p></p> 2)（ ） <ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>で トラックの <ruby>運転手<rp>（</rp><rt>うんてんしゅ</rt><rp>）</rp></ruby>の <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>の <ruby>仕方<rp>（</rp><rt>しかた</rt><rp>）</rp></ruby>について <ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べました。 <p></p> 3)（ ） <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れた とき、コーヒーは <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に <ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いです。 <p></p> 2．コーヒーの <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きを ４つ <ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p>II あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>で よく <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>み<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。<p></p>   どんな とき、<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みますか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Uống cà phê thì…</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">コーヒーは <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>から ２００<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>ぐらい <ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、オランダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ <ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って きました。</div><div class=\"kqdich\"><div class=\"nddich\">Cà phê được người Hà Lan mang đến Nhật Bản vào khoảng 200 năm trước.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>明治<rp>（</rp><rt>めいじ</rt><rp>）</rp></ruby><ruby>時代<rp>（</rp><rt>じだい</rt><rp>）</rp></ruby>の <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまで コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は <ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なかったですが、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に <ruby>1人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby> ５６０<ruby>杯<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ぐらい コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。</div><div class=\"kqdich\"><div class=\"nddich\">Đến vào đầu thời Minh Trị, những người uống cà phê ít ỏi, nhưng hiện nay người Nhật uống cà phê một người khoảng 560 cốc một năm.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">ところで、コーヒーは <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に <ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いと <ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>って いる <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はいませんか。</div><div class=\"kqdich\"><div class=\"nddich\">Có ai đó nghĩ rằng cà phê có hại cho sức khỏe không?</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>実<rp>（</rp><rt>じつ</rt><rp>）</rp></ruby>は コーヒーは いろいろ いい <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが あります。</div><div class=\"kqdich\"><div class=\"nddich\">Thật ra thì cà phê có rất nhiều tác dụng tốt.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">まず <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れた とき、<ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>いけど、<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>や <ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>を しなければならない とき、コーヒー <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>に なります。</div><div class=\"kqdich\"><div class=\"nddich\">Điều đầu tiên, khi chúng ta mệt mỏi, khi buồn ngủ nhưng phải làm việc hay học tập, nếu uống cà phê thì sẽ tỉnh táo hơn.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが <ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>く なります。</div><div class=\"kqdich\"><div class=\"nddich\">Bộ não sẽ hoạt động tốt hơn. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の <ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>で コーヒーの <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きについて <ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べた ことが あります。</div><div class=\"kqdich\"><div class=\"nddich\">Có cuộc khảo sát về công dụng của cà phê ở trường đại học Nhật Bản.</div></div></div> <div class=\"tudich\"><div class=\"candich\">トラックの <ruby>運転手<rp>（</rp><rt>うんてんしゅ</rt><rp>）</rp></ruby>が <ruby>長<rp>（</rp><rt> なが</rt><rp>）</rp></ruby>い <ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby> <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を <ruby>運転<rp>（</rp><rt>うんてん</rt><rp>）</rp></ruby>してから、<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>な <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>を しました。</div><div class=\"kqdich\"><div class=\"nddich\">Tài xế tính toán đơn giản sau khi lái xe tải một thời gian dài. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>かったですから、 <ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>いが たくさん ありました。</div><div class=\"kqdich\"><div class=\"nddich\">Vì buồn ngủ, nên đã có rất nhiều đáp án sai.</div></div></div> <div class=\"tudich\"><div class=\"candich\">コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んでから、もう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby> <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>を しました。</div><div class=\"kqdich\"><div class=\"nddich\">Sau khi uống cà phê rồi làm phép tính thêm một lần nữa. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>いは <ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なく なりました。</div><div class=\"kqdich\"><div class=\"nddich\">Đáp án sai ít hơn.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>に コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、リラックスする ことが できます。</div><div class=\"kqdich\"><div class=\"nddich\">Điều tiếp theo, uống cà phê có thể thư giãn.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ですから <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは <ruby>喫茶店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で <ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>と <ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>すとき、 <ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>が <ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わって <ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>むとき、よく コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy, chúng ta thường uống cà phê khi nói chuyện với bạn bè ở quán giải khát, hay khi nghỉ ngơi chốc lát sau khi kết thúc công việc.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">また <ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が <ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かく なります。</div><div class=\"kqdich\"><div class=\"nddich\">Hơn nữa khi uống cà phê nóng, cơ thể trở nên ấm hơn.</div></div></div> <div class=\"tudich\"><div class=\"candich\">コーヒー 1<ruby>杯<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>は ２<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>の ジョギングと <ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じ を します。</div><div class=\"kqdich\"><div class=\"nddich\">Một cốc cà phê giống như hai phút đi bộ.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">みなさん、ちょっと <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んで、コーヒーでも <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みませんか。</div><div class=\"kqdich\"><div class=\"nddich\">Mọi người nghỉ ngơi một chút rồi cùng uống cà phê nhé.</div></div></div> <p></p> <p></p><div class=\"tudich\"><div class=\"candich\">I 1. <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>1：（〇） コーヒーは オランダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ <ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って きました。</div><div class=\"kqdich\"><div class=\"nddich\">VÍ dụ 1: Cà phê được người Hà Lan mang đến Nhật bản. (Đúng)</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"> <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>2：（Ｘ） <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby> <ruby>1人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby> １００<ruby>杯<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>ぐらい コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。</div><div class=\"kqdich\"><div class=\"nddich\">Ví dụ 2: Hiện nay người Nhật uống cà phê mỗi người khoảng 100 cốc 1 năm. (Sai)</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"> 1)（<b>Ｘ</b>） <ruby>明治<rp>（</rp><rt>めいじ</rt><rp>）</rp></ruby><ruby>時代<rp>（</rp><rt>じだい</rt><rp>）</rp></ruby>の <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>め <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は よく コーヒーを みました。</div><div class=\"kqdich\"><div class=\"nddich\">Vào đầu thời Minh Trị, người Nhật thường uống cà phê.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"> 2)（<b>Ｘ</b>） <ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>で トラックの <ruby>運転手<rp>（</rp><rt>うんてんしゅ</rt><rp>）</rp></ruby>の <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>の <ruby>仕方<rp>（</rp><rt>しかた</rt><rp>）</rp></ruby>について <ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べました。</div><div class=\"kqdich\"><div class=\"nddich\">Khảo sát về cách tính toán của tài xế xe tải ở trường đại học.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"> 3)（<b>Ｘ</b>） <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れた とき、コーヒーは <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に <ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いです。</div><div class=\"kqdich\"><div class=\"nddich\">Khi mệt, cà phê không tốt cho cơ thể.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"> 2．コーヒーの <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きを ４つ <ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy viết ra 4 công dụng của cà phê.</div></div></div> <p></p> <p></p> <div class=\"tudich\"><div class=\"candich\"><b><ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>に なります。</b></div><div class=\"kqdich\"><div class=\"nddich\">Khỏe hơn.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><b><ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが よく なります。</b></div><div class=\"kqdich\"><div class=\"nddich\">Não hoạt động tốt hơn.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><b>リラックスする ことが できます。</b></div><div class=\"kqdich\"><div class=\"nddich\">Có thể thư giản.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><b><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が <ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かく なります。</b></div><div class=\"kqdich\"><div class=\"nddich\">Cơ thể ấm hơn.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">II あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>で よく <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>み<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。</div><div class=\"kqdich\"><div class=\"nddich\">Đồ uống thường được sử dụng ở đất nước bạn là gì?</div></div></div> <p></p>   <div class=\"tudich\"><div class=\"candich\">どんな とき、<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みますか。</div><div class=\"kqdich\"><div class=\"nddich\">Khi như thế nào thì uống?</div></div></div> </div> <p></p> <h5>Thông tin tham khảo</h5> <div class=\"baidoc23\"> <div class=\"tudich\"><div class=\"candich\"><p style=\"text-align: center\"><b>インスタントコーヒーは <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>が <ruby>発明<rp>（</rp><rt>はつめい</rt><rp>）</rp></ruby>した！</b></p></div><div class=\"kqdich\"><div class=\"nddich\">Cà phê hòa tan đã được người Nhật phát minh.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">インスタントコーヒーを <ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めて <ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>った <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Người mà tạo ra cà phê hòa tan lần đầu tiên là người Nhật.</div></div></div> <div class=\"tudich\"><div class=\"candich\">シカゴに <ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んで いた <ruby>加藤<rp>（</rp><rt>かとう</rt><rp>）</rp></ruby>サトリは 「<ruby>粉末<rp>（</rp><rt>ふんまつ</rt><rp>）</rp></ruby>コーヒー」を <ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>って、１９０１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に <ruby>発表<rp>（</rp><rt>はっぴょう</rt><rp>）</rp></ruby>しました。</div><div class=\"kqdich\"><div class=\"nddich\">Katou Satori sống ở Chicago đã tạo ra “Cà phê dạng bột”, ra mắt vào năm 1901.</div></div></div> <div class=\"tudich\"><div class=\"candich\">しかし、この <ruby>粉末<rp>（</rp><rt>ふんまつ</rt><rp>）</rp></ruby>コーヒーは あまり <ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>に なりませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Nhưng cà phê bột không được nổi tiếng lắm. </div></div></div> <div class=\"tudich\"><div class=\"candich\">１９３８<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に スイスの コーヒー<ruby>会社<rp>（</rp><rt>がいしゃ</rt><rp>）</rp></ruby>が <ruby>加藤<rp>（</rp><rt>かとう</rt><rp>）</rp></ruby>サトリが <ruby>発明<rp>（</rp><rt>はつめい</rt><rp>）</rp></ruby>した<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>を いろいろ <ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>して、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>の インスタントコーヒーを <ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りました。</div><div class=\"kqdich\"><div class=\"nddich\">Vào năm 1938 công ty cà phê ở Thụy Sĩ nghiên cứu nhiều về phương pháp mà Katousatori phát minh, và đã sản xuất ra cà phê hòa tan như hiện tại. </div></div></div> </div> </div><!--END--> </div> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "コーヒーを 飲（の）むと",
+          "textHtml": "<b>コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> コーヒーは <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>から ２００<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>ぐらい <ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、オランダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ <ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って きました。 <ruby>明治<rp>（</rp><rt>めいじ</rt><rp>）</rp></ruby><ruby>時代<rp>（</rp><rt>じだい</rt><rp>）</rp></ruby>の <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまで コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は <ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なかったですが、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に <ruby>1人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby> ５６０<ruby>杯<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ぐらい コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。 <p></p> ところで、コーヒーは <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に <ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いと <ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>って いる <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はいませんか。 <ruby>実<rp>（</rp><rt>じつ</rt><rp>）</rp></ruby>は コーヒーは いろいろ いい <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが あります。 <p></p> まず <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れた とき、<ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>いけど、<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>や <ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>を しなければならない とき、コーヒー <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>に なります。 <ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが <ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>く なります。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の <ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>で コーヒーの <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きについて <ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べた ことが あります。 トラックの <ruby>運転手<rp>（</rp><rt>うんてんしゅ</rt><rp>）</rp></ruby>が <ruby>長<rp>（</rp><rt> なが</rt><rp>）</rp></ruby>い <ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby> <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を <ruby>運転<rp>（</rp><rt>うんてん</rt><rp>）</rp></ruby>してから、<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>な <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>を しました。 <ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>かったですから、 <ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>いが たくさん ありました。 コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んでから、もう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby> <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>を しました。 <ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>いは <ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なく なりました。 <p></p> <ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>に コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、リラックスする ことが できます。 ですから <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは <ruby>喫茶店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で <ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>と <ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>すとき、 <ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>が <ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わって <ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>むとき、よく コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。 <p></p> また <ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が <ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かく なります。 コーヒー 1<ruby>杯<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>は ２<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>の ジョギングと <ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じ を します。 <p></p> みなさん、ちょっと <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んで、コーヒーでも <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みませんか。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1. <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>1：（〇） コーヒーは オランダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ <ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って きました。 <p></p> <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>2：（Ｘ） <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby> <ruby>1人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby> １００<ruby>杯<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>ぐらい コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。 <p></p> 1)（ ） <ruby>明治<rp>（</rp><rt>めいじ</rt><rp>）</rp></ruby><ruby>時代<rp>（</rp><rt>じだい</rt><rp>）</rp></ruby>の <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>め <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は よく コーヒーを みました。 <p></p> 2)（ ） <ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>で トラックの <ruby>運転手<rp>（</rp><rt>うんてんしゅ</rt><rp>）</rp></ruby>の <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>の <ruby>仕方<rp>（</rp><rt>しかた</rt><rp>）</rp></ruby>について <ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べました。 <p></p> 3)（ ） <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れた とき、コーヒーは <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に <ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いです。 <p></p> 2．コーヒーの <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きを ４つ <ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p>II あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>で よく <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>み<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。<p></p> どんな とき、<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みますか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Uống cà phê thì…",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "コーヒーを 飲（の）むと",
+              "japaneseHtml": "<h3 style=\"text-align: center; \"><b>コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと</b></h3>",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Uống cà phê thì…"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "コーヒーは 今（いま）から ２００年（ねん）ぐらい 前（まえ）に、オランダ人（じん）が 日本（にほん）へ 持（も）って きました。",
+          "japaneseHtml": "コーヒーは <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>から ２００<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>ぐらい <ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、オランダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ <ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Cà phê được người Hà Lan mang đến Nhật Bản vào khoảng 200 năm trước.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "明治（めいじ）時代（じだい）の 初（はじ）めまで コーヒーを 飲（の）む 人（ひと）は 少（すく）なかったですが、今（いま） 日本人（にほんじん）は １年（ねん）に 1人（ひとり） ５６０杯（はい）ぐらい コーヒーを 飲（の）みます。",
+          "japaneseHtml": "<ruby>明治<rp>（</rp><rt>めいじ</rt><rp>）</rp></ruby><ruby>時代<rp>（</rp><rt>じだい</rt><rp>）</rp></ruby>の <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまで コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は <ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なかったですが、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に <ruby>1人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby> ５６０<ruby>杯<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ぐらい コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đến vào đầu thời Minh Trị, những người uống cà phê ít ỏi, nhưng hiện nay người Nhật uống cà phê một người khoảng 560 cốc một năm.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ところで、コーヒーは 体（からだ）に 悪（わる）いと 思（おも）って いる 人（ひと）はいませんか。",
+          "japaneseHtml": "ところで、コーヒーは <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に <ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いと <ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>って いる <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はいませんか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Có ai đó nghĩ rằng cà phê có hại cho sức khỏe không?</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "実（じつ）は コーヒーは いろいろ いい 働（はたら）きが あります。",
+          "japaneseHtml": "<ruby>実<rp>（</rp><rt>じつ</rt><rp>）</rp></ruby>は コーヒーは いろいろ いい <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが あります。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Thật ra thì cà phê có rất nhiều tác dụng tốt.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "まず 疲（つか）れた とき、眠（ねむ）いけど、仕事（しごと）や 勉強（べんきょう）を しなければならない とき、コーヒー 飲（の）むと、元気（げんき）に なります。",
+          "japaneseHtml": "まず <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れた とき、<ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>いけど、<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>や <ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>を しなければならない とき、コーヒー <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>に なります。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Điều đầu tiên, khi chúng ta mệt mỏi, khi buồn ngủ nhưng phải làm việc hay học tập, nếu uống cà phê thì sẽ tỉnh táo hơn.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "頭（あたま）の 働（はたら）きが 良（よ）く なります。",
+          "japaneseHtml": "<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが <ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>く なります。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bộ não sẽ hoạt động tốt hơn. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）の 大学（だいがく）で コーヒーの 働（はたら）きについて 調（しら）べた ことが あります。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の <ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>で コーヒーの <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きについて <ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べた ことが あります。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Có cuộc khảo sát về công dụng của cà phê ở trường đại học Nhật Bản.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "トラックの 運転手（うんてんしゅ）が 長（ なが）い 時間（じかん） 車（くるま）を 運転（うんてん）してから、簡単（かんたん）な 計算（けいさん）を しました。",
+          "japaneseHtml": "トラックの <ruby>運転手<rp>（</rp><rt>うんてんしゅ</rt><rp>）</rp></ruby>が <ruby>長<rp>（</rp><rt> なが</rt><rp>）</rp></ruby>い <ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby> <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を <ruby>運転<rp>（</rp><rt>うんてん</rt><rp>）</rp></ruby>してから、<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>な <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>を しました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Tài xế tính toán đơn giản sau khi lái xe tải một thời gian dài. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "眠（ねむ）かったですから、 間違（まちが）いが たくさん ありました。",
+          "japaneseHtml": "<ruby>眠<rp>（</rp><rt>ねむ</rt><rp>）</rp></ruby>かったですから、 <ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>いが たくさん ありました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vì buồn ngủ, nên đã có rất nhiều đáp án sai.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "コーヒーを 飲（の）んでから、もう一度（いちど） 計算（けいさん）を しました。",
+          "japaneseHtml": "コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んでから、もう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby> <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>を しました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Sau khi uống cà phê rồi làm phép tính thêm một lần nữa. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "間違（まちが）いは 少（すく）なく なりました。",
+          "japaneseHtml": "<ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>いは <ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なく なりました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đáp án sai ít hơn.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "次（つぎ）に コーヒーを 飲（の）むと、リラックスする ことが できます。",
+          "japaneseHtml": "<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>に コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、リラックスする ことが できます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Điều tiếp theo, uống cà phê có thể thư giãn.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ですから 私（わたし）たちは 喫茶店（きっさてん）で 友達（ともだち）と 話（はな）すとき、 仕事（しごと）が 終（お）わって 少（すこ）し 休（やす）むとき、よく コーヒーを 飲（の）みます。",
+          "japaneseHtml": "ですから <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは <ruby>喫茶店<rp>（</rp><rt>きっさてん</rt><rp>）</rp></ruby>で <ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>と <ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>すとき、 <ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>が <ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わって <ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>むとき、よく コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vì vậy, chúng ta thường uống cà phê khi nói chuyện với bạn bè ở quán giải khát, hay khi nghỉ ngơi chốc lát sau khi kết thúc công việc.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "また 熱（あつ）い コーヒーを 飲（の）むと、体（からだ）が 温（あたた）かく なります。",
+          "japaneseHtml": "また <ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が <ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かく なります。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Hơn nữa khi uống cà phê nóng, cơ thể trở nên ấm hơn.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "コーヒー 1杯（ぱい）は ２分（ふん）の ジョギングと 同（おな）じ を します。",
+          "japaneseHtml": "コーヒー 1<ruby>杯<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>は ２<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>の ジョギングと <ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じ を します。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Một cốc cà phê giống như hai phút đi bộ.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "みなさん、ちょっと 休（やす）んで、コーヒーでも 飲（の）みませんか。",
+          "japaneseHtml": "みなさん、ちょっと <ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んで、コーヒーでも <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みませんか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Mọi người nghỉ ngơi một chút rồi cùng uống cà phê nhé.</div></div></div> <p></p> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1. 例（れい）1：（〇） コーヒーは オランダ人（じん）が 日本（にほん）へ 持（も）って きました。",
+          "japaneseHtml": "I 1. <ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>1：（〇） コーヒーは オランダ<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>へ <ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って きました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">VÍ dụ 1: Cà phê được người Hà Lan mang đến Nhật bản. (Đúng)</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "例（れい）2：（Ｘ） 今（いま） 日本人（にほんじん）は １年（ねん） 1人（ひとり） １００杯（ぱい）ぐらい コーヒーを 飲（の）みます。",
+          "japaneseHtml": "<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby>2：（Ｘ） <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby> <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby> <ruby>1人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby> １００<ruby>杯<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>ぐらい コーヒーを <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みます。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Ví dụ 2: Hiện nay người Nhật uống cà phê mỗi người khoảng 100 cốc 1 năm. (Sai)</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（Ｘ） 明治（めいじ）時代（じだい）の 初（はじ）め 日本人（にほんじん）は よく コーヒーを みました。",
+          "japaneseHtml": "1)（<b>Ｘ</b>） <ruby>明治<rp>（</rp><rt>めいじ</rt><rp>）</rp></ruby><ruby>時代<rp>（</rp><rt>じだい</rt><rp>）</rp></ruby>の <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>め <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は よく コーヒーを みました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vào đầu thời Minh Trị, người Nhật thường uống cà phê.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（Ｘ） 大学（だいがく）で トラックの 運転手（うんてんしゅ）の 計算（けいさん）の 仕方（しかた）について 調（しら）べました。",
+          "japaneseHtml": "2)（<b>Ｘ</b>） <ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>で トラックの <ruby>運転手<rp>（</rp><rt>うんてんしゅ</rt><rp>）</rp></ruby>の <ruby>計算<rp>（</rp><rt>けいさん</rt><rp>）</rp></ruby>の <ruby>仕方<rp>（</rp><rt>しかた</rt><rp>）</rp></ruby>について <ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Khảo sát về cách tính toán của tài xế xe tải ở trường đại học.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（Ｘ） 疲（つか）れた とき、コーヒーは 体（からだ）に 悪（わる）いです。",
+          "japaneseHtml": "3)（<b>Ｘ</b>） <ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れた とき、コーヒーは <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に <ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>いです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Khi mệt, cà phê không tốt cho cơ thể.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2．コーヒーの 働（はたら）きを ４つ 書（か）いてください。",
+          "japaneseHtml": "2．コーヒーの <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きを ４つ <ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Hãy viết ra 4 công dụng của cà phê.</div></div></div> <p></p> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "元気（げんき）に なります。",
+          "japaneseHtml": "<b><ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>に なります。</b>",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Khỏe hơn.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "頭（あたま）の 働（はたら）きが よく なります。",
+          "japaneseHtml": "<b><ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の <ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>きが よく なります。</b>",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Não hoạt động tốt hơn.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "リラックスする ことが できます。",
+          "japaneseHtml": "<b>リラックスする ことが できます。</b>",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Có thể thư giản.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "体（からだ）が 温（あたた）かく なります。",
+          "japaneseHtml": "<b><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が <ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かく なります。</b>",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Cơ thể ấm hơn.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II あなたの 国（くに）で よく 飲（の）む 飲（の）み物（もの）は 何（なん）ですか。",
+          "japaneseHtml": "II あなたの <ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>で よく <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>み<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は <ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đồ uống thường được sử dụng ở đất nước bạn là gì?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どんな とき、飲（の）みますか。",
+          "japaneseHtml": "どんな とき、<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>みますか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Khi như thế nào thì uống?</div></div></div> </div> <p></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Thông tin tham khảo",
+          "textHtml": "Thông tin tham khảo"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "インスタントコーヒーは 日本人（にほんじん）が 発明（はつめい）した！",
+          "japaneseHtml": "<p style=\"text-align: center\"><b>インスタントコーヒーは <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>が <ruby>発明<rp>（</rp><rt>はつめい</rt><rp>）</rp></ruby>した！</b></p>",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Cà phê hòa tan đã được người Nhật phát minh.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "インスタントコーヒーを 始（はじ）めて 作（つく）った 人（ひと）は 日本人（にほんじん）です。",
+          "japaneseHtml": "インスタントコーヒーを <ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めて <ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>った <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Người mà tạo ra cà phê hòa tan lần đầu tiên là người Nhật.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "シカゴに 住（す）んで いた 加藤（かとう）サトリは 「粉末（ふんまつ）コーヒー」を 作（つく）って、１９０１年（ねん）に 発表（はっぴょう）しました。",
+          "japaneseHtml": "シカゴに <ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んで いた <ruby>加藤<rp>（</rp><rt>かとう</rt><rp>）</rp></ruby>サトリは 「<ruby>粉末<rp>（</rp><rt>ふんまつ</rt><rp>）</rp></ruby>コーヒー」を <ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>って、１９０１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に <ruby>発表<rp>（</rp><rt>はっぴょう</rt><rp>）</rp></ruby>しました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Katou Satori sống ở Chicago đã tạo ra “Cà phê dạng bột”, ra mắt vào năm 1901.</div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しかし、この 粉末（ふんまつ）コーヒーは あまり 有名（ゆうめい）に なりませんでした。",
+          "japaneseHtml": "しかし、この <ruby>粉末<rp>（</rp><rt>ふんまつ</rt><rp>）</rp></ruby>コーヒーは あまり <ruby>有名<rp>（</rp><rt>ゆうめい</rt><rp>）</rp></ruby>に なりませんでした。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Nhưng cà phê bột không được nổi tiếng lắm. </div></div></div>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１９３８年（ねん）に スイスの コーヒー会社（がいしゃ）が 加藤（かとう）サトリが 発明（はつめい）した方法（ほうほう）を いろいろ 研究（けんきゅう）して、今（いま）の インスタントコーヒーを 作（つく）りました。",
+          "japaneseHtml": "１９３８<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に スイスの コーヒー<ruby>会社<rp>（</rp><rt>がいしゃ</rt><rp>）</rp></ruby>が <ruby>加藤<rp>（</rp><rt>かとう</rt><rp>）</rp></ruby>サトリが <ruby>発明<rp>（</rp><rt>はつめい</rt><rp>）</rp></ruby>した<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>を いろいろ <ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>して、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>の インスタントコーヒーを <ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Vào năm 1938 công ty cà phê ở Thụy Sĩ nghiên cứu nhiều về phương pháp mà Katousatori phát minh, và đã sản xuất ra cà phê hòa tan như hiện tại. </div></div></div> </div> </div><!--END--> </div> </div>"
+        }
+      ]
+    }
+  ]
+}

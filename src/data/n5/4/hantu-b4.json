@@ -1,0 +1,310 @@
+{
+  "lesson": 4,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "起きます",
+      "kanjiHtml": "起きます",
+      "sinoVietnamese": "KHỞI",
+      "kana": "おきます",
+      "kanaHtml": "おきます"
+    },
+    {
+      "index": 2,
+      "kanji": "寝ます",
+      "kanjiHtml": "寝ます",
+      "sinoVietnamese": "TẨM",
+      "kana": "ねます",
+      "kanaHtml": "ねます"
+    },
+    {
+      "index": 3,
+      "kanji": "働きます",
+      "kanjiHtml": "働きます",
+      "sinoVietnamese": "ĐỘNG",
+      "kana": "はたらきます",
+      "kanaHtml": "はたらきます"
+    },
+    {
+      "index": 4,
+      "kanji": "休みます",
+      "kanjiHtml": "休みます",
+      "sinoVietnamese": "HƯU",
+      "kana": "やすみます",
+      "kanaHtml": "やすみます"
+    },
+    {
+      "index": 5,
+      "kanji": "勉強します",
+      "kanjiHtml": "勉強します",
+      "sinoVietnamese": "MIỄN CƯỜNG",
+      "kana": "べんきょうします",
+      "kanaHtml": "べんきょうします"
+    },
+    {
+      "index": 6,
+      "kanji": "終わります",
+      "kanjiHtml": "終わります",
+      "sinoVietnamese": "CHUNG",
+      "kana": "おわります",
+      "kanaHtml": "おわります"
+    },
+    {
+      "index": 7,
+      "kanji": "銀行",
+      "kanjiHtml": "銀行",
+      "sinoVietnamese": "NGÂN HÀNH",
+      "kana": "ぎんこう",
+      "kanaHtml": "ぎんこう"
+    },
+    {
+      "index": 8,
+      "kanji": "郵便局",
+      "kanjiHtml": "郵便局",
+      "sinoVietnamese": "BƯU TIỆN CỤC",
+      "kana": "ゆうびんきょく",
+      "kanaHtml": "ゆうびんきょく"
+    },
+    {
+      "index": 9,
+      "kanji": "図書館",
+      "kanjiHtml": "図書館",
+      "sinoVietnamese": "ĐỒ THƯ QUÁN",
+      "kana": "としょかん",
+      "kanaHtml": "としょかん"
+    },
+    {
+      "index": 10,
+      "kanji": "美術館",
+      "kanjiHtml": "美術館",
+      "sinoVietnamese": "MỸ THUẬT QUÁN",
+      "kana": "びじゅつかん",
+      "kanaHtml": "びじゅつかん"
+    },
+    {
+      "index": 11,
+      "kanji": "今",
+      "kanjiHtml": "今",
+      "sinoVietnamese": "KIM",
+      "kana": "いま",
+      "kanaHtml": "いま"
+    },
+    {
+      "index": 12,
+      "kanji": "－時",
+      "kanjiHtml": "－時",
+      "sinoVietnamese": "THỜI",
+      "kana": "―じ",
+      "kanaHtml": "―じ"
+    },
+    {
+      "index": 13,
+      "kanji": "―分",
+      "kanjiHtml": "―分",
+      "sinoVietnamese": "PHÂN",
+      "kana": "―ふん（－ぷん）",
+      "kanaHtml": "―ふん（－ぷん）"
+    },
+    {
+      "index": 14,
+      "kanji": "半",
+      "kanjiHtml": "半",
+      "sinoVietnamese": "BÁN",
+      "kana": "はん",
+      "kanaHtml": "はん"
+    },
+    {
+      "index": 15,
+      "kanji": "何時",
+      "kanjiHtml": "何時",
+      "sinoVietnamese": "HÀ THỜI",
+      "kana": "なんじ",
+      "kanaHtml": "なんじ"
+    },
+    {
+      "index": 16,
+      "kanji": "何分",
+      "kanjiHtml": "何分",
+      "sinoVietnamese": "HÀ PHÂN",
+      "kana": "なんぷん",
+      "kanaHtml": "なんぷん"
+    },
+    {
+      "index": 17,
+      "kanji": "午前",
+      "kanjiHtml": "午前",
+      "sinoVietnamese": "NGỌ TIỀN",
+      "kana": "ごぜん",
+      "kanaHtml": "ごぜん"
+    },
+    {
+      "index": 18,
+      "kanji": "午後",
+      "kanjiHtml": "午後",
+      "sinoVietnamese": "NGỌ HẬU",
+      "kana": "ごご",
+      "kanaHtml": "ごご"
+    },
+    {
+      "index": 19,
+      "kanji": "朝",
+      "kanjiHtml": "朝",
+      "sinoVietnamese": "TRIỀU",
+      "kana": "あさ",
+      "kanaHtml": "あさ"
+    },
+    {
+      "index": 20,
+      "kanji": "昼",
+      "kanjiHtml": "昼",
+      "sinoVietnamese": "TRÚ",
+      "kana": "ひる",
+      "kanaHtml": "ひる"
+    },
+    {
+      "index": 21,
+      "kanji": "晩(夜)",
+      "kanjiHtml": "晩(夜)",
+      "sinoVietnamese": "VÃN(DẠ)",
+      "kana": "ばん（よる）",
+      "kanaHtml": "ばん（よる）"
+    },
+    {
+      "index": 22,
+      "kanji": "今晩",
+      "kanjiHtml": "今晩",
+      "sinoVietnamese": "KIM VÃN",
+      "kana": "こんばん",
+      "kanaHtml": "こんばん"
+    },
+    {
+      "index": 23,
+      "kanji": "休み",
+      "kanjiHtml": "休み",
+      "sinoVietnamese": "HƯU",
+      "kana": "やすみ",
+      "kanaHtml": "やすみ"
+    },
+    {
+      "index": 24,
+      "kanji": "昼休み",
+      "kanjiHtml": "昼休み",
+      "sinoVietnamese": "TRÚ HƯU",
+      "kana": "ひるやすみ",
+      "kanaHtml": "ひるやすみ"
+    },
+    {
+      "index": 25,
+      "kanji": "試験",
+      "kanjiHtml": "試験",
+      "sinoVietnamese": "THÍ NGHIỆM",
+      "kana": "試験（しけん）",
+      "kanaHtml": "<ruby>試験<rp>（</rp><rt>しけん</rt><rp>）</rp></ruby>"
+    },
+    {
+      "index": 26,
+      "kanji": "会議",
+      "kanjiHtml": "会議",
+      "sinoVietnamese": "HỘI NGHỊ",
+      "kana": "会議（かいぎ）",
+      "kanaHtml": "<ruby>会議<rp>（</rp><rt>かいぎ</rt><rp>）</rp></ruby>"
+    },
+    {
+      "index": 27,
+      "kanji": "映画",
+      "kanjiHtml": "映画",
+      "sinoVietnamese": "ÁNH HỌA",
+      "kana": "映画（えいが）",
+      "kanaHtml": "<ruby>映画<rp>（</rp><rt>えいが</rt><rp>）</rp></ruby>"
+    },
+    {
+      "index": 28,
+      "kanji": "毎朝",
+      "kanjiHtml": "毎朝",
+      "sinoVietnamese": "MỖI TRIỀU",
+      "kana": "まいあさ",
+      "kanaHtml": "まいあさ"
+    },
+    {
+      "index": 29,
+      "kanji": "毎晩",
+      "kanjiHtml": "毎晩",
+      "sinoVietnamese": "MỖI VÃN",
+      "kana": "まいばん",
+      "kanaHtml": "まいばん"
+    },
+    {
+      "index": 30,
+      "kanji": "毎日",
+      "kanjiHtml": "毎日",
+      "sinoVietnamese": "MỖI NHẬT",
+      "kana": "まいにち",
+      "kanaHtml": "まいにち"
+    },
+    {
+      "index": 31,
+      "kanji": "月曜日",
+      "kanjiHtml": "月曜日",
+      "sinoVietnamese": "NGUYỆT DIỆU NHẬT",
+      "kana": "げつようび",
+      "kanaHtml": "げつようび"
+    },
+    {
+      "index": 32,
+      "kanji": "火曜日",
+      "kanjiHtml": "火曜日",
+      "sinoVietnamese": "HỎA DIỆU NHẬT",
+      "kana": "かようび",
+      "kanaHtml": "かようび"
+    },
+    {
+      "index": 33,
+      "kanji": "水曜日",
+      "kanjiHtml": "水曜日",
+      "sinoVietnamese": "THỦY DIỆU NHẬT",
+      "kana": "すいようび",
+      "kanaHtml": "すいようび"
+    },
+    {
+      "index": 34,
+      "kanji": "木曜日",
+      "kanjiHtml": "木曜日",
+      "sinoVietnamese": "MỘC DIỆU NHẬT",
+      "kana": "もくようび",
+      "kanaHtml": "もくようび"
+    },
+    {
+      "index": 35,
+      "kanji": "金曜日",
+      "kanjiHtml": "金曜日",
+      "sinoVietnamese": "KIM DIỆU NHẬT",
+      "kana": "きんようび",
+      "kanaHtml": "きんようび"
+    },
+    {
+      "index": 36,
+      "kanji": "土曜日",
+      "kanjiHtml": "土曜日",
+      "sinoVietnamese": "THỔ DIỆU NHẬT",
+      "kana": "どようび",
+      "kanaHtml": "どようび"
+    },
+    {
+      "index": 37,
+      "kanji": "日曜日",
+      "kanjiHtml": "日曜日",
+      "sinoVietnamese": "NHẬT DIỆU NHẬT",
+      "kana": "にちようび",
+      "kanaHtml": "にちようび"
+    },
+    {
+      "index": 38,
+      "kanji": "何曜日",
+      "kanjiHtml": "何曜日",
+      "sinoVietnamese": "HÀ DIỆU NHẬT",
+      "kana": "なんようび",
+      "kanaHtml": "なんようび"
+    }
+  ]
+}

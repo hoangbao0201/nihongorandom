@@ -1,0 +1,338 @@
+{
+  "lesson": 18,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "動（うご）き Động tác",
+      "titleHtml": "<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>き Động tác",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "飛（と）ぶ",
+              "html": "<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶ"
+            },
+            {
+              "text": "bay",
+              "html": "bay"
+            }
+          ],
+          "term": "飛（と）ぶ",
+          "termHtml": "<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶ",
+          "meaning": "bay",
+          "meaningHtml": "bay"
+        },
+        {
+          "cells": [
+            {
+              "text": "跳（と）ぶ",
+              "html": "<ruby>跳<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶ"
+            },
+            {
+              "text": "nhảy",
+              "html": "nhảy"
+            }
+          ],
+          "term": "跳（と）ぶ",
+          "termHtml": "<ruby>跳<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶ",
+          "meaning": "nhảy",
+          "meaningHtml": "nhảy"
+        },
+        {
+          "cells": [
+            {
+              "text": "登（のぼ）る",
+              "html": "<ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>る"
+            },
+            {
+              "text": "leo",
+              "html": "leo"
+            }
+          ],
+          "term": "登（のぼ）る",
+          "termHtml": "<ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>る",
+          "meaning": "leo",
+          "meaningHtml": "leo"
+        },
+        {
+          "cells": [
+            {
+              "text": "走（はし）る",
+              "html": "<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>る"
+            },
+            {
+              "text": "chạy",
+              "html": "chạy"
+            }
+          ],
+          "term": "走（はし）る",
+          "termHtml": "<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>る",
+          "meaning": "chạy",
+          "meaningHtml": "chạy"
+        },
+        {
+          "cells": [
+            {
+              "text": "泳（およ）ぐ",
+              "html": "<ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>ぐ"
+            },
+            {
+              "text": "bơi",
+              "html": "bơi"
+            }
+          ],
+          "term": "泳（およ）ぐ",
+          "termHtml": "<ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>ぐ",
+          "meaning": "bơi",
+          "meaningHtml": "bơi"
+        },
+        {
+          "cells": [
+            {
+              "text": "もぐる",
+              "html": "もぐる"
+            },
+            {
+              "text": "lặn",
+              "html": "lặn"
+            }
+          ],
+          "term": "もぐる",
+          "termHtml": "もぐる",
+          "meaning": "lặn",
+          "meaningHtml": "lặn"
+        },
+        {
+          "cells": [
+            {
+              "text": "飛（と）び込（こ）む",
+              "html": "<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>び<ruby>込<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>む"
+            },
+            {
+              "text": "nhảy xuống",
+              "html": "nhảy xuống"
+            }
+          ],
+          "term": "飛（と）び込（こ）む",
+          "termHtml": "<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>び<ruby>込<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>む",
+          "meaning": "nhảy xuống",
+          "meaningHtml": "nhảy xuống"
+        },
+        {
+          "cells": [
+            {
+              "text": "逆立（さかだ）ちする",
+              "html": "<ruby>逆立<rp>（</rp><rt>さかだ</rt><rp>）</rp></ruby>ちする"
+            },
+            {
+              "text": "lộn ngược, trồng cây chuối",
+              "html": "lộn ngược, trồng cây chuối"
+            }
+          ],
+          "term": "逆立（さかだ）ちする",
+          "termHtml": "<ruby>逆立<rp>（</rp><rt>さかだ</rt><rp>）</rp></ruby>ちする",
+          "meaning": "lộn ngược, trồng cây chuối",
+          "meaningHtml": "lộn ngược, trồng cây chuối"
+        },
+        {
+          "cells": [
+            {
+              "text": "はう",
+              "html": "はう"
+            },
+            {
+              "text": "bò",
+              "html": "bò"
+            }
+          ],
+          "term": "はう",
+          "termHtml": "はう",
+          "meaning": "bò",
+          "meaningHtml": "bò"
+        },
+        {
+          "cells": [
+            {
+              "text": "ける",
+              "html": "ける"
+            },
+            {
+              "text": "đá",
+              "html": "đá"
+            }
+          ],
+          "term": "ける",
+          "termHtml": "ける",
+          "meaning": "đá",
+          "meaningHtml": "đá"
+        },
+        {
+          "cells": [
+            {
+              "text": "振（ふ）る",
+              "html": "<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>る"
+            },
+            {
+              "text": "vẫy",
+              "html": "vẫy"
+            }
+          ],
+          "term": "振（ふ）る",
+          "termHtml": "<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>る",
+          "meaning": "vẫy",
+          "meaningHtml": "vẫy"
+        },
+        {
+          "cells": [
+            {
+              "text": "持（も）ち上（あ）げる",
+              "html": "<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>ち<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる"
+            },
+            {
+              "text": "nhâng, nhấc",
+              "html": "nhâng, nhấc"
+            }
+          ],
+          "term": "持（も）ち上（あ）げる",
+          "termHtml": "<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>ち<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる",
+          "meaning": "nhâng, nhấc",
+          "meaningHtml": "nhâng, nhấc"
+        },
+        {
+          "cells": [
+            {
+              "text": "投（な）げる",
+              "html": "<ruby>投<rp>（</rp><rt>な</rt><rp>）</rp></ruby>げる"
+            },
+            {
+              "text": "ném",
+              "html": "ném"
+            }
+          ],
+          "term": "投（な）げる",
+          "termHtml": "<ruby>投<rp>（</rp><rt>な</rt><rp>）</rp></ruby>げる",
+          "meaning": "ném",
+          "meaningHtml": "ném"
+        },
+        {
+          "cells": [
+            {
+              "text": "たたく",
+              "html": "たたく"
+            },
+            {
+              "text": "đấm, đập, vỗ",
+              "html": "đấm, đập, vỗ"
+            }
+          ],
+          "term": "たたく",
+          "termHtml": "たたく",
+          "meaning": "đấm, đập, vỗ",
+          "meaningHtml": "đấm, đập, vỗ"
+        },
+        {
+          "cells": [
+            {
+              "text": "引（ひ）く",
+              "html": "<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>く"
+            },
+            {
+              "text": "kéo",
+              "html": "kéo"
+            }
+          ],
+          "term": "引（ひ）く",
+          "termHtml": "<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>く",
+          "meaning": "kéo",
+          "meaningHtml": "kéo"
+        },
+        {
+          "cells": [
+            {
+              "text": "押（お）す",
+              "html": "<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>す"
+            },
+            {
+              "text": "đẩy",
+              "html": "đẩy"
+            }
+          ],
+          "term": "押（お）す",
+          "termHtml": "<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>す",
+          "meaning": "đẩy",
+          "meaningHtml": "đẩy"
+        },
+        {
+          "cells": [
+            {
+              "text": "曲（ま）げる",
+              "html": "<ruby>曲<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>げる"
+            },
+            {
+              "text": "uốn, gập, bẻ cong",
+              "html": "uốn, gập, bẻ cong"
+            }
+          ],
+          "term": "曲（ま）げる",
+          "termHtml": "<ruby>曲<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>げる",
+          "meaning": "uốn, gập, bẻ cong",
+          "meaningHtml": "uốn, gập, bẻ cong"
+        },
+        {
+          "cells": [
+            {
+              "text": "伸（の）ばす",
+              "html": "<ruby>伸<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ばす"
+            },
+            {
+              "text": "duỗi thẳng, kéo dài ra",
+              "html": "duỗi thẳng, kéo dài ra"
+            }
+          ],
+          "term": "伸（の）ばす",
+          "termHtml": "<ruby>伸<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ばす",
+          "meaning": "duỗi thẳng, kéo dài ra",
+          "meaningHtml": "duỗi thẳng, kéo dài ra"
+        },
+        {
+          "cells": [
+            {
+              "text": "転（ころ）ぶ",
+              "html": "<ruby>転<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>ぶ"
+            },
+            {
+              "text": "ngã",
+              "html": "ngã"
+            }
+          ],
+          "term": "転（ころ）ぶ",
+          "termHtml": "<ruby>転<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>ぶ",
+          "meaning": "ngã",
+          "meaningHtml": "ngã"
+        },
+        {
+          "cells": [
+            {
+              "text": "振（ふ）り向（む）く",
+              "html": "<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>り<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>く"
+            },
+            {
+              "text": "ngoảnh lại",
+              "html": "ngoảnh lại"
+            }
+          ],
+          "term": "振（ふ）り向（む）く",
+          "termHtml": "<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>り<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>く",
+          "meaning": "ngoảnh lại",
+          "meaningHtml": "ngoảnh lại"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶ</td> <td>bay</td> </tr><tr> <td width=\"40%\"><ruby>跳<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶ</td> <td>nhảy</td> </tr><tr> <td width=\"40%\"><ruby>登<rp>（</rp><rt>のぼ</rt><rp>）</rp></ruby>る</td> <td>leo</td> </tr><tr> <td width=\"40%\"><ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>る</td> <td>chạy</td> </tr><tr> <td width=\"40%\"><ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>ぐ</td> <td>bơi</td> </tr><tr> <td width=\"40%\">もぐる</td> <td>lặn</td> </tr><tr> <td width=\"40%\"><ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>び<ruby>込<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>む</td> <td>nhảy xuống</td> </tr><tr> <td width=\"40%\"><ruby>逆立<rp>（</rp><rt>さかだ</rt><rp>）</rp></ruby>ちする</td> <td>lộn ngược, trồng cây chuối</td> </tr><tr> <td width=\"40%\">はう</td> <td>bò</td> </tr><tr> <td width=\"40%\">ける</td> <td>đá</td> </tr><tr> <td width=\"40%\"><ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>る</td> <td>vẫy</td> </tr><tr> <td width=\"40%\"><ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>ち<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる</td> <td>nhâng, nhấc</td> </tr><tr> <td width=\"40%\"><ruby>投<rp>（</rp><rt>な</rt><rp>）</rp></ruby>げる</td> <td>ném</td> </tr><tr> <td width=\"40%\">たたく</td> <td>đấm, đập, vỗ</td> </tr><tr> <td width=\"40%\"><ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>く</td> <td>kéo</td> </tr><tr> <td width=\"40%\"><ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>す</td> <td>đẩy</td> </tr><tr> <td width=\"40%\"><ruby>曲<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>げる</td> <td>uốn, gập, bẻ cong</td> </tr><tr> <td width=\"40%\"><ruby>伸<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ばす</td> <td>duỗi thẳng, kéo dài ra</td> </tr><tr> <td width=\"40%\"><ruby>転<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>ぶ</td> <td>ngã</td> </tr><tr> <td width=\"40%\"><ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>り<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>く</td> <td>ngoảnh lại</td> </tr></tbody></table> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai18.jpg\" style=\"width: 100%; \"> </p>"
+    }
+  ]
+}

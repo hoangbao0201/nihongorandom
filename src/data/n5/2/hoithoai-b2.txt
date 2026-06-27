@@ -1,0 +1,331 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9202256620459772" crossorigin="anonymous"></script><div class="vnjp-ad-slot vnjp-ad-before" data-slot="before" style="min-height:300px"><div class="vnjp-ad-inner"><!-- vnjpclub - top - content -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9202256620459772" data-ad-slot="7565604990" data-ad-format="auto" data-full-width-responsive="true"></ins></div></div><noscript><div class="vnjp-noscript">⚠️ Vui lòng bật JavaScript để xem nội dung trang này.</div></noscript><div class="vnjp-js-only"><!--rubi = 1 --><link data-optimized="1" rel="stylesheet" type="text/css" href="https://www.vnjpclub.com/wp-content/litespeed/css/b381b3dfdbad0bce3b9fef3ed388765c.css?ver=8765c"/>
+<script data-optimized="1" type="text/javascript" src="https://www.vnjpclub.com/wp-content/litespeed/js/b8beb5116bd3b5b7f2d453531ac08e9e.js?ver=08e9e" defer data-deferred="1"></script>
+    <div class="tab_container">
+<div class="tab_content" id="tab3" ><h2><a href="#" rel="#tab3" name="advtab">B&agrave;i đ&agrave;m thoại (<ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby>)</a></h2></p>
+<p>
+    <strong><div class="tudich"><div class="candich"><span class="hoithoaititle">これから　お<ruby>世話<rp>(</rp><rt>せわ</rt><rp>)</rp></ruby>に　なります。</span></div></span><div class="kqdich"><span></span><div class="nddich">Từ giờ mong được anh gi&uacute;p đỡ.</div></div></div></strong></p>
+<p>
+    <a class="motaicho720" href="/images/minnamoi/bai2/kaiwa.jpg"><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" decoding="async" alt="" data-src="/images/minnamoi/bai2/kaiwa.jpg" style="width: 60%; " /><noscript><img decoding="async" alt="" src="/images/minnamoi/bai2/kaiwa.jpg" style="width: 60%; " /></noscript></a></p>
+<p>
+    <audio controls preload="none"><source src="/Audio/minnahonsatsu1/5.mp3" type="audio/mpeg"></audio></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung" style=" width: 635px">
+	<tbody>
+		<tr>
+			<td style="width: 90px;">
+				<span style="color:#000080;"><u><strong><span style="font-size: 16px;"><ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby><ruby>一郎<rp>(</rp><rt>いちろう</rt><rp>)</rp></ruby>：</span></strong></u></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>はい。どなたですか。</span></div></span><div class="kqdich"><span></span><div class="nddich">V&acirc;ng. Ai đấy ạ?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><u><strong><span style="font-size: 16px;">サントス：</span></strong></u></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>408の　サントスです。&nbsp;</span></div></span><div class="kqdich"><span></span><div class="nddich">T&ocirc;i l&agrave; Santos của ph&ograve;ng 408.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<span>&nbsp;‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐</span></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><u><strong><span style="font-size: 16px;">サントス：</span></strong></u></span></td>
+			<td>
+				<p>
+					<div class="tudich"><div class="candich"><span>こんにちは。サントスです。</span></div></span><div class="kqdich"><span></span><div class="nddich">Xin ch&agrave;o anh. T&ocirc;i t&ecirc;n l&agrave; Santos.</div></div></div></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<div class="tudich"><div class="candich"><span>これから　お<ruby>世話<rp>(</rp><rt>せわ</rt><rp>)</rp></ruby>に　なります。</span></div></span><div class="kqdich"><span></span><div class="nddich">Từ giờ mong được anh gi&uacute;p đỡ.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;</td>
+			<td>
+				<div class="tudich"><div class="candich"><span>どうぞ　よろしく　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。</span></div></span><div class="kqdich"><span></span><div class="nddich">Xin nhờ anh đấy.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><u><strong><span style="font-size: 16px;"><ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby><ruby>一郎<rp>(</rp><rt>いちろう</rt><rp>)</rp></ruby>：</span></strong></u></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>こちらこそ　よろしく　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。</span></div></span><div class="kqdich"><span></span><div class="nddich">T&ocirc;i cũng vậy.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><u><strong><span style="font-size: 16px;">サントス：</span></strong></u></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>あのう、これ、コーヒーです。どうぞ。</span> </div></span><div class="kqdich"><span></span><div class="nddich">&Agrave;, c&aacute;i n&agrave;y, l&agrave; cà phê. Xin tặng ông.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><u><strong><span style="font-size: 16px;"><ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby><ruby>一郎<rp>(</rp><rt>いちろう</rt><rp>)</rp></ruby>：</span></strong></u></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>どうも　ありがとう　ございます。</span>&nbsp;</div></span><div class="kqdich"><span></span><div class="nddich"> Xin cảm ơn anh nhiều</div></div></div></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>
+	</div><div class="tab_content" id="tab4" ><h2><a href="#" rel="#tab4" name="advtab">Mẫu đ&agrave;m thoại (<ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>C)</a></h2></p>
+
+
+<p>
+	<div class="slide"><div class="slide-title"><span>Mẫu đ&agrave;m thoại 1</span></div><div class="slide-content"></p>
+<p>
+	<a class="motaicho720" href="/images/minnamoi/bai2/renshuuC-3-vd.jpg"><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" decoding="async" alt="" data-src="/images/minnamoi/bai2/renshuuC-1-vd.jpg" style="width: 300px; " /><noscript><img decoding="async" alt="" src="/images/minnamoi/bai2/renshuuC-1-vd.jpg" style="width: 300px; " /></noscript></a></p>
+<p>
+	<audio controls preload="none"><source src="/Audio/minnarenshuc/&#49;&#48;&#48;&#48;&#48;&#48;&#48;&#49;&#48;&#49;&#48;.mp3" type="audio/mpeg"></audio></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung">
+	<tbody>
+		<tr>
+			<td style="width: 60px;">
+				<span style="color:#000080;"><strong><span>A:</span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>あのう、これ、お<ruby>土産<rp>(</rp><rt>みやげ</rt><rp>)</rp></ruby>です。</span></div></span><div class="kqdich"><span></span><div class="nddich">Này cậu, c&aacute;i n&agrave;y, l&agrave; món quà.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><strong><span>B:</span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>えっ、<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。</span></div></span><div class="kqdich"><span></span><div class="nddich">Ủa, l&agrave; g&igrave; vậy?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><strong><span>A:</span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>コーヒーです。どうぞ。</span></div></span><div class="kqdich"><span></span><div class="nddich">L&agrave; c&agrave; ph&ecirc;. Tặng cậu.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><strong><span>B:</span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>どうも　ありがとう　ございます。</span></div></span><div class="kqdich"><span></span><div class="nddich">Xin cảm ơn.</div></div></div></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<span style="color: rgb(0, 0, 128);"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><span><strong>Luyện tập: </strong></span></span></span></span></p>
+<p>
+	<span style="font-size:12px;"><em><span style="font-family: arial,helvetica,sans-serif;">[thay thế từ gạch chân bằng đồ vật trong hình]</span></em></span></p>
+<p><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" decoding="async" alt="" data-src="/images/minnamoi/bai2/renshuuC-1-tt.jpg" style="width: 100%;" /><noscript><img decoding="async" alt="" src="/images/minnamoi/bai2/renshuuC-1-tt.jpg" style="width: 100%;" /></noscript></p>	
+<p>
+	</div></div></p>
+
+
+<p>
+	<div class="slide"><div class="slide-title"><span>Mẫu đ&agrave;m thoại 2</span></div><div class="slide-content"></p>
+<p>
+	<a class="motaicho720" href="/images/minnamoi/bai2/renshuuC-1-vd.jpg"><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" decoding="async" alt="" data-src="/images/minnamoi/bai2/renshuuC-2-vd.jpg" style="width: 300px; " /><noscript><img decoding="async" alt="" src="/images/minnamoi/bai2/renshuuC-2-vd.jpg" style="width: 300px; " /></noscript></a></p>
+<p>
+	<audio controls preload="none"><source src="/Audio/minnarenshuc/&#49;&#48;&#48;&#48;&#48;&#48;&#48;&#49;&#48;&#49;&#49;.mp3" type="audio/mpeg"></audio></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung">
+	<tbody>
+		<tr>
+			<td style="width: 60px;">
+				<span style="color:#000080;"><strong><span>A:</span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>それは　<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。</span></div></span><div class="kqdich"><span></span><div class="nddich">Đ&oacute; l&agrave; g&igrave; vậy?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><strong><span>B: </span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>これですか。</span></div></span><div class="kqdich"><span></span><div class="nddich">Cái này à.</div></div></div><div class="tudich"><div class="candich"><span><u><ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>の　CD</u>です。</span></div></span><div class="kqdich"><span></span><div class="nddich">Là CD tiếng Anh.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><strong><span>A:</span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>そうですか。</span></div></span><div class="kqdich"><span></span><div class="nddich">Vậy &agrave;?</div></div></div></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<span style="color: rgb(0, 0, 128);"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><span><strong>Luyện tập: </strong></span></span></span></span></p>
+<p>
+	<span style="font-size:12px;"><em><span style="font-family: arial,helvetica,sans-serif;">[thay thế từ gạch chân bằng nội dung trong hình]</span></em></span></p>
+<p><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" decoding="async" alt="" data-src="/images/minnamoi/bai2/renshuuC-2-tt.jpg" style="width: 100%;" /><noscript><img decoding="async" alt="" src="/images/minnamoi/bai2/renshuuC-2-tt.jpg" style="width: 100%;" /></noscript></p>	
+<p>
+	</div></div></p>
+<p>
+	<div class="slide"><div class="slide-title"><span>Mẫu đ&agrave;m thoại 3</span></div><div class="slide-content"></p>
+<p>
+	<a class="motaicho720" href="/images/minnamoi/bai2/renshuuC-2-vd.jpg"><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" decoding="async" alt="" data-src="/images/minnamoi/bai2/renshuuC-3-vd.jpg" style="width: 300px; " /><noscript><img decoding="async" alt="" src="/images/minnamoi/bai2/renshuuC-3-vd.jpg" style="width: 300px; " /></noscript></a></p>
+<p>
+	<audio controls preload="none"><source src="/Audio/minnarenshuc/&#49;&#48;&#48;&#48;&#48;&#48;&#48;&#49;&#49;&#48;&#48;.mp3" type="audio/mpeg"></audio></p>
+<table border="0" cellpadding="0" cellspacing="0" class="khung">
+	<tbody>
+		<tr>
+			<td style="width: 60px;">
+				<span style="color:#000080;"><strong><span>A:</span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>この　<u><ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby></u>は　ミラーさんの　ですか。</span></div></span><div class="kqdich"><span></span><div class="nddich">C&aacute;i d&ugrave; n&agrave;y l&agrave; của anh Miller phải kh&ocirc;ng?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><strong><span>B: </span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>いいえ、<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>います。</span></div></span><div class="kqdich"><span></span><div class="nddich">Kh&ocirc;ng, kh&ocirc;ng phải.</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><strong><span>A: </span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>だれのですか。</span></div></span><div class="kqdich"><span></span><div class="nddich">Là của ai vậy?</div></div></div></td>
+		</tr>
+		<tr>
+			<td>
+				<span style="color:#000080;"><strong><span>C:</span></strong></span></td>
+			<td>
+				<div class="tudich"><div class="candich"><span>あ、わたしのです。</span></div></span><div class="kqdich"><span></span><div class="nddich">A, là của tôi.</div></div></div><br /><div class="tudich"><div class="candich"><span>ありがとう　ございます。</span></div></span><div class="kqdich"><span></span><div class="nddich">Cám ơn nhiều.</div></div></div></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<span style="color: rgb(0, 0, 128);"><span style="font-size: 16px;"><span style="font-family: arial,helvetica,sans-serif;"><span><strong>Luyện tập: </strong></span></span></span></span></p>
+<p>
+	<span style="font-size:12px;"><em><span style="font-family: arial,helvetica,sans-serif;">[thay thế từ gạch chân bằng đồ vật trong hình]</span></em></span></p>
+<p><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" decoding="async" alt="" data-src="/images/minnamoi/bai2/renshuuC-3-tt.jpg" style="width: 100%;" /><noscript><img decoding="async" alt="" src="/images/minnamoi/bai2/renshuuC-3-tt.jpg" style="width: 100%;" /></noscript></p>	
+<p>
+	</div></div></p>
+
+<p>
+	</div></div></p>
+	
+
+<br />
+<?php
+$de_stt = "2";
+
+?>
+
+    <style>
+    .vnjp-link-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr)); /* Desktop: 4 ô / hàng */
+        gap: 10px 10px;
+        margin: 10px 0 20px;
+        clear: both; /* cắt float cũ nếu có */
+    }
+
+    .vnjp-link-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start; /* nếu muốn chữ giữa thì đổi thành center */
+        padding: 7px 5px 5px 15px;
+        border-radius: 10px;
+        background: #ffffff;
+        border: 1px solid #e0e4ef;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.04);
+        text-decoration: none;
+        transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+        float: none; /* ép bỏ mọi float từ CSS cũ */
+    }
+
+    .vnjp-link-item:hover {
+        background-color: #f5f7ff;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        transform: translateY(-2px);
+    }
+
+    .vnjp-link-title {
+        display: block;
+        font-size: 14px;
+        font-weight: 600;
+        color: #222;
+        margin-bottom: 3px;
+    }
+
+    .vnjp-link-sub {
+        display: block;
+        font-size: 11px;
+        color: #6b7280;
+    }
+
+    a.disabled {
+        pointer-events: none;   /* ❌ không click được */
+        opacity: 0.5;           /* làm mờ */
+        cursor: not-allowed;
+        text-decoration: none;
+    }
+
+    /* Tablet: 3 ô / hàng */
+    @media (max-width: 1024px) {
+        .vnjp-link-grid {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+    }
+
+    /* Mobile: 2 ô / hàng */
+    @media (max-width: 768px) {
+        .vnjp-link-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .vnjp-link-title {
+            font-size: 13px;
+        }
+        .vnjp-link-sub {
+            font-size: 10px;
+        }
+    }
+    </style>
+    <div class="vnjp-link-grid">
+        <a href="/minna-no-nihongo/bai-2-tu-vung.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Từ vựng</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-ngu-phap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Ngữ pháp</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-luyen-doc.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện đọc</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-hoi-thoai.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hội thoại</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-luyen-nghe.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện nghe</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-bai-tap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Bài tập</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-han-tu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hán tự</span>
+        </a>
+
+        <a href="/minna-no-nihongo/luyen-chu-han-bai-2.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện Kanji</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-25-bai-doc-hieu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Đọc hiểu</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-kiem-tra.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Kiểm tra</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-2-tham-khao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Tham khảo</span>
+        </a>
+
+        <a href="#" class="vnjp-link-item disabled">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a>
+<!--         <a href="/minna-no-nihongo/bai-<!?php echo $de_stt; ?>-nang-cao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a> -->
+    </div>
+
+    <style type="text/css"

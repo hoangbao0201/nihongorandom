@@ -1,0 +1,238 @@
+{
+  "lesson": 10,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "男の人",
+      "kanjiHtml": "男の人",
+      "sinoVietnamese": "NAM NHÂN",
+      "kana": "おとこのひと",
+      "kanaHtml": "おとこのひと"
+    },
+    {
+      "index": 2,
+      "kanji": "女の人",
+      "kanjiHtml": "女の人",
+      "sinoVietnamese": "NỮ NHÂN",
+      "kana": "おんなのひと",
+      "kanaHtml": "おんなのひと"
+    },
+    {
+      "index": 3,
+      "kanji": "男の子",
+      "kanjiHtml": "男の子",
+      "sinoVietnamese": "NAM TỬ",
+      "kana": "おとこのこ",
+      "kanaHtml": "おとこのこ"
+    },
+    {
+      "index": 4,
+      "kanji": "女の子",
+      "kanjiHtml": "女の子",
+      "sinoVietnamese": "NỮ TỬ",
+      "kana": "おんなのこ",
+      "kanaHtml": "おんなのこ"
+    },
+    {
+      "index": 5,
+      "kanji": "犬",
+      "kanjiHtml": "犬",
+      "sinoVietnamese": "KHUYỂN",
+      "kana": "いぬ",
+      "kanaHtml": "いぬ"
+    },
+    {
+      "index": 6,
+      "kanji": "猫",
+      "kanjiHtml": "猫",
+      "sinoVietnamese": "MIÊU",
+      "kana": "ねこ",
+      "kanaHtml": "ねこ"
+    },
+    {
+      "index": 7,
+      "kanji": "象",
+      "kanjiHtml": "象",
+      "sinoVietnamese": "TƯỢNG",
+      "kana": "ぞう",
+      "kanaHtml": "ぞう"
+    },
+    {
+      "index": 8,
+      "kanji": "木",
+      "kanjiHtml": "木",
+      "sinoVietnamese": "MỘC",
+      "kana": "き",
+      "kanaHtml": "き"
+    },
+    {
+      "index": 9,
+      "kanji": "物",
+      "kanjiHtml": "物",
+      "sinoVietnamese": "VẬT",
+      "kana": "もの",
+      "kanaHtml": "もの"
+    },
+    {
+      "index": 10,
+      "kanji": "電池",
+      "kanjiHtml": "電池",
+      "sinoVietnamese": "ĐIỆN TRÌ",
+      "kana": "でんち",
+      "kanaHtml": "でんち"
+    },
+    {
+      "index": 11,
+      "kanji": "箱",
+      "kanjiHtml": "箱",
+      "sinoVietnamese": "TƯƠNG",
+      "kana": "はこ",
+      "kanaHtml": "はこ"
+    },
+    {
+      "index": 12,
+      "kanji": "冷蔵庫",
+      "kanjiHtml": "冷蔵庫",
+      "sinoVietnamese": "LÃNH TÀN KHỐ",
+      "kana": "れいぞうこ",
+      "kanaHtml": "れいぞうこ"
+    },
+    {
+      "index": 13,
+      "kanji": "棚",
+      "kanjiHtml": "棚",
+      "sinoVietnamese": "BẰNG",
+      "kana": "たな",
+      "kanaHtml": "たな"
+    },
+    {
+      "index": 14,
+      "kanji": "窓",
+      "kanjiHtml": "窓",
+      "sinoVietnamese": "SONG",
+      "kana": "まど",
+      "kanaHtml": "まど"
+    },
+    {
+      "index": 15,
+      "kanji": "公園",
+      "kanjiHtml": "公園",
+      "sinoVietnamese": "CÔNG VIÊN",
+      "kana": "こうえん",
+      "kanaHtml": "こうえん"
+    },
+    {
+      "index": 16,
+      "kanji": "喫茶店",
+      "kanjiHtml": "喫茶店",
+      "sinoVietnamese": "KHIẾT TRÀ ĐIẾM",
+      "kana": "きっさてん",
+      "kanaHtml": "きっさてん"
+    },
+    {
+      "index": 17,
+      "kanji": "～屋",
+      "kanjiHtml": "～屋",
+      "sinoVietnamese": "ỐC",
+      "kana": "～や",
+      "kanaHtml": "～や"
+    },
+    {
+      "index": 18,
+      "kanji": "乗り場",
+      "kanjiHtml": "乗り場",
+      "sinoVietnamese": "THỪA TRƯỜNG",
+      "kana": "のりば",
+      "kanaHtml": "のりば"
+    },
+    {
+      "index": 19,
+      "kanji": "県",
+      "kanjiHtml": "県",
+      "sinoVietnamese": "HUYỆN",
+      "kana": "けん",
+      "kanaHtml": "けん"
+    },
+    {
+      "index": 20,
+      "kanji": "上",
+      "kanjiHtml": "上",
+      "sinoVietnamese": "THƯỢNG",
+      "kana": "うえ",
+      "kanaHtml": "うえ"
+    },
+    {
+      "index": 21,
+      "kanji": "下",
+      "kanjiHtml": "下",
+      "sinoVietnamese": "HẠ",
+      "kana": "した",
+      "kanaHtml": "した"
+    },
+    {
+      "index": 22,
+      "kanji": "前",
+      "kanjiHtml": "前",
+      "sinoVietnamese": "TIỀN",
+      "kana": "まえ",
+      "kanaHtml": "まえ"
+    },
+    {
+      "index": 23,
+      "kanji": "右",
+      "kanjiHtml": "右",
+      "sinoVietnamese": "HUỮ",
+      "kana": "みぎ",
+      "kanaHtml": "みぎ"
+    },
+    {
+      "index": 24,
+      "kanji": "左",
+      "kanjiHtml": "左",
+      "sinoVietnamese": "TẢ",
+      "kana": "ひだり",
+      "kanaHtml": "ひだり"
+    },
+    {
+      "index": 25,
+      "kanji": "中",
+      "kanjiHtml": "中",
+      "sinoVietnamese": "TRUNG",
+      "kana": "なか",
+      "kanaHtml": "なか"
+    },
+    {
+      "index": 26,
+      "kanji": "外",
+      "kanjiHtml": "外",
+      "sinoVietnamese": "NGOẠI",
+      "kana": "そと",
+      "kanaHtml": "そと"
+    },
+    {
+      "index": 27,
+      "kanji": "隣",
+      "kanjiHtml": "隣",
+      "sinoVietnamese": "LÂN",
+      "kana": "となり",
+      "kanaHtml": "となり"
+    },
+    {
+      "index": 28,
+      "kanji": "近く",
+      "kanjiHtml": "近く",
+      "sinoVietnamese": "CẬN",
+      "kana": "ちかく",
+      "kanaHtml": "ちかく"
+    },
+    {
+      "index": 29,
+      "kanji": "間",
+      "kanjiHtml": "間",
+      "sinoVietnamese": "GIAN",
+      "kana": "あいだ",
+      "kanaHtml": "あいだ"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "lesson": 18,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "洗います",
+      "kanjiHtml": "洗います",
+      "sinoVietnamese": "TẨY",
+      "kana": "あらいます",
+      "kanaHtml": "あらいます"
+    },
+    {
+      "index": 2,
+      "kanji": "弾きます",
+      "kanjiHtml": "弾きます",
+      "sinoVietnamese": "ĐÀN, ĐẠN",
+      "kana": "ひきます",
+      "kanaHtml": "ひきます"
+    },
+    {
+      "index": 3,
+      "kanji": "歌います",
+      "kanjiHtml": "歌います",
+      "sinoVietnamese": "CA",
+      "kana": "うたいます",
+      "kanaHtml": "うたいます"
+    },
+    {
+      "index": 4,
+      "kanji": "集めます",
+      "kanjiHtml": "集めます",
+      "sinoVietnamese": "TẬP",
+      "kana": "あつめます",
+      "kanaHtml": "あつめます"
+    },
+    {
+      "index": 5,
+      "kanji": "捨てます",
+      "kanjiHtml": "捨てます",
+      "sinoVietnamese": "XẢ",
+      "kana": "すてます",
+      "kanaHtml": "すてます"
+    },
+    {
+      "index": 6,
+      "kanji": "換えます",
+      "kanjiHtml": "換えます",
+      "sinoVietnamese": "HOÁN",
+      "kana": "かえます",
+      "kanaHtml": "かえます"
+    },
+    {
+      "index": 7,
+      "kanji": "運転します",
+      "kanjiHtml": "運転します",
+      "sinoVietnamese": "VẬN CHUYỂN",
+      "kana": "うんてんします",
+      "kanaHtml": "うんてんします"
+    },
+    {
+      "index": 8,
+      "kanji": "予約します",
+      "kanjiHtml": "予約します",
+      "sinoVietnamese": "DỰ ƯỚC",
+      "kana": "よやくします",
+      "kanaHtml": "よやくします"
+    },
+    {
+      "index": 9,
+      "kanji": "現金",
+      "kanjiHtml": "現金",
+      "sinoVietnamese": "HIỆN KIM",
+      "kana": "げんきん",
+      "kanaHtml": "げんきん"
+    },
+    {
+      "index": 10,
+      "kanji": "趣味",
+      "kanjiHtml": "趣味",
+      "sinoVietnamese": "THÚ VỊ",
+      "kana": "しゅみ",
+      "kanaHtml": "しゅみ"
+    },
+    {
+      "index": 11,
+      "kanji": "日記",
+      "kanjiHtml": "日記",
+      "sinoVietnamese": "NHẬT KÝ",
+      "kana": "にっき",
+      "kanaHtml": "にっき"
+    },
+    {
+      "index": 12,
+      "kanji": "[お]祈り",
+      "kanjiHtml": "[お]祈り",
+      "sinoVietnamese": "KỲ",
+      "kana": "[お]いのり",
+      "kanaHtml": "[お]いのり"
+    },
+    {
+      "index": 13,
+      "kanji": "課長",
+      "kanjiHtml": "課長",
+      "sinoVietnamese": "KHOA TRƯỞNG",
+      "kana": "かちょう",
+      "kanaHtml": "かちょう"
+    },
+    {
+      "index": 14,
+      "kanji": "部長",
+      "kanjiHtml": "部長",
+      "sinoVietnamese": "BỘ TRƯỞNG",
+      "kana": "ぶちょう",
+      "kanaHtml": "ぶちょう"
+    },
+    {
+      "index": 15,
+      "kanji": "社長",
+      "kanjiHtml": "社長",
+      "sinoVietnamese": "XÃ TRƯỞNG",
+      "kana": "しゃちょう",
+      "kanaHtml": "しゃちょう"
+    },
+    {
+      "index": 16,
+      "kanji": "動物",
+      "kanjiHtml": "動物",
+      "sinoVietnamese": "ĐỘNG VẬT",
+      "kana": "どうぶつ",
+      "kanaHtml": "どうぶつ"
+    },
+    {
+      "index": 17,
+      "kanji": "馬",
+      "kanjiHtml": "馬",
+      "sinoVietnamese": "MÃ",
+      "kana": "うま",
+      "kanaHtml": "うま"
+    }
+  ]
+}

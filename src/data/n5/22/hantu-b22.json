@@ -1,0 +1,62 @@
+{
+  "lesson": 22,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "着ます",
+      "kanjiHtml": "着ます",
+      "sinoVietnamese": "TRƯỚC",
+      "kana": "きます",
+      "kanaHtml": "きます"
+    },
+    {
+      "index": 2,
+      "kanji": "[眼鏡を～]",
+      "kanjiHtml": "[眼鏡を～]",
+      "sinoVietnamese": "NHÃN KÍNH",
+      "kana": "かけます [めがねを～]",
+      "kanaHtml": "かけます<br />[めがねを～]"
+    },
+    {
+      "index": 3,
+      "kanji": "生まれます",
+      "kanjiHtml": "生まれます",
+      "sinoVietnamese": "SINH",
+      "kana": "うまれます",
+      "kanaHtml": "うまれます"
+    },
+    {
+      "index": 4,
+      "kanji": "帽子",
+      "kanjiHtml": "帽子",
+      "sinoVietnamese": "MẠO TỬ",
+      "kana": "ぼうし",
+      "kanaHtml": "ぼうし"
+    },
+    {
+      "index": 5,
+      "kanji": "眼鏡",
+      "kanjiHtml": "眼鏡",
+      "sinoVietnamese": "NHÃN KÍNH",
+      "kana": "めがね",
+      "kanaHtml": "めがね"
+    },
+    {
+      "index": 6,
+      "kanji": "お弁当",
+      "kanjiHtml": "お弁当",
+      "sinoVietnamese": "BIỆN ĐƯƠNG",
+      "kana": "[お]べんとう",
+      "kanaHtml": "[お]べんとう"
+    },
+    {
+      "index": 7,
+      "kanji": "都合",
+      "kanjiHtml": "都合",
+      "sinoVietnamese": "ĐÔ HỢP",
+      "kana": "つごう",
+      "kanaHtml": "つごう"
+    }
+  ]
+}

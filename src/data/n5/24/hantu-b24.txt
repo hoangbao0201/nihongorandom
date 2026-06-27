@@ -1,0 +1,252 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9202256620459772" crossorigin="anonymous"></script><div class="vnjp-ad-slot vnjp-ad-before" data-slot="before" style="min-height:300px"><div class="vnjp-ad-inner"><!-- vnjpclub - top - content -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9202256620459772" data-ad-slot="7565604990" data-ad-format="auto" data-full-width-responsive="true"></ins></div></div><noscript><div class="vnjp-noscript">⚠️ Vui lòng bật JavaScript để xem nội dung trang này.</div></noscript><div class="vnjp-js-only">
+    <style>
+    #khungchinhgiua table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    #khungchinhgiua th {
+        background: #333;
+        color: white;
+        font-weight: bold;
+        border: 1px solid #ccc;
+    }
+
+    #khungchinhgiua td,
+    #khungchinhgiua th {
+        padding: 6px;
+        border: 1px solid #ccc;
+        text-align: left;
+    }
+
+    @media only screen and (max-width: 760px),
+           (min-device-width: 768px) and (max-device-width: 1024px) {
+        #khungchinhgiua table,
+        #khungchinhgiua thead,
+        #khungchinhgiua tbody,
+        #khungchinhgiua th,
+        #khungchinhgiua td,
+        #khungchinhgiua tr {
+            display: block;
+        }
+        #khungchinhgiua thead tr {
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+        }
+        #khungchinhgiua tr {
+            border: 1px solid #ccc;
+        }
+        #khungchinhgiua td {
+            border: none;
+            border-bottom: 1px solid #eee;
+            position: relative;
+        }
+    }
+
+    .ht { min-width: 100px; }
+    .ah { min-width: 160px; }
+    .tv { min-width: 180px; }
+    </style>
+
+    <div id="khungchinhgiua">
+        <table class="search_result">
+            <thead>
+                <tr>
+                    <th class="ht">Hán Tự</th>
+                    <th class="ah">Âm Hán</th>
+                    <th class="tv">Cách Đọc (Kana)</th>
+                </tr>
+            </thead>
+            <tbody>
+                                    <tr>
+                        <td>直します</td>
+                        <td>TRỰC</td>
+                        <td>なおします</td>
+                    </tr>
+                                    <tr>
+                        <td>連れて行きます</td>
+                        <td>LIÊN HÀNH</td>
+                        <td>つれていきます</td>
+                    </tr>
+                                    <tr>
+                        <td>連れて来ます</td>
+                        <td>LIÊN LAI</td>
+                        <td>つれてきます</td>
+                    </tr>
+                                    <tr>
+                        <td>送ります<br />[人を～]</td>
+                        <td>TỐNG<br />NHÂN </td>
+                        <td>おくります<br />[ひとを～]</td>
+                    </tr>
+                                    <tr>
+                        <td>紹介します</td>
+                        <td>THIỆU GIỚI</td>
+                        <td>しょうかいします</td>
+                    </tr>
+                                    <tr>
+                        <td>案内します</td>
+                        <td>ÁN NỘI</td>
+                        <td>あんないします</td>
+                    </tr>
+                                    <tr>
+                        <td>説明します</td>
+                        <td>THUYẾT MINH</td>
+                        <td>せつめいします</td>
+                    </tr>
+                                    <tr>
+                        <td>準備</td>
+                        <td>CHUẨN BỊ</td>
+                        <td>じゅんび</td>
+                    </tr>
+                                    <tr>
+                        <td>引っ越し</td>
+                        <td>DẪN VIỆT</td>
+                        <td>ひっこし</td>
+                    </tr>
+                                    <tr>
+                        <td>[お]菓子</td>
+                        <td>QUẢ TỬ</td>
+                        <td>[お]かし</td>
+                    </tr>
+                                    <tr>
+                        <td>全部</td>
+                        <td>TOÀN BỘ</td>
+                        <td>ぜんぶ</td>
+                    </tr>
+                                    <tr>
+                        <td>自分で</td>
+                        <td>TỰ PHÂN</td>
+                        <td>じぶんで</td>
+                    </tr>
+                            </tbody>
+        </table>
+    </div>
+    
+
+    <style>
+    .vnjp-link-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr)); /* Desktop: 4 ô / hàng */
+        gap: 10px 10px;
+        margin: 10px 0 20px;
+        clear: both; /* cắt float cũ nếu có */
+    }
+
+    .vnjp-link-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start; /* nếu muốn chữ giữa thì đổi thành center */
+        padding: 7px 5px 5px 15px;
+        border-radius: 10px;
+        background: #ffffff;
+        border: 1px solid #e0e4ef;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.04);
+        text-decoration: none;
+        transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+        float: none; /* ép bỏ mọi float từ CSS cũ */
+    }
+
+    .vnjp-link-item:hover {
+        background-color: #f5f7ff;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        transform: translateY(-2px);
+    }
+
+    .vnjp-link-title {
+        display: block;
+        font-size: 14px;
+        font-weight: 600;
+        color: #222;
+        margin-bottom: 3px;
+    }
+
+    .vnjp-link-sub {
+        display: block;
+        font-size: 11px;
+        color: #6b7280;
+    }
+
+    a.disabled {
+        pointer-events: none;   /* ❌ không click được */
+        opacity: 0.5;           /* làm mờ */
+        cursor: not-allowed;
+        text-decoration: none;
+    }
+
+    /* Tablet: 3 ô / hàng */
+    @media (max-width: 1024px) {
+        .vnjp-link-grid {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+    }
+
+    /* Mobile: 2 ô / hàng */
+    @media (max-width: 768px) {
+        .vnjp-link-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .vnjp-link-title {
+            font-size: 13px;
+        }
+        .vnjp-link-sub {
+            font-size: 10px;
+        }
+    }
+    </style>
+    <div class="vnjp-link-grid">
+        <a href="/minna-no-nihongo/bai-24-tu-vung.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Từ vựng</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-ngu-phap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Ngữ pháp</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-luyen-doc.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện đọc</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-hoi-thoai.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hội thoại</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-luyen-nghe.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện nghe</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-bai-tap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Bài tập</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-han-tu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hán tự</span>
+        </a>
+
+        <a href="/minna-no-nihongo/luyen-chu-han-bai-24.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện Kanji</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-25-bai-doc-hieu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Đọc hiểu</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-kiem-tra.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Kiểm tra</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-24-tham-khao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Tham khảo</span>
+        </a>
+
+        <a href="#" class="vnjp-link-item disabled">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a>
+<!--         <a href="/minna-no-nihongo/bai-<!?php echo $de_stt; ?>-nang-cao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a> -->
+    </div>
+
+    <style type="text/css"

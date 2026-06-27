@@ -1,0 +1,101 @@
+{
+  "lesson": 11,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "65ab40dfe6a4de669951260c",
+      "index": 1,
+      "character": "兄",
+      "sinoVietnameseWord": "HUYNH",
+      "mean": "Anh trai",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l13/kanji/img/1_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 兄 HUYNH gh&eacute;p bởi bộ 口 KHẨU v&agrave; bộ 儿 NH&Acirc;N ĐI, giống như &ocirc;ng anh trai ăn to n&oacute;i lớn, đi sớm về khuya.&nbsp;&nbsp;</p>",
+      "onReading": "キョウ",
+      "kunReading": "あに、お・にい・さん",
+      "examples": "<table style=\"border-collapse: collapse; width: 101.832%; height: 44px;\">\n<tbody>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">兄</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">あに</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">anh trai m&igrave;nh</span></td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">お兄さん</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">おにいさん</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">anh trai (c&aacute;ch gọi k&iacute;nh trọng)</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">兄弟</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">きょうだい</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">anh chị em</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65ab424ce6a4de669951260e",
+      "index": 2,
+      "character": "弟",
+      "sinoVietnameseWord": "ĐỆ",
+      "mean": "Em trai",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l13/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 弟 ĐỆ giống như cậu em trai đang khua tay khua ch&acirc;n, v&agrave; c&oacute; 2 chỏm t&oacute;c tr&ecirc;n đỉnh đầu.</p>",
+      "onReading": "ダイ",
+      "kunReading": "おとうと",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 90px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">弟</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">おとうと</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">em trai</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">弟さん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">おとうとさん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">em trai người kh&aacute;c</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">兄弟</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">きょうだい</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">anh chị em</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65ab436ae6a4de6699512610",
+      "index": 3,
+      "character": "姉",
+      "sinoVietnameseWord": "TỶ",
+      "mean": "Chị gái",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l13/kanji/img/3_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 姉 TỶ gh&eacute;p bởi bộ 女 NỮ v&agrave; chữ 市 THỊ, giống như việc chị g&aacute;i l&agrave; người phụ nữ đi chợ lo toan cho cả nh&agrave;.</p>",
+      "onReading": "シ",
+      "kunReading": "あね、お・ねえ・さん",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">姉</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">あね</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">chị g&aacute;i m&igrave;nh</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">お姉さん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">おねえさん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">chị g&aacute;i (c&aacute;ch gọi k&iacute;nh trọng)</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">姉妹</td>\n<td style=\"width: 33.3333%;\">しまい</td>\n<td style=\"width: 33.3333%;\">chị em g&aacute;i</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65ab4462e6a4de6699512612",
+      "index": 4,
+      "character": "妹",
+      "sinoVietnameseWord": "MUỘI",
+      "mean": "Em gái",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l13/kanji/img/4_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 妹 MUỘI gh&eacute;p bởi bộ 女 NỮ v&agrave; chữ 未 VỊ (nghĩa l&agrave; chưa), giống như việc em g&aacute;i l&agrave; người phụ nữ chưa đủ tuổi lấy chồng.</p>",
+      "onReading": "マイ",
+      "kunReading": "いもうと",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">妹</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">いもうと</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">em g&aacute;i</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">妹さん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">いもうとさん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">em g&aacute;i người kh&aacute;c</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">姉妹</td>\n<td style=\"width: 33.3333%;\">しまい</td>\n<td style=\"width: 33.3333%;\">chị em g&aacute;i</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65ab468ce6a4de6699512614",
+      "index": 5,
+      "character": "家",
+      "sinoVietnameseWord": "GIA",
+      "mean": "Nhà",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l13/kanji/img/5_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 家 GIA gh&eacute;p bởi bộ 宀 MI&Ecirc;N (m&aacute;i nh&agrave;) v&agrave; chữ 豕 THỈ (lợn/heo), giống như việc ng&agrave;y xưa nh&agrave; n&agrave;o cũng phải c&oacute; một con lợn (heo) dưới m&aacute;i nh&agrave;.</p>",
+      "onReading": "カ",
+      "kunReading": "いえ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 76px;\">\n<tbody>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">家</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">いえ</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">ng&ocirc;i nh&agrave;</span></td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 33.3333%; height: 10px;\">大家さん</td>\n<td style=\"width: 33.3333%; height: 10px;\">おおやさん</td>\n<td style=\"width: 33.3333%; height: 10px;\">chủ nh&agrave; cho thu&ecirc;</td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\">家内</td>\n<td style=\"width: 33.3333%; height: 10px;\">かない</td>\n<td style=\"width: 33.3333%; height: 10px;\">vợ m&igrave;nh&nbsp;</td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">家族</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">かぞく</span></td>\n<td style=\"width: 33.3333%; height: 28px;\"><span style=\"color: #e74c3c;\">gia đ&igrave;nh&nbsp;</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65ab4794e6a4de6699512616",
+      "index": 6,
+      "character": "族",
+      "sinoVietnameseWord": "TỘC",
+      "mean": "Gia tộc, dân tộc",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l13/kanji/img/6_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 族 TỘC gh&eacute;p bởi chữ 方 PHƯƠNG, bộ NH&Acirc;N NẰM v&agrave; chữ 矢 THỈ (mũi t&ecirc;n), giống như việc tộc người n&agrave;o đ&oacute; c&oacute; phương ph&aacute;p nằm để bắn t&ecirc;n.&nbsp;&nbsp;</p>",
+      "onReading": "ゾク",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.2014%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">家族</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">かぞく</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">gia đ&igrave;nh</span></td>\n</tr>\n<tr style=\"height: 31px;\">\n<td style=\"width: 33.3333%; height: 10px;\">民族</td>\n<td style=\"width: 33.3333%; height: 10px;\">みんぞく</td>\n<td style=\"width: 33.3333%; height: 10px;\">d&acirc;n tộc&nbsp;</td>\n</tr>\n<tr style=\"height: 31px;\">\n<td style=\"width: 33.3333%; height: 14px;\">水族館</td>\n<td style=\"width: 33.3333%; height: 14px;\">すいぞくかん</td>\n<td style=\"width: 33.3333%; height: 14px;\">thủy cung&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65ab48dbe6a4de6699512618",
+      "index": 7,
+      "character": "春",
+      "sinoVietnameseWord": "XUÂN",
+      "mean": "Mùa xuân",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l13/kanji/img/7_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 春 XU&Acirc;N giống như gh&eacute;p từ chữ 三 TAM, chữ 人 NH&Acirc;N v&agrave; chữ 日 NHẬT, li&ecirc;n tưởng đến việc m&ugrave;a xu&acirc;n đến l&agrave; cả nh&agrave; 3 người đi chơi suốt cả ng&agrave;y.</p>",
+      "onReading": "シュン",
+      "kunReading": "はる",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 66px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">春</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">はる</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">m&ugrave;a xu&acirc;n</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">春巻き</td>\n<td style=\"width: 33.3333%; height: 22px;\">はるまき</td>\n<td style=\"width: 33.3333%; height: 22px;\">nem (chả gi&ograve;), gỏi cuốn</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">青春</td>\n<td style=\"width: 33.3333%; height: 22px;\">せいしゅん</td>\n<td style=\"width: 33.3333%; height: 22px;\">thanh xu&acirc;n, tuổi trẻ</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    },
+    {
+      "_id": "65ab4a7ae6a4de669951261a",
+      "index": 8,
+      "character": "夏",
+      "sinoVietnameseWord": "HẠ",
+      "mean": "Mùa hè",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l13/kanji/img/8_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 夏 HẠ giống như h&igrave;nh ảnh v&agrave;o m&ugrave;a h&egrave; người ta vừa đội n&oacute;n vừa đi cho đỡ nắng.</p>",
+      "onReading": "カ",
+      "kunReading": "なつ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">夏休み</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">なつやすみ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">k&igrave; nghỉ h&egrave;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">夏</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">なつ</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">m&ugrave;a h&egrave;&nbsp;</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+    }
+  ]
+}

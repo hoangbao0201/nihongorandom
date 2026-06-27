@@ -1,0 +1,562 @@
+{
+  "lesson": 11,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "メニュー（） Thực đơn",
+      "titleHtml": "メニュー<ruby><rp>（</rp><rt></rt><rp>）</rp></ruby> Thực đơn",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "定食（ていしょく）",
+              "html": "<ruby>定食<rp>（</rp><rt>ていしょく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "cơm suất",
+              "html": "cơm suất"
+            }
+          ],
+          "term": "定食（ていしょく）",
+          "termHtml": "<ruby>定食<rp>（</rp><rt>ていしょく</rt><rp>）</rp></ruby>",
+          "meaning": "cơm suất",
+          "meaningHtml": "cơm suất"
+        },
+        {
+          "cells": [
+            {
+              "text": "ランチ",
+              "html": "ランチ"
+            },
+            {
+              "text": "cơm trưa",
+              "html": "cơm trưa"
+            }
+          ],
+          "term": "ランチ",
+          "termHtml": "ランチ",
+          "meaning": "cơm trưa",
+          "meaningHtml": "cơm trưa"
+        },
+        {
+          "cells": [
+            {
+              "text": "天（てん）どん",
+              "html": "<ruby>天<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>どん"
+            },
+            {
+              "text": "cơm và tôm chiên tẩm bột",
+              "html": "cơm và tôm chiên tẩm bột"
+            }
+          ],
+          "term": "天（てん）どん",
+          "termHtml": "<ruby>天<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>どん",
+          "meaning": "cơm và tôm chiên tẩm bột",
+          "meaningHtml": "cơm và tôm chiên tẩm bột"
+        },
+        {
+          "cells": [
+            {
+              "text": "親子（おやこ）どん",
+              "html": "<ruby>親子<rp>（</rp><rt>おやこ</rt><rp>）</rp></ruby>どん"
+            },
+            {
+              "text": "cơm với thịt gà và trứng",
+              "html": "cơm với thịt gà và trứng"
+            }
+          ],
+          "term": "親子（おやこ）どん",
+          "termHtml": "<ruby>親子<rp>（</rp><rt>おやこ</rt><rp>）</rp></ruby>どん",
+          "meaning": "cơm với thịt gà và trứng",
+          "meaningHtml": "cơm với thịt gà và trứng"
+        },
+        {
+          "cells": [
+            {
+              "text": "牛（ぎゅう）どん",
+              "html": "<ruby>牛<rp>（</rp><rt>ぎゅう</rt><rp>）</rp></ruby>どん"
+            },
+            {
+              "text": "cơm với thịt bò",
+              "html": "cơm với thịt bò"
+            }
+          ],
+          "term": "牛（ぎゅう）どん",
+          "termHtml": "<ruby>牛<rp>（</rp><rt>ぎゅう</rt><rp>）</rp></ruby>どん",
+          "meaning": "cơm với thịt bò",
+          "meaningHtml": "cơm với thịt bò"
+        },
+        {
+          "cells": [
+            {
+              "text": "焼（や）き肉（にく）",
+              "html": "<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "thịt nướng",
+              "html": "thịt nướng"
+            }
+          ],
+          "term": "焼（や）き肉（にく）",
+          "termHtml": "<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>",
+          "meaning": "thịt nướng",
+          "meaningHtml": "thịt nướng"
+        },
+        {
+          "cells": [
+            {
+              "text": "野菜（やさい）いため",
+              "html": "<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>いため"
+            },
+            {
+              "text": "rau xào",
+              "html": "rau xào"
+            }
+          ],
+          "term": "野菜（やさい）いため",
+          "termHtml": "<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>いため",
+          "meaning": "rau xào",
+          "meaningHtml": "rau xào"
+        },
+        {
+          "cells": [
+            {
+              "text": "漬（つ）け物（もの）",
+              "html": "<ruby>漬<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>け<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "dưa muối",
+              "html": "dưa muối"
+            }
+          ],
+          "term": "漬（つ）け物（もの）",
+          "termHtml": "<ruby>漬<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>け<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>",
+          "meaning": "dưa muối",
+          "meaningHtml": "dưa muối"
+        },
+        {
+          "cells": [
+            {
+              "text": "みそ汁（しる）",
+              "html": "みそ<ruby>汁<rp>（</rp><rt>しる</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "súp miso",
+              "html": "súp miso"
+            }
+          ],
+          "term": "みそ汁（しる）",
+          "termHtml": "みそ<ruby>汁<rp>（</rp><rt>しる</rt><rp>）</rp></ruby>",
+          "meaning": "súp miso",
+          "meaningHtml": "súp miso"
+        },
+        {
+          "cells": [
+            {
+              "text": "おにぎり",
+              "html": "おにぎり"
+            },
+            {
+              "text": "cơm nắm",
+              "html": "cơm nắm"
+            }
+          ],
+          "term": "おにぎり",
+          "termHtml": "おにぎり",
+          "meaning": "cơm nắm",
+          "meaningHtml": "cơm nắm"
+        },
+        {
+          "cells": [
+            {
+              "text": "てんぷら",
+              "html": "てんぷら"
+            },
+            {
+              "text": "tôm chiên tẩm bột",
+              "html": "tôm chiên tẩm bột"
+            }
+          ],
+          "term": "てんぷら",
+          "termHtml": "てんぷら",
+          "meaning": "tôm chiên tẩm bột",
+          "meaningHtml": "tôm chiên tẩm bột"
+        },
+        {
+          "cells": [
+            {
+              "text": "すし",
+              "html": "すし"
+            },
+            {
+              "text": "sushi",
+              "html": "sushi"
+            }
+          ],
+          "term": "すし",
+          "termHtml": "すし",
+          "meaning": "sushi",
+          "meaningHtml": "sushi"
+        },
+        {
+          "cells": [
+            {
+              "text": "うどん",
+              "html": "うどん"
+            },
+            {
+              "text": "mì được làm từ bột lúa mạch",
+              "html": "mì được làm từ bột lúa mạch"
+            }
+          ],
+          "term": "うどん",
+          "termHtml": "うどん",
+          "meaning": "mì được làm từ bột lúa mạch",
+          "meaningHtml": "mì được làm từ bột lúa mạch"
+        },
+        {
+          "cells": [
+            {
+              "text": "そば",
+              "html": "そば"
+            },
+            {
+              "text": "mì được làm từ bột kiều mạch",
+              "html": "mì được làm từ bột kiều mạch"
+            }
+          ],
+          "term": "そば",
+          "termHtml": "そば",
+          "meaning": "mì được làm từ bột kiều mạch",
+          "meaningHtml": "mì được làm từ bột kiều mạch"
+        },
+        {
+          "cells": [
+            {
+              "text": "ラーメン",
+              "html": "ラーメン"
+            },
+            {
+              "text": "mì tàu",
+              "html": "mì tàu"
+            }
+          ],
+          "term": "ラーメン",
+          "termHtml": "ラーメン",
+          "meaning": "mì tàu",
+          "meaningHtml": "mì tàu"
+        },
+        {
+          "cells": [
+            {
+              "text": "焼（や）きそば",
+              "html": "<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きそば"
+            },
+            {
+              "text": "mì soba xào với rau và thịt",
+              "html": "mì soba xào với rau và thịt"
+            }
+          ],
+          "term": "焼（や）きそば",
+          "termHtml": "<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きそば",
+          "meaning": "mì soba xào với rau và thịt",
+          "meaningHtml": "mì soba xào với rau và thịt"
+        },
+        {
+          "cells": [
+            {
+              "text": "お好（この）み焼（や）き",
+              "html": "お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き"
+            },
+            {
+              "text": "okonomiyaki (món xào gồm nhiều thứ như bắp cải, trứng, thịt lợn...)",
+              "html": "okonomiyaki (món xào gồm nhiều thứ như bắp cải, trứng, thịt lợn...)"
+            }
+          ],
+          "term": "お好（この）み焼（や）き",
+          "termHtml": "お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き",
+          "meaning": "okonomiyaki (món xào gồm nhiều thứ như bắp cải, trứng, thịt lợn...)",
+          "meaningHtml": "okonomiyaki (món xào gồm nhiều thứ như bắp cải, trứng, thịt lợn...)"
+        },
+        {
+          "cells": [
+            {
+              "text": "カレーライス",
+              "html": "カレーライス"
+            },
+            {
+              "text": "cơm ca-ri",
+              "html": "cơm ca-ri"
+            }
+          ],
+          "term": "カレーライス",
+          "termHtml": "カレーライス",
+          "meaning": "cơm ca-ri",
+          "meaningHtml": "cơm ca-ri"
+        },
+        {
+          "cells": [
+            {
+              "text": "ハンバーグ",
+              "html": "ハンバーグ"
+            },
+            {
+              "text": "bánh thịt rán",
+              "html": "bánh thịt rán"
+            }
+          ],
+          "term": "ハンバーグ",
+          "termHtml": "ハンバーグ",
+          "meaning": "bánh thịt rán",
+          "meaningHtml": "bánh thịt rán"
+        },
+        {
+          "cells": [
+            {
+              "text": "コロッケ",
+              "html": "コロッケ"
+            },
+            {
+              "text": "khoai tây bột chiên",
+              "html": "khoai tây bột chiên"
+            }
+          ],
+          "term": "コロッケ",
+          "termHtml": "コロッケ",
+          "meaning": "khoai tây bột chiên",
+          "meaningHtml": "khoai tây bột chiên"
+        },
+        {
+          "cells": [
+            {
+              "text": "えびフライ",
+              "html": "えびフライ"
+            },
+            {
+              "text": "tôm chiên",
+              "html": "tôm chiên"
+            }
+          ],
+          "term": "えびフライ",
+          "termHtml": "えびフライ",
+          "meaning": "tôm chiên",
+          "meaningHtml": "tôm chiên"
+        },
+        {
+          "cells": [
+            {
+              "text": "フライドキチン",
+              "html": "フライドキチン"
+            },
+            {
+              "text": "thịt gà chiên",
+              "html": "thịt gà chiên"
+            }
+          ],
+          "term": "フライドキチン",
+          "termHtml": "フライドキチン",
+          "meaning": "thịt gà chiên",
+          "meaningHtml": "thịt gà chiên"
+        },
+        {
+          "cells": [
+            {
+              "text": "サラダ",
+              "html": "サラダ"
+            },
+            {
+              "text": "sa-lát",
+              "html": "sa-lát"
+            }
+          ],
+          "term": "サラダ",
+          "termHtml": "サラダ",
+          "meaning": "sa-lát",
+          "meaningHtml": "sa-lát"
+        },
+        {
+          "cells": [
+            {
+              "text": "スープ",
+              "html": "スープ"
+            },
+            {
+              "text": "súp",
+              "html": "súp"
+            }
+          ],
+          "term": "スープ",
+          "termHtml": "スープ",
+          "meaning": "súp",
+          "meaningHtml": "súp"
+        },
+        {
+          "cells": [
+            {
+              "text": "スバゲティー",
+              "html": "スバゲティー"
+            },
+            {
+              "text": "mì Ý",
+              "html": "mì Ý"
+            }
+          ],
+          "term": "スバゲティー",
+          "termHtml": "スバゲティー",
+          "meaning": "mì Ý",
+          "meaningHtml": "mì Ý"
+        },
+        {
+          "cells": [
+            {
+              "text": "ビザー",
+              "html": "ビザー"
+            },
+            {
+              "text": "Bánh pi-za",
+              "html": "Bánh pi-za"
+            }
+          ],
+          "term": "ビザー",
+          "termHtml": "ビザー",
+          "meaning": "Bánh pi-za",
+          "meaningHtml": "Bánh pi-za"
+        },
+        {
+          "cells": [
+            {
+              "text": "ハンバーガー",
+              "html": "ハンバーガー"
+            },
+            {
+              "text": "bánh Hăm-bơ-gơ",
+              "html": "bánh Hăm-bơ-gơ"
+            }
+          ],
+          "term": "ハンバーガー",
+          "termHtml": "ハンバーガー",
+          "meaning": "bánh Hăm-bơ-gơ",
+          "meaningHtml": "bánh Hăm-bơ-gơ"
+        },
+        {
+          "cells": [
+            {
+              "text": "サンドウィッチ",
+              "html": "サンドウィッチ"
+            },
+            {
+              "text": "bánh San-uých",
+              "html": "bánh San-uých"
+            }
+          ],
+          "term": "サンドウィッチ",
+          "termHtml": "サンドウィッチ",
+          "meaning": "bánh San-uých",
+          "meaningHtml": "bánh San-uých"
+        },
+        {
+          "cells": [
+            {
+              "text": "トースト",
+              "html": "トースト"
+            },
+            {
+              "text": "bánh mì nướng",
+              "html": "bánh mì nướng"
+            }
+          ],
+          "term": "トースト",
+          "termHtml": "トースト",
+          "meaning": "bánh mì nướng",
+          "meaningHtml": "bánh mì nướng"
+        },
+        {
+          "cells": [
+            {
+              "text": "コーヒー",
+              "html": "コーヒー"
+            },
+            {
+              "text": "cà phê",
+              "html": "cà phê"
+            }
+          ],
+          "term": "コーヒー",
+          "termHtml": "コーヒー",
+          "meaning": "cà phê",
+          "meaningHtml": "cà phê"
+        },
+        {
+          "cells": [
+            {
+              "text": "紅茶（こうちゃ）",
+              "html": "<ruby>紅茶<rp>（</rp><rt>こうちゃ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "trà đen",
+              "html": "trà đen"
+            }
+          ],
+          "term": "紅茶（こうちゃ）",
+          "termHtml": "<ruby>紅茶<rp>（</rp><rt>こうちゃ</rt><rp>）</rp></ruby>",
+          "meaning": "trà đen",
+          "meaningHtml": "trà đen"
+        },
+        {
+          "cells": [
+            {
+              "text": "ココア",
+              "html": "ココア"
+            },
+            {
+              "text": "ca-cao",
+              "html": "ca-cao"
+            }
+          ],
+          "term": "ココア",
+          "termHtml": "ココア",
+          "meaning": "ca-cao",
+          "meaningHtml": "ca-cao"
+        },
+        {
+          "cells": [
+            {
+              "text": "ジュース",
+              "html": "ジュース"
+            },
+            {
+              "text": "nước hoa quả",
+              "html": "nước hoa quả"
+            }
+          ],
+          "term": "ジュース",
+          "termHtml": "ジュース",
+          "meaning": "nước hoa quả",
+          "meaningHtml": "nước hoa quả"
+        },
+        {
+          "cells": [
+            {
+              "text": "コーラ",
+              "html": "コーラ"
+            },
+            {
+              "text": "cô-ca-cô-la",
+              "html": "cô-ca-cô-la"
+            }
+          ],
+          "term": "コーラ",
+          "termHtml": "コーラ",
+          "meaning": "cô-ca-cô-la",
+          "meaningHtml": "cô-ca-cô-la"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>定食<rp>（</rp><rt>ていしょく</rt><rp>）</rp></ruby></td> <td>cơm suất</td> </tr><tr> <td width=\"40%\">ランチ</td> <td>cơm trưa</td> </tr><tr> <td width=\"40%\"><ruby>天<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>どん</td> <td>cơm và tôm chiên tẩm bột</td> </tr><tr> <td width=\"40%\"><ruby>親子<rp>（</rp><rt>おやこ</rt><rp>）</rp></ruby>どん</td> <td>cơm với thịt gà và trứng</td> </tr><tr> <td width=\"40%\"><ruby>牛<rp>（</rp><rt>ぎゅう</rt><rp>）</rp></ruby>どん</td> <td>cơm với thịt bò</td> </tr><tr> <td width=\"40%\"><ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby></td> <td>thịt nướng</td> </tr><tr> <td width=\"40%\"><ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>いため</td> <td>rau xào</td> </tr><tr> <td width=\"40%\"><ruby>漬<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>け<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby></td> <td>dưa muối</td> </tr><tr> <td width=\"40%\">みそ<ruby>汁<rp>（</rp><rt>しる</rt><rp>）</rp></ruby></td> <td>súp miso</td> </tr><tr> <td width=\"40%\">おにぎり</td> <td>cơm nắm</td> </tr><tr> <td width=\"40%\">てんぷら</td> <td>tôm chiên tẩm bột</td> </tr><tr> <td width=\"40%\">すし</td> <td>sushi</td> </tr><tr> <td width=\"40%\">うどん</td> <td>mì được làm từ bột lúa mạch</td> </tr><tr> <td width=\"40%\">そば</td> <td>mì được làm từ bột kiều mạch</td> </tr><tr> <td width=\"40%\">ラーメン</td> <td>mì tàu</td> </tr><tr> <td width=\"40%\"><ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>きそば</td> <td>mì soba xào với rau và thịt</td> </tr><tr> <td width=\"40%\">お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き</td> <td>okonomiyaki (món xào gồm nhiều thứ như bắp cải, trứng, thịt lợn...)</td> </tr><tr> <td width=\"40%\">カレーライス</td> <td>cơm ca-ri</td> </tr><tr> <td width=\"40%\">ハンバーグ</td> <td>bánh thịt rán</td> </tr><tr> <td width=\"40%\">コロッケ</td> <td>khoai tây bột chiên</td> </tr><tr> <td width=\"40%\">えびフライ</td> <td>tôm chiên</td> </tr><tr> <td width=\"40%\">フライドキチン</td> <td>thịt gà chiên</td> </tr><tr> <td width=\"40%\">サラダ</td> <td>sa-lát</td> </tr><tr> <td width=\"40%\">スープ</td> <td>súp</td> </tr><tr> <td width=\"40%\">スバゲティー</td> <td>mì Ý</td> </tr><tr> <td width=\"40%\">ビザー</td> <td>Bánh pi-za</td> </tr><tr> <td width=\"40%\">ハンバーガー</td> <td>bánh Hăm-bơ-gơ</td> </tr><tr> <td width=\"40%\">サンドウィッチ</td> <td>bánh San-uých</td> </tr><tr> <td width=\"40%\">トースト</td> <td>bánh mì nướng</td> </tr><tr> <td width=\"40%\">コーヒー</td> <td>cà phê</td> </tr><tr> <td width=\"40%\"><ruby>紅茶<rp>（</rp><rt>こうちゃ</rt><rp>）</rp></ruby></td> <td>trà đen</td> </tr><tr> <td width=\"40%\">ココア</td> <td>ca-cao</td> </tr><tr> <td width=\"40%\">ジュース</td> <td>nước hoa quả</td> </tr><tr> <td width=\"40%\">コーラ</td> <td>cô-ca-cô-la</td> </tr></tbody></table>"
+    }
+  ]
+}

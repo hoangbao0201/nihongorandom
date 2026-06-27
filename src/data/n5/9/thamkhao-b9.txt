@@ -1,0 +1,410 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9202256620459772" crossorigin="anonymous"></script><div class="vnjp-ad-slot vnjp-ad-before" data-slot="before" style="min-height:300px"><div class="vnjp-ad-inner"><!-- vnjpclub - top - content -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9202256620459772" data-ad-slot="7565604990" data-ad-format="auto" data-full-width-responsive="true"></ins></div></div><noscript><div class="vnjp-noscript">⚠️ Vui lòng bật JavaScript để xem nội dung trang này.</div></noscript><div class="vnjp-js-only"><h5><ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>・<ruby>スポーツ<rp>（</rp><rt></rt><rp>）</rp></ruby>・<ruby>映画<rp>（</rp><rt>えいが</rt><rp>）</rp></ruby> Âm nhạc, thể thao, điện ảnh</h5>
+
+<b><ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby> Âm nhạc</b>
+
+    <style>
+    table.search_result {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    table.search_result th {
+        background: #333;
+        color: #fff;
+        font-weight: bold;
+    }
+    table.search_result td,
+    table.search_result th {
+        padding: 6px;
+        border: 1px solid #ccc;
+    }
+
+    @media only screen and (max-width: 768px){
+        table.search_result,
+        table.search_result thead,
+        table.search_result tbody,
+        table.search_result th,
+        table.search_result td,
+        table.search_result tr { 
+            display: block; 
+        }
+        table.search_result thead tr { 
+            position: absolute; 
+            top: -9999px; 
+            left: -9999px; 
+        }
+        table.search_result tr { 
+            border: 1px solid #ccc; 
+        }
+        table.search_result td {
+            border: none;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            width: 100% !important;
+        }
+        table.search_result td:before {
+            position: absolute;
+            top: 6px;
+            left: 6px;
+            width: 45%;
+            padding-right: 10px;
+            white-space: nowrap;
+        }
+    }
+    </style>
+    <table class="search_result">
+                <thead>
+                    <tr>
+                        <th>Từ vựng</th>
+                        <th>Nghĩa</th>
+                    </tr>
+                </thead>
+                <tbody><tr>
+                    <td width="40%">ポップス</td>
+                    <td>nhạc pop</td>
+                  </tr><tr>
+                    <td width="40%">ロック</td>
+                    <td>nhạc rock</td>
+                  </tr><tr>
+                    <td width="40%">ジャズ</td>
+                    <td>nhạc jazz</td>
+                  </tr><tr>
+                    <td width="40%">ラテン</td>
+                    <td>nhạc Châu Mỹ Latin</td>
+                  </tr><tr>
+                    <td width="40%">クラシック</td>
+                    <td>nhạc cổ điển</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>民謡<rp>（</rp><rt>みんよう</rt><rp>）</rp></ruby></td>
+                    <td>dân ca</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>演歌<rp>（</rp><rt>えんか</rt><rp>）</rp></ruby></td>
+                    <td>enka (một thể loại ba₫lát của Nhật)</td>
+                  </tr><tr>
+                    <td width="40%">ミュージカル</td>
+                    <td>ca kịch</td>
+                  </tr><tr>
+                    <td width="40%">オペラ</td>
+                    <td>ô-pê-ra</td>
+                  </tr></tbody></table>
+
+<b><ruby>映画<rp>（</rp><rt>えいが</rt><rp>）</rp></ruby> Điện ảnh</b>
+
+    <style>
+    table.search_result {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    table.search_result th {
+        background: #333;
+        color: #fff;
+        font-weight: bold;
+    }
+    table.search_result td,
+    table.search_result th {
+        padding: 6px;
+        border: 1px solid #ccc;
+    }
+
+    @media only screen and (max-width: 768px){
+        table.search_result,
+        table.search_result thead,
+        table.search_result tbody,
+        table.search_result th,
+        table.search_result td,
+        table.search_result tr { 
+            display: block; 
+        }
+        table.search_result thead tr { 
+            position: absolute; 
+            top: -9999px; 
+            left: -9999px; 
+        }
+        table.search_result tr { 
+            border: 1px solid #ccc; 
+        }
+        table.search_result td {
+            border: none;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            width: 100% !important;
+        }
+        table.search_result td:before {
+            position: absolute;
+            top: 6px;
+            left: 6px;
+            width: 45%;
+            padding-right: 10px;
+            white-space: nowrap;
+        }
+    }
+    </style>
+    <table class="search_result">
+                <thead>
+                    <tr>
+                        <th>Từ vựng</th>
+                        <th>Nghĩa</th>
+                    </tr>
+                </thead>
+                <tbody><tr>
+                    <td width="40%">SF</td>
+                    <td>phim khoa học viễn tưởng (SF: science fiction)</td>
+                  </tr><tr>
+                    <td width="40%">ホラー</td>
+                    <td>phim kinh dị</td>
+                  </tr><tr>
+                    <td width="40%">アニメ</td>
+                    <td>phim hoạt hình</td>
+                  </tr><tr>
+                    <td width="40%">ドキュメンタリー</td>
+                    <td>phim tài liệu</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>恋愛<rp>（</rp><rt>れんあい</rt><rp>）</rp></ruby></td>
+                    <td>phim tình yêu</td>
+                  </tr><tr>
+                    <td width="40%">ミステリー</td>
+                    <td>phim ly kì, bí ẩn</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>文芸<rp>（</rp><rt>ぶんげい</rt><rp>）</rp></ruby></td>
+                    <td>phim văn nghệ</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>戦争<rp>（</rp><rt>せんそう</rt><rp>）</rp></ruby></td>
+                    <td>phim chiến tranh</td>
+                  </tr><tr>
+                    <td width="40%">アクション</td>
+                    <td>phim hành động</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>喜劇<rp>（</rp><rt>きげき</rt><rp>）</rp></ruby></td>
+                    <td>phim hài</td>
+                  </tr></tbody></table>
+
+<b><ruby>スポーツ<rp>（</rp><rt></rt><rp>）</rp></ruby> Thể thao</b>
+
+    <style>
+    table.search_result {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    table.search_result th {
+        background: #333;
+        color: #fff;
+        font-weight: bold;
+    }
+    table.search_result td,
+    table.search_result th {
+        padding: 6px;
+        border: 1px solid #ccc;
+    }
+
+    @media only screen and (max-width: 768px){
+        table.search_result,
+        table.search_result thead,
+        table.search_result tbody,
+        table.search_result th,
+        table.search_result td,
+        table.search_result tr { 
+            display: block; 
+        }
+        table.search_result thead tr { 
+            position: absolute; 
+            top: -9999px; 
+            left: -9999px; 
+        }
+        table.search_result tr { 
+            border: 1px solid #ccc; 
+        }
+        table.search_result td {
+            border: none;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            width: 100% !important;
+        }
+        table.search_result td:before {
+            position: absolute;
+            top: 6px;
+            left: 6px;
+            width: 45%;
+            padding-right: 10px;
+            white-space: nowrap;
+        }
+    }
+    </style>
+    <table class="search_result">
+                <thead>
+                    <tr>
+                        <th>Từ vựng</th>
+                        <th>Nghĩa</th>
+                    </tr>
+                </thead>
+                <tbody><tr>
+                    <td width="40%">ソフトボール</td>
+                    <td>soft-ball (một môn thể thao tựa như bóng chày)</td>
+                  </tr><tr>
+                    <td width="40%">サッカー</td>
+                    <td>bóng đá</td>
+                  </tr><tr>
+                    <td width="40%">ラグビー</td>
+                    <td>bóng bầu dục</td>
+                  </tr><tr>
+                    <td width="40%">バレーボール</td>
+                    <td>bóng chuyền</td>
+                  </tr><tr>
+                    <td width="40%">バスケットボール</td>
+                    <td>bóng rổ</td>
+                  </tr><tr>
+                    <td width="40%">テニス</td>
+                    <td>quần vợt</td>
+                  </tr><tr>
+                    <td width="40%">ボーリング</td>
+                    <td>bowling</td>
+                  </tr><tr>
+                    <td width="40%">スキー</td>
+                    <td>trượt tuyết</td>
+                  </tr><tr>
+                    <td width="40%">スケート</td>
+                    <td>trượt băng</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>野球<rp>（</rp><rt>やきゅう</rt><rp>）</rp></ruby></td>
+                    <td>bóng chày</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>卓球<rp>（</rp><rt>たっきゅう</rt><rp>）</rp></ruby>/ピンポン</td>
+                    <td>bóng bàn</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby></td>
+                    <td>vật Sumo</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>柔道<rp>（</rp><rt>じゅうどう</rt><rp>）</rp></ruby></td>
+                    <td>võ Judo</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>剣道<rp>（</rp><rt>けんどう</rt><rp>）</rp></ruby></td>
+                    <td>đấu kiếm</td>
+                  </tr><tr>
+                    <td width="40%"><ruby>水泳<rp>（</rp><rt>すいえい</rt><rp>）</rp></ruby></td>
+                    <td>bơi lội</td>
+                  </tr></tbody></table>
+
+    <style>
+    .vnjp-link-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr)); /* Desktop: 4 ô / hàng */
+        gap: 10px 10px;
+        margin: 10px 0 20px;
+        clear: both; /* cắt float cũ nếu có */
+    }
+
+    .vnjp-link-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start; /* nếu muốn chữ giữa thì đổi thành center */
+        padding: 7px 5px 5px 15px;
+        border-radius: 10px;
+        background: #ffffff;
+        border: 1px solid #e0e4ef;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.04);
+        text-decoration: none;
+        transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+        float: none; /* ép bỏ mọi float từ CSS cũ */
+    }
+
+    .vnjp-link-item:hover {
+        background-color: #f5f7ff;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        transform: translateY(-2px);
+    }
+
+    .vnjp-link-title {
+        display: block;
+        font-size: 14px;
+        font-weight: 600;
+        color: #222;
+        margin-bottom: 3px;
+    }
+
+    .vnjp-link-sub {
+        display: block;
+        font-size: 11px;
+        color: #6b7280;
+    }
+
+    a.disabled {
+        pointer-events: none;   /* ❌ không click được */
+        opacity: 0.5;           /* làm mờ */
+        cursor: not-allowed;
+        text-decoration: none;
+    }
+
+    /* Tablet: 3 ô / hàng */
+    @media (max-width: 1024px) {
+        .vnjp-link-grid {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+    }
+
+    /* Mobile: 2 ô / hàng */
+    @media (max-width: 768px) {
+        .vnjp-link-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .vnjp-link-title {
+            font-size: 13px;
+        }
+        .vnjp-link-sub {
+            font-size: 10px;
+        }
+    }
+    </style>
+    <div class="vnjp-link-grid">
+        <a href="/minna-no-nihongo/bai-9-tu-vung.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Từ vựng</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-ngu-phap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Ngữ pháp</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-luyen-doc.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện đọc</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-hoi-thoai.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hội thoại</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-luyen-nghe.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện nghe</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-bai-tap.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Bài tập</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-han-tu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Hán tự</span>
+        </a>
+
+        <a href="/minna-no-nihongo/luyen-chu-han-bai-9.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Luyện Kanji</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-25-bai-doc-hieu.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Đọc hiểu</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-kiem-tra.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Kiểm tra</span>
+        </a>
+
+        <a href="/minna-no-nihongo/bai-9-tham-khao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Tham khảo</span>
+        </a>
+
+        <a href="#" class="vnjp-link-item disabled">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a>
+<!--         <a href="/minna-no-nihongo/bai-<!?php echo $de_stt; ?>-nang-cao.html" class="vnjp-link-item">
+            <span class="vnjp-link-title">Nâng cao</span>
+        </a> -->
+    </div>
+
+    <style type="text/css"

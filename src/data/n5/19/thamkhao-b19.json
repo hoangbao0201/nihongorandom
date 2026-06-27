@@ -1,0 +1,258 @@
+{
+  "lesson": 19,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "伝統文化（でんとうぶんか）・娯楽（ごらく） Văn hóa truyền thống và giải trí",
+      "titleHtml": "<ruby>伝統文化<rp>（</rp><rt>でんとうぶんか</rt><rp>）</rp></ruby>・<ruby>娯楽<rp>（</rp><rt>ごらく</rt><rp>）</rp></ruby> Văn hóa truyền thống và giải trí",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "茶道（さどう）（お茶（ちゃ））",
+              "html": "<ruby>茶道<rp>（</rp><rt>さどう</rt><rp>）</rp></ruby>（お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>）"
+            },
+            {
+              "text": "Trà đạo",
+              "html": "Trà đạo"
+            }
+          ],
+          "term": "茶道（さどう）（お茶（ちゃ））",
+          "termHtml": "<ruby>茶道<rp>（</rp><rt>さどう</rt><rp>）</rp></ruby>（お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>）",
+          "meaning": "Trà đạo",
+          "meaningHtml": "Trà đạo"
+        },
+        {
+          "cells": [
+            {
+              "text": "華道（かどう）（生（い）け花（ばな））",
+              "html": "<ruby>華道<rp>（</rp><rt>かどう</rt><rp>）</rp></ruby>（<ruby>生<rp>（</rp><rt>い</rt><rp>）</rp></ruby>け<ruby>花<rp>（</rp><rt>ばな</rt><rp>）</rp></ruby>）"
+            },
+            {
+              "text": "nghệ thuật Cắm hoa",
+              "html": "nghệ thuật Cắm hoa"
+            }
+          ],
+          "term": "華道（かどう）（生（い）け花（ばな））",
+          "termHtml": "<ruby>華道<rp>（</rp><rt>かどう</rt><rp>）</rp></ruby>（<ruby>生<rp>（</rp><rt>い</rt><rp>）</rp></ruby>け<ruby>花<rp>（</rp><rt>ばな</rt><rp>）</rp></ruby>）",
+          "meaning": "nghệ thuật Cắm hoa",
+          "meaningHtml": "nghệ thuật Cắm hoa"
+        },
+        {
+          "cells": [
+            {
+              "text": "書道（しょどう）",
+              "html": "<ruby>書道<rp>（</rp><rt>しょどう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Thư pháp",
+              "html": "Thư pháp"
+            }
+          ],
+          "term": "書道（しょどう）",
+          "termHtml": "<ruby>書道<rp>（</rp><rt>しょどう</rt><rp>）</rp></ruby>",
+          "meaning": "Thư pháp",
+          "meaningHtml": "Thư pháp"
+        },
+        {
+          "cells": [
+            {
+              "text": "歌舞伎（かぶき）",
+              "html": "<ruby>歌舞伎<rp>（</rp><rt>かぶき</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kịch Kabuki",
+              "html": "kịch Kabuki"
+            }
+          ],
+          "term": "歌舞伎（かぶき）",
+          "termHtml": "<ruby>歌舞伎<rp>（</rp><rt>かぶき</rt><rp>）</rp></ruby>",
+          "meaning": "kịch Kabuki",
+          "meaningHtml": "kịch Kabuki"
+        },
+        {
+          "cells": [
+            {
+              "text": "能（のう）",
+              "html": "<ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kịch Nou",
+              "html": "kịch Nou"
+            }
+          ],
+          "term": "能（のう）",
+          "termHtml": "<ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>",
+          "meaning": "kịch Nou",
+          "meaningHtml": "kịch Nou"
+        },
+        {
+          "cells": [
+            {
+              "text": "文楽（ぶんらく）",
+              "html": "<ruby>文楽<rp>（</rp><rt>ぶんらく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nghệ thuật Bunraku",
+              "html": "nghệ thuật Bunraku"
+            }
+          ],
+          "term": "文楽（ぶんらく）",
+          "termHtml": "<ruby>文楽<rp>（</rp><rt>ぶんらく</rt><rp>）</rp></ruby>",
+          "meaning": "nghệ thuật Bunraku",
+          "meaningHtml": "nghệ thuật Bunraku"
+        },
+        {
+          "cells": [
+            {
+              "text": "相撲（すもう）",
+              "html": "<ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "vật Sumo",
+              "html": "vật Sumo"
+            }
+          ],
+          "term": "相撲（すもう）",
+          "termHtml": "<ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby>",
+          "meaning": "vật Sumo",
+          "meaningHtml": "vật Sumo"
+        },
+        {
+          "cells": [
+            {
+              "text": "柔道（じゅうどう）",
+              "html": "<ruby>柔道<rp>（</rp><rt>じゅうどう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Judo",
+              "html": "Judo"
+            }
+          ],
+          "term": "柔道（じゅうどう）",
+          "termHtml": "<ruby>柔道<rp>（</rp><rt>じゅうどう</rt><rp>）</rp></ruby>",
+          "meaning": "Judo",
+          "meaningHtml": "Judo"
+        },
+        {
+          "cells": [
+            {
+              "text": "剣道（けんどう）",
+              "html": "<ruby>剣道<rp>（</rp><rt>けんどう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Kiếm đạo",
+              "html": "Kiếm đạo"
+            }
+          ],
+          "term": "剣道（けんどう）",
+          "termHtml": "<ruby>剣道<rp>（</rp><rt>けんどう</rt><rp>）</rp></ruby>",
+          "meaning": "Kiếm đạo",
+          "meaningHtml": "Kiếm đạo"
+        },
+        {
+          "cells": [
+            {
+              "text": "空手（からて）",
+              "html": "<ruby>空手<rp>（</rp><rt>からて</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Karate",
+              "html": "Karate"
+            }
+          ],
+          "term": "空手（からて）",
+          "termHtml": "<ruby>空手<rp>（</rp><rt>からて</rt><rp>）</rp></ruby>",
+          "meaning": "Karate",
+          "meaningHtml": "Karate"
+        },
+        {
+          "cells": [
+            {
+              "text": "漫才（まんざい）・落語（らくご）",
+              "html": "<ruby>漫才<rp>（</rp><rt>まんざい</rt><rp>）</rp></ruby>・<ruby>落語<rp>（</rp><rt>らくご</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "hài・nghệ thuật kể chuyện",
+              "html": "hài・nghệ thuật kể chuyện"
+            }
+          ],
+          "term": "漫才（まんざい）・落語（らくご）",
+          "termHtml": "<ruby>漫才<rp>（</rp><rt>まんざい</rt><rp>）</rp></ruby>・<ruby>落語<rp>（</rp><rt>らくご</rt><rp>）</rp></ruby>",
+          "meaning": "hài・nghệ thuật kể chuyện",
+          "meaningHtml": "hài・nghệ thuật kể chuyện"
+        },
+        {
+          "cells": [
+            {
+              "text": "囲碁（いご）・将棋（しょうぎ）",
+              "html": "<ruby>囲碁<rp>（</rp><rt>いご</rt><rp>）</rp></ruby>・<ruby>将棋<rp>（</rp><rt>しょうぎ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Cờ vây・cờ tướng",
+              "html": "Cờ vây・cờ tướng"
+            }
+          ],
+          "term": "囲碁（いご）・将棋（しょうぎ）",
+          "termHtml": "<ruby>囲碁<rp>（</rp><rt>いご</rt><rp>）</rp></ruby>・<ruby>将棋<rp>（</rp><rt>しょうぎ</rt><rp>）</rp></ruby>",
+          "meaning": "Cờ vây・cờ tướng",
+          "meaningHtml": "Cờ vây・cờ tướng"
+        },
+        {
+          "cells": [
+            {
+              "text": "パチンコ",
+              "html": "パチンコ"
+            },
+            {
+              "text": "trò chơi Pachinko",
+              "html": "trò chơi Pachinko"
+            }
+          ],
+          "term": "パチンコ",
+          "termHtml": "パチンコ",
+          "meaning": "trò chơi Pachinko",
+          "meaningHtml": "trò chơi Pachinko"
+        },
+        {
+          "cells": [
+            {
+              "text": "カラオケ",
+              "html": "カラオケ"
+            },
+            {
+              "text": "Karaote",
+              "html": "Karaote"
+            }
+          ],
+          "term": "カラオケ",
+          "termHtml": "カラオケ",
+          "meaning": "Karaote",
+          "meaningHtml": "Karaote"
+        },
+        {
+          "cells": [
+            {
+              "text": "盆踊（ぼんおど）り",
+              "html": "<ruby>盆踊<rp>（</rp><rt>ぼんおど</rt><rp>）</rp></ruby>り"
+            },
+            {
+              "text": "Múa Bon",
+              "html": "Múa Bon"
+            }
+          ],
+          "term": "盆踊（ぼんおど）り",
+          "termHtml": "<ruby>盆踊<rp>（</rp><rt>ぼんおど</rt><rp>）</rp></ruby>り",
+          "meaning": "Múa Bon",
+          "meaningHtml": "Múa Bon"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>茶道<rp>（</rp><rt>さどう</rt><rp>）</rp></ruby>（お<ruby>茶<rp>（</rp><rt>ちゃ</rt><rp>）</rp></ruby>）</td> <td>Trà đạo</td> </tr><tr> <td width=\"40%\"><ruby>華道<rp>（</rp><rt>かどう</rt><rp>）</rp></ruby>（<ruby>生<rp>（</rp><rt>い</rt><rp>）</rp></ruby>け<ruby>花<rp>（</rp><rt>ばな</rt><rp>）</rp></ruby>）</td> <td>nghệ thuật Cắm hoa</td> </tr><tr> <td width=\"40%\"><ruby>書道<rp>（</rp><rt>しょどう</rt><rp>）</rp></ruby></td> <td>Thư pháp</td> </tr><tr> <td width=\"40%\"><ruby>歌舞伎<rp>（</rp><rt>かぶき</rt><rp>）</rp></ruby></td> <td>kịch Kabuki</td> </tr><tr> <td width=\"40%\"><ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby></td> <td>kịch Nou</td> </tr><tr> <td width=\"40%\"><ruby>文楽<rp>（</rp><rt>ぶんらく</rt><rp>）</rp></ruby></td> <td>nghệ thuật Bunraku</td> </tr><tr> <td width=\"40%\"><ruby>相撲<rp>（</rp><rt>すもう</rt><rp>）</rp></ruby></td> <td>vật Sumo</td> </tr><tr> <td width=\"40%\"><ruby>柔道<rp>（</rp><rt>じゅうどう</rt><rp>）</rp></ruby></td> <td>Judo</td> </tr><tr> <td width=\"40%\"><ruby>剣道<rp>（</rp><rt>けんどう</rt><rp>）</rp></ruby></td> <td>Kiếm đạo</td> </tr><tr> <td width=\"40%\"><ruby>空手<rp>（</rp><rt>からて</rt><rp>）</rp></ruby></td> <td>Karate</td> </tr><tr> <td width=\"40%\"><ruby>漫才<rp>（</rp><rt>まんざい</rt><rp>）</rp></ruby>・<ruby>落語<rp>（</rp><rt>らくご</rt><rp>）</rp></ruby></td> <td>hài・nghệ thuật kể chuyện</td> </tr><tr> <td width=\"40%\"><ruby>囲碁<rp>（</rp><rt>いご</rt><rp>）</rp></ruby>・<ruby>将棋<rp>（</rp><rt>しょうぎ</rt><rp>）</rp></ruby></td> <td>Cờ vây・cờ tướng</td> </tr><tr> <td width=\"40%\">パチンコ</td> <td>trò chơi Pachinko</td> </tr><tr> <td width=\"40%\">カラオケ</td> <td>Karaote</td> </tr><tr> <td width=\"40%\"><ruby>盆踊<rp>（</rp><rt>ぼんおど</rt><rp>）</rp></ruby>り</td> <td>Múa Bon</td> </tr></tbody></table> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai19.jpg\" style=\"width: 100%; \"> </p>"
+    }
+  ]
+}

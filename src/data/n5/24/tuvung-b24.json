@@ -1,0 +1,236 @@
+{
+  "lesson": 24,
+  "meta": {
+    "practiceUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=24",
+    "flashcardUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=24&mf=fc"
+  },
+  "sections": [
+    {
+      "key": "main",
+      "label": null,
+      "labelHtml": null,
+      "items": [
+        {
+          "kind": "entry",
+          "index": 1,
+          "word": "くれます",
+          "wordHtml": "くれます",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100001010.mp3",
+          "meaning": "cho, tặng (tôi)",
+          "meaningHtml": "cho, tặng (tôi)"
+        },
+        {
+          "kind": "entry",
+          "index": 2,
+          "word": "なおします",
+          "wordHtml": "なおします",
+          "kanji": "直します",
+          "kanjiHtml": "直します",
+          "sinoVietnamese": "TRỰC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100001011.mp3",
+          "meaning": "chữa, sửa",
+          "meaningHtml": "chữa, sửa"
+        },
+        {
+          "kind": "entry",
+          "index": 3,
+          "word": "つれていきます",
+          "wordHtml": "つれていきます",
+          "kanji": "連れて行きます",
+          "kanjiHtml": "連れて行きます",
+          "sinoVietnamese": "LIÊN HÀNH",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100001100.mp3",
+          "meaning": "dẫn đi",
+          "meaningHtml": "dẫn đi"
+        },
+        {
+          "kind": "entry",
+          "index": 4,
+          "word": "つれてきます",
+          "wordHtml": "つれてきます",
+          "kanji": "連れて来ます",
+          "kanjiHtml": "連れて来ます",
+          "sinoVietnamese": "LIÊN LAI",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100001101.mp3",
+          "meaning": "dẫn đến",
+          "meaningHtml": "dẫn đến"
+        },
+        {
+          "kind": "entry",
+          "index": 5,
+          "word": "おくります [ひとを～]",
+          "wordHtml": "おくります<br />[ひとを～]",
+          "kanji": "送ります [人を～]",
+          "kanjiHtml": "送ります<br />[人を～]",
+          "sinoVietnamese": "TỐNG NHÂN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100001110.mp3",
+          "meaning": "đưa đi, đưa đến, tiễn [một ai đó]",
+          "meaningHtml": "đưa đi, đưa đến, tiễn [một ai đó]"
+        },
+        {
+          "kind": "entry",
+          "index": 6,
+          "word": "しょうかいします",
+          "wordHtml": "しょうかいします",
+          "kanji": "紹介します",
+          "kanjiHtml": "紹介します",
+          "sinoVietnamese": "THIỆU GIỚI",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100001111.mp3",
+          "meaning": "giới thiệu",
+          "meaningHtml": "giới thiệu"
+        },
+        {
+          "kind": "entry",
+          "index": 7,
+          "word": "あんないします",
+          "wordHtml": "あんないします",
+          "kanji": "案内します",
+          "kanjiHtml": "案内します",
+          "sinoVietnamese": "ÁN NỘI",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100010000.mp3",
+          "meaning": "hướng dẫn, giới thiệu, dẫn đường",
+          "meaningHtml": "hướng dẫn, giới thiệu, dẫn đường"
+        },
+        {
+          "kind": "entry",
+          "index": 8,
+          "word": "せつめいします",
+          "wordHtml": "せつめいします",
+          "kanji": "説明します",
+          "kanjiHtml": "説明します",
+          "sinoVietnamese": "THUYẾT MINH",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100010001.mp3",
+          "meaning": "giải thích, trình bày",
+          "meaningHtml": "giải thích, trình bày"
+        },
+        {
+          "kind": "entry",
+          "index": 9,
+          "word": "おじいさん／ おじいちゃん",
+          "wordHtml": "おじいさん／<br /> おじいちゃん",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100010010.mp3",
+          "meaning": "ông nội, ông ngoại, ông",
+          "meaningHtml": "ông nội, ông ngoại, ông"
+        },
+        {
+          "kind": "entry",
+          "index": 10,
+          "word": "おばあさん／ おばあちゃん",
+          "wordHtml": "おばあさん／<br /> おばあちゃん",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100010011.mp3",
+          "meaning": "bà nội, bà ngoại, bà",
+          "meaningHtml": "bà nội, bà ngoại, bà"
+        },
+        {
+          "kind": "entry",
+          "index": 11,
+          "word": "じゅんび",
+          "wordHtml": "じゅんび",
+          "kanji": "準備",
+          "kanjiHtml": "準備",
+          "sinoVietnamese": "CHUẨN BỊ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100010100.mp3",
+          "meaning": "chuẩn bị [～します:chuẩn bị]",
+          "meaningHtml": "chuẩn bị [～します:chuẩn bị]"
+        },
+        {
+          "kind": "entry",
+          "index": 12,
+          "word": "ひっこし",
+          "wordHtml": "ひっこし",
+          "kanji": "引っ越し",
+          "kanjiHtml": "引っ越し",
+          "sinoVietnamese": "DẪN VIỆT",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100010101.mp3",
+          "meaning": "sự chuyển nhà",
+          "meaningHtml": "sự chuyển nhà"
+        },
+        {
+          "kind": "entry",
+          "index": 13,
+          "word": "[お]かし",
+          "wordHtml": "[お]かし",
+          "kanji": "[お]菓子",
+          "kanjiHtml": "[お]菓子",
+          "sinoVietnamese": "QUẢ TỬ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100010110.mp3",
+          "meaning": "bánh kẹo",
+          "meaningHtml": "bánh kẹo"
+        },
+        {
+          "kind": "entry",
+          "index": 14,
+          "word": "ホームステイ",
+          "wordHtml": "ホームステイ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100010111.mp3",
+          "meaning": "homestay",
+          "meaningHtml": "homestay"
+        },
+        {
+          "kind": "entry",
+          "index": 15,
+          "word": "ぜんぶ",
+          "wordHtml": "ぜんぶ",
+          "kanji": "全部",
+          "kanjiHtml": "全部",
+          "sinoVietnamese": "TOÀN BỘ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100011000.mp3",
+          "meaning": "toàn bộ, tất cả",
+          "meaningHtml": "toàn bộ, tất cả"
+        },
+        {
+          "kind": "entry",
+          "index": 16,
+          "word": "じぶんで",
+          "wordHtml": "じぶんで",
+          "kanji": "自分で",
+          "kanjiHtml": "自分で",
+          "sinoVietnamese": "TỰ PHÂN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100011001.mp3",
+          "meaning": "tự (mình)",
+          "meaningHtml": "tự (mình)"
+        }
+      ]
+    },
+    {
+      "key": "section-2",
+      "label": "会話(かいわ)",
+      "labelHtml": "＜<b><ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby></b>＞",
+      "items": [
+        {
+          "kind": "phrase",
+          "index": 17,
+          "text": "ほかに",
+          "textHtml": "ほかに",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100011010.mp3",
+          "meaning": "ngoài ra, bên cạnh đó",
+          "meaningHtml": "ngoài ra, bên cạnh đó"
+        },
+        {
+          "kind": "divider"
+        },
+        {
+          "kind": "phrase",
+          "index": 18,
+          "text": "母（はは）の日（ひ）",
+          "textHtml": "<ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai24/00010101100011011.mp3",
+          "meaning": "Ngày của Mẹ",
+          "meaningHtml": "Ngày của Mẹ"
+        }
+      ]
+    }
+  ]
+}

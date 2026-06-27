@@ -1,0 +1,100 @@
+{
+  "lesson": 5,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca707b82144a12a6dec0699",
+      "index": 1,
+      "character": "友",
+      "sinoVietnameseWord": "HỮU",
+      "mean": "Bằng hữu, bạn bè",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l5/kanji/img/1_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 友 HỮU giống một người bạn đang dang tay bảo vệ m&igrave;nh.</p>\n<p>&nbsp;</p>",
+      "onReading": "ユウ",
+      "kunReading": "とも",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 127px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">友だち</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">ともだち</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">bạn, bạn b&egrave;</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">友人</td>\n<td style=\"width: 33.3333%; height: 22px;\">ゆうじん</td>\n<td style=\"width: 33.3333%; height: 22px;\">người bạn</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">親友</td>\n<td style=\"width: 33.3333%; height: 22px;\">しんゆう</td>\n<td style=\"width: 33.3333%; height: 22px;\">bạn th&acirc;n</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">友情</td>\n<td style=\"width: 33.3333%;\">ゆうじょう</td>\n<td style=\"width: 33.3333%;\">t&igrave;nh bạn</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca709542144a12a6dec06b0",
+      "index": 2,
+      "character": "年",
+      "sinoVietnameseWord": "NIÊN",
+      "mean": "Năm",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l5/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 年 NI&Ecirc;N giống h&igrave;nh c&acirc;y l&uacute;a, ng&agrave;y xưa mỗi năm người ta chỉ trồng một vụ l&uacute;a.</p>",
+      "onReading": "ネン",
+      "kunReading": "とし",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 113px;\">\n<tbody>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">毎年</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">まいとし</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">h&agrave;ng năm</span></td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">今年</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">ことし</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">năm nay</span></td>\n</tr>\n<tr style=\"height: 28px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">一昨年</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">おととし</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">năm kia</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 29px;\"><span style=\"color: #e74c3c;\">去年</span></td>\n<td style=\"width: 33.3333%; height: 29px;\"><span style=\"color: #e74c3c;\">きょねん</span></td>\n<td style=\"width: 33.3333%; height: 29px;\"><span style=\"color: #e74c3c;\">năm ngo&aacute;i</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 32px;\"><span style=\"color: #e74c3c;\">来年</span></td>\n<td style=\"width: 33.3333%; height: 32px;\"><span style=\"color: #e74c3c;\">らいねん</span></td>\n<td style=\"width: 33.3333%; height: 32px;\"><span style=\"color: #e74c3c;\">năm sau</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">2024年</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">2024ねん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">năm 2024</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca70bb22144a12a6dec06c7",
+      "index": 3,
+      "character": "今",
+      "sinoVietnameseWord": "KIM",
+      "mean": "Hiện tại",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l5/kanji/img/3_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 今 KIM giống như ai đ&oacute; đang h&aacute;t ラララ dưới m&aacute;i nh&agrave; ngay b&acirc;y giờ.&nbsp;&nbsp;</p>",
+      "onReading": "コン",
+      "kunReading": "いま",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 110px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">今&nbsp;&nbsp;&nbsp;</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">いま</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">b&acirc;y giờ</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">今朝</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">けさ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">s&aacute;ng nay</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">今年</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">ことし</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">năm nay</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">今月</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">こんげつ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">th&aacute;ng n&agrave;y</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">今晩</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">こんばん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">tối nay</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca70cf72144a12a6dec06d4",
+      "index": 4,
+      "character": "週",
+      "sinoVietnameseWord": "CHU",
+      "mean": "Tuần",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l5/kanji/img/4_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 週 CHU giống một bạn nữ hốt hoảng v&igrave; chỉ c&ograve;n 1 tuần nữa l&agrave; đến ng&agrave;y thi.</p>\n<p>&nbsp;</p>",
+      "onReading": "シュウ",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">今週</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">こんしゅう</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">tuần n&agrave;y</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">先週</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">せんしゅう</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">tuần trước</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">来週</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">らいしゅう</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">tuần sau</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">毎週</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">まいしゅう</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">h&agrave;ng tuần</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">週末</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">しゅうまつ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">cuối tuần</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">一週間</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">いっしゅうかん</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">một tuần</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca70e212144a12a6dec06e1",
+      "index": 5,
+      "character": "休",
+      "sinoVietnameseWord": "HƯU",
+      "mean": "Nghỉ ngơi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l5/kanji/img/5_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 休 HƯU được gh&eacute;p từ bộ イ NH&Acirc;N ĐỨNG v&agrave; chữ 木 MỘC, giống như một người đang đứng b&ecirc;n c&aacute;i c&acirc;y để nghỉ ngơi.</p>",
+      "onReading": "キュウ",
+      "kunReading": "やす・む",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 109px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">休みます&nbsp;&nbsp;&nbsp;</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">やすみます</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">nghỉ, nghỉ ngơi</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">休み</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">やすみ</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">nghỉ, đ&oacute;ng cửa</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">休みの日</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">やすみのひ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">ng&agrave;y nghỉ&nbsp;</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">休憩</td>\n<td style=\"width: 33.3333%; height: 22px;\">きゅうけい</td>\n<td style=\"width: 33.3333%; height: 22px;\">giải lao</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">休日</td>\n<td style=\"width: 33.3333%; height: 22px;\">きゅうじつ</td>\n<td style=\"width: 33.3333%; height: 22px;\">ng&agrave;y nghỉ</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a8e202e6a4de6699512503",
+      "index": 6,
+      "character": "前",
+      "sinoVietnameseWord": "TIỀN",
+      "mean": "Trước",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l5/kanji/img/6_xyz_app.png",
+      "reminiscentDescription": "<p>Để nhớ chữ 前 TIỀN, ta nghĩ đến việc trước khi cất đồ l&ecirc;n gi&aacute; th&igrave; cần c&oacute; c&aacute;i thang, m&agrave; trước khi c&oacute; c&aacute;i thang th&igrave; cần 2 thanh gỗ.</p>",
+      "onReading": "ゼン",
+      "kunReading": "まえ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 132px;\">\n<tbody>\n<tr style=\"height: 44px;\">\n<td style=\"width: 33.3333%; height: 44px;\"><span style=\"color: #e74c3c;\">前</span></td>\n<td style=\"width: 33.3333%; height: 44px;\"><span style=\"color: #e74c3c;\">まえ</span></td>\n<td style=\"width: 33.3333%; height: 44px;\"><span style=\"color: #e74c3c;\">trước đ&acirc;y (thời gian), ph&iacute;a trước (kh&ocirc;ng gian)</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">前のこと</td>\n<td style=\"width: 33.3333%; height: 22px;\">まえのこと</td>\n<td style=\"width: 33.3333%; height: 22px;\">chuyện trước đ&acirc;y&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">名前</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">なまえ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">t&ecirc;n, họ, họ t&ecirc;n</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">前半</td>\n<td style=\"width: 33.3333%; height: 22px;\">ぜんはん</td>\n<td style=\"width: 33.3333%; height: 22px;\">nửa trước, nửa đầu&nbsp;&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">前社長</td>\n<td style=\"width: 33.3333%; height: 22px;\">ぜんしゃちょう</td>\n<td style=\"width: 33.3333%; height: 22px;\">gi&aacute;m đốc tiền nhiệm&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a8e420e6a4de6699512508",
+      "index": 7,
+      "character": "午",
+      "sinoVietnameseWord": "NGỌ",
+      "mean": "Giờ Ngọ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l5/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 午 NGỌ giống như kim giờ đang chỉ v&agrave;o số 12 tr&ecirc;n đồng hồ v&agrave;o l&uacute;c ch&iacute;nh ngọ.</p>",
+      "onReading": "ゴ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">午前</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">ごぜん</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">AM (từ 12:00 đ&ecirc;m đến 11:59 trưa)</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">午後</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">ごご</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">PM (từ 12:00 trưa đến 11:59 đ&ecirc;m)&nbsp;</span></td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a8e507e6a4de669951250d",
+      "index": 8,
+      "character": "後",
+      "sinoVietnameseWord": "HẬU",
+      "mean": "Sau",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l5/kanji/img/8_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 後 HẬU giống như một người đang đi l&ugrave;i về ph&iacute;a đằng sau để ra được con đường lớn.</p>",
+      "onReading": "ゴ",
+      "kunReading": "うし・ろ、あと",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">後で</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">あとで</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">sau (thời gian)</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">後ろ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">うしろ</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">ph&iacute;a sau, đằng sau</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">午後</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">ごご</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">PM (từ 12:00 trưa đến 11:59 đ&ecirc;m)</span></td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

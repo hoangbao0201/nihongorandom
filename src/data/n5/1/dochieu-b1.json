@@ -1,0 +1,297 @@
+{
+  "lesson": 1,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ワシントン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Oa-sinh-tơn</div> <div class=\"nghia_anh\">Washington</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>リオデジャネイロ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Ri-ô đờ Da-nê-rô</div> <div class=\"nghia_anh\">Rio de Janeiro</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ハノイ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Hà Nội</div> <div class=\"nghia_anh\">Hanoi</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ニューデリー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">New Delhi</div> <div class=\"nghia_anh\">New Delhi</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>カイロ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Cairo</div> <div class=\"nghia_anh\">Cario</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>みなさん</b></div> <div class=\"kanji\">皆さん</div> <div class=\"nghia_viet\">Thưa các bạn!</div> <div class=\"nghia_anh\">everybody</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>エジプト</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Ai Cập</div> <div class=\"nghia_anh\">Egypt</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かた</b></div> <div class=\"kanji\">方</div> <div class=\"nghia_viet\">người (cách nói lịch sự của ひと)</div> <div class=\"nghia_anh\">person (polite equivalent of ひと)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ベトナム</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Việt Nam </div> <div class=\"nghia_anh\">Vietnam</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか</b></h3> <br />どこからきましたか。 <br /> <img src=\"/images/minnamoi/bai1/doc1_1.png\" alt=\"minna 25 bai doc hieu Bai 1\"> <p></p> <p></p><ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby> <ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>ですが、お<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は？ <p></p> …モームです。 <p></p> お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか。 <p></p> …イギリスです。ロンドンから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。 ( ⑦ ) <p></p><br />1. <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまして。ワシントンです。アメリカから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。 <p></p> うちは ニューヨークです。どうぞよろしく。(___) <p></p><br />2. みなさん、こちらは ナセルさんです。 <p></p> …ナセルです。エジプトの カイロから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。(___) <p></p> よろしく お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします。 <p></p><br />3. ホーさんは <ruby>中国<rp>（</rp><rt>ちゅうこく</rt><rp>）</rp></ruby>の <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>です。 <p></p> …いいえ、ベトナムの ハノイから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。(___) <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Đất nước của bạn là đất nước nào nào vậy?</div></div></div> <br /><div class=\"tudich\"><div class=\"candich\">どこからきましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn đến từ nước nào vậy?</div></div></div> <br /> <img src=\"/images/minnamoi/bai1/doc1_1.png\" alt=\"minna 25 bai doc hieu Bai 1\"> <br /> <p></p><div class=\"tudich\"><div class=\"candich\"><ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby> <ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>ですが、お<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は？</div><div class=\"kqdich\"><div class=\"nddich\">Ví dụ: Xin lỗi tên của bạn à gì vậy?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> …モームです。</div><div class=\"kqdich\"><div class=\"nddich\">Mình tên là Maugham.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか。</div><div class=\"kqdich\"><div class=\"nddich\">Nước của bạn ở đâu vậy?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> …イギリスです。ロンドンから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</div><div class=\"kqdich\"><div class=\"nddich\">Mình đến từ London nước Anh.</div></div></div> <p></p><br /><div class=\"tudich\"><div class=\"candich\">1. <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまして。ワシントンです。アメリカから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</div><div class=\"kqdich\"><div class=\"nddich\">Rất hân hạnh được gặp mọi người. Mình tên là Washington. Mình đến từ nước Mỹ. </div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> うちは ニューヨークです。どうぞよろしく。</div><div class=\"kqdich\"><div class=\"nddich\">Nhà mình ở Newyork. Mong mọi người giúp đỡ.</div></div></div> <p></p> Đáp án: ①<br /><br /> <p></p><div class=\"tudich\"><div class=\"candich\">2. みなさん、こちらは ナセルさんです。</div><div class=\"kqdich\"><div class=\"nddich\">Mọi người đây là Nasir.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> …ナセルです。エジプトの カイロから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</div><div class=\"kqdich\"><div class=\"nddich\">Mình là Nasir. Mình đến từ Kairo của Ai Cập.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> よろしく お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします。</div><div class=\"kqdich\"><div class=\"nddich\">Mong được mọi giúp đỡ.</div></div></div> <p></p> Đáp án: ⑧<br /><br /> <p></p><div class=\"tudich\"><div class=\"candich\">3. ホーさんは <ruby>中国<rp>（</rp><rt>ちゅうこく</rt><rp>）</rp></ruby>の <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Hồ đến từ Trung Quốc phải không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> …いいえ、ベトナムの ハノイから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。</div><div class=\"kqdich\"><div class=\"nddich\">…Không, mình đến từ Hà Nội của Việt Nam.</div></div></div> <p></p> Đáp án: ⑤<br /><br /> </div> </div> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "お国（くに）はどちらですか",
+          "textHtml": "<b>お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<br />どこからきましたか。 <br />"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai1/doc1_1.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai1/doc1_1.png\" alt=\"minna 25 bai doc hieu Bai 1\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p></p><ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby> <ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>ですが、お<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は？ <p></p> …モームです。 <p></p> お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか。 <p></p> …イギリスです。ロンドンから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。 ( ⑦ ) <p></p><br />1. <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまして。ワシントンです。アメリカから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。 <p></p> うちは ニューヨークです。どうぞよろしく。(___) <p></p><br />2. みなさん、こちらは ナセルさんです。 <p></p> …ナセルです。エジプトの カイロから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。(___) <p></p> よろしく お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします。 <p></p><br />3. ホーさんは <ruby>中国<rp>（</rp><rt>ちゅうこく</rt><rp>）</rp></ruby>の <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>です。 <p></p> …いいえ、ベトナムの ハノイから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。(___) <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Đất nước của bạn là đất nước nào nào vậy?",
+          "blocks": [
+            {
+              "kind": "tudich",
+              "japanese": "お国（くに）はどちらですか",
+              "japaneseHtml": "<h3 style=\"text-align: center; \"><b>お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか</b></h3>",
+              "vietnamese": "",
+              "vietnameseHtml": ""
+            },
+            {
+              "kind": "html",
+              "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đất nước của bạn là đất nước nào nào vậy?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どこからきましたか。",
+          "japaneseHtml": "どこからきましたか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Bạn đến từ nước nào vậy?</div></div></div> <br />"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai1/doc1_1.png",
+          "contentHtml": "<img src=\"/images/minnamoi/bai1/doc1_1.png\" alt=\"minna 25 bai doc hieu Bai 1\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "例（れい） 失礼（しつれい）ですが、お名前（なまえ）は？",
+          "japaneseHtml": "<ruby>例<rp>（</rp><rt>れい</rt><rp>）</rp></ruby> <ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>ですが、お<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は？",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Ví dụ: Xin lỗi tên của bạn à gì vậy?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…モームです。",
+          "japaneseHtml": "…モームです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Mình tên là Maugham.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お国（くに）はどちらですか。",
+          "japaneseHtml": "お<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>はどちらですか。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Nước của bạn ở đâu vậy?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…イギリスです。ロンドンから 来（き）ました。",
+          "japaneseHtml": "…イギリスです。ロンドンから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Mình đến từ London nước Anh.</div></div></div> <p></p><br />"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1. 初（はじ）めまして。ワシントンです。アメリカから 来（き）ました。",
+          "japaneseHtml": "1. <ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまして。ワシントンです。アメリカから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Rất hân hạnh được gặp mọi người. Mình tên là Washington. Mình đến từ nước Mỹ. </div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "うちは ニューヨークです。どうぞよろしく。",
+          "japaneseHtml": "うちは ニューヨークです。どうぞよろしく。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Nhà mình ở Newyork. Mong mọi người giúp đỡ.</div></div></div> <p></p> Đáp án: ①<br /><br /> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. みなさん、こちらは ナセルさんです。",
+          "japaneseHtml": "2. みなさん、こちらは ナセルさんです。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Mọi người đây là Nasir.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…ナセルです。エジプトの カイロから 来（き）ました。",
+          "japaneseHtml": "…ナセルです。エジプトの カイロから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Mình là Nasir. Mình đến từ Kairo của Ai Cập.</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "よろしく お願（ねが）いします。",
+          "japaneseHtml": "よろしく お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Mong được mọi giúp đỡ.</div></div></div> <p></p> Đáp án: ⑧<br /><br /> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3. ホーさんは 中国（ちゅうこく）の 方（かた）です。",
+          "japaneseHtml": "3. ホーさんは <ruby>中国<rp>（</rp><rt>ちゅうこく</rt><rp>）</rp></ruby>の <ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Hồ đến từ Trung Quốc phải không?</div></div></div> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…いいえ、ベトナムの ハノイから 来（き）ました。",
+          "japaneseHtml": "…いいえ、ベトナムの ハノイから <ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">…Không, mình đến từ Hà Nội của Việt Nam.</div></div></div> <p></p> Đáp án: ⑤<br /><br /> </div> </div> </div>"
+        }
+      ]
+    }
+  ]
+}

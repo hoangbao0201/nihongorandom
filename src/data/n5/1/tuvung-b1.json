@@ -1,0 +1,470 @@
+{
+  "lesson": 1,
+  "meta": {
+    "practiceUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=1",
+    "flashcardUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=1&mf=fc"
+  },
+  "sections": [
+    {
+      "key": "main",
+      "label": null,
+      "labelHtml": null,
+      "items": [
+        {
+          "kind": "entry",
+          "index": 1,
+          "word": "わたし",
+          "wordHtml": "わたし",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100010001.mp3",
+          "meaning": "tôi",
+          "meaningHtml": "tôi"
+        },
+        {
+          "kind": "entry",
+          "index": 2,
+          "word": "あなた",
+          "wordHtml": "あなた",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100010010.mp3",
+          "meaning": "anh/ chị/ ông/ bà,",
+          "meaningHtml": "anh/ chị/ ông/ bà,"
+        },
+        {
+          "kind": "entry",
+          "index": 3,
+          "word": "あのひと",
+          "wordHtml": "あのひと",
+          "kanji": "あの人",
+          "kanjiHtml": "あの人",
+          "sinoVietnamese": "NHÂN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100010011.mp3",
+          "meaning": "người kia, người đó",
+          "meaningHtml": "người kia, người đó"
+        },
+        {
+          "kind": "entry",
+          "index": 4,
+          "word": "あのかた",
+          "wordHtml": "あのかた",
+          "kanji": "あの方",
+          "kanjiHtml": "あの方",
+          "sinoVietnamese": "PHƯƠNG",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100010100.mp3",
+          "meaning": "vị kia (cách nói lịch sự của あのひと)",
+          "meaningHtml": "vị kia (cách nói lịch sự của あのひと)"
+        },
+        {
+          "kind": "entry",
+          "index": 5,
+          "word": "～さん",
+          "wordHtml": "～さん",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100010101.mp3",
+          "meaning": "anh, chị, ông, bà",
+          "meaningHtml": "anh, chị, ông, bà"
+        },
+        {
+          "kind": "entry",
+          "index": 6,
+          "word": "～ちゃん",
+          "wordHtml": "～ちゃん",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100010110.mp3",
+          "meaning": "(hậu tố thêm vào sau tên của trẻ em thay cho 「～さん」)",
+          "meaningHtml": "(hậu tố thêm vào sau tên của trẻ em <br /> thay cho 「～さん」)"
+        },
+        {
+          "kind": "entry",
+          "index": 7,
+          "word": "～じん",
+          "wordHtml": "～じん",
+          "kanji": "～人",
+          "kanjiHtml": "～人",
+          "sinoVietnamese": "NHÂN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100010111.mp3",
+          "meaning": "người (nước)~ ví dụ 「アメリカじん」: người Mỹ)",
+          "meaningHtml": "người (nước)~<br /> ví dụ 「アメリカじん」: người Mỹ)"
+        },
+        {
+          "kind": "entry",
+          "index": 8,
+          "word": "せんせい",
+          "wordHtml": "せんせい",
+          "kanji": "先生",
+          "kanjiHtml": "先生",
+          "sinoVietnamese": "TIÊN SINH",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100011000.mp3",
+          "meaning": "thầy/ cô",
+          "meaningHtml": "thầy/ cô"
+        },
+        {
+          "kind": "entry",
+          "index": 9,
+          "word": "きょうし",
+          "wordHtml": "きょうし",
+          "kanji": "教師",
+          "kanjiHtml": "教師",
+          "sinoVietnamese": "GIÁO SƯ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100011001.mp3",
+          "meaning": "giáo viên",
+          "meaningHtml": "giáo viên"
+        },
+        {
+          "kind": "entry",
+          "index": 10,
+          "word": "がくせい",
+          "wordHtml": "がくせい",
+          "kanji": "学生",
+          "kanjiHtml": "学生",
+          "sinoVietnamese": "HỌC SINH",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100011010.mp3",
+          "meaning": "học sinh, sinh viên",
+          "meaningHtml": "học sinh, sinh viên"
+        },
+        {
+          "kind": "entry",
+          "index": 11,
+          "word": "かいしゃいん",
+          "wordHtml": "かいしゃいん",
+          "kanji": "会社員",
+          "kanjiHtml": "会社員",
+          "sinoVietnamese": "HỘI XÃ VIÊN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100011011.mp3",
+          "meaning": "nhân viên công ty",
+          "meaningHtml": "nhân viên công ty"
+        },
+        {
+          "kind": "entry",
+          "index": 12,
+          "word": "しゃいん",
+          "wordHtml": "しゃいん",
+          "kanji": "社員",
+          "kanjiHtml": "社員",
+          "sinoVietnamese": "XÃ VIÊN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100011100.mp3",
+          "meaning": "nhân viên công ty ~ ví dụ「ＩＭＣのしゃいん」",
+          "meaningHtml": "nhân viên công ty ~ ví dụ「ＩＭＣのしゃいん」"
+        },
+        {
+          "kind": "entry",
+          "index": 13,
+          "word": "ぎんこういん",
+          "wordHtml": "ぎんこういん",
+          "kanji": "銀行員",
+          "kanjiHtml": "銀行員",
+          "sinoVietnamese": "NGÂN HÀNH VIÊN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100011101.mp3",
+          "meaning": "nhân viên ngân hàng",
+          "meaningHtml": "nhân viên ngân hàng"
+        },
+        {
+          "kind": "entry",
+          "index": 14,
+          "word": "いしゃ",
+          "wordHtml": "いしゃ",
+          "kanji": "医者",
+          "kanjiHtml": "医者",
+          "sinoVietnamese": "Y GIẢ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100011110.mp3",
+          "meaning": "bác sĩ",
+          "meaningHtml": "bác sĩ"
+        },
+        {
+          "kind": "entry",
+          "index": 15,
+          "word": "けんきゅうしゃ",
+          "wordHtml": "けんきゅうしゃ",
+          "kanji": "研究者",
+          "kanjiHtml": "研究者",
+          "sinoVietnamese": "NGHIÊN CỨU GIẢ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100011111.mp3",
+          "meaning": "nhà nghiên cứu",
+          "meaningHtml": "nhà nghiên cứu"
+        },
+        {
+          "kind": "entry",
+          "index": 16,
+          "word": "だいがく",
+          "wordHtml": "だいがく",
+          "kanji": "大学",
+          "kanjiHtml": "大学",
+          "sinoVietnamese": "ĐẠI HỌC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100100000.mp3",
+          "meaning": "đại học, trường đại học",
+          "meaningHtml": "đại học, trường đại học"
+        },
+        {
+          "kind": "entry",
+          "index": 17,
+          "word": "びょういん",
+          "wordHtml": "びょういん",
+          "kanji": "病院",
+          "kanjiHtml": "病院",
+          "sinoVietnamese": "BỆNH VIỆN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100100001.mp3",
+          "meaning": "bệnh viện",
+          "meaningHtml": "bệnh viện"
+        },
+        {
+          "kind": "entry",
+          "index": 18,
+          "word": "だれ （どなた）",
+          "wordHtml": "だれ<br /> （どなた）",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100100010.mp3",
+          "meaning": "ai (「どなた」là cách nói lịch sự của 「だれ」, vị nào)",
+          "meaningHtml": "ai (「どなた」là cách nói lịch sự của<br /> 「だれ」, vị nào)"
+        },
+        {
+          "kind": "entry",
+          "index": 19,
+          "word": "―さい",
+          "wordHtml": "―さい",
+          "kanji": "－歳",
+          "kanjiHtml": "－歳",
+          "sinoVietnamese": "NHẤT TUẾ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100100011.mp3",
+          "meaning": "―tuổi",
+          "meaningHtml": "―tuổi"
+        },
+        {
+          "kind": "entry",
+          "index": 20,
+          "word": "なんさい (おいくつ）",
+          "wordHtml": "なんさい<br /> (おいくつ）",
+          "kanji": "何歳",
+          "kanjiHtml": "何歳",
+          "sinoVietnamese": "HÀ TUẾ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100100100.mp3",
+          "meaning": "mấy tuổi, bao nhiêu tuổi (「おいくつ」là cách nói lịch sự của「なんさい」)",
+          "meaningHtml": "mấy tuổi, bao nhiêu tuổi (「おいくつ」là <br /> cách nói lịch sự của「なんさい」)"
+        },
+        {
+          "kind": "entry",
+          "index": 21,
+          "word": "はい",
+          "wordHtml": "はい",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100100101.mp3",
+          "meaning": "vâng, dạ",
+          "meaningHtml": "vâng, dạ"
+        },
+        {
+          "kind": "entry",
+          "index": 22,
+          "word": "いいえ",
+          "wordHtml": "いいえ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100100110.mp3",
+          "meaning": "không",
+          "meaningHtml": "không"
+        }
+      ]
+    },
+    {
+      "key": "c",
+      "label": "練習(れんしゅう) C",
+      "labelHtml": "＜<b><ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby> C</b>＞",
+      "items": [
+        {
+          "kind": "phrase",
+          "index": 23,
+          "text": "初（はじ）めまして。",
+          "textHtml": "<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまして。",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100100111.mp3",
+          "meaning": "Rất hân hạnh được gặp anh/chị",
+          "meaningHtml": "Rất hân hạnh được gặp anh/chị"
+        },
+        {
+          "kind": "phrase",
+          "index": 24,
+          "text": "～から来（き）ました。",
+          "textHtml": "～から<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ました。",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100101000.mp3",
+          "meaning": "(tôi) đến từ ~.",
+          "meaningHtml": "(tôi) đến từ ~."
+        },
+        {
+          "kind": "phrase",
+          "index": 25,
+          "text": "どうぞよろしく [お願（ねが）いします]。",
+          "textHtml": "どうぞよろしく [お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします]。",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100101001.mp3",
+          "meaning": "Rất vui khi được làm quen",
+          "meaningHtml": "Rất vui khi được làm quen"
+        },
+        {
+          "kind": "phrase",
+          "index": 26,
+          "text": "失礼（しつれい）ですが",
+          "textHtml": "<ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>ですが",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100101010.mp3",
+          "meaning": "xin lỗi,…",
+          "meaningHtml": "xin lỗi,…"
+        },
+        {
+          "kind": "phrase",
+          "index": 27,
+          "text": "お名前（なまえ）は？",
+          "textHtml": "お<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は？",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100101011.mp3",
+          "meaning": "Tên anh/chị là gì?",
+          "meaningHtml": "Tên anh/chị là gì?"
+        },
+        {
+          "kind": "phrase",
+          "index": 28,
+          "text": "こちらは～さんです。",
+          "textHtml": "こちらは～さんです。",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100101100.mp3",
+          "meaning": "Đây là anh/chị/ông/bà ~.",
+          "meaningHtml": "Đây là anh/chị/ông/bà ~."
+        },
+        {
+          "kind": "divider"
+        },
+        {
+          "kind": "phrase",
+          "index": 29,
+          "text": "アメリカ",
+          "textHtml": "アメリカ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100101101.mp3",
+          "meaning": "Mỹ",
+          "meaningHtml": "Mỹ"
+        },
+        {
+          "kind": "phrase",
+          "index": 30,
+          "text": "イギリス",
+          "textHtml": "イギリス",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100101110.mp3",
+          "meaning": "Anh",
+          "meaningHtml": "Anh"
+        },
+        {
+          "kind": "phrase",
+          "index": 31,
+          "text": "インド",
+          "textHtml": "インド",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100101111.mp3",
+          "meaning": "Ấn Độ",
+          "meaningHtml": "Ấn Độ"
+        },
+        {
+          "kind": "phrase",
+          "index": 32,
+          "text": "インドネシア",
+          "textHtml": "インドネシア",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100110000.mp3",
+          "meaning": "Indonesia",
+          "meaningHtml": "Indonesia"
+        },
+        {
+          "kind": "phrase",
+          "index": 33,
+          "text": "韓国（かんこく）",
+          "textHtml": "<ruby>韓国<rp>（</rp><rt>かんこく</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100110001.mp3",
+          "meaning": "Hàn Quốc",
+          "meaningHtml": "Hàn Quốc"
+        },
+        {
+          "kind": "phrase",
+          "index": 34,
+          "text": "タイ",
+          "textHtml": "タイ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100110010.mp3",
+          "meaning": "Thái Lan",
+          "meaningHtml": "Thái Lan"
+        },
+        {
+          "kind": "phrase",
+          "index": 35,
+          "text": "中国（ちゅうごく）",
+          "textHtml": "<ruby>中国<rp>（</rp><rt>ちゅうごく</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100110011.mp3",
+          "meaning": "Trung Quốc",
+          "meaningHtml": "Trung Quốc"
+        },
+        {
+          "kind": "phrase",
+          "index": 36,
+          "text": "ドイツ",
+          "textHtml": "ドイツ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100110100.mp3",
+          "meaning": "Đức",
+          "meaningHtml": "Đức"
+        },
+        {
+          "kind": "phrase",
+          "index": 37,
+          "text": "日本（にほん）",
+          "textHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100110101.mp3",
+          "meaning": "Nhật Bản",
+          "meaningHtml": "Nhật Bản"
+        },
+        {
+          "kind": "phrase",
+          "index": 38,
+          "text": "ブラジル",
+          "textHtml": "ブラジル",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100110110.mp3",
+          "meaning": "Braxin",
+          "meaningHtml": "Braxin"
+        },
+        {
+          "kind": "phrase",
+          "index": 39,
+          "text": "ＩＭＣ/パワーでんき/ブラジルエアー",
+          "textHtml": "ＩＭＣ/パワーでんき/ブラジルエアー",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100110111.mp3",
+          "meaning": "tên công ty (giả định)",
+          "meaningHtml": "tên công ty (giả định)"
+        },
+        {
+          "kind": "phrase",
+          "index": 40,
+          "text": "ＡＫＣ",
+          "textHtml": "ＡＫＣ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100111000.mp3",
+          "meaning": "tên một tổ chức (giả định)",
+          "meaningHtml": "tên một tổ chức (giả định)"
+        },
+        {
+          "kind": "phrase",
+          "index": 41,
+          "text": "神戸（こうべ）病院（びょういん）",
+          "textHtml": "<ruby>神戸<rp>（</rp><rt>こうべ</rt><rp>）</rp></ruby><ruby>病院<rp>（</rp><rt>びょういん</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100111001.mp3",
+          "meaning": "tên một bệnh viện (giả định)",
+          "meaningHtml": "tên một bệnh viện (giả định)"
+        },
+        {
+          "kind": "phrase",
+          "index": 42,
+          "text": "さくら大学（だいがく） 富士（ふじ）大学（だいがく）",
+          "textHtml": "さくら<ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby><br /> <ruby>富士<rp>（</rp><rt>ふじ</rt><rp>）</rp></ruby><ruby>大学<rp>（</rp><rt>だいがく</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai1/00010011100111010.mp3",
+          "meaning": "Đại học Sakura(giả định) Đại học Phú Sĩ(giả định)",
+          "meaningHtml": "Đại học Sakura(giả định)<br /> Đại học Phú Sĩ(giả định)"
+        }
+      ]
+    }
+  ]
+}

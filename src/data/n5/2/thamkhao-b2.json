@@ -1,0 +1,346 @@
+{
+  "lesson": 2,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "名前（なまえ） HỌ( CÁCH GỌI TÊN NGƯỜI NHẬT)",
+      "titleHtml": "<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby> HỌ( CÁCH GỌI TÊN NGƯỜI NHẬT)",
+      "introHtml": "<p>Những họ thường gặp nhất của người Nhật</p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "佐藤（さとう）",
+              "html": "<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "satou",
+              "html": "satou"
+            }
+          ],
+          "term": "佐藤（さとう）",
+          "termHtml": "<ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby>",
+          "meaning": "satou",
+          "meaningHtml": "satou"
+        },
+        {
+          "cells": [
+            {
+              "text": "鈴木（すずき）",
+              "html": "<ruby>鈴木<rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "suzuki",
+              "html": "suzuki"
+            }
+          ],
+          "term": "鈴木（すずき）",
+          "termHtml": "<ruby>鈴木<rp>（</rp><rt>すずき</rt><rp>）</rp></ruby>",
+          "meaning": "suzuki",
+          "meaningHtml": "suzuki"
+        },
+        {
+          "cells": [
+            {
+              "text": "高橋（たかはし）",
+              "html": "<ruby>高橋<rp>（</rp><rt>たかはし</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "takahashi",
+              "html": "takahashi"
+            }
+          ],
+          "term": "高橋（たかはし）",
+          "termHtml": "<ruby>高橋<rp>（</rp><rt>たかはし</rt><rp>）</rp></ruby>",
+          "meaning": "takahashi",
+          "meaningHtml": "takahashi"
+        },
+        {
+          "cells": [
+            {
+              "text": "田中（たなか）",
+              "html": "<ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tanaka",
+              "html": "tanaka"
+            }
+          ],
+          "term": "田中（たなか）",
+          "termHtml": "<ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby>",
+          "meaning": "tanaka",
+          "meaningHtml": "tanaka"
+        },
+        {
+          "cells": [
+            {
+              "text": "渡辺（わたなべ）",
+              "html": "<ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "watanabe",
+              "html": "watanabe"
+            }
+          ],
+          "term": "渡辺（わたなべ）",
+          "termHtml": "<ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby>",
+          "meaning": "watanabe",
+          "meaningHtml": "watanabe"
+        },
+        {
+          "cells": [
+            {
+              "text": "伊藤（いとう）",
+              "html": "<ruby>伊藤<rp>（</rp><rt>いとう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "itou",
+              "html": "itou"
+            }
+          ],
+          "term": "伊藤（いとう）",
+          "termHtml": "<ruby>伊藤<rp>（</rp><rt>いとう</rt><rp>）</rp></ruby>",
+          "meaning": "itou",
+          "meaningHtml": "itou"
+        },
+        {
+          "cells": [
+            {
+              "text": "中村（なかむら）",
+              "html": "<ruby>中村<rp>（</rp><rt>なかむら</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nakamura",
+              "html": "nakamura"
+            }
+          ],
+          "term": "中村（なかむら）",
+          "termHtml": "<ruby>中村<rp>（</rp><rt>なかむら</rt><rp>）</rp></ruby>",
+          "meaning": "nakamura",
+          "meaningHtml": "nakamura"
+        },
+        {
+          "cells": [
+            {
+              "text": "山本（やまもと）",
+              "html": "<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "yamamoto",
+              "html": "yamamoto"
+            }
+          ],
+          "term": "山本（やまもと）",
+          "termHtml": "<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>",
+          "meaning": "yamamoto",
+          "meaningHtml": "yamamoto"
+        },
+        {
+          "cells": [
+            {
+              "text": "小林（こばやし）",
+              "html": "<ruby>小林<rp>（</rp><rt>こばやし</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kobayashi",
+              "html": "kobayashi"
+            }
+          ],
+          "term": "小林（こばやし）",
+          "termHtml": "<ruby>小林<rp>（</rp><rt>こばやし</rt><rp>）</rp></ruby>",
+          "meaning": "kobayashi",
+          "meaningHtml": "kobayashi"
+        },
+        {
+          "cells": [
+            {
+              "text": "齋藤（さいとう）",
+              "html": "<ruby>齋藤<rp>（</rp><rt>さいとう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "saitou",
+              "html": "saitou"
+            }
+          ],
+          "term": "齋藤（さいとう）",
+          "termHtml": "<ruby>齋藤<rp>（</rp><rt>さいとう</rt><rp>）</rp></ruby>",
+          "meaning": "saitou",
+          "meaningHtml": "saitou"
+        },
+        {
+          "cells": [
+            {
+              "text": "加藤（かとう）",
+              "html": "<ruby>加藤<rp>（</rp><rt>かとう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "katou",
+              "html": "katou"
+            }
+          ],
+          "term": "加藤（かとう）",
+          "termHtml": "<ruby>加藤<rp>（</rp><rt>かとう</rt><rp>）</rp></ruby>",
+          "meaning": "katou",
+          "meaningHtml": "katou"
+        },
+        {
+          "cells": [
+            {
+              "text": "吉田（よしだ）",
+              "html": "<ruby>吉田<rp>（</rp><rt>よしだ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "yoshida",
+              "html": "yoshida"
+            }
+          ],
+          "term": "吉田（よしだ）",
+          "termHtml": "<ruby>吉田<rp>（</rp><rt>よしだ</rt><rp>）</rp></ruby>",
+          "meaning": "yoshida",
+          "meaningHtml": "yoshida"
+        },
+        {
+          "cells": [
+            {
+              "text": "山田（やまだ）",
+              "html": "<ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "yamada",
+              "html": "yamada"
+            }
+          ],
+          "term": "山田（やまだ）",
+          "termHtml": "<ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby>",
+          "meaning": "yamada",
+          "meaningHtml": "yamada"
+        },
+        {
+          "cells": [
+            {
+              "text": "佐々木（ささき）",
+              "html": "<ruby>佐々木<rp>（</rp><rt>ささき</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "sasaki",
+              "html": "sasaki"
+            }
+          ],
+          "term": "佐々木（ささき）",
+          "termHtml": "<ruby>佐々木<rp>（</rp><rt>ささき</rt><rp>）</rp></ruby>",
+          "meaning": "sasaki",
+          "meaningHtml": "sasaki"
+        },
+        {
+          "cells": [
+            {
+              "text": "松本（まつもと）",
+              "html": "<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "matsumoto",
+              "html": "matsumoto"
+            }
+          ],
+          "term": "松本（まつもと）",
+          "termHtml": "<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>",
+          "meaning": "matsumoto",
+          "meaningHtml": "matsumoto"
+        },
+        {
+          "cells": [
+            {
+              "text": "山口（やまぐち）",
+              "html": "<ruby>山口<rp>（</rp><rt>やまぐち</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "yamaguchi",
+              "html": "yamaguchi"
+            }
+          ],
+          "term": "山口（やまぐち）",
+          "termHtml": "<ruby>山口<rp>（</rp><rt>やまぐち</rt><rp>）</rp></ruby>",
+          "meaning": "yamaguchi",
+          "meaningHtml": "yamaguchi"
+        },
+        {
+          "cells": [
+            {
+              "text": "木村（きむら）",
+              "html": "<ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kimura",
+              "html": "kimura"
+            }
+          ],
+          "term": "木村（きむら）",
+          "termHtml": "<ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby>",
+          "meaning": "kimura",
+          "meaningHtml": "kimura"
+        },
+        {
+          "cells": [
+            {
+              "text": "井上（いのうえ）",
+              "html": "<ruby>井上<rp>（</rp><rt>いのうえ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "inoue",
+              "html": "inoue"
+            }
+          ],
+          "term": "井上（いのうえ）",
+          "termHtml": "<ruby>井上<rp>（</rp><rt>いのうえ</rt><rp>）</rp></ruby>",
+          "meaning": "inoue",
+          "meaningHtml": "inoue"
+        },
+        {
+          "cells": [
+            {
+              "text": "阿部（あべ）",
+              "html": "<ruby>阿部<rp>（</rp><rt>あべ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "abe",
+              "html": "abe"
+            }
+          ],
+          "term": "阿部（あべ）",
+          "termHtml": "<ruby>阿部<rp>（</rp><rt>あべ</rt><rp>）</rp></ruby>",
+          "meaning": "abe",
+          "meaningHtml": "abe"
+        },
+        {
+          "cells": [
+            {
+              "text": "林（はやし）",
+              "html": "<ruby>林<rp>（</rp><rt>はやし</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "hayashi",
+              "html": "hayashi"
+            }
+          ],
+          "term": "林（はやし）",
+          "termHtml": "<ruby>林<rp>（</rp><rt>はやし</rt><rp>）</rp></ruby>",
+          "meaning": "hayashi",
+          "meaningHtml": "hayashi"
+        }
+      ],
+      "contentHtml": "<p>Những họ thường gặp nhất của người Nhật</p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>佐藤<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby></td> <td>satou</td> </tr><tr> <td width=\"40%\"><ruby>鈴木<rp>（</rp><rt>すずき</rt><rp>）</rp></ruby></td> <td>suzuki</td> </tr><tr> <td width=\"40%\"><ruby>高橋<rp>（</rp><rt>たかはし</rt><rp>）</rp></ruby></td> <td>takahashi</td> </tr><tr> <td width=\"40%\"><ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby></td> <td>tanaka</td> </tr><tr> <td width=\"40%\"><ruby>渡辺<rp>（</rp><rt>わたなべ</rt><rp>）</rp></ruby></td> <td>watanabe</td> </tr><tr> <td width=\"40%\"><ruby>伊藤<rp>（</rp><rt>いとう</rt><rp>）</rp></ruby></td> <td>itou</td> </tr><tr> <td width=\"40%\"><ruby>中村<rp>（</rp><rt>なかむら</rt><rp>）</rp></ruby></td> <td>nakamura</td> </tr><tr> <td width=\"40%\"><ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby></td> <td>yamamoto</td> </tr><tr> <td width=\"40%\"><ruby>小林<rp>（</rp><rt>こばやし</rt><rp>）</rp></ruby></td> <td>kobayashi</td> </tr><tr> <td width=\"40%\"><ruby>齋藤<rp>（</rp><rt>さいとう</rt><rp>）</rp></ruby></td> <td>saitou</td> </tr><tr> <td width=\"40%\"><ruby>加藤<rp>（</rp><rt>かとう</rt><rp>）</rp></ruby></td> <td>katou</td> </tr><tr> <td width=\"40%\"><ruby>吉田<rp>（</rp><rt>よしだ</rt><rp>）</rp></ruby></td> <td>yoshida</td> </tr><tr> <td width=\"40%\"><ruby>山田<rp>（</rp><rt>やまだ</rt><rp>）</rp></ruby></td> <td>yamada</td> </tr><tr> <td width=\"40%\"><ruby>佐々木<rp>（</rp><rt>ささき</rt><rp>）</rp></ruby></td> <td>sasaki</td> </tr><tr> <td width=\"40%\"><ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby></td> <td>matsumoto</td> </tr><tr> <td width=\"40%\"><ruby>山口<rp>（</rp><rt>やまぐち</rt><rp>）</rp></ruby></td> <td>yamaguchi</td> </tr><tr> <td width=\"40%\"><ruby>木村<rp>（</rp><rt>きむら</rt><rp>）</rp></ruby></td> <td>kimura</td> </tr><tr> <td width=\"40%\"><ruby>井上<rp>（</rp><rt>いのうえ</rt><rp>）</rp></ruby></td> <td>inoue</td> </tr><tr> <td width=\"40%\"><ruby>阿部<rp>（</rp><rt>あべ</rt><rp>）</rp></ruby></td> <td>abe</td> </tr><tr> <td width=\"40%\"><ruby>林<rp>（</rp><rt>はやし</rt><rp>）</rp></ruby></td> <td>hayashi</td> </tr></tbody></table> <p>"
+    },
+    {
+      "title": "Chào hỏi",
+      "titleHtml": "Chào hỏi",
+      "introHtml": null,
+      "columns": [],
+      "rows": [],
+      "contentHtml": "<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めまして<br /> Hajime mashite<br /> Trong công việc, khi lần đầu gặp nhau, người Nhật thường chào và tiến hành trao đổi danh thiếp<br /> </p> <p> どうぞ よろしく お<ruby>願<rp>（</rp><rt>ねが</rt><rp>）</rp></ruby>いします<br /> dozou, yoroshiku onegaishimasu<br /> Khi chuyển nhà đến một địa điểm mới, người Nhật thường đến chào hỏi hàng xóm và mang theo một món quà nhỏ để tặng như khăn tắm, xà phòng, bánh kẹo,v.v…(khi tặng quà cho người khác thường nói kèm theo câu này)<br /> </p>"
+    }
+  ]
+}

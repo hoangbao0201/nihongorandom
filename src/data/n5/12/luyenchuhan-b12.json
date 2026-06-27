@@ -1,0 +1,102 @@
+{
+  "lesson": 12,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca70d0a2144a12a6dec06d5",
+      "index": 1,
+      "character": "秋",
+      "sinoVietnameseWord": "THU",
+      "mean": "Mùa thu",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l14/kanji/img/1_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 秋 THU gh&eacute;p bởi bộ 禾 HO&Agrave; (c&acirc;y l&uacute;a) v&agrave; chữ 火 HOẢ (lửa), giống như việc đến m&ugrave;a thu sau khi thu hoạch l&uacute;a th&igrave; người ta đốt rơm rạ.&nbsp;&nbsp;</p>",
+      "onReading": "シュウ",
+      "kunReading": "あき",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.803%; height: 21px;\"><span style=\"color: #e74c3c;\">秋</span></td>\n<td style=\"width: 35.8636%; height: 21px;\"><span style=\"color: #e74c3c;\">あき</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">m&ugrave;a thu</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.803%; height: 21px;\">中秋節</td>\n<td style=\"width: 35.8636%; height: 21px;\">ちゅうしゅうせつ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Tết Trung thu (Trung Quốc, Việt Nam)</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 30.803%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 35.8636%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca70e4e2144a12a6dec06e4",
+      "index": 2,
+      "character": "冬",
+      "sinoVietnameseWord": "ĐÔNG",
+      "mean": "Mùa đông",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l14/kanji/img/2_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 冬 Đ&Ocirc;NG giống như việc c&oacute; một người đang bước đi tr&ecirc;n tuyết v&agrave; để lại 2 dấu ch&acirc;n.</p>",
+      "onReading": "トウ",
+      "kunReading": "ふゆ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">冬</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">ふゆ</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">m&ugrave;a đ&ocirc;ng</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">春夏秋冬</td>\n<td style=\"width: 33.3333%; height: 21px;\">しゅんかしゅうとう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Xu&acirc;n Hạ Thu Đ&ocirc;ng</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca70ffc2144a12a6dec06f6",
+      "index": 3,
+      "character": "気",
+      "sinoVietnameseWord": "KHÍ",
+      "mean": "Không khí, tinh thần",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l14/kanji/img/3_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 気 KH&Iacute; giống như ai đ&oacute; đang h&agrave; hơi h&iacute;t thở kh&ocirc;ng kh&iacute;.</p>",
+      "onReading": "キ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 86px;\">\n<tbody>\n<tr style=\"height: 23px;\">\n<td style=\"width: 33.3333%; height: 23px;\"><span style=\"color: #e74c3c;\">空気</span></td>\n<td style=\"width: 33.3333%; height: 23px;\"><span style=\"color: #e74c3c;\">くうき</span></td>\n<td style=\"width: 33.3333%; height: 23px;\"><span style=\"color: #e74c3c;\">kh&ocirc;ng kh&iacute;</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">電気</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">でんき</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">điện, đ&egrave;n điện</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">人気</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">にんき</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">sự y&ecirc;u mến rộng r&atilde;i</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">やる気</td>\n<td style=\"width: 33.3333%; height: 21px;\">やるき</td>\n<td style=\"width: 33.3333%; height: 21px;\">tinh thần hăng h&aacute;i</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca713f72144a12a6dec071c",
+      "index": 4,
+      "character": "天",
+      "sinoVietnameseWord": "THIÊN",
+      "mean": "Trời",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l14/kanji/img/4_kotsu.jpg",
+      "reminiscentDescription": "<p>Chữ 天 THI&Ecirc;N tr&ocirc;ng giống như một người đứng dang tay nh&igrave;n l&ecirc;n bầu trời.</p>",
+      "onReading": "テン",
+      "kunReading": "あま",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 64px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">天の川</td>\n<td style=\"width: 33.3333%; height: 22px;\">あまのがわ</td>\n<td style=\"width: 33.3333%; height: 22px;\">dải Ng&acirc;n H&agrave;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">天気</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">てんき</span></td>\n<td style=\"width: 33.3333%; height: 21px;\"><span style=\"color: #e74c3c;\">thời tiết</span></td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">天皇</td>\n<td style=\"width: 33.3333%; height: 21px;\">てんのう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Thi&ecirc;n Ho&agrave;ng Nhật Bản&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca7150d2144a12a6dec0722",
+      "index": 5,
+      "character": "多",
+      "sinoVietnameseWord": "ĐA",
+      "mean": "Nhiều",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l14/kanji/img/5_xyz_app.png",
+      "reminiscentDescription": "<p>Chữ 多 ĐA c&oacute; &acirc;m H&aacute;n l&agrave; タ v&agrave; bản th&acirc;n n&oacute; cũng được viết bằng c&aacute;ch gh&eacute;p nhiều chữ タ lại với nhau.</p>",
+      "onReading": "タ",
+      "kunReading": "おお・い",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 44px;\">\n<tbody>\n<tr>\n<td style=\"width: 29.3729%;\"><span style=\"color: #e74c3c;\">多い</span></td>\n<td style=\"width: 37.2937%;\"><span style=\"color: #e74c3c;\">おおい</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">nhiều</span></td>\n</tr>\n<tr>\n<td style=\"width: 29.3729%;\">多分</td>\n<td style=\"width: 37.2937%;\">たぶん</td>\n<td style=\"width: 33.3333%;\">chắc l&agrave;, c&oacute; lẽ l&agrave;&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a639efe6a4de6699512452",
+      "index": 6,
+      "character": "少",
+      "sinoVietnameseWord": "THIỂU, THIẾU",
+      "mean": "Ít",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l14/kanji/img/6_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 少 THIỂU, THIẾU giống như việc chỉ c&oacute; một quả t&aacute;o nhỏ x&iacute;u th&ocirc;i m&agrave; c&ograve;n phải ch&eacute;m một đường cắt để chia ra th&igrave; chắc chắn l&agrave; sẽ thiếu.</p>",
+      "onReading": "ショウ",
+      "kunReading": "すく・ない、すこ・し",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 40px;\">\n<tbody>\n<tr style=\"height: 27px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">少ない</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">すくない</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">&iacute;t (t&iacute;nh từ)</span></td>\n</tr>\n<tr style=\"height: 27px;\">\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">少し</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">すこし</span></td>\n<td style=\"width: 33.3333%; height: 10px;\"><span style=\"color: #e74c3c;\">một ch&uacute;t (ph&oacute; từ)</span></td>\n</tr>\n<tr style=\"height: 27px;\">\n<td style=\"width: 33.3333%; height: 10px;\">少年</td>\n<td style=\"width: 33.3333%; height: 10px;\">しょうねん</td>\n<td style=\"width: 33.3333%; height: 10px;\">thiếu ni&ecirc;n (nam)</td>\n</tr>\n<tr style=\"height: 27px;\">\n<td style=\"width: 33.3333%; height: 10px;\">少女</td>\n<td style=\"width: 33.3333%; height: 10px;\">しょうじょ</td>\n<td style=\"width: 33.3333%; height: 10px;\">thiếu nữ</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a63d2ee6a4de6699512454",
+      "index": 7,
+      "character": "元",
+      "sinoVietnameseWord": "NGUYÊN",
+      "mean": "Đầu tiên, trước, cũ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l14/kanji/img/7_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 元 NGUY&Ecirc;N trong từ 元気 NGUY&Ecirc;N KH&Iacute; nghĩa l&agrave; khoẻ mạnh, ta nhớ đến một ai đ&oacute; khoẻ mạnh v&agrave; về đ&iacute;ch đầu ti&ecirc;n trong cuộc thi chạy.</p>",
+      "onReading": "ゲン、ガン",
+      "kunReading": "もと",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 90px;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">元彼</td>\n<td style=\"width: 33.3333%;\">もとかれ</td>\n<td style=\"width: 33.3333%;\">bạn trai cũ</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">元カノ</td>\n<td style=\"width: 33.3333%;\">もとかの</td>\n<td style=\"width: 33.3333%;\">bạn g&aacute;i cũ</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">元気</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">げんき</span></td>\n<td style=\"width: 33.3333%;\"><span style=\"color: #e74c3c;\">khỏe mạnh</span></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">元日</td>\n<td style=\"width: 33.3333%;\">がんじつ</td>\n<td style=\"width: 33.3333%;\">ng&agrave;y 1 Tết</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "65a63dc3e6a4de6699512456",
+      "index": 8,
+      "character": "歩",
+      "sinoVietnameseWord": "BỘ",
+      "mean": "Đi bộ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N5/l14/kanji/img/8_kotsu.png",
+      "reminiscentDescription": "<p>Chữ 歩 BỘ gh&eacute;p bởi chữ 止 CHỈ (dừng lại) v&agrave; chữ 少 THIỂU, THIẾU (một ch&uacute;t), giống như việc khi đi bộ ta phải vừa đi vừa thỉnh thoảng dừng lại một ch&uacute;t để lấy sức cho đỡ mệt.</p>",
+      "onReading": "ホ",
+      "kunReading": "ある・きます",
+      "examples": "<table style=\"border-collapse: collapse; width: 98.3801%; height: 88px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">歩きます</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">あるきます</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">đi bộ</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">散歩します</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">さんぽします</span></td>\n<td style=\"width: 33.3333%; height: 22px;\"><span style=\"color: #e74c3c;\">đi dạo</span></td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">一歩</td>\n<td style=\"width: 33.3333%; height: 22px;\">いっぽ</td>\n<td style=\"width: 33.3333%; height: 22px;\">một bước</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">歩道</td>\n<td style=\"width: 33.3333%; height: 22px;\">ほどう</td>\n<td style=\"width: 33.3333%; height: 22px;\">vỉa h&egrave;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

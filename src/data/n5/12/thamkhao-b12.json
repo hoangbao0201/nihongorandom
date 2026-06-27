@@ -1,0 +1,178 @@
+{
+  "lesson": 12,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "祭（まつ）り・ 名所（めいしょ）Lễ hội và Địa danh",
+      "titleHtml": "<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り・ <ruby>名所<rp>（</rp><rt>めいしょ</rt><rp>）</rp></ruby>Lễ hội và Địa danh",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "鹿苑寺（ろくおんじ）（金閣寺（きんかくじ））金閣（きんかく）",
+              "html": "<ruby>鹿苑寺<rp>（</rp><rt>ろくおんじ</rt><rp>）</rp></ruby>（<ruby>金閣寺<rp>（</rp><rt>きんかくじ</rt><rp>）</rp></ruby>）<ruby>金閣<rp>（</rp><rt>きんかく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Chùa kim các(chùa vàng)",
+              "html": "Chùa kim các(chùa vàng)"
+            }
+          ],
+          "term": "鹿苑寺（ろくおんじ）（金閣寺（きんかくじ））金閣（きんかく）",
+          "termHtml": "<ruby>鹿苑寺<rp>（</rp><rt>ろくおんじ</rt><rp>）</rp></ruby>（<ruby>金閣寺<rp>（</rp><rt>きんかくじ</rt><rp>）</rp></ruby>）<ruby>金閣<rp>（</rp><rt>きんかく</rt><rp>）</rp></ruby>",
+          "meaning": "Chùa kim các(chùa vàng)",
+          "meaningHtml": "Chùa kim các(chùa vàng)"
+        },
+        {
+          "cells": [
+            {
+              "text": "祇園祭（ぎおんまつり）",
+              "html": "<ruby>祇園祭<rp>（</rp><rt>ぎおんまつり</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Lễ hội Gion",
+              "html": "Lễ hội Gion"
+            }
+          ],
+          "term": "祇園祭（ぎおんまつり）",
+          "termHtml": "<ruby>祇園祭<rp>（</rp><rt>ぎおんまつり</rt><rp>）</rp></ruby>",
+          "meaning": "Lễ hội Gion",
+          "meaningHtml": "Lễ hội Gion"
+        },
+        {
+          "cells": [
+            {
+              "text": "姫路城（ひめじじょう）",
+              "html": "<ruby>姫路城<rp>（</rp><rt>ひめじじょう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Lâu đài Himeji",
+              "html": "Lâu đài Himeji"
+            }
+          ],
+          "term": "姫路城（ひめじじょう）",
+          "termHtml": "<ruby>姫路城<rp>（</rp><rt>ひめじじょう</rt><rp>）</rp></ruby>",
+          "meaning": "Lâu đài Himeji",
+          "meaningHtml": "Lâu đài Himeji"
+        },
+        {
+          "cells": [
+            {
+              "text": "原爆（げんばく）ドーム",
+              "html": "<ruby>原爆<rp>（</rp><rt>げんばく</rt><rp>）</rp></ruby>ドーム"
+            },
+            {
+              "text": "Nhà vòm Nguyên tử",
+              "html": "Nhà vòm Nguyên tử"
+            }
+          ],
+          "term": "原爆（げんばく）ドーム",
+          "termHtml": "<ruby>原爆<rp>（</rp><rt>げんばく</rt><rp>）</rp></ruby>ドーム",
+          "meaning": "Nhà vòm Nguyên tử",
+          "meaningHtml": "Nhà vòm Nguyên tử"
+        },
+        {
+          "cells": [
+            {
+              "text": "天神（てんじん）祭（さい）",
+              "html": "<ruby>天神<rp>（</rp><rt>てんじん</rt><rp>）</rp></ruby><ruby>祭<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Lễ hội Tenjin",
+              "html": "Lễ hội Tenjin"
+            }
+          ],
+          "term": "天神（てんじん）祭（さい）",
+          "termHtml": "<ruby>天神<rp>（</rp><rt>てんじん</rt><rp>）</rp></ruby><ruby>祭<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>",
+          "meaning": "Lễ hội Tenjin",
+          "meaningHtml": "Lễ hội Tenjin"
+        },
+        {
+          "cells": [
+            {
+              "text": "東大寺（とうだいじ）・大仏（だいぶつ）",
+              "html": "<ruby>東大寺<rp>（</rp><rt>とうだいじ</rt><rp>）</rp></ruby>・<ruby>大仏<rp>（</rp><rt>だいぶつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Bức tượng Phật chùa Todai",
+              "html": "Bức tượng Phật chùa Todai"
+            }
+          ],
+          "term": "東大寺（とうだいじ）・大仏（だいぶつ）",
+          "termHtml": "<ruby>東大寺<rp>（</rp><rt>とうだいじ</rt><rp>）</rp></ruby>・<ruby>大仏<rp>（</rp><rt>だいぶつ</rt><rp>）</rp></ruby>",
+          "meaning": "Bức tượng Phật chùa Todai",
+          "meaningHtml": "Bức tượng Phật chùa Todai"
+        },
+        {
+          "cells": [
+            {
+              "text": "神田（かんだ）祭（まつ）り",
+              "html": "<ruby>神田<rp>（</rp><rt>かんだ</rt><rp>）</rp></ruby><ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り"
+            },
+            {
+              "text": "Lễ hội Kanda",
+              "html": "Lễ hội Kanda"
+            }
+          ],
+          "term": "神田（かんだ）祭（まつ）り",
+          "termHtml": "<ruby>神田<rp>（</rp><rt>かんだ</rt><rp>）</rp></ruby><ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り",
+          "meaning": "Lễ hội Kanda",
+          "meaningHtml": "Lễ hội Kanda"
+        },
+        {
+          "cells": [
+            {
+              "text": "皇居（こうきょ）",
+              "html": "<ruby>皇居<rp>（</rp><rt>こうきょ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Hoàng cung Tokyo",
+              "html": "Hoàng cung Tokyo"
+            }
+          ],
+          "term": "皇居（こうきょ）",
+          "termHtml": "<ruby>皇居<rp>（</rp><rt>こうきょ</rt><rp>）</rp></ruby>",
+          "meaning": "Hoàng cung Tokyo",
+          "meaningHtml": "Hoàng cung Tokyo"
+        },
+        {
+          "cells": [
+            {
+              "text": "富士山（ふじさん）",
+              "html": "<ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Núi Phú Sĩ",
+              "html": "Núi Phú Sĩ"
+            }
+          ],
+          "term": "富士山（ふじさん）",
+          "termHtml": "<ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby>",
+          "meaning": "Núi Phú Sĩ",
+          "meaningHtml": "Núi Phú Sĩ"
+        },
+        {
+          "cells": [
+            {
+              "text": "東照宮（とうしょうぐう）",
+              "html": "<ruby>東照宮<rp>（</rp><rt>とうしょうぐう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Đền Toshou",
+              "html": "Đền Toshou"
+            }
+          ],
+          "term": "東照宮（とうしょうぐう）",
+          "termHtml": "<ruby>東照宮<rp>（</rp><rt>とうしょうぐう</rt><rp>）</rp></ruby>",
+          "meaning": "Đền Toshou",
+          "meaningHtml": "Đền Toshou"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>鹿苑寺<rp>（</rp><rt>ろくおんじ</rt><rp>）</rp></ruby>（<ruby>金閣寺<rp>（</rp><rt>きんかくじ</rt><rp>）</rp></ruby>）<ruby>金閣<rp>（</rp><rt>きんかく</rt><rp>）</rp></ruby></td> <td>Chùa kim các(chùa vàng)</td> </tr><tr> <td width=\"40%\"><ruby>祇園祭<rp>（</rp><rt>ぎおんまつり</rt><rp>）</rp></ruby></td> <td>Lễ hội Gion</td> </tr><tr> <td width=\"40%\"><ruby>姫路城<rp>（</rp><rt>ひめじじょう</rt><rp>）</rp></ruby></td> <td>Lâu đài Himeji</td> </tr><tr> <td width=\"40%\"><ruby>原爆<rp>（</rp><rt>げんばく</rt><rp>）</rp></ruby>ドーム</td> <td>Nhà vòm Nguyên tử</td> </tr><tr> <td width=\"40%\"><ruby>天神<rp>（</rp><rt>てんじん</rt><rp>）</rp></ruby><ruby>祭<rp>（</rp><rt>さい</rt><rp>）</rp></ruby></td> <td>Lễ hội Tenjin</td> </tr><tr> <td width=\"40%\"><ruby>東大寺<rp>（</rp><rt>とうだいじ</rt><rp>）</rp></ruby>・<ruby>大仏<rp>（</rp><rt>だいぶつ</rt><rp>）</rp></ruby></td> <td>Bức tượng Phật chùa Todai</td> </tr><tr> <td width=\"40%\"><ruby>神田<rp>（</rp><rt>かんだ</rt><rp>）</rp></ruby><ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り</td> <td>Lễ hội Kanda</td> </tr><tr> <td width=\"40%\"><ruby>皇居<rp>（</rp><rt>こうきょ</rt><rp>）</rp></ruby></td> <td>Hoàng cung Tokyo</td> </tr><tr> <td width=\"40%\"><ruby>富士山<rp>（</rp><rt>ふじさん</rt><rp>）</rp></ruby></td> <td>Núi Phú Sĩ</td> </tr><tr> <td width=\"40%\"><ruby>東照宮<rp>（</rp><rt>とうしょうぐう</rt><rp>）</rp></ruby></td> <td>Đền Toshou</td> </tr></tbody></table> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai12.jpg\" style=\"width: 100%; \"> </p>"
+    }
+  ]
+}

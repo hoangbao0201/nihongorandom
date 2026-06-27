@@ -1,0 +1,62 @@
+{
+  "lesson": 25,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "考えます",
+      "kanjiHtml": "考えます",
+      "sinoVietnamese": "KHẢO",
+      "kana": "かんがえます",
+      "kanaHtml": "かんがえます"
+    },
+    {
+      "index": 2,
+      "kanji": "着きます",
+      "kanjiHtml": "着きます",
+      "sinoVietnamese": "TRƯỚC",
+      "kana": "つきます",
+      "kanaHtml": "つきます"
+    },
+    {
+      "index": 3,
+      "kanji": "取ります [年を～]",
+      "kanjiHtml": "取ります<br />[年を～]",
+      "sinoVietnamese": "THỦ NIÊN",
+      "kana": "とります [としを～]",
+      "kanaHtml": "とります<br />[としを～]"
+    },
+    {
+      "index": 4,
+      "kanji": "足ります",
+      "kanjiHtml": "足ります",
+      "sinoVietnamese": "ĐỦ",
+      "kana": "たります",
+      "kanaHtml": "たります"
+    },
+    {
+      "index": 5,
+      "kanji": "田舎",
+      "kanjiHtml": "田舎",
+      "sinoVietnamese": "ĐIỀN XÁ",
+      "kana": "いなか",
+      "kanaHtml": "いなか"
+    },
+    {
+      "index": 6,
+      "kanji": "億",
+      "kanjiHtml": "億",
+      "sinoVietnamese": "ỨC",
+      "kana": "おく",
+      "kanaHtml": "おく"
+    },
+    {
+      "index": 7,
+      "kanji": "意味",
+      "kanjiHtml": "意味",
+      "sinoVietnamese": "Ý VỊ",
+      "kana": "いみ",
+      "kanaHtml": "いみ"
+    }
+  ]
+}

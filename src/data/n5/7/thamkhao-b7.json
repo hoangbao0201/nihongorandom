@@ -1,0 +1,306 @@
+{
+  "lesson": 7,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "家族（かぞく） Gia đình",
+      "titleHtml": "<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby> Gia đình",
+      "introHtml": "<p> <b><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>の<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby> Gia đình của tôi</b> </p> <p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "祖母（そぼ）",
+              "html": "<ruby>祖母<rp>（</rp><rt>そぼ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "bà",
+              "html": "bà"
+            }
+          ],
+          "term": "祖母（そぼ）",
+          "termHtml": "<ruby>祖母<rp>（</rp><rt>そぼ</rt><rp>）</rp></ruby>",
+          "meaning": "bà",
+          "meaningHtml": "bà"
+        },
+        {
+          "cells": [
+            {
+              "text": "母（はは）",
+              "html": "<ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "mẹ",
+              "html": "mẹ"
+            }
+          ],
+          "term": "母（はは）",
+          "termHtml": "<ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby>",
+          "meaning": "mẹ",
+          "meaningHtml": "mẹ"
+        },
+        {
+          "cells": [
+            {
+              "text": "妹（いもうと）",
+              "html": "<ruby>妹<rp>（</rp><rt>いもうと</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "em gái",
+              "html": "em gái"
+            }
+          ],
+          "term": "妹（いもうと）",
+          "termHtml": "<ruby>妹<rp>（</rp><rt>いもうと</rt><rp>）</rp></ruby>",
+          "meaning": "em gái",
+          "meaningHtml": "em gái"
+        },
+        {
+          "cells": [
+            {
+              "text": "祖父（そふ）",
+              "html": "<ruby>祖父<rp>（</rp><rt>そふ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ông",
+              "html": "ông"
+            }
+          ],
+          "term": "祖父（そふ）",
+          "termHtml": "<ruby>祖父<rp>（</rp><rt>そふ</rt><rp>）</rp></ruby>",
+          "meaning": "ông",
+          "meaningHtml": "ông"
+        },
+        {
+          "cells": [
+            {
+              "text": "父（ちち）",
+              "html": "<ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "bố",
+              "html": "bố"
+            }
+          ],
+          "term": "父（ちち）",
+          "termHtml": "<ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby>",
+          "meaning": "bố",
+          "meaningHtml": "bố"
+        },
+        {
+          "cells": [
+            {
+              "text": "弟（おとうと）",
+              "html": "<ruby>弟<rp>（</rp><rt>おとうと</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "em trai",
+              "html": "em trai"
+            }
+          ],
+          "term": "弟（おとうと）",
+          "termHtml": "<ruby>弟<rp>（</rp><rt>おとうと</rt><rp>）</rp></ruby>",
+          "meaning": "em trai",
+          "meaningHtml": "em trai"
+        },
+        {
+          "cells": [
+            {
+              "text": "姉（あね）",
+              "html": "<ruby>姉<rp>（</rp><rt>あね</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "chị gái",
+              "html": "chị gái"
+            }
+          ],
+          "term": "姉（あね）",
+          "termHtml": "<ruby>姉<rp>（</rp><rt>あね</rt><rp>）</rp></ruby>",
+          "meaning": "chị gái",
+          "meaningHtml": "chị gái"
+        },
+        {
+          "cells": [
+            {
+              "text": "兄（あに）",
+              "html": "<ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "anh trai",
+              "html": "anh trai"
+            }
+          ],
+          "term": "兄（あに）",
+          "termHtml": "<ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby>",
+          "meaning": "anh trai",
+          "meaningHtml": "anh trai"
+        },
+        {
+          "cells": [
+            {
+              "text": "祖父母（そふぼ）",
+              "html": "<ruby>祖父母<rp>（</rp><rt>そふぼ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ông bà",
+              "html": "ông bà"
+            }
+          ],
+          "term": "祖父母（そふぼ）",
+          "termHtml": "<ruby>祖父母<rp>（</rp><rt>そふぼ</rt><rp>）</rp></ruby>",
+          "meaning": "ông bà",
+          "meaningHtml": "ông bà"
+        },
+        {
+          "cells": [
+            {
+              "text": "両親（りょうしん）",
+              "html": "<ruby>両親<rp>（</rp><rt>りょうしん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "bố mẹ",
+              "html": "bố mẹ"
+            }
+          ],
+          "term": "両親（りょうしん）",
+          "termHtml": "<ruby>両親<rp>（</rp><rt>りょうしん</rt><rp>）</rp></ruby>",
+          "meaning": "bố mẹ",
+          "meaningHtml": "bố mẹ"
+        },
+        {
+          "cells": [
+            {
+              "text": "兄弟（きょうだい）",
+              "html": "<ruby>兄弟<rp>（</rp><rt>きょうだい</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "anh em",
+              "html": "anh em"
+            }
+          ],
+          "term": "兄弟（きょうだい）",
+          "termHtml": "<ruby>兄弟<rp>（</rp><rt>きょうだい</rt><rp>）</rp></ruby>",
+          "meaning": "anh em",
+          "meaningHtml": "anh em"
+        },
+        {
+          "cells": [
+            {
+              "text": "つま",
+              "html": "つま"
+            },
+            {
+              "text": "vợ",
+              "html": "vợ"
+            }
+          ],
+          "term": "つま",
+          "termHtml": "つま",
+          "meaning": "vợ",
+          "meaningHtml": "vợ"
+        },
+        {
+          "cells": [
+            {
+              "text": "おっと",
+              "html": "おっと"
+            },
+            {
+              "text": "chồng",
+              "html": "chồng"
+            }
+          ],
+          "term": "おっと",
+          "termHtml": "おっと",
+          "meaning": "chồng",
+          "meaningHtml": "chồng"
+        },
+        {
+          "cells": [
+            {
+              "text": "娘（むすめ）",
+              "html": "<ruby>娘<rp>（</rp><rt>むすめ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "con gái",
+              "html": "con gái"
+            }
+          ],
+          "term": "娘（むすめ）",
+          "termHtml": "<ruby>娘<rp>（</rp><rt>むすめ</rt><rp>）</rp></ruby>",
+          "meaning": "con gái",
+          "meaningHtml": "con gái"
+        },
+        {
+          "cells": [
+            {
+              "text": "わたし",
+              "html": "わたし"
+            },
+            {
+              "text": "tôi",
+              "html": "tôi"
+            }
+          ],
+          "term": "わたし",
+          "termHtml": "わたし",
+          "meaning": "tôi",
+          "meaningHtml": "tôi"
+        },
+        {
+          "cells": [
+            {
+              "text": "息子（むすこ）",
+              "html": "<ruby>息子<rp>（</rp><rt>むすこ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "con trai",
+              "html": "con trai"
+            }
+          ],
+          "term": "息子（むすこ）",
+          "termHtml": "<ruby>息子<rp>（</rp><rt>むすこ</rt><rp>）</rp></ruby>",
+          "meaning": "con trai",
+          "meaningHtml": "con trai"
+        },
+        {
+          "cells": [
+            {
+              "text": "夫婦（ふうふ）",
+              "html": "<ruby>夫婦<rp>（</rp><rt>ふうふ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "vợ chồng",
+              "html": "vợ chồng"
+            }
+          ],
+          "term": "夫婦（ふうふ）",
+          "termHtml": "<ruby>夫婦<rp>（</rp><rt>ふうふ</rt><rp>）</rp></ruby>",
+          "meaning": "vợ chồng",
+          "meaningHtml": "vợ chồng"
+        },
+        {
+          "cells": [
+            {
+              "text": "子（こ）ども",
+              "html": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども"
+            },
+            {
+              "text": "con cái",
+              "html": "con cái"
+            }
+          ],
+          "term": "子（こ）ども",
+          "termHtml": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども",
+          "meaning": "con cái",
+          "meaningHtml": "con cái"
+        }
+      ],
+      "contentHtml": "<p> <b><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>の<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby> Gia đình của tôi</b> </p> <p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>祖母<rp>（</rp><rt>そぼ</rt><rp>）</rp></ruby></td> <td>bà</td> </tr><tr> <td width=\"40%\"><ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby></td> <td>mẹ</td> </tr><tr> <td width=\"40%\"><ruby>妹<rp>（</rp><rt>いもうと</rt><rp>）</rp></ruby></td> <td>em gái</td> </tr><tr> <td width=\"40%\"><ruby>祖父<rp>（</rp><rt>そふ</rt><rp>）</rp></ruby></td> <td>ông</td> </tr><tr> <td width=\"40%\"><ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby></td> <td>bố</td> </tr><tr> <td width=\"40%\"><ruby>弟<rp>（</rp><rt>おとうと</rt><rp>）</rp></ruby></td> <td>em trai</td> </tr><tr> <td width=\"40%\"><ruby>姉<rp>（</rp><rt>あね</rt><rp>）</rp></ruby></td> <td>chị gái</td> </tr><tr> <td width=\"40%\"><ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby></td> <td>anh trai</td> </tr><tr> <td width=\"40%\"><ruby>祖父母<rp>（</rp><rt>そふぼ</rt><rp>）</rp></ruby></td> <td>ông bà</td> </tr><tr> <td width=\"40%\"><ruby>両親<rp>（</rp><rt>りょうしん</rt><rp>）</rp></ruby></td> <td>bố mẹ</td> </tr><tr> <td width=\"40%\"><ruby>兄弟<rp>（</rp><rt>きょうだい</rt><rp>）</rp></ruby></td> <td>anh em</td> </tr><tr> <td width=\"40%\">つま</td> <td>vợ</td> </tr><tr> <td width=\"40%\">おっと</td> <td>chồng</td> </tr><tr> <td width=\"40%\"><ruby>娘<rp>（</rp><rt>むすめ</rt><rp>）</rp></ruby></td> <td>con gái</td> </tr><tr> <td width=\"40%\">わたし</td> <td>tôi</td> </tr><tr> <td width=\"40%\"><ruby>息子<rp>（</rp><rt>むすこ</rt><rp>）</rp></ruby></td> <td>con trai</td> </tr><tr> <td width=\"40%\"><ruby>夫婦<rp>（</rp><rt>ふうふ</rt><rp>）</rp></ruby></td> <td>vợ chồng</td> </tr><tr> <td width=\"40%\"><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>ども</td> <td>con cái</td> </tr></tbody></table> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai7_1.jpg\" style=\"width: 100%; \"> </p> <br /> <p> <br /> <b><ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby>さんの<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby> Gia đình anh/chị Tanaka</b> </p> <p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">おばあさん</td> <td>bà</td> </tr><tr> <td width=\"40%\">お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さん</td> <td>mẹ</td> </tr><tr> <td width=\"40%\"><ruby>妹<rp>（</rp><rt>いもうと</rt><rp>）</rp></ruby>さん</td> <td>em gái</td> </tr><tr> <td width=\"40%\">おじいさん</td> <td>ông</td> </tr><tr> <td width=\"40%\">お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さん</td> <td>bố</td> </tr><tr> <td width=\"40%\"><ruby>弟<rp>（</rp><rt>おとうと</rt><rp>）</rp></ruby>さん</td> <td>em trai</td> </tr><tr> <td width=\"40%\"><ruby>奥<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>さん</td> <td>vợ</td> </tr><tr> <td width=\"40%\">ご<ruby>主人<rp>（</rp><rt>しゅじん</rt><rp>）</rp></ruby></td> <td>(chồng)</td> </tr><tr> <td width=\"40%\"><ruby>娘<rp>（</rp><rt>むすめ</rt><rp>）</rp></ruby>さん</td> <td>con gái</td> </tr><tr> <td width=\"40%\"><ruby>田中<rp>（</rp><rt>たなか</rt><rp>）</rp></ruby>さん</td> <td>anh/chị Tanaka</td> </tr><tr> <td width=\"40%\"><ruby>息子<rp>（</rp><rt>むすこ</rt><rp>）</rp></ruby>さん</td> <td>con trai</td> </tr><tr> <td width=\"40%\">お<ruby>姉<rp>（</rp><rt>ねえ</rt><rp>）</rp></ruby>さん</td> <td>chị gái</td> </tr><tr> <td width=\"40%\">お<ruby>兄<rp>（</rp><rt>にい</rt><rp>）</rp></ruby>さん</td> <td>anh trai</td> </tr><tr> <td width=\"40%\">ご<ruby>両親<rp>（</rp><rt>りょうしん</rt><rp>）</rp></ruby></td> <td>bố mẹ</td> </tr><tr> <td width=\"40%\">ご<ruby>兄弟<rp>（</rp><rt>きょうだい</rt><rp>）</rp></ruby></td> <td>anh em</td> </tr><tr> <td width=\"40%\">ご<ruby>夫婦<rp>（</rp><rt>ふうふ</rt><rp>）</rp></ruby></td> <td>vợ chồng</td> </tr><tr> <td width=\"40%\">お<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>さん</td> <td>con cái</td> </tr></tbody></table> <img alt=\"\" src=\"/images/minnatuvungthamkhao/bai7_2.jpg\" style=\"width: 100%; \"> </p>"
+    }
+  ]
+}

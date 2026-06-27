@@ -1,0 +1,387 @@
+{
+  "lesson": 3,
+  "type": "hoithoai",
+  "sections": [
+    {
+      "id": "tab3",
+      "title": "Bài đàm thoại (会話(かいわ))",
+      "titleHtml": "Bài đàm thoại (<ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby>)",
+      "contentHtml": "</p> <p> <strong><div class=\"tudich\"><div class=\"candich\"></strong><span class=\"hoithoaititle\"><strong>これを ください</strong></span><strong></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\"></strong><strong>Cho tôi lấy chai này</div></div></div></strong></p> <p> <strong><img alt=\"\" src=\"/images/minnamoi/bai3/kaiwa.jpg\" style=\"width: 60%; \" /></strong></p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnahonsatsu1/9.mp3\" type=\"audio/mpeg\"></audio></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>A:</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>いらっしゃいませ。 </span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Kính chào quý khách.</div></div></div></td> </tr> <tr> <td style=\"width: 90px;\"> <u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。ワインうりばは どこですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Quầy bán rượu nằm ở chỗ nào vậy?</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>A:</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>ちか１かい でございます。 </span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Nằm ở tầng hầm thứ nhất.</div></div></div></td> </tr> <tr> <td style=\"width: 90px;\"> <u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>どうも</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Cám ơn!</div></div></div></td> </tr> <tr> <td>  </td> <td> <span> ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐   </span></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。その ワインを みせて ください。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Cho tôi xem chai rượu vang đó.</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: </span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>はい、どうぞ。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Vâng. Xin mời chị.</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span>マリア： </span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>これは どこの ワインですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Cái này là rượu vang xuất xứ từ đâu vậy?</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B:</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"> <span><span><ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>のです。</span></span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Rượu vang Nhật ạ.</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span>マリア： </span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span> いくらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Giá bao nhiêu vậy?</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: </span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>2,500えんです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">2,500 yên.</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"> <span><span>じゃ、これを ください。</span></span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Vậy cho tôi lấy chai này.</div></div></div></td> </tr> </tbody> </table> <p> </div>",
+      "blocks": [
+        {
+          "kind": "tudich",
+          "japanese": "これを ください",
+          "japaneseHtml": "</strong><span class=\"hoithoaititle\"><strong>これを ください</strong></span><strong>",
+          "vietnamese": "Cho tôi lấy chai này",
+          "vietnameseHtml": "</strong><strong>Cho tôi lấy chai này"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai3/kaiwa.jpg",
+          "contentHtml": "<img alt=\"\" src=\"/images/minnamoi/bai3/kaiwa.jpg\" style=\"width: 60%; \" />"
+        },
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnahonsatsu1/9.mp3",
+          "contentHtml": "<audio controls preload=\"none\"><source src=\"/Audio/minnahonsatsu1/9.mp3\" type=\"audio/mpeg\"></audio>"
+        },
+        {
+          "kind": "dialogue",
+          "rows": [
+            {
+              "speaker": "店員(てんいん)A:",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>A:</span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "いらっしゃいませ。",
+                  "japaneseHtml": "<span>いらっしゃいませ。 </span>",
+                  "vietnamese": "Kính chào quý khách.",
+                  "vietnameseHtml": "Kính chào quý khách."
+                }
+              ]
+            },
+            {
+              "speaker": "マリア：",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "すみません。ワインうりばは どこですか。",
+                  "japaneseHtml": "<span>すみません。ワインうりばは どこですか。</span>",
+                  "vietnamese": "Xin lỗi. Quầy bán rượu nằm ở chỗ nào vậy?",
+                  "vietnameseHtml": "Xin lỗi. Quầy bán rượu nằm ở chỗ nào vậy?"
+                }
+              ]
+            },
+            {
+              "speaker": "店員(てんいん)A:",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>A:</span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "ちか１かい でございます。",
+                  "japaneseHtml": "<span>ちか１かい でございます。 </span>",
+                  "vietnamese": "Nằm ở tầng hầm thứ nhất.",
+                  "vietnameseHtml": "Nằm ở tầng hầm thứ nhất."
+                }
+              ]
+            },
+            {
+              "speaker": "マリア：",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "どうも",
+                  "japaneseHtml": "<span>どうも</span>",
+                  "vietnamese": "Cám ơn!",
+                  "vietnameseHtml": "Cám ơn!"
+                }
+              ]
+            },
+            {
+              "speaker": "マリア：",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "すみません。その ワインを みせて ください。",
+                  "japaneseHtml": "<span>すみません。その ワインを みせて ください。</span>",
+                  "vietnamese": "Xin lỗi. Cho tôi xem chai rượu vang đó.",
+                  "vietnameseHtml": "Xin lỗi. Cho tôi xem chai rượu vang đó."
+                }
+              ]
+            },
+            {
+              "speaker": "店員(てんいん)B:",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: </span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "はい、どうぞ。",
+                  "japaneseHtml": "<span>はい、どうぞ。</span>",
+                  "vietnamese": "Vâng. Xin mời chị.",
+                  "vietnameseHtml": "Vâng. Xin mời chị."
+                }
+              ]
+            },
+            {
+              "speaker": "マリア：",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span>マリア： </span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "これは どこの ワインですか。",
+                  "japaneseHtml": "<span>これは どこの ワインですか。</span>",
+                  "vietnamese": "Cái này là rượu vang xuất xứ từ đâu vậy?",
+                  "vietnameseHtml": "Cái này là rượu vang xuất xứ từ đâu vậy?"
+                }
+              ]
+            },
+            {
+              "speaker": "店員(てんいん)B:",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B:</span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "日本(にほん)のです。",
+                  "japaneseHtml": "<span><span><ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>のです。</span></span>",
+                  "vietnamese": "Rượu vang Nhật ạ.",
+                  "vietnameseHtml": "Rượu vang Nhật ạ."
+                }
+              ]
+            },
+            {
+              "speaker": "マリア：",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span>マリア： </span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "いくらですか。",
+                  "japaneseHtml": "<span> いくらですか。</span>",
+                  "vietnamese": "Giá bao nhiêu vậy?",
+                  "vietnameseHtml": "Giá bao nhiêu vậy?"
+                }
+              ]
+            },
+            {
+              "speaker": "店員(てんいん)B:",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: </span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "2,500えんです。",
+                  "japaneseHtml": "<span>2,500えんです。</span>",
+                  "vietnamese": "2,500 yên.",
+                  "vietnameseHtml": "2,500 yên."
+                }
+              ]
+            },
+            {
+              "speaker": "マリア：",
+              "speakerHtml": "<u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u>",
+              "lines": [
+                {
+                  "kind": "tudich",
+                  "japanese": "じゃ、これを ください。",
+                  "japaneseHtml": "<span><span>じゃ、これを ください。</span></span>",
+                  "vietnamese": "Vậy cho tôi lấy chai này.",
+                  "vietnameseHtml": "Vậy cho tôi lấy chai này."
+                }
+              ]
+            }
+          ],
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>A:</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>いらっしゃいませ。 </span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Kính chào quý khách.</div></div></div></td> </tr> <tr> <td style=\"width: 90px;\"> <u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。ワインうりばは どこですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Quầy bán rượu nằm ở chỗ nào vậy?</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>A:</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>ちか１かい でございます。 </span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Nằm ở tầng hầm thứ nhất.</div></div></div></td> </tr> <tr> <td style=\"width: 90px;\"> <u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>どうも</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Cám ơn!</div></div></div></td> </tr> <tr> <td> </td> <td> <span> ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ </span></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。その ワインを みせて ください。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Cho tôi xem chai rượu vang đó.</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: </span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>はい、どうぞ。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Vâng. Xin mời chị.</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span>マリア： </span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>これは どこの ワインですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Cái này là rượu vang xuất xứ từ đâu vậy?</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B:</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"> <span><span><ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>のです。</span></span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Rượu vang Nhật ạ.</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span>マリア： </span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span> いくらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Giá bao nhiêu vậy?</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span><ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: </span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>2,500えんです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">2,500 yên.</div></div></div></td> </tr> <tr> <td> <u><span style=\"color:#000080;\"><strong><span>マリア：</span></strong></span></u></td> <td> <div class=\"tudich\"><div class=\"candich\"> <span><span>じゃ、これを ください。</span></span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Vậy cho tôi lấy chai này.</div></div></div></td> </tr> </tbody> </table>"
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": "Mẫu đàm thoại (練習(れんしゅう)C)",
+      "titleHtml": "Mẫu đàm thoại (<ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>C)",
+      "contentHtml": "</p> <p> <div class=\"slide\"><div class=\"slide-title\"><span>Mẫu đàm thoại 1</span></div><div class=\"slide-content\"></p> <p> <img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-1-vd.jpg\" style=\"width: 300px; \" /></p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101011.mp3\" type=\"audio/mpeg\"></audio></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。 <u>トイレ</u>は どこですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Nhà vệ sinh nằm ở đâu vậy?</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B: </span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>あそこです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Ở đằng kia.</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>どうも。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin cảm ơn.</div></div></div></td> </tr> </tbody> </table> <p> <span style=\"color: rgb(0, 0, 128);\"><span style=\"font-size: 16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><span><strong>Luyện tập: </strong></span></span></span></span></p> <p> <span style=\"font-size:12px;\"><em><span style=\"font-family: arial,helvetica,sans-serif;\">[thay thế từ gạch chân bằng nội dung trong hình]</span></em></span></p> <p><img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-1-tt.jpg\" style=\"width: 100%;\" /></p> <p> </div></div></p> <p> <div class=\"slide\"><div class=\"slide-title\"><span>Mẫu đàm thoại 2</span></div><div class=\"slide-content\"></p> <p> <img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-2-vd.jpg\" style=\"width: 300px; \" /></p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101100.mp3\" type=\"audio/mpeg\"></audio></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>お<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>は どちらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đất nước là nào vậy?</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B: </span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span><u>タイ</u> です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Nước Thái Lan.</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>うちは どちらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Nhà ở đâu vậy?</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span><u>バンコクの</u>です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Nhà ở Bangkok.</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>そうですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Là vậy à.</div></div></div></td> </tr> </tbody> </table> <p> <span style=\"color: rgb(0, 0, 128);\"><span style=\"font-size: 16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><span><strong>Luyện tập: </strong></span></span></span></span></p> <p> <span style=\"font-size:12px;\"><em><span style=\"font-family: arial,helvetica,sans-serif;\">[thay thế từ gạch chân bằng nội dung trong hình]</span></em></span></p> <p><img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-2-tt.jpg\" style=\"width: 100%;\" /></p> <p> </div></div></p> <p> <div class=\"slide\"><div class=\"slide-title\"><span>Mẫu đàm thoại 3</span></div><div class=\"slide-content\"></p> <p> <img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-3-vd.jpg\" style=\"width: 300px; \" /></p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101101.mp3\" type=\"audio/mpeg\"></audio></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。これは どこの<u>コーヒー</u>ですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Cái này là cà phê xuất xứ từ đâu vậy.</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B: </span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span><u>インドネシア</u>のです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Của Indonesia ạ.</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>いくらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Giá bao nhiêu vậy?</div></div></div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span><u>600えん</u>です。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">600 yên.</div></div></div></td> </tr> </tbody> </table> <p> <span style=\"color: rgb(0, 0, 128);\"><span style=\"font-size: 16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><span><strong>Luyện tập: </strong></span></span></span></span></p> <p> <span style=\"font-size: 12px;\"><em><span style=\"font-family: arial,helvetica,sans-serif;\">[thay thế từ gạch chân bằng nội dung trong hình]</span></em></span></p> <p><img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-3-tt.jpg\" style=\"width: 100%;\" /></p> <p> </div></div></p> <p> </div></div></p> <br /> <?php $de_stt = \"3\"; ?>",
+      "blocks": [
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Mẫu đàm thoại 1",
+          "titleHtml": "Mẫu đàm thoại 1",
+          "contentHtml": "</p> <p> <img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-1-vd.jpg\" style=\"width: 300px; \" /></p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101011.mp3\" type=\"audio/mpeg\"></audio></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。 <u>トイレ</u>は どこですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Nhà vệ sinh nằm ở đâu vậy?",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai3/renshuuC-1-vd.jpg",
+              "contentHtml": "<img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-1-vd.jpg\" style=\"width: 300px; \" />"
+            },
+            {
+              "kind": "audio",
+              "style": "controls",
+              "url": "https://www.vnjpclub.com/Audio/minnarenshuc/10000101011.mp3",
+              "contentHtml": "<audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101011.mp3\" type=\"audio/mpeg\"></audio>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。 <u>トイレ</u>は どこですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Nhà vệ sinh nằm ở đâu vậy?"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B: </span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "あそこです。",
+          "japaneseHtml": "<span>あそこです。</span>",
+          "vietnamese": "Ở đằng kia.",
+          "vietnameseHtml": "Ở đằng kia."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どうも。",
+          "japaneseHtml": "<span>どうも。</span>",
+          "vietnamese": "Xin cảm ơn.",
+          "vietnameseHtml": "Xin cảm ơn."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> </tbody> </table> <p> <span style=\"color: rgb(0, 0, 128);\"><span style=\"font-size: 16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><span><strong>Luyện tập: </strong></span></span></span></span></p> <p> <span style=\"font-size:12px;\"><em><span style=\"font-family: arial,helvetica,sans-serif;\">[thay thế từ gạch chân bằng nội dung trong hình]</span></em></span></p> <p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai3/renshuuC-1-tt.jpg",
+          "contentHtml": "<img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-1-tt.jpg\" style=\"width: 100%;\" />"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Mẫu đàm thoại 2",
+          "titleHtml": "Mẫu đàm thoại 2",
+          "contentHtml": "</p> <p> <img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-2-vd.jpg\" style=\"width: 300px; \" /></p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101100.mp3\" type=\"audio/mpeg\"></audio></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>お<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>は どちらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đất nước là nào vậy?",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai3/renshuuC-2-vd.jpg",
+              "contentHtml": "<img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-2-vd.jpg\" style=\"width: 300px; \" />"
+            },
+            {
+              "kind": "audio",
+              "style": "controls",
+              "url": "https://www.vnjpclub.com/Audio/minnarenshuc/10000101100.mp3",
+              "contentHtml": "<audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101100.mp3\" type=\"audio/mpeg\"></audio>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>お<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>は どちらですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đất nước là nào vậy?"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B: </span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "タイ です。",
+          "japaneseHtml": "<span><u>タイ</u> です。</span>",
+          "vietnamese": "Nước Thái Lan.",
+          "vietnameseHtml": "Nước Thái Lan."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "うちは どちらですか。",
+          "japaneseHtml": "<span>うちは どちらですか。</span>",
+          "vietnamese": "Nhà ở đâu vậy?",
+          "vietnameseHtml": "Nhà ở đâu vậy?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B:</span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "バンコクのです。",
+          "japaneseHtml": "<span><u>バンコクの</u>です。</span>",
+          "vietnamese": "Nhà ở Bangkok.",
+          "vietnameseHtml": "Nhà ở Bangkok."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "そうですか。",
+          "japaneseHtml": "<span>そうですか。</span>",
+          "vietnamese": "Là vậy à.",
+          "vietnameseHtml": "Là vậy à."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> </tbody> </table> <p> <span style=\"color: rgb(0, 0, 128);\"><span style=\"font-size: 16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><span><strong>Luyện tập: </strong></span></span></span></span></p> <p> <span style=\"font-size:12px;\"><em><span style=\"font-family: arial,helvetica,sans-serif;\">[thay thế từ gạch chân bằng nội dung trong hình]</span></em></span></p> <p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai3/renshuuC-2-tt.jpg",
+          "contentHtml": "<img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-2-tt.jpg\" style=\"width: 100%;\" />"
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Mẫu đàm thoại 3",
+          "titleHtml": "Mẫu đàm thoại 3",
+          "contentHtml": "</p> <p> <img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-3-vd.jpg\" style=\"width: 300px; \" /></p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101101.mp3\" type=\"audio/mpeg\"></audio></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。これは どこの<u>コーヒー</u>ですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Cái này là cà phê xuất xứ từ đâu vậy.",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai3/renshuuC-3-vd.jpg",
+              "contentHtml": "<img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-3-vd.jpg\" style=\"width: 300px; \" />"
+            },
+            {
+              "kind": "audio",
+              "style": "controls",
+              "url": "https://www.vnjpclub.com/Audio/minnarenshuc/10000101101.mp3",
+              "contentHtml": "<audio controls preload=\"none\"><source src=\"/Audio/minnarenshuc/10000101101.mp3\" type=\"audio/mpeg\"></audio>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\"> <tbody> <tr> <td style=\"width: 60px;\"> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><span>すみません。これは どこの<u>コーヒー</u>ですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi. Cái này là cà phê xuất xứ từ đâu vậy."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div></td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B: </span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "インドネシアのです。",
+          "japaneseHtml": "<span><u>インドネシア</u>のです。</span>",
+          "vietnamese": "Của Indonesia ạ.",
+          "vietnameseHtml": "Của Indonesia ạ."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>A:</span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "いくらですか。",
+          "japaneseHtml": "<span>いくらですか。</span>",
+          "vietnamese": "Giá bao nhiêu vậy?",
+          "vietnameseHtml": "Giá bao nhiêu vậy?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> <tr> <td> <span style=\"color:#000080;\"><strong><span>B:</span></strong></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "600えんです。",
+          "japaneseHtml": "<span><u>600えん</u>です。</span>",
+          "vietnamese": "600 yên.",
+          "vietnameseHtml": "600 yên."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> </tbody> </table> <p> <span style=\"color: rgb(0, 0, 128);\"><span style=\"font-size: 16px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><span><strong>Luyện tập: </strong></span></span></span></span></p> <p> <span style=\"font-size: 12px;\"><em><span style=\"font-family: arial,helvetica,sans-serif;\">[thay thế từ gạch chân bằng nội dung trong hình]</span></em></span></p> <p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai3/renshuuC-3-tt.jpg",
+          "contentHtml": "<img alt=\"\" src=\"/images/minnamoi/bai3/renshuuC-3-tt.jpg\" style=\"width: 100%;\" />"
+        }
+      ]
+    }
+  ]
+}
