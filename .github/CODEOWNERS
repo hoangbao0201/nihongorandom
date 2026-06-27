@@ -1,2 +1,6 @@
-# Require review from repo owner before merging to main.
+# Owner review required for all changes.
 * @hoangbao0201
+
+# Protected integration branches.
+/main @hoangbao0201
+/develop @hoangbao0201
