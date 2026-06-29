@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import { CHARACTER_DATASETS, ICharacter } from "@/config/data";
+import { CHARACTER_DATASETS, ICharacter } from "@/config/kana";
 import {
   buildNumberQuestion,
   isNumberOption,
