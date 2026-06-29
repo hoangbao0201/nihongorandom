@@ -1,6 +1,6 @@
 import { access, readFile } from "fs/promises";
 import { join } from "path";
-import type { IN5PartData, N5PartId } from "@/src/lib/n5Types";
+import type { IN5PartData, N5PartId } from "@/lib/n5Types";
 
 export const N5_LESSON_COUNT = 25;
 

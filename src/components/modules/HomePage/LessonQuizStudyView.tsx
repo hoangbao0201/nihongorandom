@@ -1,12 +1,12 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import ListeningPrompt from "@/src/components/shared/ListeningPrompt";
-import { useJapaneseSpeech } from "@/src/hooks/useJapaneseSpeech";
+import ListeningPrompt from "@/components/shared/ListeningPrompt";
+import { useJapaneseSpeech } from "@/hooks/useJapaneseSpeech";
 import {
   formatStudyShortcutHints,
   useStudyShortcuts,
-} from "@/src/hooks/useStudyShortcuts";
+} from "@/hooks/useStudyShortcuts";
 import {
   buildLessonQuizQuestion,
   DEFAULT_VOCABULARY_QUIZ_OPTIONS,
@@ -17,11 +17,11 @@ import {
   type LessonQuizStatsMap,
   type VocabularyQuizDirection,
   type VocabularyQuizOptions,
-} from "@/src/utils/lessonQuiz";
+} from "@/utils/lessonQuiz";
 import {
   getQuizPromptSizing,
   quizPromptStyleVars,
-} from "@/src/utils/quizPromptSizing";
+} from "@/utils/quizPromptSizing";
 
 const CONTENT_META: Record<
   LessonQuizContentType,

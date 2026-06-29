@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import N5LessonListPage from "@/src/components/modules/N5LessonListPage";
-import { getN5LessonList } from "@/src/lib/n5Lesson";
+import N5LessonListPage from "@/components/modules/N5LessonListPage";
+import { getN5LessonList } from "@/lib/n5Lesson";
 
 export const metadata: Metadata = {
   title: "Bài học N5",

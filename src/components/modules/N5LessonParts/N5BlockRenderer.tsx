@@ -1,15 +1,15 @@
 "use client";
 
 import { useState } from "react";
-import AudioPlayButton from "@/src/components/shared/AudioPlayButton";
-import DropdownTranslation from "@/src/components/shared/DropdownTranslation";
-import HtmlContent from "@/src/components/shared/HtmlContent";
-import InteractiveLessonHtml from "@/src/components/shared/InteractiveLessonHtml";
+import AudioPlayButton from "@/components/shared/AudioPlayButton";
+import DropdownTranslation from "@/components/shared/DropdownTranslation";
+import HtmlContent from "@/components/shared/HtmlContent";
+import InteractiveLessonHtml from "@/components/shared/InteractiveLessonHtml";
 import type {
   IN5ContentBlock,
   IN5DialogueRow,
   IN5TudichBlock,
-} from "@/src/lib/n5Types";
+} from "@/lib/n5Types";
 
 function TudichLine({ block }: { block: IN5TudichBlock }) {
   return (

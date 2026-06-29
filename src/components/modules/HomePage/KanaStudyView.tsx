@@ -1,17 +1,17 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import { CHARACTER_DATASETS, ICharacter } from "@/src/config/data";
+import { CHARACTER_DATASETS, ICharacter } from "@/config/data";
 import {
   buildNumberQuestion,
   isNumberOption,
   normalizeSpaces,
-} from "@/src/utils/numberQuestion";
-import { pickLeastSeenExcludingHighest } from "@/src/utils/leastSeenPick";
+} from "@/utils/numberQuestion";
+import { pickLeastSeenExcludingHighest } from "@/utils/leastSeenPick";
 import {
   formatStudyShortcutHints,
   useStudyShortcuts,
-} from "@/src/hooks/useStudyShortcuts";
+} from "@/hooks/useStudyShortcuts";
 
 const KANA_OPTIONS = [
   { id: "hiragana", label: "hiragana" },

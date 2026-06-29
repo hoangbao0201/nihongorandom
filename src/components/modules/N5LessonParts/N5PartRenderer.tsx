@@ -8,18 +8,18 @@ import type {
   IN5ThamkhaoData,
   IN5TuvungData,
   N5PartId,
-} from "@/src/lib/n5Types";
-import BaitapPartView from "@/src/components/modules/N5LessonParts/BaitapPartView";
-import DochieuPartView from "@/src/components/modules/N5LessonParts/DochieuPartView";
-import HantuPartView from "@/src/components/modules/N5LessonParts/HantuPartView";
-import HoithoaiPartView from "@/src/components/modules/N5LessonParts/HoithoaiPartView";
-import KiemtraPartView from "@/src/components/modules/N5LessonParts/KiemtraPartView";
-import LuyenchuhanPartView from "@/src/components/modules/N5LessonParts/LuyenchuhanPartView";
-import LuyendocPartView from "@/src/components/modules/N5LessonParts/LuyendocPartView";
-import LuyennghePartView from "@/src/components/modules/N5LessonParts/LuyennghePartView";
-import NguphapPartView from "@/src/components/modules/N5LessonParts/NguphapPartView";
-import ThamkhaoPartView from "@/src/components/modules/N5LessonParts/ThamkhaoPartView";
-import TuvungPartView from "@/src/components/modules/N5LessonParts/TuvungPartView";
+} from "@/lib/n5Types";
+import BaitapPartView from "@/components/modules/N5LessonParts/BaitapPartView";
+import DochieuPartView from "@/components/modules/N5LessonParts/DochieuPartView";
+import HantuPartView from "@/components/modules/N5LessonParts/HantuPartView";
+import HoithoaiPartView from "@/components/modules/N5LessonParts/HoithoaiPartView";
+import KiemtraPartView from "@/components/modules/N5LessonParts/KiemtraPartView";
+import LuyenchuhanPartView from "@/components/modules/N5LessonParts/LuyenchuhanPartView";
+import LuyendocPartView from "@/components/modules/N5LessonParts/LuyendocPartView";
+import LuyennghePartView from "@/components/modules/N5LessonParts/LuyennghePartView";
+import NguphapPartView from "@/components/modules/N5LessonParts/NguphapPartView";
+import ThamkhaoPartView from "@/components/modules/N5LessonParts/ThamkhaoPartView";
+import TuvungPartView from "@/components/modules/N5LessonParts/TuvungPartView";
 
 interface N5PartRendererProps {
   partId: N5PartId;

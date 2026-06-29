@@ -1,12 +1,12 @@
 "use client";
 
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
-import AudioPlayButton from "@/src/components/shared/AudioPlayButton";
-import InteractiveLessonHtml from "@/src/components/shared/InteractiveLessonHtml";
-import N5AccordionItem from "@/src/components/modules/N5LessonParts/shared/N5AccordionItem";
-import N5BlockRenderer from "@/src/components/modules/N5LessonParts/N5BlockRenderer";
-import { parseSlidesAtLevel, splitContentParts } from "@/src/lib/parseNguphapSlides";
-import type { IN5TabSection, IN5TabSectionsData } from "@/src/lib/n5Types";
+import AudioPlayButton from "@/components/shared/AudioPlayButton";
+import InteractiveLessonHtml from "@/components/shared/InteractiveLessonHtml";
+import N5AccordionItem from "@/components/modules/N5LessonParts/shared/N5AccordionItem";
+import N5BlockRenderer from "@/components/modules/N5LessonParts/N5BlockRenderer";
+import { parseSlidesAtLevel, splitContentParts } from "@/lib/parseNguphapSlides";
+import type { IN5TabSection, IN5TabSectionsData } from "@/lib/n5Types";
 
 const MAIN_TAB_CLASS =
   "w-full cursor-pointer rounded-md px-4 py-3 text-center text-sm font-bold tracking-wide text-white/45 outline-none transition-all duration-200 hover:text-white/70 data-selected:bg-[var(--accent)]/50 data-selected:text-white data-selected:shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]";

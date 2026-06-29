@@ -9,7 +9,7 @@ import {
   serverTimestamp,
   set,
 } from "firebase/database";
-import { getFirebaseDatabase } from "@/src/lib/firebase/client";
+import { getFirebaseDatabase } from "@/lib/firebase/client";
 
 const SESSION_KEY = "nihongo-presence-session";
 

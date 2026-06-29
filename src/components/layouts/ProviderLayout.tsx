@@ -2,9 +2,9 @@
 
 import NextTopLoader from "nextjs-toploader"
 import { useEffect } from "react"
-import SiteHeader from "@/src/components/layouts/SiteHeader"
-import OnlineCount from "@/src/components/shared/OnlineCount"
-import { preloadJapaneseSpeech } from "@/src/lib/japaneseSpeechEngine"
+import SiteHeader from "@/components/layouts/SiteHeader"
+import OnlineCount from "@/components/shared/OnlineCount"
+import { preloadJapaneseSpeech } from "@/lib/japaneseSpeechEngine"
 
 const ProviderLayout = ({ children }: { children: React.ReactNode }) => {
     useEffect(() => {

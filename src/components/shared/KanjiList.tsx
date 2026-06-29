@@ -1,5 +1,5 @@
-import KanjiCard from "@/src/components/shared/KanjiCard";
-import type { KanjiItem } from "@/src/lib/kanjiTypes";
+import KanjiCard from "@/components/shared/KanjiCard";
+import type { KanjiItem } from "@/lib/kanjiTypes";
 
 export default function KanjiList({ kanjis }: { kanjis: KanjiItem[] }) {
   return (

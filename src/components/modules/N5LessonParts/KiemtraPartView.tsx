@@ -1,8 +1,8 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import HtmlContent from "@/src/components/shared/HtmlContent";
-import type { IN5KiemtraData, IN5QuizOption, IN5QuizQuestion } from "@/src/lib/n5Types";
+import HtmlContent from "@/components/shared/HtmlContent";
+import type { IN5KiemtraData, IN5QuizOption, IN5QuizQuestion } from "@/lib/n5Types";
 
 type QuizPhase = "active" | "submitted";
 

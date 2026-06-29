@@ -1,5 +1,5 @@
-import HtmlContent from "@/src/components/shared/HtmlContent";
-import type { KanjiItem } from "@/src/lib/kanjiTypes";
+import HtmlContent from "@/components/shared/HtmlContent";
+import type { KanjiItem } from "@/lib/kanjiTypes";
 
 function hasMeaningfulHtml(html: string) {
   const text = html

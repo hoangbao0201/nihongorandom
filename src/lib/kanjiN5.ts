@@ -1,11 +1,11 @@
 import {
   loadN5PartContent,
   N5_LESSON_COUNT,
-} from "@/src/lib/n5Lesson";
-import type { KanjiN5Row } from "@/src/lib/kanjiTypes";
-import type { IN5LuyenchuhanData } from "@/src/lib/n5Types";
+} from "@/lib/n5Lesson";
+import type { KanjiN5Row } from "@/lib/kanjiTypes";
+import type { IN5LuyenchuhanData } from "@/lib/n5Types";
 
-export type { KanjiItem, KanjiN5Row } from "@/src/lib/kanjiTypes";
+export type { KanjiItem, KanjiN5Row } from "@/lib/kanjiTypes";
 
 export async function getKanjiN5Rows(): Promise<KanjiN5Row[]> {
   const rows: KanjiN5Row[] = [];

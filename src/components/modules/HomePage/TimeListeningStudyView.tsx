@@ -1,17 +1,17 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import ListeningPrompt from "@/src/components/shared/ListeningPrompt";
-import { useJapaneseSpeech } from "@/src/hooks/useJapaneseSpeech";
+import ListeningPrompt from "@/components/shared/ListeningPrompt";
+import { useJapaneseSpeech } from "@/hooks/useJapaneseSpeech";
 import {
   formatStudyShortcutHints,
   useStudyShortcuts,
-} from "@/src/hooks/useStudyShortcuts";
+} from "@/hooks/useStudyShortcuts";
 import {
   buildListeningTimeQuestion,
   normalizeTimeAnswer,
   type ListeningTimeQuestion,
-} from "@/src/utils/timeQuestion";
+} from "@/utils/timeQuestion";
 
 interface TimeListeningStudyViewProps {
   onCorrect: () => void;

@@ -1,4 +1,4 @@
-import { ICharacter } from "@/src/config/data";
+import { ICharacter } from "@/config/data";
 
 const NUMBER_OPTION_MAX: Record<string, number> = {
     "number-1-10": 10,

@@ -1,11 +1,11 @@
-import AudioPlayButton from "@/src/components/shared/AudioPlayButton";
-import HtmlContent from "@/src/components/shared/HtmlContent";
+import AudioPlayButton from "@/components/shared/AudioPlayButton";
+import HtmlContent from "@/components/shared/HtmlContent";
 import type {
   IN5TuvungData,
   IN5TuvungEntry,
   IN5TuvungItem,
   IN5TuvungPhrase,
-} from "@/src/lib/n5Types";
+} from "@/lib/n5Types";
 
 function EntryRow({ item }: { item: IN5TuvungEntry }) {
   return (

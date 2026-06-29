@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
-import PageBackground from "@/src/components/shared/PageBackground";
+import PageBackground from "@/components/shared/PageBackground";
 
 interface LessonPageShellProps {
   title: string;
