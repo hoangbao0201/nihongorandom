@@ -18,82 +18,17 @@ import {
   type VocabularyQuizDirection,
   type VocabularyQuizOptions,
 } from "@/utils/lessonQuiz";
+import QuizPromptDisplay from "@/components/modules/HomePage/QuizPromptDisplay";
 import {
-  getQuizPromptSizing,
-  quizPromptStyleVars,
-} from "@/utils/quizPromptSizing";
-
-const CONTENT_META: Record<
-  LessonQuizContentType,
-  { asideTitle: string; emptyGlyph: string; contentLabel: string }
-> = {
-  vocabulary: {
-    asideTitle: "Từ vựng",
-    emptyGlyph: "語",
-    contentLabel: "Từ vựng",
-  },
-  kanji: {
-    asideTitle: "Kanji",
-    emptyGlyph: "漢",
-    contentLabel: "Kanji",
-  },
-};
-
-type LessonQuizStudyMode = "read" | "listen";
+  CONTENT_META,
+  OPTION_BUTTON_CLASS,
+  type LessonQuizStudyMode,
+} from "@/components/modules/HomePage/lessonQuizConstants";
 
 interface LessonQuizStudyViewProps {
   contentType: LessonQuizContentType;
   mode?: LessonQuizStudyMode;
   onCorrect: () => void;
-}
-
-const OPTION_BUTTON_CLASS =
-  "flex-1 cursor-pointer rounded-md px-2 py-1.5 text-center text-xs font-semibold tracking-wide text-white/45 outline-none transition-all duration-200 hover:text-white/70";
-
-function QuizPromptDisplay({
-  question,
-}: {
-  question: LessonQuizQuestion;
-}) {
-  const sizing = getQuizPromptSizing(question);
-  const style = quizPromptStyleVars(sizing);
-  const isJapanese = question.promptLang === "ja";
-
-  if (question.contentType === "kanji") {
-    return (
-      <div
-        className={`quiz-prompt group ${question.promptHoverText ? "cursor-default" : ""}`}
-        style={style}
-      >
-        <div className="quiz-prompt__ruby-slot" aria-hidden={!question.promptHoverText}>
-          {question.promptHoverText ? (
-            <p className="quiz-prompt__hover-text font-jp" lang="ja">
-              {question.promptHoverText}
-            </p>
-          ) : null}
-        </div>
-        <p
-          className="quiz-prompt__main animate-fade-up font-jp font-bold text-white drop-shadow-[0_0_40px_rgba(249,67,0,0.25)]"
-          lang="ja"
-        >
-          {question.promptText}
-        </p>
-      </div>
-    );
-  }
-
-  return (
-    <div className="quiz-prompt" style={style}>
-      <p
-        className={`quiz-prompt__main animate-fade-up font-bold text-white drop-shadow-[0_0_40px_rgba(249,67,0,0.25)] ${
-          isJapanese ? "font-jp" : ""
-        }`}
-        lang={isJapanese ? "ja" : "vi"}
-      >
-        {question.promptText}
-      </p>
-    </div>
-  );
 }
 
 export default function LessonQuizStudyView({
