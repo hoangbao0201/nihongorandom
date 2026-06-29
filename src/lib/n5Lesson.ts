@@ -1,6 +1,7 @@
 import { access, readFile } from "fs/promises";
 import { join } from "path";
 import type { IN5PartData, N5PartId } from "@/lib/n5Types";
+import { isN5PartDataShape } from "@/lib/n5Guards";
 
 export const N5_LESSON_COUNT = 25;
 
@@ -26,6 +27,14 @@ export interface IN5LessonPart {
 
 export interface IN5LessonMenu {
   data: IN5LessonPart[];
+}
+
+function isN5LessonMenu(value: unknown): value is IN5LessonMenu {
+  return (
+    typeof value === "object" &&
+    value !== null &&
+    Array.isArray((value as { data?: unknown }).data)
+  );
 }
 
 export interface IN5LessonListItem {
@@ -67,7 +76,9 @@ export async function loadN5LessonMenu(
   }
 
   const raw = await readFile(lessonMenuPath(lessonNumber), "utf8");
-  return JSON.parse(raw) as IN5LessonMenu;
+  const parsed: unknown = JSON.parse(raw);
+  // JSON hỏng/sai shape → coi như không có menu (caller xử lý notFound/empty).
+  return isN5LessonMenu(parsed) ? parsed : null;
 }
 
 export async function getN5LessonList(): Promise<IN5LessonListItem[]> {
@@ -114,7 +125,9 @@ export async function loadN5PartContent(
   }
 
   const raw = await readFile(partContentPath(lessonNumber, partId), "utf8");
-  return JSON.parse(raw) as IN5PartData;
+  const parsed: unknown = JSON.parse(raw);
+  // Shape nông không khớp → trả null để route gọi notFound().
+  return isN5PartDataShape(parsed) ? parsed : null;
 }
 
 export async function getPartFromMenu(
