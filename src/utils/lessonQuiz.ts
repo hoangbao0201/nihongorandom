@@ -19,7 +19,7 @@ export interface VocabularyQuizOptions {
 
 export const DEFAULT_VOCABULARY_QUIZ_OPTIONS: VocabularyQuizOptions = {
   useKanji: false,
-  direction: "vi-to-jp",
+  direction: "jp-to-vi",
 };
 
 export interface LessonQuizChoice {
