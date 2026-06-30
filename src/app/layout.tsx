@@ -3,7 +3,7 @@ import { Geist, Geist_Mono, Noto_Sans_JP } from "next/font/google";
 import "./globals.css";
 
 import ProviderLayout from "../components/layouts/ProviderLayout";
-import { getSiteUrl } from "@/src/lib/site";
+import { getSiteUrl } from "@/lib/site";
 
 const siteUrl = getSiteUrl();
 

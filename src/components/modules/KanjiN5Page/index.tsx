@@ -1,5 +1,5 @@
-import LessonPageShell from "@/src/components/shared/LessonPageShell";
-import type { KanjiN5Row } from "@/src/lib/kanjiN5";
+import LessonPageShell from "@/components/shared/LessonPageShell";
+import type { KanjiN5Row } from "@/lib/kanjiN5";
 
 interface KanjiN5PageProps {
   rows: KanjiN5Row[];

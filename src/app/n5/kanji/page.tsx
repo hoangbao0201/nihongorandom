@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import KanjiN5Page from "@/src/components/modules/KanjiN5Page";
-import { getKanjiN5Rows } from "@/src/lib/kanjiN5";
+import KanjiN5Page from "@/components/modules/KanjiN5Page";
+import { getKanjiN5Rows } from "@/lib/kanjiN5";
 
 export const metadata: Metadata = {
   title: "Kanji N5",

@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import N5LessonDetailPage from "@/src/components/modules/N5LessonDetailPage";
+import N5LessonDetailPage from "@/components/modules/N5LessonDetailPage";
 import {
   loadN5LessonMenu,
   N5_LESSON_COUNT,
-} from "@/src/lib/n5Lesson";
+} from "@/lib/n5Lesson";
 
 interface PageProps {
   params: Promise<{ lesson: string }>;

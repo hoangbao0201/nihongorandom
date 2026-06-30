@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import HomePage from "@/src/components/modules/HomePage";
+import HomePage from "@/components/modules/HomePage";
 
 export const metadata: Metadata = {
   title: "Luyện Hiragana, Katakana & Từ vựng N5",

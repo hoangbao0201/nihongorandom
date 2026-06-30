@@ -1,25 +1,24 @@
-import type {
-  IN5DochieuData,
-  IN5HantuData,
-  IN5KiemtraData,
-  IN5LuyenchuhanData,
-  IN5PartData,
-  IN5TabSectionsData,
-  IN5ThamkhaoData,
-  IN5TuvungData,
-  N5PartId,
-} from "@/src/lib/n5Types";
-import BaitapPartView from "@/src/components/modules/N5LessonParts/BaitapPartView";
-import DochieuPartView from "@/src/components/modules/N5LessonParts/DochieuPartView";
-import HantuPartView from "@/src/components/modules/N5LessonParts/HantuPartView";
-import HoithoaiPartView from "@/src/components/modules/N5LessonParts/HoithoaiPartView";
-import KiemtraPartView from "@/src/components/modules/N5LessonParts/KiemtraPartView";
-import LuyenchuhanPartView from "@/src/components/modules/N5LessonParts/LuyenchuhanPartView";
-import LuyendocPartView from "@/src/components/modules/N5LessonParts/LuyendocPartView";
-import LuyennghePartView from "@/src/components/modules/N5LessonParts/LuyennghePartView";
-import NguphapPartView from "@/src/components/modules/N5LessonParts/NguphapPartView";
-import ThamkhaoPartView from "@/src/components/modules/N5LessonParts/ThamkhaoPartView";
-import TuvungPartView from "@/src/components/modules/N5LessonParts/TuvungPartView";
+import type { IN5PartData, N5PartId } from "@/lib/n5Types";
+import {
+  isDochieuData,
+  isHantuData,
+  isKiemtraData,
+  isLuyenchuhanData,
+  isTabSectionsData,
+  isThamkhaoData,
+  isTuvungData,
+} from "@/lib/n5Guards";
+import BaitapPartView from "@/components/modules/N5LessonParts/BaitapPartView";
+import DochieuPartView from "@/components/modules/N5LessonParts/DochieuPartView";
+import HantuPartView from "@/components/modules/N5LessonParts/HantuPartView";
+import HoithoaiPartView from "@/components/modules/N5LessonParts/HoithoaiPartView";
+import KiemtraPartView from "@/components/modules/N5LessonParts/KiemtraPartView";
+import LuyenchuhanPartView from "@/components/modules/N5LessonParts/LuyenchuhanPartView";
+import LuyendocPartView from "@/components/modules/N5LessonParts/LuyendocPartView";
+import LuyennghePartView from "@/components/modules/N5LessonParts/LuyennghePartView";
+import NguphapPartView from "@/components/modules/N5LessonParts/NguphapPartView";
+import ThamkhaoPartView from "@/components/modules/N5LessonParts/ThamkhaoPartView";
+import TuvungPartView from "@/components/modules/N5LessonParts/TuvungPartView";
 
 interface N5PartRendererProps {
   partId: N5PartId;
@@ -29,27 +28,27 @@ interface N5PartRendererProps {
 export default function N5PartRenderer({ partId, data }: N5PartRendererProps) {
   switch (partId) {
     case "tuvung":
-      return <TuvungPartView data={data as IN5TuvungData} />;
+      return isTuvungData(data) ? <TuvungPartView data={data} /> : null;
     case "hantu":
-      return <HantuPartView data={data as IN5HantuData} />;
+      return isHantuData(data) ? <HantuPartView data={data} /> : null;
     case "thamkhao":
-      return <ThamkhaoPartView data={data as IN5ThamkhaoData} />;
+      return isThamkhaoData(data) ? <ThamkhaoPartView data={data} /> : null;
     case "kiemtra":
-      return <KiemtraPartView data={data as IN5KiemtraData} />;
+      return isKiemtraData(data) ? <KiemtraPartView data={data} /> : null;
     case "dochieu":
-      return <DochieuPartView data={data as IN5DochieuData} />;
+      return isDochieuData(data) ? <DochieuPartView data={data} /> : null;
     case "luyenchuhan":
-      return <LuyenchuhanPartView data={data as IN5LuyenchuhanData} />;
+      return isLuyenchuhanData(data) ? <LuyenchuhanPartView data={data} /> : null;
     case "nguphap":
-      return <NguphapPartView data={data as IN5TabSectionsData} />;
+      return isTabSectionsData(data) ? <NguphapPartView data={data} /> : null;
     case "luyendoc":
-      return <LuyendocPartView data={data as IN5TabSectionsData} />;
+      return isTabSectionsData(data) ? <LuyendocPartView data={data} /> : null;
     case "hoithoai":
-      return <HoithoaiPartView data={data as IN5TabSectionsData} />;
+      return isTabSectionsData(data) ? <HoithoaiPartView data={data} /> : null;
     case "luyennghe":
-      return <LuyennghePartView data={data as IN5TabSectionsData} />;
+      return isTabSectionsData(data) ? <LuyennghePartView data={data} /> : null;
     case "baitap":
-      return <BaitapPartView data={data as IN5TabSectionsData} />;
+      return isTabSectionsData(data) ? <BaitapPartView data={data} /> : null;
     default:
       return null;
   }

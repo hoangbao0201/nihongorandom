@@ -1,21 +1,19 @@
 import {
   loadN5PartContent,
   N5_LESSON_COUNT,
-} from "@/src/lib/n5Lesson";
-import type { KanjiN5Row } from "@/src/lib/kanjiTypes";
-import type { IN5LuyenchuhanData } from "@/src/lib/n5Types";
+} from "@/lib/n5Lesson";
+import type { KanjiN5Row } from "@/lib/kanjiTypes";
+import { isLuyenchuhanData } from "@/lib/n5Guards";
 
-export type { KanjiItem, KanjiN5Row } from "@/src/lib/kanjiTypes";
+export type { KanjiItem, KanjiN5Row } from "@/lib/kanjiTypes";
 
 export async function getKanjiN5Rows(): Promise<KanjiN5Row[]> {
   const rows: KanjiN5Row[] = [];
   const seen = new Set<string>();
 
   for (let lessonNumber = 1; lessonNumber <= N5_LESSON_COUNT; lessonNumber++) {
-    const data = (await loadN5PartContent(
-      lessonNumber,
-      "luyenchuhan"
-    )) as IN5LuyenchuhanData | null;
+    const raw = await loadN5PartContent(lessonNumber, "luyenchuhan");
+    const data = isLuyenchuhanData(raw) ? raw : null;
     if (!data?.kanjis?.length) {
       continue;
     }

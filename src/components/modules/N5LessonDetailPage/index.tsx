@@ -1,9 +1,9 @@
 import Link from "next/link";
-import LessonPageShell from "@/src/components/shared/LessonPageShell";
+import LessonPageShell from "@/components/shared/LessonPageShell";
 import {
   getN5PartLabel,
   type IN5LessonPart,
-} from "@/src/lib/n5Lesson";
+} from "@/lib/n5Lesson";
 
 interface N5LessonDetailPageProps {
   lessonNumber: number;

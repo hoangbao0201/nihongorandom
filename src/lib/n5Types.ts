@@ -1,4 +1,4 @@
-import type { KanjiItem } from "@/src/lib/kanjiTypes";
+import type { KanjiItem } from "@/lib/kanjiTypes";
 
 export type N5PartId =
   | "tuvung"

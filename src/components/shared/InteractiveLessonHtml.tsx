@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import HtmlContent from "@/src/components/shared/HtmlContent";
+import HtmlContent from "@/components/shared/HtmlContent";
 
 interface InteractiveLessonHtmlProps {
   html: string;

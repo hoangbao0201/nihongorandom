@@ -1,5 +1,5 @@
-import KanjiList from "@/src/components/shared/KanjiList";
-import type { IN5LuyenchuhanData } from "@/src/lib/n5Types";
+import KanjiList from "@/components/shared/KanjiList";
+import type { IN5LuyenchuhanData } from "@/lib/n5Types";
 
 export default function LuyenchuhanPartView({
   data,

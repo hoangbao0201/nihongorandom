@@ -1,12 +1,12 @@
 import type {
   IN5HantuData,
   IN5TuvungData,
-} from "@/src/lib/n5Types";
+} from "@/lib/n5Types";
 import {
   buildJapaneseDisplay,
   getTuvungSectionKind,
   htmlToPlainText,
-} from "@/src/utils/rubyHtml";
+} from "@/utils/rubyHtml";
 
 export type LessonQuizContentType = "vocabulary" | "kanji";
 
@@ -78,7 +78,7 @@ async function loadPool(
   try {
     if (contentType === "vocabulary") {
       const module = await import(
-        `@/src/data/n5/${lessonNumber}/tuvung-b${lessonNumber}.json`
+        `@/data/n5/${lessonNumber}/tuvung-b${lessonNumber}.json`
       );
       const data = unwrapModule<IN5TuvungData>(module);
       const pool: LessonQuizPoolItem[] = [];
@@ -153,7 +153,7 @@ async function loadPool(
     }
 
     const module = await import(
-      `@/src/data/n5/${lessonNumber}/hantu-b${lessonNumber}.json`
+      `@/data/n5/${lessonNumber}/hantu-b${lessonNumber}.json`
     );
     const data = unwrapModule<IN5HantuData>(module);
 

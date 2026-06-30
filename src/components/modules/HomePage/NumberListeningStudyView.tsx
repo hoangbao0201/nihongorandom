@@ -1,19 +1,19 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import ListeningPrompt from "@/src/components/shared/ListeningPrompt";
-import { useJapaneseSpeech } from "@/src/hooks/useJapaneseSpeech";
+import ListeningPrompt from "@/components/shared/ListeningPrompt";
+import { useJapaneseSpeech } from "@/hooks/useJapaneseSpeech";
 import {
   formatStudyShortcutHints,
   useStudyShortcuts,
-} from "@/src/hooks/useStudyShortcuts";
+} from "@/hooks/useStudyShortcuts";
 import {
   buildListeningNumberQuestion,
   LISTENING_DIGIT_PLACES,
   normalizeNumberAnswer,
   type ListeningDigitPlaceId,
   type ListeningNumberQuestion,
-} from "@/src/utils/numberQuestion";
+} from "@/utils/numberQuestion";
 
 interface NumberListeningStudyViewProps {
   onCorrect: () => void;
