@@ -59,9 +59,19 @@ export default function FlashcardDeck({
     celebratedRef.current = false;
   }, [deck]);
 
+  const idsKey = useMemo(
+    () => deck.map((item) => item.id).join("|"),
+    [deck]
+  );
+  const prevIdsKeyRef = useRef<string | null>(null);
+
   useEffect(() => {
+    if (prevIdsKeyRef.current === idsKey) {
+      return;
+    }
+    prevIdsKeyRef.current = idsKey;
     rebuild();
-  }, [rebuild]);
+  }, [idsKey, rebuild]);
 
   const current = order.length > 0 ? deck[order[pos]] : undefined;
 
