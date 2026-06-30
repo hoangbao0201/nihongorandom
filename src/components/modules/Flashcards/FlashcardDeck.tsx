@@ -72,18 +72,6 @@ export default function FlashcardDeck({
     speak(current.speakText);
   }, [current, isReady, speak]);
 
-  useEffect(() => {
-    if (!current) {
-      return;
-    }
-    const shownLang = flipped ? current.backLang : current.frontLang;
-    if (shownLang !== "ja" || !current.speakText || !isReady) {
-      return;
-    }
-    const timer = window.setTimeout(speakCurrent, 200);
-    return () => window.clearTimeout(timer);
-  }, [current, flipped, isReady, speakCurrent]);
-
   const handleFlip = useCallback(() => {
     setFlipped((value) => !value);
   }, []);
