@@ -29,19 +29,14 @@ function Face({
   text,
   lang,
   reading,
-  caption,
 }: {
   text: string;
   lang: "ja" | "vi";
   reading?: string;
-  caption: string;
 }) {
   const isJapanese = lang === "ja";
   return (
     <>
-      <span className="absolute left-3 top-3 text-[10px] font-semibold uppercase tracking-wide text-white/30">
-        {caption}
-      </span>
       <p
         lang={isJapanese ? "ja" : "vi"}
         className={`px-6 text-center text-4xl font-bold text-white sm:text-5xl ${
@@ -96,7 +91,6 @@ export default function Flashcard({
             text={item.front}
             lang={item.frontLang}
             reading={item.frontLang === "ja" ? item.reading : undefined}
-            caption="Mặt trước"
           />
         </span>
         <span className="flashcard-face flashcard-face-back glass-panel rounded-2xl border border-white/8 bg-white/[0.05]">
@@ -104,7 +98,6 @@ export default function Flashcard({
             text={item.back}
             lang={item.backLang}
             reading={item.backLang === "ja" ? item.reading : undefined}
-            caption="Mặt sau"
           />
         </span>
       </button>
