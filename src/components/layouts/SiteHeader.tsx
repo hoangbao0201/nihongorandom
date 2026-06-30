@@ -16,6 +16,11 @@ const NAV_ITEMS = [
     label: "Kanji N5",
     match: (path: string) => path.startsWith("/n5/kanji"),
   },
+  {
+    href: "/flashcards",
+    label: "Flashcards",
+    match: (path: string) => path.startsWith("/flashcards"),
+  },
 ] as const;
 
 export default function SiteHeader() {
