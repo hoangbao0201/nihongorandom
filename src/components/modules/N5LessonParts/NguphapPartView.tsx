@@ -2,13 +2,13 @@
 
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
 import { useState } from "react";
-import InteractiveLessonHtml from "@/src/components/shared/InteractiveLessonHtml";
-import type { IN5TabSectionsData } from "@/src/lib/n5Types";
+import InteractiveLessonHtml from "@/components/shared/InteractiveLessonHtml";
+import type { IN5TabSectionsData } from "@/lib/n5Types";
 import {
   parseSlidesAtLevel,
   splitContentParts,
   type IN5ParsedSlide,
-} from "@/src/lib/parseNguphapSlides";
+} from "@/lib/parseNguphapSlides";
 
 const MAIN_TAB_CLASS =
   "w-full cursor-pointer rounded-md px-4 py-3 text-center text-sm font-bold tracking-wide text-white/45 outline-none transition-all duration-200 hover:text-white/70 data-selected:bg-[var(--accent)]/50 data-selected:text-white data-selected:shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]";

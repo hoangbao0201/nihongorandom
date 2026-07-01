@@ -1,6 +1,6 @@
-import DropdownTranslation from "@/src/components/shared/DropdownTranslation";
-import HtmlContent from "@/src/components/shared/HtmlContent";
-import type { IN5ThamkhaoData, IN5ThamkhaoRow } from "@/src/lib/n5Types";
+import DropdownTranslation from "@/components/shared/DropdownTranslation";
+import HtmlContent from "@/components/shared/HtmlContent";
+import type { IN5ThamkhaoData, IN5ThamkhaoRow } from "@/lib/n5Types";
 
 function getRowCells(row: IN5ThamkhaoRow, columnCount: number) {
   if (row.cells?.length) {

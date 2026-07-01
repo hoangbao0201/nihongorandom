@@ -1,7 +1,7 @@
-import HtmlContent from "@/src/components/shared/HtmlContent";
-import InteractiveLessonHtml from "@/src/components/shared/InteractiveLessonHtml";
-import type { IN5TabSection } from "@/src/lib/n5Types";
-import N5BlockRenderer from "@/src/components/modules/N5LessonParts/N5BlockRenderer";
+import HtmlContent from "@/components/shared/HtmlContent";
+import InteractiveLessonHtml from "@/components/shared/InteractiveLessonHtml";
+import type { IN5TabSection } from "@/lib/n5Types";
+import N5BlockRenderer from "@/components/modules/N5LessonParts/N5BlockRenderer";
 
 interface TabSectionsPartViewProps {
   sections: IN5TabSection[];

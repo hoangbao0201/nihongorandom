@@ -1,5 +1,5 @@
-import HtmlContent from "@/src/components/shared/HtmlContent";
-import type { IN5HantuData } from "@/src/lib/n5Types";
+import HtmlContent from "@/components/shared/HtmlContent";
+import type { IN5HantuData } from "@/lib/n5Types";
 
 export default function HantuPartView({ data }: { data: IN5HantuData }) {
   return (

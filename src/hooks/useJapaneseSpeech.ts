@@ -6,7 +6,7 @@ import {
   getJapaneseSpeechState,
   speakJapanese,
   subscribeJapaneseSpeech,
-} from "@/src/lib/japaneseSpeechEngine";
+} from "@/lib/japaneseSpeechEngine";
 
 export function useJapaneseSpeech() {
   const [{ isReady, isSpeaking }, setSnapshot] = useState(getJapaneseSpeechState);

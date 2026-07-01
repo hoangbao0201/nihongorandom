@@ -1,5 +1,5 @@
 import type { CSSProperties } from "react";
-import type { LessonQuizQuestion } from "@/src/utils/lessonQuiz";
+import type { LessonQuizQuestion } from "@/utils/lessonQuiz";
 
 export interface QuizPromptSizing {
   fontSize: string;

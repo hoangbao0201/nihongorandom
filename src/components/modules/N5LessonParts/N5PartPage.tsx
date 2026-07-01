@@ -1,6 +1,6 @@
-import LessonPageShell from "@/src/components/shared/LessonPageShell";
-import N5PartRenderer from "@/src/components/modules/N5LessonParts/N5PartRenderer";
-import type { IN5PartData, N5PartId } from "@/src/lib/n5Types";
+import LessonPageShell from "@/components/shared/LessonPageShell";
+import N5PartRenderer from "@/components/modules/N5LessonParts/N5PartRenderer";
+import type { IN5PartData, N5PartId } from "@/lib/n5Types";
 
 interface N5PartPageProps {
   lessonNumber: number;

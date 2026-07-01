@@ -1,6 +1,6 @@
 import Link from "next/link";
-import LessonPageShell from "@/src/components/shared/LessonPageShell";
-import type { IN5LessonListItem } from "@/src/lib/n5Lesson";
+import LessonPageShell from "@/components/shared/LessonPageShell";
+import type { IN5LessonListItem } from "@/lib/n5Lesson";
 
 interface N5LessonListPageProps {
   lessons: IN5LessonListItem[];

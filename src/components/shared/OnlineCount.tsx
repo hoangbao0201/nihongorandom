@@ -1,7 +1,7 @@
 "use client";
 
-import { useOnlineCount } from "@/src/hooks/useOnlinePresence";
-import { isFirebaseConfigured } from "@/src/lib/firebase/client";
+import { useOnlineCount } from "@/hooks/useOnlinePresence";
+import { isFirebaseConfigured } from "@/lib/firebase/client";
 
 export default function OnlineCount() {
   const onlineCount = useOnlineCount();

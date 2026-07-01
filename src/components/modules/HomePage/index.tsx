@@ -2,12 +2,12 @@
 
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
 import { useEffect, useState } from "react";
-import KanaStudyView from "@/src/components/modules/HomePage/KanaStudyView";
-import LessonQuizStudyView from "@/src/components/modules/HomePage/LessonQuizStudyView";
-import NumberListeningStudyView from "@/src/components/modules/HomePage/NumberListeningStudyView";
-import TimeListeningStudyView from "@/src/components/modules/HomePage/TimeListeningStudyView";
-import PageBackground from "@/src/components/shared/PageBackground";
-import { useConfetti } from "@/src/hooks/useConfetti";
+import KanaStudyView from "@/components/modules/HomePage/KanaStudyView";
+import LessonQuizStudyView from "@/components/modules/HomePage/LessonQuizStudyView";
+import NumberListeningStudyView from "@/components/modules/HomePage/NumberListeningStudyView";
+import TimeListeningStudyView from "@/components/modules/HomePage/TimeListeningStudyView";
+import PageBackground from "@/components/shared/PageBackground";
+import { useConfetti } from "@/hooks/useConfetti";
 
 enum HomeModeEnum {
   read = "read",

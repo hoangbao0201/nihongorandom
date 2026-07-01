@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
-import { loadN5LessonMenu, N5_LESSON_COUNT } from "@/src/lib/n5Lesson";
-import { getSiteUrl } from "@/src/lib/site";
+import { loadN5LessonMenu, N5_LESSON_COUNT } from "@/lib/n5Lesson";
+import { getSiteUrl } from "@/lib/site";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = getSiteUrl();

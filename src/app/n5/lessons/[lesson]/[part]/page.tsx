@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import N5PartPage from "@/src/components/modules/N5LessonParts/N5PartPage";
+import N5PartPage from "@/components/modules/N5LessonParts/N5PartPage";
 import {
   getN5PartLabel,
   getPartFromMenu,
@@ -8,8 +8,8 @@ import {
   loadN5LessonMenu,
   loadN5PartContent,
   N5_LESSON_COUNT,
-} from "@/src/lib/n5Lesson";
-import type { N5PartId } from "@/src/lib/n5Types";
+} from "@/lib/n5Lesson";
+import type { N5PartId } from "@/lib/n5Types";
 
 interface PageProps {
   params: Promise<{ lesson: string; part: string }>;
