@@ -153,10 +153,6 @@ export default function HomePage() {
             </TabPanel>
           </TabPanels>
         </TabGroup>
-
-        <div className="py-2 text-center text-xs text-white/20">
-          @hoangbao0201
-        </div>
       </main>
     </div>
   );
