@@ -169,7 +169,7 @@ input:disabled + label[for] {
   cursor: pointer;
 }
 
-/* ── Furigana (hiragana trên kanji) — chỉnh tại đây ── */
+/* ── Furigana (hiragana trên kanji) - chỉnh tại đây ── */
 .jp-ruby {
   --jp-ruby-size: 0.75em;
   --jp-ruby-gap: 0.22em;
@@ -200,7 +200,7 @@ input:disabled + label[for] {
   font-size: 1em;
 }
 
-/* Quiz prompt — kích thước động theo độ dài nội dung */
+/* Quiz prompt - kích thước động theo độ dài nội dung */
 .quiz-prompt {
   display: flex;
   flex-direction: column;
@@ -271,7 +271,7 @@ input:disabled + label[for] {
   visibility: visible;
 }
 
-/* Raw HTML tudich — bấm để mở dropdown dịch */
+/* Raw HTML tudich - bấm để mở dropdown dịch */
 .lesson-html .tudich {
   display: block;
   max-width: 100%;
@@ -423,7 +423,7 @@ input:disabled + label[for] {
   background: rgba(249, 67, 0, 0.14);
 }
 
-/* Bảng từ vựng — bấm để xem nghĩa */
+/* Bảng từ vựng - bấm để xem nghĩa */
 .n5-vocab-row--clickable {
   transition: background-color 0.15s ease;
 }
@@ -487,7 +487,7 @@ input:disabled + label[for] {
   background: rgba(249, 67, 0, 0.14);
 }
 
-/* Ngữ pháp — bảng cấu trúc / ví dụ */
+/* Ngữ pháp - bảng cấu trúc / ví dụ */
 .nguphap-content table.khung,
 .nguphap-content table.khung2 {
   width: 100%;

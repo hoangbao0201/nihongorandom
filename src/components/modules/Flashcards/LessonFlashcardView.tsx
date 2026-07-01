@@ -150,7 +150,7 @@ export default function LessonFlashcardView({
             <button
               type="button"
               onClick={() => setDirection("jp-to-vi")}
-              className={`flex-1 cursor-pointer rounded-md px-2 py-1.5 text-center text-xs font-semibold tracking-wide outline-none transition-all duration-200 ${
+              className={`flex-1 cursor-pointer rounded-md px-3 py-2 text-center text-xs font-semibold tracking-wide outline-none transition-all duration-200 ${
                 direction === "jp-to-vi"
                   ? "bg-[var(--accent)]/50 text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]"
                   : "text-white/45 hover:text-white/70"
@@ -161,7 +161,7 @@ export default function LessonFlashcardView({
             <button
               type="button"
               onClick={() => setDirection("vi-to-jp")}
-              className={`flex-1 cursor-pointer rounded-md px-2 py-1.5 text-center text-xs font-semibold tracking-wide outline-none transition-all duration-200 ${
+              className={`flex-1 cursor-pointer rounded-md px-3 py-2 text-center text-xs font-semibold tracking-wide outline-none transition-all duration-200 ${
                 direction === "vi-to-jp"
                   ? "bg-[var(--accent)]/50 text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]"
                   : "text-white/45 hover:text-white/70"

@@ -40,7 +40,7 @@ const LISTENING_TABS = [
 ] as const;
 
 const MODE_TAB_CLASS =
-  "w-full cursor-pointer rounded-md px-4 py-2.5 text-center text-sm font-bold tracking-wide text-white/45 outline-none transition-all duration-200 hover:text-white/70 data-selected:bg-[var(--accent)]/50 data-selected:text-white data-selected:shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]";
+  "w-full cursor-pointer rounded-md px-3 py-2 text-center text-xs font-bold tracking-wide text-white/45 outline-none transition-all duration-200 hover:text-white/70 data-selected:bg-[var(--accent)]/50 data-selected:text-white data-selected:shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]";
 
 const TAB_CLASS =
   "w-full cursor-pointer rounded-md px-3 py-2 text-center text-xs font-semibold tracking-wide text-white/45 outline-none transition-all duration-200 hover:text-white/70 data-selected:bg-white/12 data-selected:text-white data-selected:shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]";
@@ -83,7 +83,7 @@ export default function HomePage() {
         </div>
 
         <TabGroup>
-          <TabList className="glass-panel mb-3 grid grid-cols-2 gap-1 rounded-lg border border-white/6 bg-black/35 p-1">
+          <TabList className="glass-panel mb-2 grid grid-cols-2 gap-1 rounded-lg border border-white/6 bg-black/35 p-1">
             {HOME_MODES.map((mode) => (
               <Tab key={mode.id} className={MODE_TAB_CLASS}>
                 {mode.label}

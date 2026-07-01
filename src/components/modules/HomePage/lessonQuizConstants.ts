@@ -19,4 +19,4 @@ export const CONTENT_META: Record<
 export type LessonQuizStudyMode = "read" | "listen";
 
 export const OPTION_BUTTON_CLASS =
-  "flex-1 cursor-pointer rounded-md px-2 py-1.5 text-center text-xs font-semibold tracking-wide text-white/45 outline-none transition-all duration-200 hover:text-white/70";
+  "flex-1 cursor-pointer rounded-md px-3 py-2 text-center text-xs font-semibold tracking-wide text-white/45 outline-none transition-all duration-200 hover:text-white/70";

@@ -18,7 +18,7 @@ export default function N5PartPage({
   return (
     <LessonPageShell
       title={partLabel}
-      subtitle={`Bài ${lessonNumber} — Minna no Nihongo N5`}
+      subtitle={`Bài ${lessonNumber} - Minna no Nihongo N5`}
       backHref={`/n5/lessons/${lessonNumber}`}
       backLabel={`Về bài ${lessonNumber}`}
     >

@@ -27,7 +27,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `Bài ${lessonNumber} — N5`,
+    title: `Bài ${lessonNumber} - N5`,
     description: `Các phần học bài ${lessonNumber} Minna no Nihongo N5.`,
     alternates: {
       canonical: `/n5/lessons/${lessonNumber}`,

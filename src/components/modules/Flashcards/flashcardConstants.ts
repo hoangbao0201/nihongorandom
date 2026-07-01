@@ -2,16 +2,12 @@ export enum FlashcardTabId {
   vocabulary = "vocabulary",
   kanji = "kanji",
   kana = "kana",
-  number = "number",
-  time = "time",
 }
 
 export const FLASHCARD_TABS = [
   { id: FlashcardTabId.vocabulary, label: "Từ vựng" },
   { id: FlashcardTabId.kanji, label: "Kanji" },
   { id: FlashcardTabId.kana, label: "Bảng chữ cái" },
-  { id: FlashcardTabId.number, label: "Số" },
-  { id: FlashcardTabId.time, label: "Thời gian" },
 ] as const;
 
 export const FLASHCARD_TAB_CLASS =

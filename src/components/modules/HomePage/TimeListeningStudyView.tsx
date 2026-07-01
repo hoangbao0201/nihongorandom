@@ -138,7 +138,7 @@ export default function TimeListeningStudyView({
             Điền theo dạng{" "}
             <span className="text-white/50">giờ</span>
             <span className="text-[var(--accent-soft)]">h</span>
-            <span className="text-white/50">phút</span> — ví dụ{" "}
+            <span className="text-white/50">phút</span> - ví dụ{" "}
             <span className="text-white/50">5h30</span>,{" "}
             <span className="text-white/50">12h8</span>
           </p>

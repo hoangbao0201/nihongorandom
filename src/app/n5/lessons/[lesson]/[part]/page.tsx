@@ -45,7 +45,7 @@ export async function generateMetadata({
   const title = menuPart ? getN5PartLabel(menuPart) : part;
 
   return {
-    title: `Bài ${lesson} — ${title}`,
+    title: `Bài ${lesson} - ${title}`,
     alternates: {
       canonical: `/n5/lessons/${lesson}/${part}`,
     },
