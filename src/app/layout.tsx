@@ -3,6 +3,7 @@ import { Geist, Geist_Mono, Noto_Sans_JP } from "next/font/google";
 import "./globals.css";
 
 import ProviderLayout from "../components/layouts/ProviderLayout";
+import SiteFooter from "../components/layouts/SiteFooter";
 import { getSiteUrl } from "@/lib/site";
 
 const siteUrl = getSiteUrl();
@@ -46,8 +47,9 @@ export default function RootLayout({
       lang="vi"
       className={`${geistSans.variable} ${geistMono.variable} ${notoSansJP.variable} h-full antialiased`}
     >
-      <body className="min-h-full">
+      <body className="flex min-h-full flex-col">
         <ProviderLayout>{children}</ProviderLayout>
+        <SiteFooter />
       </body>
     </html>
   );
