@@ -12,11 +12,6 @@ const NAV_ITEMS = [
     match: (path: string) => path.startsWith("/n5/lessons"),
   },
   {
-    href: "/n5/kanji",
-    label: "Kanji N5",
-    match: (path: string) => path.startsWith("/n5/kanji"),
-  },
-  {
     href: "/flashcards",
     label: "Flashcards",
     match: (path: string) => path.startsWith("/flashcards"),
@@ -32,7 +27,7 @@ export default function SiteHeader() {
         <Link
           href="/"
           className="shrink-0 transition-opacity hover:opacity-90"
-          aria-label="Nihongo Random — về trang chủ"
+          aria-label="Nihongo Random - về trang chủ"
         >
           <Image
           unoptimized

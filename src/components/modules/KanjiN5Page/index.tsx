@@ -9,7 +9,7 @@ export default function KanjiN5Page({ rows }: KanjiN5PageProps) {
   return (
     <LessonPageShell
       title="Kanji N5"
-      subtitle={`${rows.length} chữ — Minna no Nihongo N5`}
+      subtitle={`${rows.length} chữ - Minna no Nihongo N5`}
       backHref="/"
       backLabel="Về trang chủ"
     >

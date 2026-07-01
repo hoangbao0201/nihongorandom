@@ -17,7 +17,7 @@ export default function N5LessonDetailPage({
   return (
     <LessonPageShell
       title={`Bài ${lessonNumber}`}
-      subtitle={`${parts.length} phần — Minna no Nihongo N5`}
+      subtitle={`${parts.length} phần - Minna no Nihongo N5`}
       backHref="/n5/lessons"
       backLabel="Danh sách bài học"
     >

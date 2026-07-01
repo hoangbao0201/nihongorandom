@@ -10,10 +10,19 @@ export default function N5LessonListPage({ lessons }: N5LessonListPageProps) {
   return (
     <LessonPageShell
       title="Minna no Nihongo N5"
-      subtitle="25 bài học — chọn bài để xem các phần"
+      subtitle="25 bài học - chọn bài để xem các phần"
       backHref="/"
       backLabel="Về trang chủ"
     >
+      <div className="mb-4">
+        <Link
+          href="/n5/kanji"
+          className="inline-flex items-center gap-2 rounded-lg border border-white/10 bg-white/5 px-4 py-2 text-sm font-semibold text-white/80 transition-colors hover:border-white/20 hover:bg-white/10 hover:text-white"
+        >
+          Bảng Kanji N5
+        </Link>
+      </div>
+
       <div className="grid gap-3 grid-cols-2 md:grid-cols-3 lg:grid-cols-8">
         {lessons.map((lesson) => {
           const cardClass = `glass-panel group rounded-lg p-4 transition-all duration-200 ${

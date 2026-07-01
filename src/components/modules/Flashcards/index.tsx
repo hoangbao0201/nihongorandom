@@ -9,7 +9,6 @@ import {
 } from "@/components/modules/Flashcards/flashcardConstants";
 import LessonFlashcardView from "@/components/modules/Flashcards/LessonFlashcardView";
 import KanaFlashcardView from "@/components/modules/Flashcards/KanaFlashcardView";
-import GeneratedFlashcardView from "@/components/modules/Flashcards/GeneratedFlashcardView";
 
 export default function Flashcards() {
   return (
@@ -20,12 +19,12 @@ export default function Flashcards() {
         <div className="mb-5 text-center">
           <h1 className="text-lg font-bold text-white">Flashcards N5</h1>
           <p className="mt-1 text-xs text-white/30">
-            Lật thẻ để ôn — đánh dấu thẻ đã thuộc
+            Lật thẻ để ôn - đánh dấu thẻ đã thuộc
           </p>
         </div>
 
         <TabGroup>
-          <TabList className="glass-panel mb-3 grid grid-cols-3 gap-1 rounded-lg border border-white/6 bg-black/35 p-1 sm:grid-cols-5">
+          <TabList className="glass-panel mb-3 grid grid-cols-3 gap-1 rounded-lg border border-white/6 bg-black/35 p-1">
             {FLASHCARD_TABS.map((tab) => (
               <Tab key={tab.id} className={FLASHCARD_TAB_CLASS}>
                 {tab.label}
@@ -40,12 +39,8 @@ export default function Flashcards() {
                   <LessonFlashcardView contentType="vocabulary" />
                 ) : tab.id === FlashcardTabId.kanji ? (
                   <LessonFlashcardView contentType="kanji" />
-                ) : tab.id === FlashcardTabId.kana ? (
-                  <KanaFlashcardView />
-                ) : tab.id === FlashcardTabId.number ? (
-                  <GeneratedFlashcardView mode="number" />
                 ) : (
-                  <GeneratedFlashcardView mode="time" />
+                  <KanaFlashcardView />
                 )}
               </TabPanel>
             ))}
