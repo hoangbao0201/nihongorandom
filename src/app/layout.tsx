@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     template: "%s | Nihongo Random",
   },
   description:
-    "Luyện Hiragana, Katakana, từ vựng và Kanji N5 Minna no Nihongo — quiz phản xạ, bài học JLPT N5.",
+    "Luyện Hiragana, Katakana, từ vựng và Kanji N5 Minna no Nihongo - quiz phản xạ, bài học JLPT N5.",
   verification: {
     google: "76ssyt9K2wjE9jPIux7RKLMczOSAN8_i92W5nJwwj7c",
   },
