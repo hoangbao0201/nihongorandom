@@ -240,17 +240,6 @@ export default function LessonQuizStudyView({
             <div className="grid grid-cols-2 gap-1 rounded-lg border border-white/6 bg-black/35 p-1">
               <button
                 type="button"
-                onClick={() => setVocabDirection("vi-to-jp")}
-                className={`${OPTION_BUTTON_CLASS} ${
-                  vocabDirection === "vi-to-jp"
-                    ? "bg-[var(--accent)]/50 text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]"
-                    : ""
-                }`}
-              >
-                VI → JP
-              </button>
-              <button
-                type="button"
                 onClick={() => setVocabDirection("jp-to-vi")}
                 className={`${OPTION_BUTTON_CLASS} ${
                   vocabDirection === "jp-to-vi"
@@ -259,6 +248,17 @@ export default function LessonQuizStudyView({
                 }`}
               >
                 JP → VI
+              </button>
+              <button
+                type="button"
+                onClick={() => setVocabDirection("vi-to-jp")}
+                className={`${OPTION_BUTTON_CLASS} ${
+                  vocabDirection === "vi-to-jp"
+                    ? "bg-[var(--accent)]/50 text-white shadow-[inset_0_1px_0_rgba(255,255,255,0.08)]"
+                    : ""
+                }`}
+              >
+                VI → JP
               </button>
             </div>
 
