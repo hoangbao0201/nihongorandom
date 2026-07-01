@@ -19,7 +19,7 @@ export interface VocabularyQuizOptions {
 
 export const DEFAULT_VOCABULARY_QUIZ_OPTIONS: VocabularyQuizOptions = {
   useKanji: false,
-  direction: "vi-to-jp",
+  direction: "jp-to-vi",
 };
 
 export interface LessonQuizChoice {
@@ -40,7 +40,7 @@ export interface LessonQuizQuestion {
   choices: LessonQuizChoice[];
 }
 
-interface LessonQuizPoolItem {
+export interface LessonQuizPoolItem {
   contentType: LessonQuizContentType;
   lessonNumber: number;
   itemId: string;
@@ -70,17 +70,17 @@ function shuffle<T>(items: T[]): T[] {
   return copy;
 }
 
-async function loadPool(
+export async function loadPool(
   lessonNumber: number,
   contentType: LessonQuizContentType,
   vocabOptions: VocabularyQuizOptions = DEFAULT_VOCABULARY_QUIZ_OPTIONS
 ): Promise<LessonQuizPoolItem[]> {
   try {
     if (contentType === "vocabulary") {
-      const module = await import(
+      const mod = await import(
         `@/data/n5/${lessonNumber}/tuvung-b${lessonNumber}.json`
       );
-      const data = unwrapModule<IN5TuvungData>(module);
+      const data = unwrapModule<IN5TuvungData>(mod);
       const pool: LessonQuizPoolItem[] = [];
 
       for (const section of data.sections) {
@@ -152,10 +152,10 @@ async function loadPool(
       return pool;
     }
 
-    const module = await import(
+    const mod = await import(
       `@/data/n5/${lessonNumber}/hantu-b${lessonNumber}.json`
     );
-    const data = unwrapModule<IN5HantuData>(module);
+    const data = unwrapModule<IN5HantuData>(mod);
 
     return data.entries.flatMap((item) => {
       const meaningLabel = item.sinoVietnamese?.trim();
@@ -180,7 +180,7 @@ async function loadPool(
   }
 }
 
-function statKey(item: LessonQuizPoolItem) {
+export function statKey(item: LessonQuizPoolItem) {
   return `${item.contentType}::${item.lessonNumber}::${item.itemId}`;
 }
 
