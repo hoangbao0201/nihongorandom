@@ -1,11 +1,14 @@
 "use client";
 
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
+import ClientOnly from "@/components/shared/ClientOnly";
+import FuriganaToggle from "@/components/shared/FuriganaToggle";
 import InteractiveLessonHtml from "@/components/shared/InteractiveLessonHtml";
 import N5AccordionItem from "@/components/modules/N5LessonParts/shared/N5AccordionItem";
 import N5BlockRenderer from "@/components/modules/N5LessonParts/N5BlockRenderer";
 import { splitContentParts } from "@/lib/parseNguphapSlides";
+import { sanitizeDochieuFragment } from "@/utils/formatDochieuHtml";
 import type { IN5DochieuData, IN5DochieuSection } from "@/lib/n5Types";
 
 const MAIN_TAB_CLASS =
@@ -42,30 +45,47 @@ function isVocabSection(section: IN5DochieuSection) {
   return section.id === "tab1" || section.title === "Từ vựng";
 }
 
-function DochieuHtmlBlock({ html }: { html: string }) {
-  const cleanedHtml = rewriteRelativeUrls(stripLegacyToolbar(html));
+function DochieuHtmlBlock({
+  html,
+  showHiragana,
+}: {
+  html: string;
+  showHiragana: boolean;
+}) {
+  const cleanedHtml = sanitizeDochieuFragment(
+    rewriteRelativeUrls(stripLegacyToolbar(html))
+  );
 
   if (!cleanedHtml) {
     return null;
   }
 
   return (
-    <InteractiveLessonHtml html={cleanedHtml} className="dochieu-content" />
+    <InteractiveLessonHtml
+      html={cleanedHtml}
+      className={`dochieu-content dochieu-reading${showHiragana ? "" : " jp-ruby--hide-furigana"}`}
+    />
   );
 }
 
-function DochieuReadingContent({ html }: { html: string }) {
+function DochieuReadingContent({
+  html,
+  showHiragana,
+}: {
+  html: string;
+  showHiragana: boolean;
+}) {
   const parts = splitContentParts(html);
 
   if (parts.length === 0) {
-    return <DochieuHtmlBlock html={html} />;
+    return <DochieuHtmlBlock html={html} showHiragana={showHiragana} />;
   }
 
   return (
     <div className="space-y-3">
       {parts.map((part, index) =>
         part.kind === "html" ? (
-          <DochieuHtmlBlock key={`html-${index}`} html={part.html} />
+          <DochieuHtmlBlock key={`html-${index}`} html={part.html} showHiragana={showHiragana} />
         ) : (
           <N5AccordionItem
             key={`slide-${index}`}
@@ -74,7 +94,7 @@ function DochieuReadingContent({ html }: { html: string }) {
             compact
             dashed={part.slide.isAnswer}
           >
-            <DochieuReadingContent html={part.slide.contentHtml} />
+            <DochieuReadingContent html={part.slide.contentHtml} showHiragana={showHiragana} />
           </N5AccordionItem>
         )
       )}
@@ -82,19 +102,32 @@ function DochieuReadingContent({ html }: { html: string }) {
   );
 }
 
-function DochieuSectionPanel({ section }: { section: IN5DochieuSection }) {
-  if (section.contentHtml.trim()) {
-    return <DochieuReadingContent html={section.contentHtml} />;
+function DochieuSectionPanel({
+  section,
+  showHiragana,
+}: {
+  section: IN5DochieuSection;
+  showHiragana: boolean;
+}) {
+  if (section.blocks?.length) {
+    return (
+      <N5BlockRenderer
+        blocks={section.blocks}
+        showHiragana={showHiragana}
+        className={`dochieu-content dochieu-reading${showHiragana ? "" : " jp-ruby--hide-furigana"}`}
+      />
+    );
   }
 
-  if (section.blocks?.length) {
-    return <N5BlockRenderer blocks={section.blocks} />;
+  if (section.contentHtml.trim()) {
+    return <DochieuReadingContent html={section.contentHtml} showHiragana={showHiragana} />;
   }
 
   return null;
 }
 
 export default function DochieuPartView({ data }: { data: IN5DochieuData }) {
+  const [showHiragana, setShowHiragana] = useState(true);
   const sections = useMemo(
     () => data.sections.filter((section) => !isVocabSection(section)),
     [data.sections]
@@ -105,28 +138,48 @@ export default function DochieuPartView({ data }: { data: IN5DochieuData }) {
   }
 
   if (sections.length === 1) {
-    return <DochieuSectionPanel section={sections[0]} />;
+    return (
+      <>
+        <FuriganaToggle
+          showFurigana={showHiragana}
+          onShowFuriganaChange={setShowHiragana}
+        />
+        <DochieuSectionPanel section={sections[0]} showHiragana={showHiragana} />
+      </>
+    );
   }
 
   return (
-    <TabGroup>
-      <TabList
-        className={`glass-panel mb-4 grid grid-cols-1 gap-1 rounded-lg border border-white/6 bg-black/35 p-1 ${tabListClass(sections.length)}`}
+    <>
+      <FuriganaToggle
+        showFurigana={showHiragana}
+        onShowFuriganaChange={setShowHiragana}
+      />
+      <ClientOnly
+        fallback={
+          <DochieuSectionPanel section={sections[0]} showHiragana={showHiragana} />
+        }
       >
-        {sections.map((section) => (
-          <Tab key={section.id} className={MAIN_TAB_CLASS}>
-            {section.title || section.id}
-          </Tab>
-        ))}
-      </TabList>
+        <TabGroup>
+          <TabList
+            className={`glass-panel mb-4 grid grid-cols-1 gap-1 rounded-lg border border-white/6 bg-black/35 p-1 ${tabListClass(sections.length)}`}
+          >
+            {sections.map((section) => (
+              <Tab key={section.id} className={MAIN_TAB_CLASS}>
+                {section.title || section.id}
+              </Tab>
+            ))}
+          </TabList>
 
-      <TabPanels>
-        {sections.map((section) => (
-          <TabPanel key={section.id} className="focus:outline-none">
-            <DochieuSectionPanel section={section} />
-          </TabPanel>
-        ))}
-      </TabPanels>
-    </TabGroup>
+          <TabPanels>
+            {sections.map((section) => (
+              <TabPanel key={section.id} className="focus:outline-none">
+                <DochieuSectionPanel section={section} showHiragana={showHiragana} />
+              </TabPanel>
+            ))}
+          </TabPanels>
+        </TabGroup>
+      </ClientOnly>
+    </>
   );
 }

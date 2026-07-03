@@ -36,7 +36,7 @@
       "id": "tab2",
       "title": "Đọc hiểu",
       "titleHtml": "Đọc hiểu",
-      "contentHtml": "<h3 style=\"text-align: center; \"><b>こうべまでいくらですか</b></h3> <img src=\"/images/minnamoi/bai3/doc3_1.png\" alt=\"minna 25 bai doc hieu Bai 3 - 1\"> <br /><br />JRのおおさか<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>です。 <br /><br />1．すみません。 きょうとまで いくらですか。 <br />…（ ）<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。 <br /><br />2．ならへいきます。いくらですか。 <br />…（ ）<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。 <br /><br />3．あかしまで ３００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですか。 <br />…いいえ、あかしは（ ）<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。 <br /> <img src=\"/images/minnamoi/bai3/doc3_2.png\" alt=\"minna 25 bai doc hieu Bai 3 - 2\"> <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>こうべまでいくらですか</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Đến Kobe bao nhiêu tiền vậy ạ?</div></div></div> <br /><br /><div class=\"tudich\"><div class=\"candich\">JRのおおさか<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Ga Osaka của tàu JR.</div></div></div> <br /><br /><div class=\"tudich\"><div class=\"candich\">1．すみません。 きょうとまで いくらですか。</div><div class=\"kqdich\"><div class=\"nddich\">Xin lỗi, đến Kyoto hết bao nhiêu tiền ạ?</div></div></div> <br /><div class=\"tudich\"><div class=\"candich\">…<b>560</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。</div><div class=\"kqdich\"><div class=\"nddich\">Là 560 Yên ấy.</div></div></div> <br /><br /><div class=\"tudich\"><div class=\"candich\">2．ならへいきます。いくらですか。</div><div class=\"kqdich\"><div class=\"nddich\">Đi Nara hết bao nhiêu ạ?</div></div></div> <br /><div class=\"tudich\"><div class=\"candich\">…<b>800</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Là 800 Yên.</div></div></div> <br /><br /><div class=\"tudich\"><div class=\"candich\">3．あかしまで 300<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですか。</div><div class=\"kqdich\"><div class=\"nddich\">Đến Akashi là 300 Yên phải không ạ?</div></div></div> <br /><div class=\"tudich\"><div class=\"candich\">…いいえ、あかしは<b>920</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。</div><div class=\"kqdich\"><div class=\"nddich\">Không phải, đến Akashi thì là 920 Yên ấy.</div></div></div> <br /> <img src=\"/images/minnamoi/bai3/doc3_2.png\" alt=\"minna 25 bai doc hieu Bai 3 - 2\"> </div> </div> </div>",
+      "contentHtml": "",
       "blocks": [
         {
           "kind": "heading",
@@ -50,8 +50,16 @@
           "contentHtml": "<img src=\"/images/minnamoi/bai3/doc3_1.png\" alt=\"minna 25 bai doc hieu Bai 3 - 1\">"
         },
         {
-          "kind": "html",
-          "contentHtml": "<br /><br />JRのおおさか<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>です。 <br /><br />1．すみません。 きょうとまで いくらですか。 <br />…（ ）<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。 <br /><br />2．ならへいきます。いくらですか。 <br />…（ ）<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。 <br /><br />3．あかしまで ３００<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですか。 <br />…いいえ、あかしは（ ）<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。 <br />"
+          "kind": "sentence",
+          "text": "きょうとまで いくらですか。",
+          "textHtml": "きょうとまで いくらですか。",
+          "meaning": "Chi phí đi đến Kyoto là bao nhiêu?"
+        },
+        {
+          "kind": "sentence",
+          "text": "いくらですか。",
+          "textHtml": "いくらですか。",
+          "meaning": "Giá bao nhiêu?"
         },
         {
           "kind": "image",
@@ -63,102 +71,61 @@
           "variant": "collapsible",
           "title": "Đáp Án & Dịch",
           "titleHtml": "Đáp Án & Dịch",
-          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>こうべまでいくらですか</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Đến Kobe bao nhiêu tiền vậy ạ?",
           "blocks": [
             {
-              "kind": "tudich",
-              "japanese": "こうべまでいくらですか",
-              "japaneseHtml": "<h3 style=\"text-align: center; \"><b>こうべまでいくらですか</b></h3>",
-              "vietnamese": "",
-              "vietnameseHtml": ""
+              "kind": "sentence",
+              "text": "こうべまでいくらですか",
+              "textHtml": "<h3 style=\"text-align: center; \"><b>こうべまでいくらですか</b></h3>",
+              "meaning": "Đến Kobe bao nhiêu tiền vậy ạ?"
             },
             {
-              "kind": "html",
-              "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đến Kobe bao nhiêu tiền vậy ạ?"
+              "kind": "sentence",
+              "text": "JRのおおさか駅です。",
+              "textHtml": "JRのおおさか<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>です。",
+              "meaning": "Ga Osaka của tàu JR."
+            },
+            {
+              "kind": "sentence",
+              "text": "1．すみません。 きょうとまで いくらですか。",
+              "textHtml": "1．すみません。 きょうとまで いくらですか。",
+              "meaning": "Xin lỗi, đến Kyoto hết bao nhiêu tiền ạ?"
+            },
+            {
+              "kind": "sentence",
+              "text": "…560円ですよ。",
+              "textHtml": "…<b>560</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。",
+              "meaning": "Là 560 Yên ấy."
+            },
+            {
+              "kind": "sentence",
+              "text": "2．ならへいきます。いくらですか。",
+              "textHtml": "2．ならへいきます。いくらですか。",
+              "meaning": "Đi Nara hết bao nhiêu ạ?"
+            },
+            {
+              "kind": "sentence",
+              "text": "…800円です。",
+              "textHtml": "…<b>800</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。",
+              "meaning": "Là 800 Yên."
+            },
+            {
+              "kind": "sentence",
+              "text": "3．あかしまで 300円ですか。",
+              "textHtml": "3．あかしまで 300<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですか。",
+              "meaning": "Đến Akashi là 300 Yên phải không ạ?"
+            },
+            {
+              "kind": "sentence",
+              "text": "…いいえ、あかしは920円ですよ。",
+              "textHtml": "…いいえ、あかしは<b>920</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。",
+              "meaning": "Không phải, đến Akashi thì là 920 Yên ấy."
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai3/doc3_2.png",
+              "contentHtml": "<img src=\"/images/minnamoi/bai3/doc3_2.png\" alt=\"minna 25 bai doc hieu Bai 3 - 2\">"
             }
           ]
-        },
-        {
-          "kind": "tudich",
-          "japanese": "JRのおおさか駅（えき）です。",
-          "japaneseHtml": "JRのおおさか<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>です。",
-          "vietnamese": "",
-          "vietnameseHtml": ""
-        },
-        {
-          "kind": "html",
-          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Ga Osaka của tàu JR.</div></div></div> <br /><br />"
-        },
-        {
-          "kind": "tudich",
-          "japanese": "1．すみません。 きょうとまで いくらですか。",
-          "japaneseHtml": "1．すみません。 きょうとまで いくらですか。",
-          "vietnamese": "",
-          "vietnameseHtml": ""
-        },
-        {
-          "kind": "html",
-          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Xin lỗi, đến Kyoto hết bao nhiêu tiền ạ?</div></div></div> <br />"
-        },
-        {
-          "kind": "tudich",
-          "japanese": "…560円（えん）ですよ。",
-          "japaneseHtml": "…<b>560</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。",
-          "vietnamese": "",
-          "vietnameseHtml": ""
-        },
-        {
-          "kind": "html",
-          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Là 560 Yên ấy.</div></div></div> <br /><br />"
-        },
-        {
-          "kind": "tudich",
-          "japanese": "2．ならへいきます。いくらですか。",
-          "japaneseHtml": "2．ならへいきます。いくらですか。",
-          "vietnamese": "",
-          "vietnameseHtml": ""
-        },
-        {
-          "kind": "html",
-          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đi Nara hết bao nhiêu ạ?</div></div></div> <br />"
-        },
-        {
-          "kind": "tudich",
-          "japanese": "…800円（えん）です。",
-          "japaneseHtml": "…<b>800</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>です。",
-          "vietnamese": "",
-          "vietnameseHtml": ""
-        },
-        {
-          "kind": "html",
-          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Là 800 Yên.</div></div></div> <br /><br />"
-        },
-        {
-          "kind": "tudich",
-          "japanese": "3．あかしまで 300円（えん）ですか。",
-          "japaneseHtml": "3．あかしまで 300<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですか。",
-          "vietnamese": "",
-          "vietnameseHtml": ""
-        },
-        {
-          "kind": "html",
-          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Đến Akashi là 300 Yên phải không ạ?</div></div></div> <br />"
-        },
-        {
-          "kind": "tudich",
-          "japanese": "…いいえ、あかしは920円（えん）ですよ。",
-          "japaneseHtml": "…いいえ、あかしは<b>920</b><ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>ですよ。",
-          "vietnamese": "",
-          "vietnameseHtml": ""
-        },
-        {
-          "kind": "html",
-          "contentHtml": "<div class=\"kqdich\"><div class=\"nddich\">Không phải, đến Akashi thì là 920 Yên ấy.</div></div></div> <br />"
-        },
-        {
-          "kind": "image",
-          "url": "https://www.vnjpclub.com/images/minnamoi/bai3/doc3_2.png",
-          "contentHtml": "<img src=\"/images/minnamoi/bai3/doc3_2.png\" alt=\"minna 25 bai doc hieu Bai 3 - 2\">"
         }
       ]
     }

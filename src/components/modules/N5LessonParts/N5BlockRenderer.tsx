@@ -8,6 +8,7 @@ import InteractiveLessonHtml from "@/components/shared/InteractiveLessonHtml";
 import type {
   IN5ContentBlock,
   IN5DialogueRow,
+  IN5SentenceBlock,
   IN5TudichBlock,
 } from "@/lib/n5Types";
 
@@ -50,10 +51,31 @@ function DialogueBlock({ rows }: { rows: IN5DialogueRow[] }) {
   );
 }
 
+function SentenceLine({
+  block,
+  showHiragana = true,
+}: {
+  block: IN5SentenceBlock;
+  showHiragana?: boolean;
+}) {
+  return (
+    <DropdownTranslation
+      original={block.text}
+      originalHtml={block.textHtml}
+      translation={block.meaning}
+      size="md"
+      className={showHiragana ? "" : "jp-ruby--hide-furigana"}
+      originalClassName="dochieu-sentence"
+    />
+  );
+}
+
 function SlideBlock({
   block,
+  showHiragana,
 }: {
   block: Extract<IN5ContentBlock, { kind: "slide" }>;
+  showHiragana?: boolean;
 }) {
   const [open, setOpen] = useState(block.variant !== "collapsible");
 
@@ -75,7 +97,7 @@ function SlideBlock({
       </button>
       {open ? (
         <div className="space-y-3 border-t border-white/8 px-4 py-4">
-          <N5BlockRenderer blocks={block.blocks} />
+          <N5BlockRenderer blocks={block.blocks} showHiragana={showHiragana} />
         </div>
       ) : null}
     </div>
@@ -84,23 +106,29 @@ function SlideBlock({
 
 export default function N5BlockRenderer({
   blocks,
+  showHiragana = true,
+  className = "",
 }: {
   blocks: IN5ContentBlock[];
+  showHiragana?: boolean;
+  className?: string;
 }) {
   if (!blocks?.length) {
     return null;
   }
 
   return (
-    <div className="space-y-3">
+    <div className={`space-y-3 ${className}`.trim()}>
       {blocks.map((block, index) => {
         switch (block.kind) {
+          case "sentence":
+            return <SentenceLine key={index} block={block} showHiragana={showHiragana} />;
           case "tudich":
             return <TudichLine key={index} block={block} />;
           case "dialogue":
             return <DialogueBlock key={index} rows={block.rows} />;
           case "slide":
-            return <SlideBlock key={index} block={block} />;
+            return <SlideBlock key={index} block={block} showHiragana={showHiragana} />;
           case "audio":
             return (
               <div key={index} className="w-full">
