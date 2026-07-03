@@ -21,6 +21,13 @@ export interface IN5TudichBlock {
   vietnameseHtml: string;
 }
 
+export interface IN5SentenceBlock {
+  kind: "sentence";
+  text: string;
+  textHtml: string;
+  meaning: string;
+}
+
 export interface IN5DialogueRow {
   speaker: string | null;
   speakerHtml: string;
@@ -31,6 +38,7 @@ export type IN5ContentBlock =
   | { kind: "html"; contentHtml: string }
   | { kind: "heading"; level: number; text: string; textHtml: string }
   | IN5TudichBlock
+  | IN5SentenceBlock
   | {
       kind: "audio";
       style: "controls" | "player";
