@@ -2,7 +2,6 @@
 
 import { useMemo, useState } from "react";
 import FlashcardDeck from "@/components/modules/Flashcards/FlashcardDeck";
-import { useFlashcardProgress } from "@/hooks/useFlashcardProgress";
 import {
   buildKanaFlashcards,
   KANA_SETS,
@@ -10,7 +9,6 @@ import {
 } from "@/utils/flashcardDeck";
 
 export default function KanaFlashcardView() {
-  const { isKnown, markKnown, markReview } = useFlashcardProgress();
   const [selectedSets, setSelectedSets] = useState<KanaSet[]>(["hiragana"]);
 
   const items = useMemo(
@@ -59,10 +57,6 @@ export default function KanaFlashcardView() {
 
       <FlashcardDeck
         items={items}
-        canMark
-        isKnown={isKnown}
-        onMarkKnown={markKnown}
-        onMarkReview={markReview}
         emptyHint="Chọn ít nhất một bảng chữ để bắt đầu."
       />
     </>

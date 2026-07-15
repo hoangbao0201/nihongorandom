@@ -784,20 +784,41 @@ input:disabled + label[for] {
   margin-bottom: 0.15rem;
 }
 
-.flashcard-scene {
-  perspective: 1200px;
-}
-
-.flashcard-inner {
-  position: relative;
+.flashcard-swiper-wrap {
   width: 100%;
-  height: 100%;
-  transform-style: preserve-3d;
-  transition: transform 0.45s ease;
+  max-width: 22rem;
+  margin-inline: auto;
 }
 
-.flashcard-inner.is-flipped {
-  transform: rotateY(180deg);
+.flashcard-swiper {
+  width: 100%;
+  height: 16rem;
+  overflow: visible;
+}
+
+@media (min-width: 640px) {
+  .flashcard-swiper {
+    height: 18rem;
+  }
+}
+
+.flashcard-swiper .swiper-slide {
+  border-radius: 1rem;
+  background: #141820;
+  overflow: hidden;
+  opacity: 1 !important;
+}
+
+.flashcard-swiper .flashcard-scene,
+.flashcard-blank {
+  height: 100%;
+  background: #141820;
+  border-radius: 1rem;
+}
+
+.flashcard-scene {
+  cursor: pointer;
+  user-select: none;
 }
 
 .flashcard-face {
@@ -807,16 +828,9 @@ input:disabled + label[for] {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
+  background-color: #141820;
 }
 
 .flashcard-face-back {
-  transform: rotateY(180deg);
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .flashcard-inner {
-    transition: none;
-  }
+  background-color: #181d27;
 }
