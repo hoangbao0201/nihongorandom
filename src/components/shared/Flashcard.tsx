@@ -1,5 +1,6 @@
 "use client";
 
+import { useRef } from "react";
 import type { FlashcardItem } from "@/utils/flashcardDeck";
 
 interface FlashcardProps {
@@ -9,6 +10,7 @@ interface FlashcardProps {
   onSpeak?: () => void;
   isSpeaking?: boolean;
   canSpeak?: boolean;
+  interactive?: boolean;
 }
 
 function SpeakerIcon() {
@@ -61,16 +63,69 @@ export default function Flashcard({
   onSpeak,
   isSpeaking,
   canSpeak,
+  interactive = true,
 }: FlashcardProps) {
+  const pointerStart = useRef<{ x: number; y: number } | null>(null);
+
+  const shown = flipped
+    ? {
+        text: item.back,
+        lang: item.backLang,
+        reading: item.backLang === "ja" ? item.reading : undefined,
+      }
+    : {
+        text: item.front,
+        lang: item.frontLang,
+        reading: item.frontLang === "ja" ? item.reading : undefined,
+      };
+
   return (
-    <div className="flashcard-scene relative h-64 w-full sm:h-72">
+    <div
+      className={`flashcard-scene relative h-full w-full ${flipped ? "is-flipped" : ""}`}
+      onPointerDown={(event) => {
+        if (!interactive) {
+          return;
+        }
+        pointerStart.current = { x: event.clientX, y: event.clientY };
+      }}
+      onPointerUp={(event) => {
+        if (!interactive || !pointerStart.current) {
+          return;
+        }
+        const dx = Math.abs(event.clientX - pointerStart.current.x);
+        const dy = Math.abs(event.clientY - pointerStart.current.y);
+        pointerStart.current = null;
+        if (dx < 10 && dy < 10) {
+          onFlip();
+        }
+      }}
+      onPointerCancel={() => {
+        pointerStart.current = null;
+      }}
+      role={interactive ? "button" : undefined}
+      tabIndex={interactive ? 0 : undefined}
+      aria-label={interactive ? "Lật thẻ" : undefined}
+      onKeyDown={(event) => {
+        if (!interactive) {
+          return;
+        }
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          onFlip();
+        }
+      }}
+    >
       {canSpeak && onSpeak ? (
         <button
           type="button"
-          onClick={onSpeak}
+          onPointerDown={(event) => event.stopPropagation()}
+          onClick={(event) => {
+            event.stopPropagation();
+            onSpeak();
+          }}
           aria-label="Phát âm"
           title="Phát âm"
-          className={`absolute right-3 top-3 z-10 inline-flex h-9 w-9 items-center justify-center rounded-full border border-[var(--accent)]/40 bg-[var(--accent)]/10 text-[var(--accent-soft)] transition-colors hover:bg-[var(--accent)]/20 ${
+          className={`absolute right-3 top-3 z-10 inline-flex h-9 w-9 items-center justify-center rounded-full border border-[var(--accent)]/40 bg-[var(--accent)]/15 text-[var(--accent-soft)] transition-colors hover:bg-[var(--accent)]/25 ${
             isSpeaking ? "animate-pulse" : ""
           }`}
         >
@@ -78,29 +133,13 @@ export default function Flashcard({
         </button>
       ) : null}
 
-      <button
-        type="button"
-        onClick={onFlip}
-        aria-label="Lật thẻ"
-        className={`flashcard-inner block w-full appearance-none border-0 bg-transparent p-0 text-left ${
-          flipped ? "is-flipped" : ""
+      <div
+        className={`flashcard-face rounded-2xl border border-white/10 ${
+          flipped ? "flashcard-face-back" : ""
         }`}
       >
-        <span className="flashcard-face glass-panel rounded-2xl border border-white/8 bg-white/[0.03]">
-          <Face
-            text={item.front}
-            lang={item.frontLang}
-            reading={item.frontLang === "ja" ? item.reading : undefined}
-          />
-        </span>
-        <span className="flashcard-face flashcard-face-back glass-panel rounded-2xl border border-white/8 bg-white/[0.05]">
-          <Face
-            text={item.back}
-            lang={item.backLang}
-            reading={item.backLang === "ja" ? item.reading : undefined}
-          />
-        </span>
-      </button>
+        <Face text={shown.text} lang={shown.lang} reading={shown.reading} />
+      </div>
     </div>
   );
 }

@@ -1,6 +1,9 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import type { Swiper as SwiperType } from "swiper";
+import { EffectCards } from "swiper/modules";
+import { Swiper, SwiperSlide } from "swiper/react";
 import Flashcard from "@/components/shared/Flashcard";
 import { useConfetti } from "@/hooks/useConfetti";
 import { useJapaneseSpeech } from "@/hooks/useJapaneseSpeech";
@@ -10,60 +13,48 @@ import {
 } from "@/hooks/useStudyShortcuts";
 import type { FlashcardItem } from "@/utils/flashcardDeck";
 
+import "swiper/css";
+import "swiper/css/effect-cards";
+
 interface FlashcardDeckProps {
   items: FlashcardItem[];
-  canMark: boolean;
-  isKnown?: (id: string) => boolean;
-  onMarkKnown?: (id: string) => void;
-  onMarkReview?: (id: string) => void;
   emptyHint?: string;
 }
 
-function shuffleIndices(length: number): number[] {
-  const indices = Array.from({ length }, (_, index) => index);
-  for (let index = indices.length - 1; index > 0; index--) {
+function shuffleItems(items: FlashcardItem[]): FlashcardItem[] {
+  const next = [...items];
+  for (let index = next.length - 1; index > 0; index--) {
     const swap = Math.floor(Math.random() * (index + 1));
-    [indices[index], indices[swap]] = [indices[swap], indices[index]];
+    [next[index], next[swap]] = [next[swap], next[index]];
   }
-  return indices;
+  return next;
 }
 
 export default function FlashcardDeck({
   items,
-  canMark,
-  isKnown,
-  onMarkKnown,
-  onMarkReview,
   emptyHint = "Chưa có thẻ nào. Hãy chọn nội dung để bắt đầu.",
 }: FlashcardDeckProps) {
-  const [filterUnknown, setFilterUnknown] = useState(false);
-  const [order, setOrder] = useState<number[]>([]);
+  const [deck, setDeck] = useState<FlashcardItem[]>([]);
   const [pos, setPos] = useState(0);
   const [flipped, setFlipped] = useState(false);
+  const [deckKey, setDeckKey] = useState(0);
   const celebratedRef = useRef(false);
+  const swiperRef = useRef<SwiperType | null>(null);
 
   const { canvasRef, fireConfetti } = useConfetti();
   const { speak, cancel, isReady, isSpeaking } = useJapaneseSpeech();
 
-  const deck = useMemo(() => {
-    if (canMark && filterUnknown && isKnown) {
-      return items.filter((item) => !isKnown(item.id));
-    }
-    return items;
-  }, [items, canMark, filterUnknown, isKnown]);
+  const idsKey = useMemo(() => items.map((item) => item.id).join("|"), [items]);
+  const prevIdsKeyRef = useRef<string | null>(null);
 
   const rebuild = useCallback(() => {
-    setOrder(shuffleIndices(deck.length));
+    setDeck(shuffleItems(items));
     setPos(0);
     setFlipped(false);
+    setDeckKey((value) => value + 1);
     celebratedRef.current = false;
-  }, [deck]);
-
-  const idsKey = useMemo(
-    () => deck.map((item) => item.id).join("|"),
-    [deck]
-  );
-  const prevIdsKeyRef = useRef<string | null>(null);
+    cancel();
+  }, [items, cancel]);
 
   useEffect(() => {
     if (prevIdsKeyRef.current === idsKey) {
@@ -73,7 +64,7 @@ export default function FlashcardDeck({
     rebuild();
   }, [idsKey, rebuild]);
 
-  const current = order.length > 0 ? deck[order[pos]] : undefined;
+  const current = deck[pos];
 
   const speakCurrent = useCallback(() => {
     if (!current?.speakText || !isReady) {
@@ -87,28 +78,36 @@ export default function FlashcardDeck({
   }, []);
 
   const goNext = useCallback(() => {
+    const swiper = swiperRef.current;
+    if (!swiper || swiper.isEnd) {
+      return;
+    }
     cancel();
     setFlipped(false);
-    setPos((value) => (value >= order.length - 1 ? value : value + 1));
-  }, [cancel, order.length]);
+    swiper.slideNext();
+  }, [cancel]);
 
   const goPrev = useCallback(() => {
+    const swiper = swiperRef.current;
+    if (!swiper || swiper.isBeginning) {
+      return;
+    }
     cancel();
     setFlipped(false);
-    setPos((value) => (value <= 0 ? value : value - 1));
+    swiper.slidePrev();
   }, [cancel]);
 
   useEffect(() => {
-    if (!celebratedRef.current && order.length > 0 && pos === order.length - 1) {
+    if (!celebratedRef.current && deck.length > 0 && pos === deck.length - 1) {
       celebratedRef.current = true;
       fireConfetti();
     }
-  }, [pos, order, fireConfetti]);
+  }, [pos, deck.length, fireConfetti]);
 
   const shortcutOptions = {
     flip: Boolean(current),
     prev: pos > 0,
-    next: order.length > 0 && pos < order.length - 1,
+    next: deck.length > 0 && pos < deck.length - 1,
   };
 
   useStudyShortcuts(
@@ -116,38 +115,10 @@ export default function FlashcardDeck({
     shortcutOptions
   );
 
-  const handleMarkKnown = () => {
-    if (current && onMarkKnown) {
-      onMarkKnown(current.id);
-    }
-    goNext();
-  };
-
-  const handleMarkReview = () => {
-    if (current && onMarkReview) {
-      onMarkReview(current.id);
-    }
-    goNext();
-  };
-
-  const knownInDeck =
-    canMark && isKnown ? items.filter((item) => isKnown(item.id)).length : 0;
-
   if (deck.length === 0) {
     return (
       <section className="glass-panel flex min-h-[420px] flex-col items-center justify-center gap-4 rounded-lg p-5 text-center sm:min-h-[480px]">
-        <p className="max-w-xs text-sm text-[var(--muted)]">
-          {filterUnknown ? "Bạn đã thuộc hết thẻ trong bộ này! 🎉" : emptyHint}
-        </p>
-        {filterUnknown ? (
-          <button
-            type="button"
-            onClick={() => setFilterUnknown(false)}
-            className="rounded-lg border border-white/10 bg-white/5 px-4 py-2 text-sm font-medium text-white transition-colors hover:border-white/20 hover:bg-white/10"
-          >
-            Hiện lại tất cả
-          </button>
-        ) : null}
+        <p className="max-w-xs text-sm text-[var(--muted)]">{emptyHint}</p>
       </section>
     );
   }
@@ -160,57 +131,65 @@ export default function FlashcardDeck({
         className="pointer-events-none fixed inset-0 z-50 h-full w-full"
       />
 
-      <div className="mb-3 flex flex-wrap items-center justify-between gap-2 text-xs text-white/40">
+      <div className="mb-3 flex items-center justify-between gap-2 text-xs text-white/40">
         <span>
-          Thẻ {pos + 1} / {order.length}
+          Thẻ {pos + 1} / {deck.length}
         </span>
-        {canMark ? (
-          <span>
-            Đã thuộc {knownInDeck} / {items.length}
-          </span>
-        ) : null}
+        <span className="text-white/25">Vuốt để chuyển thẻ</span>
       </div>
 
-      {order.length > 0 ? (
-        <div className="h-1.5 w-full overflow-hidden rounded-full bg-white/8">
-          <div
-            className="h-full rounded-full bg-[var(--accent)] transition-all duration-200"
-            style={{ width: `${((pos + 1) / order.length) * 100}%` }}
-          />
-        </div>
-      ) : null}
-
-      <div className="flex flex-1 flex-col items-center justify-center py-5">
-        {current ? (
-          <Flashcard
-            item={current}
-            flipped={flipped}
-            onFlip={handleFlip}
-            onSpeak={speakCurrent}
-            isSpeaking={isSpeaking}
-            canSpeak={Boolean(current.speakText)}
-          />
-        ) : null}
+      <div className="h-1.5 w-full overflow-hidden rounded-full bg-white/8">
+        <div
+          className="h-full rounded-full bg-[var(--accent)] transition-all duration-200"
+          style={{ width: `${((pos + 1) / deck.length) * 100}%` }}
+        />
       </div>
 
-      {canMark ? (
-        <div className="mb-2 grid grid-cols-2 gap-2">
-          <button
-            type="button"
-            onClick={handleMarkReview}
-            className="rounded-lg border border-amber-400/40 bg-amber-400/10 px-4 py-2.5 text-sm font-semibold text-amber-200 transition-colors hover:bg-amber-400/20"
-          >
-            Ôn lại
-          </button>
-          <button
-            type="button"
-            onClick={handleMarkKnown}
-            className="rounded-lg border border-[var(--success)]/50 bg-[var(--success)]/15 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-[var(--success)]/25"
-          >
-            Đã thuộc
-          </button>
-        </div>
-      ) : null}
+      <div className="flashcard-swiper-wrap flex flex-1 flex-col items-center justify-center py-6">
+        <Swiper
+          key={deckKey}
+          modules={[EffectCards]}
+          effect="cards"
+          grabCursor
+          preventClicks={false}
+          preventClicksPropagation={false}
+          className="flashcard-swiper"
+          onSwiper={(swiper) => {
+            swiperRef.current = swiper;
+          }}
+          onSlideChange={(swiper) => {
+            cancel();
+            setFlipped(false);
+            setPos(swiper.activeIndex);
+          }}
+          cardsEffect={{
+            perSlideOffset: 10,
+            perSlideRotate: 3,
+            rotate: true,
+            slideShadows: true,
+          }}
+        >
+          {deck.map((item, index) => {
+            const isActive = index === pos;
+            return (
+              <SwiperSlide key={item.id}>
+                {isActive ? (
+                  <Flashcard
+                    item={item}
+                    flipped={flipped}
+                    onFlip={handleFlip}
+                    onSpeak={speakCurrent}
+                    isSpeaking={isSpeaking}
+                    canSpeak={Boolean(item.speakText)}
+                  />
+                ) : (
+                  <div className="flashcard-blank" aria-hidden />
+                )}
+              </SwiperSlide>
+            );
+          })}
+        </Swiper>
+      </div>
 
       <div className="flex gap-2">
         <button
@@ -231,14 +210,14 @@ export default function FlashcardDeck({
         <button
           type="button"
           onClick={goNext}
-          disabled={pos >= order.length - 1}
+          disabled={pos >= deck.length - 1}
           className="flex-1 rounded-lg border border-white/10 bg-white/5 px-4 py-2.5 text-sm font-medium text-[var(--muted)] transition-colors hover:border-white/20 hover:bg-white/10 hover:text-white disabled:opacity-40"
         >
           Sau →
         </button>
       </div>
 
-      <div className="mt-3 flex flex-wrap items-center justify-between gap-2">
+      <div className="mt-3 flex items-center justify-between gap-2">
         <button
           type="button"
           onClick={rebuild}
@@ -246,17 +225,6 @@ export default function FlashcardDeck({
         >
           Trộn thẻ
         </button>
-        {canMark ? (
-          <label className="flex cursor-pointer items-center gap-2 text-xs text-white/70">
-            <input
-              type="checkbox"
-              checked={filterUnknown}
-              onChange={(event) => setFilterUnknown(event.target.checked)}
-              className="h-3.5 w-3.5 rounded border-white/20 bg-white/5 accent-[var(--accent)]"
-            />
-            Chỉ ôn thẻ chưa thuộc
-          </label>
-        ) : null}
       </div>
 
       <p className="mt-3 text-center text-[11px] text-white/25">

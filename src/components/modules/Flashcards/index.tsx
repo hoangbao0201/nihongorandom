@@ -19,7 +19,7 @@ export default function Flashcards() {
         <div className="mb-5 text-center">
           <h1 className="text-lg font-bold text-white">Flashcards N5</h1>
           <p className="mt-1 text-xs text-white/30">
-            Lật thẻ để ôn - đánh dấu thẻ đã thuộc
+            Vuốt thẻ để chuyển · chạm để lật mặt
           </p>
         </div>
 

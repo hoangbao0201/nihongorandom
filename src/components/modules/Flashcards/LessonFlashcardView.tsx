@@ -3,7 +3,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { CONTENT_META } from "@/components/modules/HomePage/lessonQuizConstants";
 import FlashcardDeck from "@/components/modules/Flashcards/FlashcardDeck";
-import { useFlashcardProgress } from "@/hooks/useFlashcardProgress";
 import {
   DEFAULT_VOCABULARY_QUIZ_OPTIONS,
   LESSON_COUNT,
@@ -26,7 +25,6 @@ export default function LessonFlashcardView({
   contentType,
 }: LessonFlashcardViewProps) {
   const meta = CONTENT_META[contentType];
-  const { isKnown, markKnown, markReview } = useFlashcardProgress();
 
   const [selectedLessons, setSelectedLessons] = useState<number[]>([]);
   const [availability, setAvailability] = useState<Record<number, boolean>>({});
@@ -187,10 +185,6 @@ export default function LessonFlashcardView({
 
       <FlashcardDeck
         items={items}
-        canMark
-        isKnown={isKnown}
-        onMarkKnown={markKnown}
-        onMarkReview={markReview}
         emptyHint="Chọn ít nhất một bài để bắt đầu lật thẻ."
       />
     </>

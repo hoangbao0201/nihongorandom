@@ -4,7 +4,7 @@ import Flashcards from "@/components/modules/Flashcards";
 export const metadata: Metadata = {
   title: "Flashcards N5 - Từ vựng, Kanji, Bảng chữ cái",
   description:
-    "Học Flashcard JLPT N5 Minna no Nihongo: từ vựng, Kanji, Hiragana/Katakana, số và thời gian. Lật thẻ, đánh dấu đã thuộc.",
+    "Học Flashcard JLPT N5 Minna no Nihongo: từ vựng, Kanji, Hiragana/Katakana. Vuốt thẻ kiểu Tinder, chạm để lật mặt.",
 };
 
 export default function Page() {
