@@ -1,0 +1,594 @@
+{
+  "lesson": 31,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "専門（せんもん） Chuyên ngành học",
+      "titleHtml": "<ruby>専門<rp>（</rp><rt>せんもん</rt><rp>）</rp></ruby> Chuyên ngành học",
+      "introHtml": "",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "医学（いがく）",
+              "html": "<ruby>医学<rp>（</rp><rt>いがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "y học",
+              "html": "y học"
+            }
+          ],
+          "term": "医学（いがく）",
+          "termHtml": "<ruby>医学<rp>（</rp><rt>いがく</rt><rp>）</rp></ruby>",
+          "meaning": "y học",
+          "meaningHtml": "y học"
+        },
+        {
+          "cells": [
+            {
+              "text": "薬学（やくがく）",
+              "html": "<ruby>薬学<rp>（</rp><rt>やくがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "dược học",
+              "html": "dược học"
+            }
+          ],
+          "term": "薬学（やくがく）",
+          "termHtml": "<ruby>薬学<rp>（</rp><rt>やくがく</rt><rp>）</rp></ruby>",
+          "meaning": "dược học",
+          "meaningHtml": "dược học"
+        },
+        {
+          "cells": [
+            {
+              "text": "化学（かがく）",
+              "html": "<ruby>化学<rp>（</rp><rt>かがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "hóa học",
+              "html": "hóa học"
+            }
+          ],
+          "term": "化学（かがく）",
+          "termHtml": "<ruby>化学<rp>（</rp><rt>かがく</rt><rp>）</rp></ruby>",
+          "meaning": "hóa học",
+          "meaningHtml": "hóa học"
+        },
+        {
+          "cells": [
+            {
+              "text": "生化学（せいかがく）",
+              "html": "<ruby>生化学<rp>（</rp><rt>せいかがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "sinh hóa học",
+              "html": "sinh hóa học"
+            }
+          ],
+          "term": "生化学（せいかがく）",
+          "termHtml": "<ruby>生化学<rp>（</rp><rt>せいかがく</rt><rp>）</rp></ruby>",
+          "meaning": "sinh hóa học",
+          "meaningHtml": "sinh hóa học"
+        },
+        {
+          "cells": [
+            {
+              "text": "生物学（せいぶつがく）",
+              "html": "<ruby>生物学<rp>（</rp><rt>せいぶつがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "sinh vật học",
+              "html": "sinh vật học"
+            }
+          ],
+          "term": "生物学（せいぶつがく）",
+          "termHtml": "<ruby>生物学<rp>（</rp><rt>せいぶつがく</rt><rp>）</rp></ruby>",
+          "meaning": "sinh vật học",
+          "meaningHtml": "sinh vật học"
+        },
+        {
+          "cells": [
+            {
+              "text": "農学（のうがく）",
+              "html": "<ruby>農学<rp>（</rp><rt>のうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nông học",
+              "html": "nông học"
+            }
+          ],
+          "term": "農学（のうがく）",
+          "termHtml": "<ruby>農学<rp>（</rp><rt>のうがく</rt><rp>）</rp></ruby>",
+          "meaning": "nông học",
+          "meaningHtml": "nông học"
+        },
+        {
+          "cells": [
+            {
+              "text": "地学（ちがく）",
+              "html": "<ruby>地学<rp>（</rp><rt>ちがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "địa chất học",
+              "html": "địa chất học"
+            }
+          ],
+          "term": "地学（ちがく）",
+          "termHtml": "<ruby>地学<rp>（</rp><rt>ちがく</rt><rp>）</rp></ruby>",
+          "meaning": "địa chất học",
+          "meaningHtml": "địa chất học"
+        },
+        {
+          "cells": [
+            {
+              "text": "地理学（ちりがく）",
+              "html": "<ruby>地理学<rp>（</rp><rt>ちりがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "địa lý học",
+              "html": "địa lý học"
+            }
+          ],
+          "term": "地理学（ちりがく）",
+          "termHtml": "<ruby>地理学<rp>（</rp><rt>ちりがく</rt><rp>）</rp></ruby>",
+          "meaning": "địa lý học",
+          "meaningHtml": "địa lý học"
+        },
+        {
+          "cells": [
+            {
+              "text": "数学（すうがく）",
+              "html": "<ruby>数学<rp>（</rp><rt>すうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "toán học",
+              "html": "toán học"
+            }
+          ],
+          "term": "数学（すうがく）",
+          "termHtml": "<ruby>数学<rp>（</rp><rt>すうがく</rt><rp>）</rp></ruby>",
+          "meaning": "toán học",
+          "meaningHtml": "toán học"
+        },
+        {
+          "cells": [
+            {
+              "text": "物理学（ぶつりがく）",
+              "html": "<ruby>物理学<rp>（</rp><rt>ぶつりがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "vật lý học",
+              "html": "vật lý học"
+            }
+          ],
+          "term": "物理学（ぶつりがく）",
+          "termHtml": "<ruby>物理学<rp>（</rp><rt>ぶつりがく</rt><rp>）</rp></ruby>",
+          "meaning": "vật lý học",
+          "meaningHtml": "vật lý học"
+        },
+        {
+          "cells": [
+            {
+              "text": "工学（こうがく）",
+              "html": "<ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kỹ thuật",
+              "html": "kỹ thuật"
+            }
+          ],
+          "term": "工学（こうがく）",
+          "termHtml": "<ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>",
+          "meaning": "kỹ thuật",
+          "meaningHtml": "kỹ thuật"
+        },
+        {
+          "cells": [
+            {
+              "text": "土木（どぼく）工学（こうがく）",
+              "html": "<ruby>土木<rp>（</rp><rt>どぼく</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kỹ thuật xây dựng",
+              "html": "kỹ thuật xây dựng"
+            }
+          ],
+          "term": "土木（どぼく）工学（こうがく）",
+          "termHtml": "<ruby>土木<rp>（</rp><rt>どぼく</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>",
+          "meaning": "kỹ thuật xây dựng",
+          "meaningHtml": "kỹ thuật xây dựng"
+        },
+        {
+          "cells": [
+            {
+              "text": "電子（でんし）工学（こうがく）",
+              "html": "<ruby>電子<rp>（</rp><rt>でんし</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kỹ thuật điện tử",
+              "html": "kỹ thuật điện tử"
+            }
+          ],
+          "term": "電子（でんし）工学（こうがく）",
+          "termHtml": "<ruby>電子<rp>（</rp><rt>でんし</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>",
+          "meaning": "kỹ thuật điện tử",
+          "meaningHtml": "kỹ thuật điện tử"
+        },
+        {
+          "cells": [
+            {
+              "text": "電気（でんき）工学（こうがく）",
+              "html": "<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kỹ thuật điện",
+              "html": "kỹ thuật điện"
+            }
+          ],
+          "term": "電気（でんき）工学（こうがく）",
+          "termHtml": "<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>",
+          "meaning": "kỹ thuật điện",
+          "meaningHtml": "kỹ thuật điện"
+        },
+        {
+          "cells": [
+            {
+              "text": "機械（きかい）工学（こうがく）",
+              "html": "<ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kỹ thuật cơ khí",
+              "html": "kỹ thuật cơ khí"
+            }
+          ],
+          "term": "機械（きかい）工学（こうがく）",
+          "termHtml": "<ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>",
+          "meaning": "kỹ thuật cơ khí",
+          "meaningHtml": "kỹ thuật cơ khí"
+        },
+        {
+          "cells": [
+            {
+              "text": "コンピューター工学（こうがく）",
+              "html": "コンピューター<ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "khoa học máy tính",
+              "html": "khoa học máy tính"
+            }
+          ],
+          "term": "コンピューター工学（こうがく）",
+          "termHtml": "コンピューター<ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>",
+          "meaning": "khoa học máy tính",
+          "meaningHtml": "khoa học máy tính"
+        },
+        {
+          "cells": [
+            {
+              "text": "遺伝子（いでんし）工学（こうがく）",
+              "html": "<ruby>遺伝子<rp>（</rp><rt>いでんし</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "di truyền học",
+              "html": "di truyền học"
+            }
+          ],
+          "term": "遺伝子（いでんし）工学（こうがく）",
+          "termHtml": "<ruby>遺伝子<rp>（</rp><rt>いでんし</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby>",
+          "meaning": "di truyền học",
+          "meaningHtml": "di truyền học"
+        },
+        {
+          "cells": [
+            {
+              "text": "建築学（けんちくがく）",
+              "html": "<ruby>建築学<rp>（</rp><rt>けんちくがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kiến trúc học",
+              "html": "kiến trúc học"
+            }
+          ],
+          "term": "建築学（けんちくがく）",
+          "termHtml": "<ruby>建築学<rp>（</rp><rt>けんちくがく</rt><rp>）</rp></ruby>",
+          "meaning": "kiến trúc học",
+          "meaningHtml": "kiến trúc học"
+        },
+        {
+          "cells": [
+            {
+              "text": "天文学（てんもんがく）",
+              "html": "<ruby>天文学<rp>（</rp><rt>てんもんがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "thiên văn học",
+              "html": "thiên văn học"
+            }
+          ],
+          "term": "天文学（てんもんがく）",
+          "termHtml": "<ruby>天文学<rp>（</rp><rt>てんもんがく</rt><rp>）</rp></ruby>",
+          "meaning": "thiên văn học",
+          "meaningHtml": "thiên văn học"
+        },
+        {
+          "cells": [
+            {
+              "text": "環境（かんきょう）科学（かがく）",
+              "html": "<ruby>環境<rp>（</rp><rt>かんきょう</rt><rp>）</rp></ruby><ruby>科学<rp>（</rp><rt>かがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "khoa học môi trường",
+              "html": "khoa học môi trường"
+            }
+          ],
+          "term": "環境（かんきょう）科学（かがく）",
+          "termHtml": "<ruby>環境<rp>（</rp><rt>かんきょう</rt><rp>）</rp></ruby><ruby>科学<rp>（</rp><rt>かがく</rt><rp>）</rp></ruby>",
+          "meaning": "khoa học môi trường",
+          "meaningHtml": "khoa học môi trường"
+        },
+        {
+          "cells": [
+            {
+              "text": "政治学（せいじがく）",
+              "html": "<ruby>政治学<rp>（</rp><rt>せいじがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "chính trị học",
+              "html": "chính trị học"
+            }
+          ],
+          "term": "政治学（せいじがく）",
+          "termHtml": "<ruby>政治学<rp>（</rp><rt>せいじがく</rt><rp>）</rp></ruby>",
+          "meaning": "chính trị học",
+          "meaningHtml": "chính trị học"
+        },
+        {
+          "cells": [
+            {
+              "text": "国際（こくさい）関係（かんけい）学（がく）",
+              "html": "<ruby>国際<rp>（</rp><rt>こくさい</rt><rp>）</rp></ruby><ruby>関係<rp>（</rp><rt>かんけい</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "quan hệ quốc tế",
+              "html": "quan hệ quốc tế"
+            }
+          ],
+          "term": "国際（こくさい）関係（かんけい）学（がく）",
+          "termHtml": "<ruby>国際<rp>（</rp><rt>こくさい</rt><rp>）</rp></ruby><ruby>関係<rp>（</rp><rt>かんけい</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>",
+          "meaning": "quan hệ quốc tế",
+          "meaningHtml": "quan hệ quốc tế"
+        },
+        {
+          "cells": [
+            {
+              "text": "法律学（ほうりつがく）",
+              "html": "<ruby>法律学<rp>（</rp><rt>ほうりつがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "luật học",
+              "html": "luật học"
+            }
+          ],
+          "term": "法律学（ほうりつがく）",
+          "termHtml": "<ruby>法律学<rp>（</rp><rt>ほうりつがく</rt><rp>）</rp></ruby>",
+          "meaning": "luật học",
+          "meaningHtml": "luật học"
+        },
+        {
+          "cells": [
+            {
+              "text": "経済学（けいざいがく）",
+              "html": "<ruby>経済学<rp>（</rp><rt>けいざいがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kinh tế học",
+              "html": "kinh tế học"
+            }
+          ],
+          "term": "経済学（けいざいがく）",
+          "termHtml": "<ruby>経済学<rp>（</rp><rt>けいざいがく</rt><rp>）</rp></ruby>",
+          "meaning": "kinh tế học",
+          "meaningHtml": "kinh tế học"
+        },
+        {
+          "cells": [
+            {
+              "text": "経営学（けいえいがく）",
+              "html": "<ruby>経営学<rp>（</rp><rt>けいえいがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "kinh doanh",
+              "html": "kinh doanh"
+            }
+          ],
+          "term": "経営学（けいえいがく）",
+          "termHtml": "<ruby>経営学<rp>（</rp><rt>けいえいがく</rt><rp>）</rp></ruby>",
+          "meaning": "kinh doanh",
+          "meaningHtml": "kinh doanh"
+        },
+        {
+          "cells": [
+            {
+              "text": "社会学（しゃかいがく）",
+              "html": "<ruby>社会学<rp>（</rp><rt>しゃかいがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "xã hội học",
+              "html": "xã hội học"
+            }
+          ],
+          "term": "社会学（しゃかいがく）",
+          "termHtml": "<ruby>社会学<rp>（</rp><rt>しゃかいがく</rt><rp>）</rp></ruby>",
+          "meaning": "xã hội học",
+          "meaningHtml": "xã hội học"
+        },
+        {
+          "cells": [
+            {
+              "text": "教育学（きょういくがく）",
+              "html": "<ruby>教育学<rp>（</rp><rt>きょういくがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "giáo dục học",
+              "html": "giáo dục học"
+            }
+          ],
+          "term": "教育学（きょういくがく）",
+          "termHtml": "<ruby>教育学<rp>（</rp><rt>きょういくがく</rt><rp>）</rp></ruby>",
+          "meaning": "giáo dục học",
+          "meaningHtml": "giáo dục học"
+        },
+        {
+          "cells": [
+            {
+              "text": "文学（ぶんがく）",
+              "html": "<ruby>文学<rp>（</rp><rt>ぶんがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "văn học",
+              "html": "văn học"
+            }
+          ],
+          "term": "文学（ぶんがく）",
+          "termHtml": "<ruby>文学<rp>（</rp><rt>ぶんがく</rt><rp>）</rp></ruby>",
+          "meaning": "văn học",
+          "meaningHtml": "văn học"
+        },
+        {
+          "cells": [
+            {
+              "text": "言語学（げんごがく）",
+              "html": "<ruby>言語学<rp>（</rp><rt>げんごがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ngôn ngữ học",
+              "html": "ngôn ngữ học"
+            }
+          ],
+          "term": "言語学（げんごがく）",
+          "termHtml": "<ruby>言語学<rp>（</rp><rt>げんごがく</rt><rp>）</rp></ruby>",
+          "meaning": "ngôn ngữ học",
+          "meaningHtml": "ngôn ngữ học"
+        },
+        {
+          "cells": [
+            {
+              "text": "心理学（しんりがく）",
+              "html": "<ruby>心理学<rp>（</rp><rt>しんりがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tâm lí học",
+              "html": "tâm lí học"
+            }
+          ],
+          "term": "心理学（しんりがく）",
+          "termHtml": "<ruby>心理学<rp>（</rp><rt>しんりがく</rt><rp>）</rp></ruby>",
+          "meaning": "tâm lí học",
+          "meaningHtml": "tâm lí học"
+        },
+        {
+          "cells": [
+            {
+              "text": "哲学（てつがく）",
+              "html": "<ruby>哲学<rp>（</rp><rt>てつがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "triết học",
+              "html": "triết học"
+            }
+          ],
+          "term": "哲学（てつがく）",
+          "termHtml": "<ruby>哲学<rp>（</rp><rt>てつがく</rt><rp>）</rp></ruby>",
+          "meaning": "triết học",
+          "meaningHtml": "triết học"
+        },
+        {
+          "cells": [
+            {
+              "text": "宗教（しゅうきょう）学（がく）",
+              "html": "<ruby>宗教<rp>（</rp><rt>しゅうきょう</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tôn giáo học",
+              "html": "tôn giáo học"
+            }
+          ],
+          "term": "宗教（しゅうきょう）学（がく）",
+          "termHtml": "<ruby>宗教<rp>（</rp><rt>しゅうきょう</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>",
+          "meaning": "tôn giáo học",
+          "meaningHtml": "tôn giáo học"
+        },
+        {
+          "cells": [
+            {
+              "text": "芸術（げいじゅつ）",
+              "html": "<ruby>芸術<rp>（</rp><rt>げいじゅつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nghệ thuật",
+              "html": "nghệ thuật"
+            }
+          ],
+          "term": "芸術（げいじゅつ）",
+          "termHtml": "<ruby>芸術<rp>（</rp><rt>げいじゅつ</rt><rp>）</rp></ruby>",
+          "meaning": "nghệ thuật",
+          "meaningHtml": "nghệ thuật"
+        },
+        {
+          "cells": [
+            {
+              "text": "美術（びじゅつ）",
+              "html": "<ruby>美術<rp>（</rp><rt>びじゅつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "mỹ thuật",
+              "html": "mỹ thuật"
+            }
+          ],
+          "term": "美術（びじゅつ）",
+          "termHtml": "<ruby>美術<rp>（</rp><rt>びじゅつ</rt><rp>）</rp></ruby>",
+          "meaning": "mỹ thuật",
+          "meaningHtml": "mỹ thuật"
+        },
+        {
+          "cells": [
+            {
+              "text": "音楽（おんがく）",
+              "html": "<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "âm nhạc",
+              "html": "âm nhạc"
+            }
+          ],
+          "term": "音楽（おんがく）",
+          "termHtml": "<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>",
+          "meaning": "âm nhạc",
+          "meaningHtml": "âm nhạc"
+        },
+        {
+          "cells": [
+            {
+              "text": "体育学（たいいくがく）",
+              "html": "<ruby>体育学<rp>（</rp><rt>たいいくがく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "thể dục học",
+              "html": "thể dục học"
+            }
+          ],
+          "term": "体育学（たいいくがく）",
+          "termHtml": "<ruby>体育学<rp>（</rp><rt>たいいくがく</rt><rp>）</rp></ruby>",
+          "meaning": "thể dục học",
+          "meaningHtml": "thể dục học"
+        }
+      ],
+      "contentHtml": "<table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>医学<rp>（</rp><rt>いがく</rt><rp>）</rp></ruby></td> <td>y học</td> </tr><tr> <td width=\"40%\"><ruby>薬学<rp>（</rp><rt>やくがく</rt><rp>）</rp></ruby></td> <td>dược học</td> </tr><tr> <td width=\"40%\"><ruby>化学<rp>（</rp><rt>かがく</rt><rp>）</rp></ruby></td> <td>hóa học</td> </tr><tr> <td width=\"40%\"><ruby>生化学<rp>（</rp><rt>せいかがく</rt><rp>）</rp></ruby></td> <td>sinh hóa học</td> </tr><tr> <td width=\"40%\"><ruby>生物学<rp>（</rp><rt>せいぶつがく</rt><rp>）</rp></ruby></td> <td>sinh vật học</td> </tr><tr> <td width=\"40%\"><ruby>農学<rp>（</rp><rt>のうがく</rt><rp>）</rp></ruby></td> <td>nông học</td> </tr><tr> <td width=\"40%\"><ruby>地学<rp>（</rp><rt>ちがく</rt><rp>）</rp></ruby></td> <td>địa chất học</td> </tr><tr> <td width=\"40%\"><ruby>地理学<rp>（</rp><rt>ちりがく</rt><rp>）</rp></ruby></td> <td>địa lý học</td> </tr><tr> <td width=\"40%\"><ruby>数学<rp>（</rp><rt>すうがく</rt><rp>）</rp></ruby></td> <td>toán học</td> </tr><tr> <td width=\"40%\"><ruby>物理学<rp>（</rp><rt>ぶつりがく</rt><rp>）</rp></ruby></td> <td>vật lý học</td> </tr><tr> <td width=\"40%\"><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby></td> <td>kỹ thuật</td> </tr><tr> <td width=\"40%\"><ruby>土木<rp>（</rp><rt>どぼく</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby></td> <td>kỹ thuật xây dựng</td> </tr><tr> <td width=\"40%\"><ruby>電子<rp>（</rp><rt>でんし</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby></td> <td>kỹ thuật điện tử</td> </tr><tr> <td width=\"40%\"><ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby></td> <td>kỹ thuật điện</td> </tr><tr> <td width=\"40%\"><ruby>機械<rp>（</rp><rt>きかい</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby></td> <td>kỹ thuật cơ khí</td> </tr><tr> <td width=\"40%\">コンピューター<ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby></td> <td>khoa học máy tính</td> </tr><tr> <td width=\"40%\"><ruby>遺伝子<rp>（</rp><rt>いでんし</rt><rp>）</rp></ruby><ruby>工学<rp>（</rp><rt>こうがく</rt><rp>）</rp></ruby></td> <td>di truyền học</td> </tr><tr> <td width=\"40%\"><ruby>建築学<rp>（</rp><rt>けんちくがく</rt><rp>）</rp></ruby></td> <td>kiến trúc học</td> </tr><tr> <td width=\"40%\"><ruby>天文学<rp>（</rp><rt>てんもんがく</rt><rp>）</rp></ruby></td> <td>thiên văn học</td> </tr><tr> <td width=\"40%\"><ruby>環境<rp>（</rp><rt>かんきょう</rt><rp>）</rp></ruby><ruby>科学<rp>（</rp><rt>かがく</rt><rp>）</rp></ruby></td> <td>khoa học môi trường</td> </tr><tr> <td width=\"40%\"><ruby>政治学<rp>（</rp><rt>せいじがく</rt><rp>）</rp></ruby></td> <td>chính trị học</td> </tr><tr> <td width=\"40%\"><ruby>国際<rp>（</rp><rt>こくさい</rt><rp>）</rp></ruby><ruby>関係<rp>（</rp><rt>かんけい</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby></td> <td>quan hệ quốc tế</td> </tr><tr> <td width=\"40%\"><ruby>法律学<rp>（</rp><rt>ほうりつがく</rt><rp>）</rp></ruby></td> <td>luật học</td> </tr><tr> <td width=\"40%\"><ruby>経済学<rp>（</rp><rt>けいざいがく</rt><rp>）</rp></ruby></td> <td>kinh tế học</td> </tr><tr> <td width=\"40%\"><ruby>経営学<rp>（</rp><rt>けいえいがく</rt><rp>）</rp></ruby></td> <td>kinh doanh</td> </tr><tr> <td width=\"40%\"><ruby>社会学<rp>（</rp><rt>しゃかいがく</rt><rp>）</rp></ruby></td> <td>xã hội học</td> </tr><tr> <td width=\"40%\"><ruby>教育学<rp>（</rp><rt>きょういくがく</rt><rp>）</rp></ruby></td> <td>giáo dục học</td> </tr><tr> <td width=\"40%\"><ruby>文学<rp>（</rp><rt>ぶんがく</rt><rp>）</rp></ruby></td> <td>văn học</td> </tr><tr> <td width=\"40%\"><ruby>言語学<rp>（</rp><rt>げんごがく</rt><rp>）</rp></ruby></td> <td>ngôn ngữ học</td> </tr><tr> <td width=\"40%\"><ruby>心理学<rp>（</rp><rt>しんりがく</rt><rp>）</rp></ruby></td> <td>tâm lí học</td> </tr><tr> <td width=\"40%\"><ruby>哲学<rp>（</rp><rt>てつがく</rt><rp>）</rp></ruby></td> <td>triết học</td> </tr><tr> <td width=\"40%\"><ruby>宗教<rp>（</rp><rt>しゅうきょう</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby></td> <td>tôn giáo học</td> </tr><tr> <td width=\"40%\"><ruby>芸術<rp>（</rp><rt>げいじゅつ</rt><rp>）</rp></ruby></td> <td>nghệ thuật</td> </tr><tr> <td width=\"40%\"><ruby>美術<rp>（</rp><rt>びじゅつ</rt><rp>）</rp></ruby></td> <td>mỹ thuật</td> </tr><tr> <td width=\"40%\"><ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby></td> <td>âm nhạc</td> </tr><tr> <td width=\"40%\"><ruby>体育学<rp>（</rp><rt>たいいくがく</rt><rp>）</rp></ruby></td> <td>thể dục học</td> </tr></tbody></table><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

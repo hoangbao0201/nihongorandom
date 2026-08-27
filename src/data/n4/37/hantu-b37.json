@@ -1,0 +1,222 @@
+{
+  "lesson": 37,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "褒めます",
+      "kanjiHtml": "褒めます",
+      "sinoVietnamese": "BAO",
+      "kana": "ほめます",
+      "kanaHtml": "ほめます"
+    },
+    {
+      "index": 2,
+      "kanji": "誘います",
+      "kanjiHtml": "誘います",
+      "sinoVietnamese": "DỤ",
+      "kana": "さそいます",
+      "kanaHtml": "さそいます"
+    },
+    {
+      "index": 3,
+      "kanji": "招待します",
+      "kanjiHtml": "招待します",
+      "sinoVietnamese": "CHIÊU ĐÃI",
+      "kana": "しょうたいします",
+      "kanaHtml": "しょうたいします"
+    },
+    {
+      "index": 4,
+      "kanji": "頼みます",
+      "kanjiHtml": "頼みます",
+      "sinoVietnamese": "LẠI",
+      "kana": "たのみます",
+      "kanaHtml": "たのみます"
+    },
+    {
+      "index": 5,
+      "kanji": "注意します",
+      "kanjiHtml": "注意します",
+      "sinoVietnamese": "CHÚ Ý",
+      "kana": "ちゅういします",
+      "kanaHtml": "ちゅういします"
+    },
+    {
+      "index": 6,
+      "kanji": "踏みます",
+      "kanjiHtml": "踏みます",
+      "sinoVietnamese": "ĐẠP",
+      "kana": "ふみます",
+      "kanaHtml": "ふみます"
+    },
+    {
+      "index": 7,
+      "kanji": "壊します",
+      "kanjiHtml": "壊します",
+      "sinoVietnamese": "HOẠI",
+      "kana": "こわします",
+      "kanaHtml": "こわします"
+    },
+    {
+      "index": 8,
+      "kanji": "汚します",
+      "kanjiHtml": "汚します",
+      "sinoVietnamese": "Ô",
+      "kana": "よごします",
+      "kanaHtml": "よごします"
+    },
+    {
+      "index": 9,
+      "kanji": "行います",
+      "kanjiHtml": "行います",
+      "sinoVietnamese": "HÀNH",
+      "kana": "おこないます",
+      "kanaHtml": "おこないます"
+    },
+    {
+      "index": 10,
+      "kanji": "輸出します",
+      "kanjiHtml": "輸出します",
+      "sinoVietnamese": "THÂU XUẤT",
+      "kana": "ゆしゅつします",
+      "kanaHtml": "ゆしゅつします"
+    },
+    {
+      "index": 11,
+      "kanji": "輸入します",
+      "kanjiHtml": "輸入します",
+      "sinoVietnamese": "THÂU NHẬP",
+      "kana": "ゆにゅうします",
+      "kanaHtml": "ゆにゅうします"
+    },
+    {
+      "index": 12,
+      "kanji": "翻訳します",
+      "kanjiHtml": "翻訳します",
+      "sinoVietnamese": "PHIÊN DỊCH",
+      "kana": "ほんやくします",
+      "kanaHtml": "ほんやくします"
+    },
+    {
+      "index": 13,
+      "kanji": "発明します",
+      "kanjiHtml": "発明します",
+      "sinoVietnamese": "PHÁT MINH",
+      "kana": "はつめいします",
+      "kanaHtml": "はつめいします"
+    },
+    {
+      "index": 14,
+      "kanji": "発見します",
+      "kanjiHtml": "発見します",
+      "sinoVietnamese": "PHÁT KIẾN",
+      "kana": "はっけんします",
+      "kanaHtml": "はっけんします"
+    },
+    {
+      "index": 15,
+      "kanji": "米",
+      "kanjiHtml": "米",
+      "sinoVietnamese": "MỄ",
+      "kana": "こめ",
+      "kanaHtml": "こめ"
+    },
+    {
+      "index": 16,
+      "kanji": "麦",
+      "kanjiHtml": "麦",
+      "sinoVietnamese": "MẠCH",
+      "kana": "むぎ",
+      "kanaHtml": "むぎ"
+    },
+    {
+      "index": 17,
+      "kanji": "石油",
+      "kanjiHtml": "石油",
+      "sinoVietnamese": "THẠCH DU",
+      "kana": "せきゆ",
+      "kanaHtml": "せきゆ"
+    },
+    {
+      "index": 18,
+      "kanji": "原料",
+      "kanjiHtml": "原料",
+      "sinoVietnamese": "NGUYÊN LIỆU",
+      "kana": "げんりょう",
+      "kanaHtml": "げんりょう"
+    },
+    {
+      "index": 19,
+      "kanji": "泥棒",
+      "kanjiHtml": "泥棒",
+      "sinoVietnamese": "NÊ BỔNG",
+      "kana": "どろぼう",
+      "kanaHtml": "どろぼう"
+    },
+    {
+      "index": 20,
+      "kanji": "警官",
+      "kanjiHtml": "警官",
+      "sinoVietnamese": "CẢNH QUAN",
+      "kana": "けいかん",
+      "kanaHtml": "けいかん"
+    },
+    {
+      "index": 21,
+      "kanji": "世界中",
+      "kanjiHtml": "世界中",
+      "sinoVietnamese": "THẾ GIỚI TRUNG",
+      "kana": "せかいじゅう",
+      "kanaHtml": "せかいじゅう"
+    },
+    {
+      "index": 22,
+      "kanji": "～中",
+      "kanjiHtml": "～中",
+      "sinoVietnamese": "TRUNG",
+      "kana": "～じゅう",
+      "kanaHtml": "～じゅう"
+    },
+    {
+      "index": 23,
+      "kanji": "―世紀",
+      "kanjiHtml": "―世紀",
+      "sinoVietnamese": "THẾ KỶ",
+      "kana": "―せいき",
+      "kanaHtml": "―せいき"
+    },
+    {
+      "index": 24,
+      "kanji": "何語",
+      "kanjiHtml": "何語",
+      "sinoVietnamese": "HÀ NGỮ",
+      "kana": "なにご",
+      "kanaHtml": "なにご"
+    },
+    {
+      "index": 25,
+      "kanji": "東大寺",
+      "kanjiHtml": "東大寺",
+      "sinoVietnamese": "ĐÔNG ĐẠI TỰ",
+      "kana": "とうだいじ",
+      "kanaHtml": "とうだいじ"
+    },
+    {
+      "index": 26,
+      "kanji": "大仏",
+      "kanjiHtml": "大仏",
+      "sinoVietnamese": "ĐẠI PHẬT",
+      "kana": "だいぶつ",
+      "kanaHtml": "だいぶつ"
+    },
+    {
+      "index": 27,
+      "kanji": "江戸時代",
+      "kanjiHtml": "江戸時代",
+      "sinoVietnamese": "GIANG HỘ THỜI ĐẠI",
+      "kana": "えどじだい",
+      "kanaHtml": "えどじだい"
+    }
+  ]
+}

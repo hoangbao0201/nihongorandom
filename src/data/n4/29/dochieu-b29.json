@@ -1,0 +1,481 @@
+{
+  "lesson": 29,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しっぱい</b></div> <div class=\"kanji\">失敗</div> <div class=\"nghia_viet\">thất bại</div> <div class=\"nghia_anh\">failure, mistake</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とおりすぎます</b></div> <div class=\"kanji\">通り過ぎます</div> <div class=\"nghia_viet\">đi quá, đi qua</div> <div class=\"nghia_anh\">pass </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うれしい</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">vui, mừng</div> <div class=\"nghia_anh\">glad, happy</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～のあとで</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">sau ~</div> <div class=\"nghia_anh\">after ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>バスタブ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">bồn tắm</div> <div class=\"nghia_anh\">bathtub</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふろば</b></div> <div class=\"kanji\">ふろ場</div> <div class=\"nghia_viet\">nhà tắm</div> <div class=\"nghia_anh\">bathroom</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>びっくりします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">giật mình, ngạc nhiên</div> <div class=\"nghia_anh\">be surprised</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ベル</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">chuông</div> <div class=\"nghia_anh\">doorbell</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ただしい</b></div> <div class=\"kanji\">正しい</div> <div class=\"nghia_viet\">đúng</div> <div class=\"nghia_anh\">correct</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こたえます</b></div> <div class=\"kanji\">答えます</div> <div class=\"nghia_viet\">trả lời</div> <div class=\"nghia_anh\">answer</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>わたしの<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby></b></h3> <p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>先週友<rp>（</rp><rt>せんしゅうとも</rt><rp>）</rp></ruby>だちのうちへ<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>びに<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby><ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>た<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>にすぐ<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。 <ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>はうちの<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くの<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>待<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>っていると<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 でも、わたしが<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>った<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>はその<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>を<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>り<ruby>過<rp>（</rp><rt>す</rt><rp>）</rp></ruby>ぎてしまいました。 それは<ruby>特急電車<rp>（</rp><rt>とっきゅうでんしゃ</rt><rp>）</rp></ruby>でした。 <ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp></ruby>までどこにも<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりませんでした。 <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はもう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby><ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。 <ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で２<ruby>時間待<rp>（</rp><rt>じかんま</rt><rp>）</rp></ruby>っていてくれました。 うれしかったです。 <p></p> <ruby>先週日本人<rp>（</rp><rt>せんしゅうにほんじん</rt><rp>）</rp></ruby>のうちにホームステイしました。 <ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>ごはんのあとで、お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さんが「お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>、どうぞ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってくれました。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のおふろは<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めてでした。 バスタブは<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きくて、お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>がたくさん<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていました。 お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>は<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>かったです。 <p></p> お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>でゆっくり<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>いました。 そして<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れたお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>を<ruby>全部捨<rp>（</rp><rt>ぜんぶす</rt><rp>）</rp></ruby>てました。 <ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>にお<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんが<ruby>風呂場<rp>（</rp><rt>ふろば</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 「あれ？お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていない。」お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんはびっくりしました。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のおふろは、バスタブの<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>で<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>ってから、<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>るんですね。 <ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>りませんでした。 <p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>水曜日<rp>（</rp><rt>すいようび</rt><rp>）</rp></ruby>の<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちで、スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>を<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えています。 <ruby>先週友達<rp>（</rp><rt>せんしゅうともだち</rt><rp>）</rp></ruby>が「<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby>スペインへ<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますから、もっと<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>したいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は「じゃ、<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>も<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましょうか」と<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。 <ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は「<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 <p></p> <ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>に<ruby>友<rp>（</rp><rt>とも</rt><rp>）</rp></ruby>だちのうちへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>は<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えていました。 ベルを<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>しましたが、<ruby>返事<rp>（</rp><rt>へんじ</rt><rp>）</rp></ruby>がありませんでした。 <p></p> <ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>、<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>しました。「<ruby>昨日<rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>、あなたのうちへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたよ。」「『<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです』」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったでしょう？」 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに☓を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） ライトさんは<ruby>特急電車<rp>（</rp><rt>とっきゅうでんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ってしました。 <p></p> 2)（ ） ライトさんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちから<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>い<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>は<ruby>特急<rp>（</rp><rt>とっきゅう</rt><rp>）</rp></ruby>が<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まる。 <p></p> 3)（ ） <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は、バスタブの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>で<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>をきれいに<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>ってお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>を<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てる。 <p></p> 4)（ ） ミゲルさんは「いいです」に<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>を<ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>えた。 <p></p> 2．<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えてください。 <p></p> 1) ライトさんはどうしてうれしかったのですか。 <p></p> 2) ジョンさんがホームステイしたうちのお<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんはどうしてびっくりしましたか。 <p></p> 3) ミゲルさんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>、どうしてうちにいませんでしたか。 <p></p>II あなたやあなたの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>をしましたか。 <p></p> どんな<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>でしたか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>わたしの<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Thất bại của tôi.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>先週友<rp>（</rp><rt>せんしゅうとも</rt><rp>）</rp></ruby>だちのうちへ<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>びに<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã đi đến nhà bạn chơi vào tuần trước.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby><ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>た<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>にすぐ<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã nhanh chóng lên tàu điện đến ga ở ga Osaka.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>はうちの<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くの<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>待<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>っていると<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn tôi nói là đang đợi ở nhà ga gần nhà.</div></div></div> <div class=\"tudich\"><div class=\"candich\">でも、わたしが<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>った<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>はその<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>を<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>り<ruby>過<rp>（</rp><rt>す</rt><rp>）</rp></ruby>ぎてしまいました。</div><div class=\"kqdich\"><div class=\"nddich\">Nhưng mà, xe điện tôi đã lên thì đi ngang qua nhà ga đó mất tiêu.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それは<ruby>特急電車<rp>（</rp><rt>とっきゅうでんしゃ</rt><rp>）</rp></ruby>でした。</div><div class=\"kqdich\"><div class=\"nddich\">Đó là tàu điện tốc hành.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp></ruby>までどこにも<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Tàu đi đến Kyoto mà không dừng lại ở ga nào cả.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はもう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby><ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã lên tàu đi đến Osaka thêm một lần nữa. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で２<ruby>時間待<rp>（</rp><rt>じかんま</rt><rp>）</rp></ruby>っていてくれました。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn tôi đã chờ tôi 2 tiếng ở ga.</div></div></div> <div class=\"tudich\"><div class=\"candich\">うれしかったです。</div><div class=\"kqdich\"><div class=\"nddich\">Thật là vui mừng.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>先週日本人<rp>（</rp><rt>せんしゅうにほんじん</rt><rp>）</rp></ruby>のうちにホームステイしました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã Homestay ở nhà người Nhật vào tuần trước.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>ごはんのあとで、お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さんが「お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>、どうぞ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってくれました。</div><div class=\"kqdich\"><div class=\"nddich\">Sau khi dùng bữa tối, người mẹ đã nói rằng: “Bồn tắm, xin mời”.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のおふろは<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めてでした。</div><div class=\"kqdich\"><div class=\"nddich\">Bồn tắm ở Nhật Bản là lần đầu tiên.</div></div></div> <div class=\"tudich\"><div class=\"candich\">バスタブは<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きくて、お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>がたくさん<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていました。</div><div class=\"kqdich\"><div class=\"nddich\">Bồn tắm rộng lớn, có đầy nước nóng bên trong.</div></div></div> <div class=\"tudich\"><div class=\"candich\">お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>は<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>かったです。</div><div class=\"kqdich\"><div class=\"nddich\">Nước nóng thì hơi nóng một chút.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>でゆっくり<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã tắm rửa cơ thể thong thả trong nước nóng.</div></div></div> <div class=\"tudich\"><div class=\"candich\">そして<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れたお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>を<ruby>全部捨<rp>（</rp><rt>ぜんぶす</rt><rp>）</rp></ruby>てました。</div><div class=\"kqdich\"><div class=\"nddich\">Và tôi đã đổ toàn bộ nước nóng đã bẩn.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>にお<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんが<ruby>風呂場<rp>（</rp><rt>ふろば</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tiếp theo người bố đã vào phòng tắm.</div></div></div> <div class=\"tudich\"><div class=\"candich\">「あれ？お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていない。」お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんはびっくりしました。</div><div class=\"kqdich\"><div class=\"nddich\">Người bố đã ngạc nhiên “Ủa, sao không có nước nóng”.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のおふろは、バスタブの<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>で<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>ってから、<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>るんですね。</div><div class=\"kqdich\"><div class=\"nddich\">Bồn tắm ở Nhật thì sau khi tắm rửa cơ thể ở ngoài bồn tắm thì mới ngâm mình vào trong.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>りませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã không biết điều đó.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>水曜日<rp>（</rp><rt>すいようび</rt><rp>）</rp></ruby>の<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちで、スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>を<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えています。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đang dạy tiếng Tây Ban Nha ở nhà bạn người Nhật vào tối thứ 3.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>先週友達<rp>（</rp><rt>せんしゅうともだち</rt><rp>）</rp></ruby>が「<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby>スペインへ<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますから、もっと<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>したいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Tuần trước người bạn đã nói rằng: “Tháng sau sẽ đi đến Tây Ban Nha du lịch nên muốn học nhiều hơn”.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は「じゃ、<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>も<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましょうか」と<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã hỏi: “Vậy thứ bảy cũng đến nhé?”</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は「<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Anh ấy đã trả lời rằng: “Thứ bảy thì được”.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>に<ruby>友<rp>（</rp><rt>とも</rt><rp>）</rp></ruby>だちのうちへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã đến nhà bạn vào chủ nhật.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>は<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えていました。</div><div class=\"kqdich\"><div class=\"nddich\">Điện trong nhà đã tắt. </div></div></div> <div class=\"tudich\"><div class=\"candich\">ベルを<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>しましたが、<ruby>返事<rp>（</rp><rt>へんじ</rt><rp>）</rp></ruby>がありませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Nhấn chuông nhưng không ai phản hồi.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>、<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>しました。「<ruby>昨日<rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>、あなたのうちへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたよ。」「『<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです』」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったでしょう？」</div><div class=\"kqdich\"><div class=\"nddich\">Chủ nhật, tôi đã điện thoại cho anh ấy. “Hôm qua tôi đã đến nhà bạn ấy”. Chẳng phải bạn nói “Thứ 7 thì tốt” sao?</div></div></div> <p>Giải thích: いいです ở đây tùy vào ngữ cảnh và cách nhấn nhá để nắm bắt ý nghĩa mà người nói muốn truyền tải. Ngoài nghĩa khẳng định “được”, “tốt” thì nó cũng mang nghĩa phủ định “thôi được rồi…”</p> <p></p><div class=\"tudich\"><div class=\"candich\">I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに☓を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy viết O vào câu đúng, X vào câu không đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>〇</b>）ライトさんは<ruby>特急電車<rp>（</rp><rt>とっきゅうでんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ってしました。</div><div class=\"kqdich\"><div class=\"nddich\">Wright đã lên tàu điện tốc hành.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>Ｘ</b>）ライトさんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちから<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>い<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>は<ruby>特急<rp>（</rp><rt>とっきゅう</rt><rp>）</rp></ruby>が<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まる。</div><div class=\"kqdich\"><div class=\"nddich\">Xe điện tốc hành dừng lại ở nhà ga gần nhà người bạn của Wright.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>Ｘ</b>）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は、バスタブの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>で<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>をきれいに<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>ってお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>を<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てる。</div><div class=\"kqdich\"><div class=\"nddich\">Bồn tắm ở Nhật thì tắm rửa cơ thể sạch sẽ trong bồn tắm rồi xả nước nóng đi.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（<b>〇</b>）ミゲルさんは「いいです」に<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>を<ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>えた。</div><div class=\"kqdich\"><div class=\"nddich\">Miguel đã nhầm lẫn ý nghĩa của từ “いいです”.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2．<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy trả lời câu hỏi.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1) ライトさんはどうしてうれしかったのですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao Wright đã vui mừng?</div></div></div> <p></p> <b>Đáp án: <div class=\"tudich\"><div class=\"candich\"><ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>待<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>っていてくれたから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì người bạn đã đợi ở nhà ga.</div></div></div></b> <p></p><div class=\"tudich\"><div class=\"candich\"> 2) ジョンさんがホームステイしたうちのお<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんはどうしてびっくりしましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao người bố của nhà mà John đã Homestay bất ngờ?</div></div></div> <p></p> <b>Đáp án: <div class=\"tudich\"><div class=\"candich\">バスタブにお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていなかったから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì ở bồn tắm không có nước nóng.</div></div></div></b> <p></p><div class=\"tudich\"><div class=\"candich\"> 3) ミゲルさんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>、どうしてうちにいませんでしたか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao người bạn của Miguel vào thứ 7 không có nhà?</div></div></div> <p></p> <b>Đáp án: <div class=\"tudich\"><div class=\"candich\">「<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì đã nói “Thứ 7 thì được”</div></div></div></b> <p></p><div class=\"tudich\"><div class=\"candich\">II あなたやあなたの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>をしましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn hay bạn bè của bạn đã có sai lầm gì đó ở Nhật? </div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> どんな<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>でしたか。</div><div class=\"kqdich\"><div class=\"nddich\">Là những sai lầm như thế nào?</div></div></div> </div> </div><!--END--> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "わたしの失敗（しっぱい）",
+          "textHtml": "<b>わたしの<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby></b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>先週友<rp>（</rp><rt>せんしゅうとも</rt><rp>）</rp></ruby>だちのうちへ<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>びに<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby><ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>た<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>にすぐ<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。 <ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>はうちの<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くの<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>待<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>っていると<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 でも、わたしが<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>った<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>はその<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>を<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>り<ruby>過<rp>（</rp><rt>す</rt><rp>）</rp></ruby>ぎてしまいました。 それは<ruby>特急電車<rp>（</rp><rt>とっきゅうでんしゃ</rt><rp>）</rp></ruby>でした。 <ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp></ruby>までどこにも<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりませんでした。 <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はもう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby><ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。 <ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で２<ruby>時間待<rp>（</rp><rt>じかんま</rt><rp>）</rp></ruby>っていてくれました。 うれしかったです。 <p></p> <ruby>先週日本人<rp>（</rp><rt>せんしゅうにほんじん</rt><rp>）</rp></ruby>のうちにホームステイしました。 <ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>ごはんのあとで、お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さんが「お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>、どうぞ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってくれました。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のおふろは<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めてでした。 バスタブは<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きくて、お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>がたくさん<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていました。 お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>は<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>かったです。 <p></p> お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>でゆっくり<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>いました。 そして<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れたお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>を<ruby>全部捨<rp>（</rp><rt>ぜんぶす</rt><rp>）</rp></ruby>てました。 <ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>にお<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんが<ruby>風呂場<rp>（</rp><rt>ふろば</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 「あれ？お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていない。」お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんはびっくりしました。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のおふろは、バスタブの<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>で<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>ってから、<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>るんですね。 <ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>りませんでした。 <p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>水曜日<rp>（</rp><rt>すいようび</rt><rp>）</rp></ruby>の<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちで、スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>を<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えています。 <ruby>先週友達<rp>（</rp><rt>せんしゅうともだち</rt><rp>）</rp></ruby>が「<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby>スペインへ<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますから、もっと<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>したいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は「じゃ、<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>も<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましょうか」と<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。 <ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は「<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 <p></p> <ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>に<ruby>友<rp>（</rp><rt>とも</rt><rp>）</rp></ruby>だちのうちへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。 <ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>は<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えていました。 ベルを<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>しましたが、<ruby>返事<rp>（</rp><rt>へんじ</rt><rp>）</rp></ruby>がありませんでした。 <p></p> <ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>、<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>しました。「<ruby>昨日<rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>、あなたのうちへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたよ。」「『<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです』」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったでしょう？」 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに☓を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） ライトさんは<ruby>特急電車<rp>（</rp><rt>とっきゅうでんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ってしました。 <p></p> 2)（ ） ライトさんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちから<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>い<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>は<ruby>特急<rp>（</rp><rt>とっきゅう</rt><rp>）</rp></ruby>が<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まる。 <p></p> 3)（ ） <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は、バスタブの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>で<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>をきれいに<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>ってお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>を<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てる。 <p></p> 4)（ ） ミゲルさんは「いいです」に<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>を<ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>えた。 <p></p> 2．<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えてください。 <p></p> 1) ライトさんはどうしてうれしかったのですか。 <p></p> 2) ジョンさんがホームステイしたうちのお<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんはどうしてびっくりしましたか。 <p></p> 3) ミゲルさんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>、どうしてうちにいませんでしたか。 <p></p>II あなたやあなたの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>をしましたか。 <p></p> どんな<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>でしたか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>わたしの<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Thất bại của tôi.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "わたしの失敗（しっぱい）",
+              "textHtml": "<b>わたしの<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby></b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Thất bại của tôi."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）は先週友（せんしゅうとも）だちのうちへ遊（あそ）びに行（い）きました。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>先週友<rp>（</rp><rt>せんしゅうとも</rt><rp>）</rp></ruby>だちのうちへ<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>びに<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "Tôi đã đi đến nhà bạn chơi vào tuần trước.",
+          "vietnameseHtml": "Tôi đã đi đến nhà bạn chơi vào tuần trước."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "大阪（おおさか）駅（えき）で来（き）た電車（でんしゃ）にすぐ乗（の）りました。",
+          "japaneseHtml": "<ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby><ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>た<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>にすぐ<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。",
+          "vietnamese": "Tôi đã nhanh chóng lên tàu điện đến ga ở ga Osaka.",
+          "vietnameseHtml": "Tôi đã nhanh chóng lên tàu điện đến ga ở ga Osaka."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "友達（ともだち）はうちの近（ちか）くの駅（えき）で待（ま）っていると言（い）いました。",
+          "japaneseHtml": "<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>はうちの<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くの<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>待<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>っていると<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Bạn tôi nói là đang đợi ở nhà ga gần nhà.",
+          "vietnameseHtml": "Bạn tôi nói là đang đợi ở nhà ga gần nhà."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "でも、わたしが乗（の）った電車（でんしゃ）はその駅（えき）を通（とお）り過（す）ぎてしまいました。",
+          "japaneseHtml": "でも、わたしが<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>った<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>はその<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>を<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>り<ruby>過<rp>（</rp><rt>す</rt><rp>）</rp></ruby>ぎてしまいました。",
+          "vietnamese": "Nhưng mà, xe điện tôi đã lên thì đi ngang qua nhà ga đó mất tiêu.",
+          "vietnameseHtml": "Nhưng mà, xe điện tôi đã lên thì đi ngang qua nhà ga đó mất tiêu."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それは特急電車（とっきゅうでんしゃ）でした。",
+          "japaneseHtml": "それは<ruby>特急電車<rp>（</rp><rt>とっきゅうでんしゃ</rt><rp>）</rp></ruby>でした。",
+          "vietnamese": "Đó là tàu điện tốc hành.",
+          "vietnameseHtml": "Đó là tàu điện tốc hành."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "京都（きょうと）までどこにも止（と）まりませんでした。",
+          "japaneseHtml": "<ruby>京都<rp>（</rp><rt>きょうと</rt><rp>）</rp></ruby>までどこにも<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりませんでした。",
+          "vietnamese": "Tàu đi đến Kyoto mà không dừng lại ở ga nào cả.",
+          "vietnameseHtml": "Tàu đi đến Kyoto mà không dừng lại ở ga nào cả."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）はもう一度（いちど）大阪（おおさか）へ行（い）く電車（でんしゃ）に乗（の）りました。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はもう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby><ruby>大阪<rp>（</rp><rt>おおさか</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>りました。",
+          "vietnamese": "Tôi đã lên tàu đi đến Osaka thêm một lần nữa.",
+          "vietnameseHtml": "Tôi đã lên tàu đi đến Osaka thêm một lần nữa."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "友達（ともだち）は駅（えき）で２時間待（じかんま）っていてくれました。",
+          "japaneseHtml": "<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で２<ruby>時間待<rp>（</rp><rt>じかんま</rt><rp>）</rp></ruby>っていてくれました。",
+          "vietnamese": "Bạn tôi đã chờ tôi 2 tiếng ở ga.",
+          "vietnameseHtml": "Bạn tôi đã chờ tôi 2 tiếng ở ga."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "うれしかったです。",
+          "japaneseHtml": "うれしかったです。",
+          "vietnamese": "Thật là vui mừng.",
+          "vietnameseHtml": "Thật là vui mừng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "先週日本人（せんしゅうにほんじん）のうちにホームステイしました。",
+          "japaneseHtml": "<ruby>先週日本人<rp>（</rp><rt>せんしゅうにほんじん</rt><rp>）</rp></ruby>のうちにホームステイしました。",
+          "vietnamese": "Tôi đã Homestay ở nhà người Nhật vào tuần trước.",
+          "vietnameseHtml": "Tôi đã Homestay ở nhà người Nhật vào tuần trước."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "晩（ばん）ごはんのあとで、お母（かあ）さんが「お風呂（ふろ）、どうぞ」と言（い）ってくれました。",
+          "japaneseHtml": "<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>ごはんのあとで、お<ruby>母<rp>（</rp><rt>かあ</rt><rp>）</rp></ruby>さんが「お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>、どうぞ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってくれました。",
+          "vietnamese": "Sau khi dùng bữa tối, người mẹ đã nói rằng: “Bồn tắm, xin mời”.",
+          "vietnameseHtml": "Sau khi dùng bữa tối, người mẹ đã nói rằng: “Bồn tắm, xin mời”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）のおふろは初（はじ）めてでした。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のおふろは<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めてでした。",
+          "vietnamese": "Bồn tắm ở Nhật Bản là lần đầu tiên.",
+          "vietnameseHtml": "Bồn tắm ở Nhật Bản là lần đầu tiên."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "バスタブは大（おお）きくて、お湯（ゆ）がたくさん入（はい）っていました。",
+          "japaneseHtml": "バスタブは<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きくて、お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>がたくさん<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていました。",
+          "vietnamese": "Bồn tắm rộng lớn, có đầy nước nóng bên trong.",
+          "vietnameseHtml": "Bồn tắm rộng lớn, có đầy nước nóng bên trong."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お湯（ゆ）は少（すこ）し熱（あつ）かったです。",
+          "japaneseHtml": "お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>は<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>かったです。",
+          "vietnamese": "Nước nóng thì hơi nóng một chút.",
+          "vietnameseHtml": "Nước nóng thì hơi nóng một chút."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お湯（ゆ）の中（なか）でゆっくり体（からだ）を洗（あら）いました。",
+          "japaneseHtml": "お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>でゆっくり<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Tôi đã tắm rửa cơ thể thong thả trong nước nóng.",
+          "vietnameseHtml": "Tôi đã tắm rửa cơ thể thong thả trong nước nóng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "そして汚（よご）れたお湯（ゆ）を全部捨（ぜんぶす）てました。",
+          "japaneseHtml": "そして<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れたお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>を<ruby>全部捨<rp>（</rp><rt>ぜんぶす</rt><rp>）</rp></ruby>てました。",
+          "vietnamese": "Và tôi đã đổ toàn bộ nước nóng đã bẩn.",
+          "vietnameseHtml": "Và tôi đã đổ toàn bộ nước nóng đã bẩn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "次（つぎ）にお父（とう）さんが風呂場（ふろば）へ行（い）きました。",
+          "japaneseHtml": "<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>にお<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんが<ruby>風呂場<rp>（</rp><rt>ふろば</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "Tiếp theo người bố đã vào phòng tắm.",
+          "vietnameseHtml": "Tiếp theo người bố đã vào phòng tắm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「あれ？お湯（ゆ）が入（はい）っていない。」お父（とう）さんはびっくりしました。",
+          "japaneseHtml": "「あれ？お<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていない。」お<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんはびっくりしました。",
+          "vietnamese": "Người bố đã ngạc nhiên “Ủa, sao không có nước nóng”.",
+          "vietnameseHtml": "Người bố đã ngạc nhiên “Ủa, sao không có nước nóng”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）のおふろは、バスタブの外（そと）で体（からだ）を洗（あら）ってから、中（なか）に入（はい）るんですね。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のおふろは、バスタブの<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>で<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>ってから、<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>るんですね。",
+          "vietnamese": "Bồn tắm ở Nhật thì sau khi tắm rửa cơ thể ở ngoài bồn tắm thì mới ngâm mình vào trong.",
+          "vietnameseHtml": "Bồn tắm ở Nhật thì sau khi tắm rửa cơ thể ở ngoài bồn tắm thì mới ngâm mình vào trong."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "知（し）りませんでした。",
+          "japaneseHtml": "<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>りませんでした。",
+          "vietnamese": "Tôi đã không biết điều đó.",
+          "vietnameseHtml": "Tôi đã không biết điều đó."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）は水曜日（すいようび）の夜（よる）、日本人（にほんじん）の友達（ともだち）のうちで、スペイン語（ご）を教（おし）えています。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>水曜日<rp>（</rp><rt>すいようび</rt><rp>）</rp></ruby>の<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちで、スペイン<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>を<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えています。",
+          "vietnamese": "Tôi đang dạy tiếng Tây Ban Nha ở nhà bạn người Nhật vào tối thứ 3.",
+          "vietnameseHtml": "Tôi đang dạy tiếng Tây Ban Nha ở nhà bạn người Nhật vào tối thứ 3."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "先週友達（せんしゅうともだち）が「来月（らいげつ）スペインへ旅行（りょこう）に行（い）きますから、もっと勉強（べんきょう）したいです」と言（い）いました。",
+          "japaneseHtml": "<ruby>先週友達<rp>（</rp><rt>せんしゅうともだち</rt><rp>）</rp></ruby>が「<ruby>来月<rp>（</rp><rt>らいげつ</rt><rp>）</rp></ruby>スペインへ<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きますから、もっと<ruby>勉強<rp>（</rp><rt>べんきょう</rt><rp>）</rp></ruby>したいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Tuần trước người bạn đã nói rằng: “Tháng sau sẽ đi đến Tây Ban Nha du lịch nên muốn học nhiều hơn”.",
+          "vietnameseHtml": "Tuần trước người bạn đã nói rằng: “Tháng sau sẽ đi đến Tây Ban Nha du lịch nên muốn học nhiều hơn”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）は「じゃ、土曜日（どようび）も来（き）ましょうか」と聞（き）きました。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は「じゃ、<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>も<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ましょうか」と<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "Tôi đã hỏi: “Vậy thứ bảy cũng đến nhé?”",
+          "vietnameseHtml": "Tôi đã hỏi: “Vậy thứ bảy cũng đến nhé?”"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "彼（かれ）は「土曜日（どようび）はいいです」と言（い）いました。",
+          "japaneseHtml": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は「<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Anh ấy đã trả lời rằng: “Thứ bảy thì được”.",
+          "vietnameseHtml": "Anh ấy đã trả lời rằng: “Thứ bảy thì được”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "土曜日（どようび）に友（とも）だちのうちへ行（い）きました。",
+          "japaneseHtml": "<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>に<ruby>友<rp>（</rp><rt>とも</rt><rp>）</rp></ruby>だちのうちへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "Tôi đã đến nhà bạn vào chủ nhật.",
+          "vietnameseHtml": "Tôi đã đến nhà bạn vào chủ nhật."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "家（いえ）の電気（でんき）は消（き）えていました。",
+          "japaneseHtml": "<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby>は<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えていました。",
+          "vietnamese": "Điện trong nhà đã tắt.",
+          "vietnameseHtml": "Điện trong nhà đã tắt."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ベルを押（お）しましたが、返事（へんじ）がありませんでした。",
+          "japaneseHtml": "ベルを<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>しましたが、<ruby>返事<rp>（</rp><rt>へんじ</rt><rp>）</rp></ruby>がありませんでした。",
+          "vietnamese": "Nhấn chuông nhưng không ai phản hồi.",
+          "vietnameseHtml": "Nhấn chuông nhưng không ai phản hồi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日曜日（にちようび）、彼（かれ）に電話（でんわ）しました。「昨日（きのう）、あなたのうちへ行（い）きましたよ。」「『土曜日（どようび）はいいです』」と言（い）ったでしょう？」",
+          "japaneseHtml": "<ruby>日曜日<rp>（</rp><rt>にちようび</rt><rp>）</rp></ruby>、<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>しました。「<ruby>昨日<rp>（</rp><rt>きのう</rt><rp>）</rp></ruby>、あなたのうちへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きましたよ。」「『<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです』」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったでしょう？」",
+          "vietnamese": "Chủ nhật, tôi đã điện thoại cho anh ấy. “Hôm qua tôi đã đến nhà bạn ấy”. Chẳng phải bạn nói “Thứ 7 thì tốt” sao?",
+          "vietnameseHtml": "Chủ nhật, tôi đã điện thoại cho anh ấy. “Hôm qua tôi đã đến nhà bạn ấy”. Chẳng phải bạn nói “Thứ 7 thì tốt” sao?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>Giải thích: いいです ở đây tùy vào ngữ cảnh và cách nhấn nhá để nắm bắt ý nghĩa mà người nói muốn truyền tải. Ngoài nghĩa khẳng định “được”, “tốt” thì nó cũng mang nghĩa phủ định “thôi được rồi…”</p> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1. 正（ただ）しいものに〇、正（ただ）しくないものに☓を書（か）いてください。",
+          "japaneseHtml": "I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに☓を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy viết O vào câu đúng, X vào câu không đúng.",
+          "vietnameseHtml": "Hãy viết O vào câu đúng, X vào câu không đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（〇）ライトさんは特急電車（とっきゅうでんしゃ）に乗（の）ってしました。",
+          "japaneseHtml": "1)（<b>〇</b>）ライトさんは<ruby>特急電車<rp>（</rp><rt>とっきゅうでんしゃ</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>ってしました。",
+          "vietnamese": "Wright đã lên tàu điện tốc hành.",
+          "vietnameseHtml": "Wright đã lên tàu điện tốc hành."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（Ｘ）ライトさんの友達（ともだち）のうちから近（ちか）い駅（えき）は特急（とっきゅう）が止（と）まる。",
+          "japaneseHtml": "2)（<b>Ｘ</b>）ライトさんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>のうちから<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>い<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>は<ruby>特急<rp>（</rp><rt>とっきゅう</rt><rp>）</rp></ruby>が<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まる。",
+          "vietnamese": "Xe điện tốc hành dừng lại ở nhà ga gần nhà người bạn của Wright.",
+          "vietnameseHtml": "Xe điện tốc hành dừng lại ở nhà ga gần nhà người bạn của Wright."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（Ｘ）日本（にほん）のお風呂（ふろ）は、バスタブの中（なか）で体（からだ）をきれいに洗（あら）ってお湯（ゆ）を捨（す）てる。",
+          "japaneseHtml": "3)（<b>Ｘ</b>）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は、バスタブの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>で<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>をきれいに<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>ってお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>を<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てる。",
+          "vietnamese": "Bồn tắm ở Nhật thì tắm rửa cơ thể sạch sẽ trong bồn tắm rồi xả nước nóng đi.",
+          "vietnameseHtml": "Bồn tắm ở Nhật thì tắm rửa cơ thể sạch sẽ trong bồn tắm rồi xả nước nóng đi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（〇）ミゲルさんは「いいです」に意味（いみ）を間違（まちが）えた。",
+          "japaneseHtml": "4)（<b>〇</b>）ミゲルさんは「いいです」に<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>を<ruby>間違<rp>（</rp><rt>まちが</rt><rp>）</rp></ruby>えた。",
+          "vietnamese": "Miguel đã nhầm lẫn ý nghĩa của từ “いいです”.",
+          "vietnameseHtml": "Miguel đã nhầm lẫn ý nghĩa của từ “いいです”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2．答（こた）えてください。",
+          "japaneseHtml": "2．<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えてください。",
+          "vietnamese": "Hãy trả lời câu hỏi.",
+          "vietnameseHtml": "Hãy trả lời câu hỏi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1) ライトさんはどうしてうれしかったのですか。",
+          "japaneseHtml": "1) ライトさんはどうしてうれしかったのですか。",
+          "vietnamese": "Tại sao Wright đã vui mừng?",
+          "vietnameseHtml": "Tại sao Wright đã vui mừng?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <b>Đáp án:"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "友達（ともだち）が駅（えき）で待（ま）っていてくれたから。",
+          "japaneseHtml": "<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が<ruby>駅<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>で<ruby>待<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>っていてくれたから。",
+          "vietnamese": "Vì người bạn đã đợi ở nhà ga.",
+          "vietnameseHtml": "Vì người bạn đã đợi ở nhà ga."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2) ジョンさんがホームステイしたうちのお父（とう）さんはどうしてびっくりしましたか。",
+          "japaneseHtml": "2) ジョンさんがホームステイしたうちのお<ruby>父<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>さんはどうしてびっくりしましたか。",
+          "vietnamese": "Tại sao người bố của nhà mà John đã Homestay bất ngờ?",
+          "vietnameseHtml": "Tại sao người bố của nhà mà John đã Homestay bất ngờ?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <b>Đáp án:"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "バスタブにお湯（ゆ）が入（はい）っていなかったから。",
+          "japaneseHtml": "バスタブにお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていなかったから。",
+          "vietnamese": "Vì ở bồn tắm không có nước nóng.",
+          "vietnameseHtml": "Vì ở bồn tắm không có nước nóng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3) ミゲルさんの友達（ともだち）は土曜日（どようび）、どうしてうちにいませんでしたか。",
+          "japaneseHtml": "3) ミゲルさんの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>、どうしてうちにいませんでしたか。",
+          "vietnamese": "Tại sao người bạn của Miguel vào thứ 7 không có nhà?",
+          "vietnameseHtml": "Tại sao người bạn của Miguel vào thứ 7 không có nhà?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <b>Đáp án:"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「土曜日（どようび）はいいです」と言（い）ったから。",
+          "japaneseHtml": "「<ruby>土曜日<rp>（</rp><rt>どようび</rt><rp>）</rp></ruby>はいいです」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったから。",
+          "vietnamese": "Vì đã nói “Thứ 7 thì được”",
+          "vietnameseHtml": "Vì đã nói “Thứ 7 thì được”"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II あなたやあなたの友達（ともだち）は日本（にほん）で何（なに）か失敗（しっぱい）をしましたか。",
+          "japaneseHtml": "II あなたやあなたの<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>は<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>をしましたか。",
+          "vietnamese": "Bạn hay bạn bè của bạn đã có sai lầm gì đó ở Nhật?",
+          "vietnameseHtml": "Bạn hay bạn bè của bạn đã có sai lầm gì đó ở Nhật?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どんな失敗（しっぱい）でしたか。",
+          "japaneseHtml": "どんな<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>でしたか。",
+          "vietnamese": "Là những sai lầm như thế nào?",
+          "vietnameseHtml": "Là những sai lầm như thế nào?"
+        }
+      ]
+    }
+  ]
+}

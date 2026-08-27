@@ -1,0 +1,604 @@
+{
+  "lesson": 45,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きゅうきゅうしゃ</b></div> <div class=\"kanji\">救急車</div> <div class=\"nghia_viet\">xe cấp cứu</div> <div class=\"nghia_anh\">ambulance</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しかし</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nhưng</div> <div class=\"nghia_anh\">but</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うまく</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">trôi chảy</div> <div class=\"nghia_anh\">properly</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>むだにします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">làm lãng phí</div> <div class=\"nghia_anh\">waste</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しょうぼうしょ</b></div> <div class=\"kanji\">消防署</div> <div class=\"nghia_viet\">trạm cứu hỏa</div> <div class=\"nghia_anh\">fire department</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おちつきます</b></div> <div class=\"kanji\">落ち着きます</div> <div class=\"nghia_viet\">bình tĩnh, tĩnh tâm</div> <div class=\"nghia_anh\">calm down</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たいていの</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">hầu hết</div> <div class=\"nghia_anh\">most</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ちゃんと</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">cẩn thận, nghiêm chỉnh</div> <div class=\"nghia_anh\">properly</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しょうぼうしゃ</b></div> <div class=\"kanji\">消防車</div> <div class=\"nghia_viet\">xe cứu hỏa</div> <div class=\"nghia_anh\">fire engine</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ねんれい</b></div> <div class=\"kanji\">年齢</div> <div class=\"nghia_viet\">tuổi</div> <div class=\"nghia_anh\">age</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>そば</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">bên cạnh</div> <div class=\"nghia_anh\">near</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あわてます</b></div> <div class=\"kanji\">慌てます</div> <div class=\"nghia_viet\">hấp tấp, vội vàng</div> <div class=\"nghia_anh\">be confused</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>アドバイスします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">khuyên, khuyên bảo</div> <div class=\"nghia_anh\">advice</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひじょう</b></div> <div class=\"kanji\">非常</div> <div class=\"nghia_viet\">khẩn cấp</div> <div class=\"nghia_anh\">emergency </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さけびます</b></div> <div class=\"kanji\">叫びます</div> <div class=\"nghia_viet\">hét, kêu to</div> <div class=\"nghia_anh\">shout</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>スピード</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">tốc độ</div> <div class=\"nghia_anh\">speed</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>バックします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">lùi</div> <div class=\"nghia_anh\">back</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ブレーキ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">phanh</div> <div class=\"nghia_anh\">brake</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふしぎ「な」</b></div> <div class=\"kanji\">不思議「な」</div> <div class=\"nghia_viet\">kì lạ, lạ lùng</div> <div class=\"nghia_anh\">strange</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ページ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">trang </div> <div class=\"nghia_anh\">page</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける</b></h3> <p></p> <ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったり、<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きなけがをしたりした<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、すぐ１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかけて、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>を<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ばなければなりません。 しかし、<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をしたのに、うまく<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せなくて、<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を<ruby>無駄<rp>（</rp><rt>むだ</rt><rp>）</rp></ruby>にしてしまう<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>があります。 <p></p> <ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>で、こんな<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。 「ある<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>の<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>がありました。 <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が『<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんが <ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんが』と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いながら<ruby>泣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>いているです。 でも、<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんがどうしたのか、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>はどこへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>けばいいのか、わかりません。 『<ruby>大丈夫<rp>（</rp><rt>だいじょうぶ</rt><rp>）</rp></ruby>ですから、<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いてください』と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って、やっと<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>くことができましたが、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>の<ruby>出発<rp>（</rp><rt>しゅっぱつ</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>遅<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>れてしまいました。 <ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>が<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れたり、けがをしたりすると、たいていの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はびっくりして、ちゃんと<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せなくなるんですね。」 <p></p> こんな<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、どうすれば<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>で<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>なことをきちゃんと<ruby>伝<rp>（</rp><rt>つた</rt><rp>）</rp></ruby>えることができるか、<ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみました。 <p></p> <ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>なことは<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の４つです。 <p></p> ①まず、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>か<ruby>火事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>か、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。（<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>、<ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は<ruby>消防車<rp>（</rp><rt>しょうぼうしゃ</rt><rp>）</rp></ruby>） <p></p> ②<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。 <p></p> ➂<ruby>病院<rp>（</rp><rt>びょういん</rt><rp>）</rp></ruby>へ<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶ<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>か<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>か、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。<ruby>年齢<rp>（</rp><rt>ねんれい</rt><rp>）</rp></ruby>も<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。 <p></p> ④<ruby>様子<rp>（</rp><rt>ようす</rt><rp>）</rp></ruby>を<ruby>説明<rp>（</rp><rt>せつめい</rt><rp>）</rp></ruby>する。 <p></p> 「<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>のそばに、<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>、<ruby>電話番号<rp>（</rp><rt>でんわばんごう</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあるメモをはっておいてください。 <ruby>慌<rp>（</rp><rt>あわ</rt><rp>）</rp></ruby>てていても、メモがあれば、それを<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>むことができます。 <ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちも<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>きます」と、 <ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はアドバイスしてくれました。 <p></p> <ruby>非常<rp>（</rp><rt>ひじょう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>に、うまく<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>がかけられるように、<ruby>準備<rp>（</rp><rt>じゅんび</rt><rp>）</rp></ruby>しておきましょう。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったら、しばらく<ruby>様子<rp>（</rp><rt>ようす</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>てから、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける。 <p></p> 2)（ ） <ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>も、<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になった<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>も、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>する。 <p></p> 3)（ ） １１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかけるとき、<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を<ruby>必<rp>（</rp><rt>かなら</rt><rp>）</rp></ruby>ず<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。 <p></p> 4)（ ） <ruby>非常<rp>（</rp><rt>ひじょう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>で<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>なことを<ruby>伝<rp>（</rp><rt>つた</rt><rp>）</rp></ruby>えるのにメモが<ruby>役<rp>（</rp><rt>やく</rt><rp>）</rp></ruby>に<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>つ。 <p></p>II あなたや<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>が<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったり、けがをしたりしたことがありますか。 <p></p> その<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、どうしましたか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Gọi điện đến số 119.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったり、<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きなけがをしたりした<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、すぐ１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかけて、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>を<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ばなければなりません。</div><div class=\"kqdich\"><div class=\"nddich\">Trong trường hợp bị bệnh khẩn cấp, hay bị thương nặng ngay lập tức gọi xe cứu thương bằng cách điện thoại đến số 119.</div></div></div> <div class=\"tudich\"><div class=\"candich\">しかし、<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をしたのに、うまく<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せなくて、<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を<ruby>無駄<rp>（</rp><rt>むだ</rt><rp>）</rp></ruby>にしてしまう<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>があります。</div><div class=\"kqdich\"><div class=\"nddich\">Tuy nhiên, có trường hợp gây lãng phí thời gian vì cho dù gọi điện nhưng mà không thể nói trôi chảy.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>で、こんな<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã nghe câu chuyện như thế này ở Cục cứu hộ. </div></div></div> <div class=\"tudich\"><div class=\"candich\">「ある<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>の<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>がありました。</div><div class=\"kqdich\"><div class=\"nddich\">Một ngày nọ, có cuộc gọi đến số 119.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が『<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんが <ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんが』と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いながら<ruby>泣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>いているです。</div><div class=\"kqdich\"><div class=\"nddich\">Người phụ nữa vừa khóc vừa nói rằng: “Đứa bé, đứa bé”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">でも、<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんがどうしたのか、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>はどこへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>けばいいのか、わかりません。</div><div class=\"kqdich\"><div class=\"nddich\">Nhưng mà, không biết đứa bé bị làm sao, không biết xe cứu thương nên đi đến đâu.</div></div></div> <div class=\"tudich\"><div class=\"candich\">『<ruby>大丈夫<rp>（</rp><rt>だいじょうぶ</rt><rp>）</rp></ruby>ですから、<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いてください』と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って、やっと<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>くことができましたが、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>の<ruby>出発<rp>（</rp><rt>しゅっぱつ</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>遅<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>れてしまいました。</div><div class=\"kqdich\"><div class=\"nddich\">Nói rằng: “Không sao đâu hãy bình tĩnh “, và cuối cùng tôi đã có thể hỏi được tên và địa điểm nhưng xe cứu thương xuất phát trễ một chút.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>が<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れたり、けがをしたりすると、たいていの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はびっくりして、ちゃんと<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せなくなるんですね。」</div><div class=\"kqdich\"><div class=\"nddich\">Khi một thành viên trong gia đình đột ngột bị ngã xuống, hay bị thương thì hầu hết đều hoảng sợ và không thể nói chuyện rõ ràng.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">こんな<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、どうすれば<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>で<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>なことをきちゃんと<ruby>伝<rp>（</rp><rt>つた</rt><rp>）</rp></ruby>えることができるか、<ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã thử hỏi người ở Cục cứu hộ, những lúc như thế này thì nên làm gì để có thể truyền đạt rõ ràng những điều quan trọng qua điện thoại.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>なことは<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の４つです。</div><div class=\"kqdich\"><div class=\"nddich\">Việc quan trọng là bốn điều tiếp theo.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">①まず、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>か<ruby>火事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>か、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。（<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>、<ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は<ruby>消防車<rp>（</rp><rt>しょうぼうしゃ</rt><rp>）</rp></ruby>）</div><div class=\"kqdich\"><div class=\"nddich\">Trước tiên, nói hỏa hoạn hay bị bệnh. (Trong trường hợp bị bệnh là xe cứu thương, trường hợp hỏa hạn thì xe cứu hỏa.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">②<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。</div><div class=\"kqdich\"><div class=\"nddich\">Nói tên và địa chỉ.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">➂<ruby>病院<rp>（</rp><rt>びょういん</rt><rp>）</rp></ruby>へ<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶ<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>か<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>か、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。<ruby>年齢<rp>（</rp><rt>ねんれい</rt><rp>）</rp></ruby>も<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。</div><div class=\"kqdich\"><div class=\"nddich\">Người vận chuyển đến bệnh viện thì là nam hay nữ. Cũng nói tuổi tác.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">④<ruby>様子<rp>（</rp><rt>ようす</rt><rp>）</rp></ruby>を<ruby>説明<rp>（</rp><rt>せつめい</rt><rp>）</rp></ruby>する。</div><div class=\"kqdich\"><div class=\"nddich\">Giải thích tình trạng.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">「<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>のそばに、<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>、<ruby>電話番号<rp>（</rp><rt>でんわばんごう</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあるメモをはっておいてください。</div><div class=\"kqdich\"><div class=\"nddich\">Bên cạnh điện thoại hãy dán ghi chú có viết số điện thoại, tên và địa chỉ.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>慌<rp>（</rp><rt>あわ</rt><rp>）</rp></ruby>てていても、メモがあれば、それを<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>むことができます。</div><div class=\"kqdich\"><div class=\"nddich\">Cho dù hoảng sợ nhưng nếu có ghi chú thì có thể đọc được.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちも<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>きます」と、</div><div class=\"kqdich\"><div class=\"nddich\">Tâm trạng cũng bình tĩnh.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はアドバイスしてくれました。</div><div class=\"kqdich\"><div class=\"nddich\">Người ở Cục cứu hộ đã khuyên như vậy.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>非常<rp>（</rp><rt>ひじょう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>に、うまく<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>がかけられるように、<ruby>準備<rp>（</rp><rt>じゅんび</rt><rp>）</rp></ruby>しておきましょう。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy chuẩn bị sẵn để có thể gọi điện trôi chảy trong những trường hợp khẩn cấp.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy điền 〇 vào câu đúng, ✕ vào câu không đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>Ｘ</b>）<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったら、しばらく<ruby>様子<rp>（</rp><rt>ようす</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>てから、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu bị bệnh khẩn cấp, sau khi xem tình trạng một lúc, rồi gọi vào số 119.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>〇</b>）<ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>も、<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になった<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>も、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>する。</div><div class=\"kqdich\"><div class=\"nddich\">Trong trường hợp hỏa hạn, trong trường hợp bị bệnh khẩn cấp cũng đều gọi vào số 119.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>〇</b>）１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかけるとき、<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を<ruby>必<rp>（</rp><rt>かなら</rt><rp>）</rp></ruby>ず<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。</div><div class=\"kqdich\"><div class=\"nddich\">Khi gọi vào số 119, nhất định nói địa chỉ và tên.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（<b>〇</b>）<ruby>非常<rp>（</rp><rt>ひじょう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>で<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>なことを<ruby>伝<rp>（</rp><rt>つた</rt><rp>）</rp></ruby>えるのにメモが<ruby>役<rp>（</rp><rt>やく</rt><rp>）</rp></ruby>に<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>つ。</div><div class=\"kqdich\"><div class=\"nddich\">Trong trường hợp khẩn cấp, việc ghi chú có ích cho việc truyền đạt những điều quan trọng qua điện thoại.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">II あなたや<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>が<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったり、けがをしたりしたことがありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn hay gia đình đã từng bị bệnh khẩn cấp hay bị thương chưa?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> その<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、どうしましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Khi đó, bạn đã làm như thế nào?</div></div></div> </div> </div><!--END--> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "１１９番（ばん）に電話（でんわ）をかける",
+          "textHtml": "<b>１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったり、<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きなけがをしたりした<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、すぐ１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかけて、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>を<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ばなければなりません。 しかし、<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をしたのに、うまく<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せなくて、<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を<ruby>無駄<rp>（</rp><rt>むだ</rt><rp>）</rp></ruby>にしてしまう<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>があります。 <p></p> <ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>で、こんな<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。 「ある<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>の<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>がありました。 <ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が『<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんが <ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんが』と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いながら<ruby>泣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>いているです。 でも、<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんがどうしたのか、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>はどこへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>けばいいのか、わかりません。 『<ruby>大丈夫<rp>（</rp><rt>だいじょうぶ</rt><rp>）</rp></ruby>ですから、<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いてください』と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って、やっと<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>くことができましたが、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>の<ruby>出発<rp>（</rp><rt>しゅっぱつ</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>遅<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>れてしまいました。 <ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>が<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れたり、けがをしたりすると、たいていの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はびっくりして、ちゃんと<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せなくなるんですね。」 <p></p> こんな<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、どうすれば<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>で<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>なことをきちゃんと<ruby>伝<rp>（</rp><rt>つた</rt><rp>）</rp></ruby>えることができるか、<ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみました。 <p></p> <ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>なことは<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の４つです。 <p></p> ①まず、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>か<ruby>火事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>か、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。（<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>、<ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は<ruby>消防車<rp>（</rp><rt>しょうぼうしゃ</rt><rp>）</rp></ruby>） <p></p> ②<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。 <p></p> ➂<ruby>病院<rp>（</rp><rt>びょういん</rt><rp>）</rp></ruby>へ<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶ<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>か<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>か、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。<ruby>年齢<rp>（</rp><rt>ねんれい</rt><rp>）</rp></ruby>も<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。 <p></p> ④<ruby>様子<rp>（</rp><rt>ようす</rt><rp>）</rp></ruby>を<ruby>説明<rp>（</rp><rt>せつめい</rt><rp>）</rp></ruby>する。 <p></p> 「<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>のそばに、<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>、<ruby>電話番号<rp>（</rp><rt>でんわばんごう</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあるメモをはっておいてください。 <ruby>慌<rp>（</rp><rt>あわ</rt><rp>）</rp></ruby>てていても、メモがあれば、それを<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>むことができます。 <ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちも<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>きます」と、 <ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はアドバイスしてくれました。 <p></p> <ruby>非常<rp>（</rp><rt>ひじょう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>に、うまく<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>がかけられるように、<ruby>準備<rp>（</rp><rt>じゅんび</rt><rp>）</rp></ruby>しておきましょう。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったら、しばらく<ruby>様子<rp>（</rp><rt>ようす</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>てから、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける。 <p></p> 2)（ ） <ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>も、<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になった<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>も、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>する。 <p></p> 3)（ ） １１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかけるとき、<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を<ruby>必<rp>（</rp><rt>かなら</rt><rp>）</rp></ruby>ず<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。 <p></p> 4)（ ） <ruby>非常<rp>（</rp><rt>ひじょう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>で<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>なことを<ruby>伝<rp>（</rp><rt>つた</rt><rp>）</rp></ruby>えるのにメモが<ruby>役<rp>（</rp><rt>やく</rt><rp>）</rp></ruby>に<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>つ。 <p></p>II あなたや<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>が<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったり、けがをしたりしたことがありますか。 <p></p> その<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、どうしましたか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Gọi điện đến số 119.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "１１９番（ばん）に電話（でんわ）をかける",
+              "textHtml": "<b>１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける</b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Gọi điện đến số 119."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "急（きゅう）に病気（びょうき）になったり、大（おお）きなけがをしたりした場合（ばあい）は、すぐ１１９番（ばん）に電話（でんわ）をかけて、救急車（きゅうきゅうしゃ）を呼（よ）ばなければなりません。",
+          "japaneseHtml": "<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったり、<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きなけがをしたりした<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、すぐ１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかけて、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>を<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ばなければなりません。",
+          "vietnamese": "Trong trường hợp bị bệnh khẩn cấp, hay bị thương nặng ngay lập tức gọi xe cứu thương bằng cách điện thoại đến số 119.",
+          "vietnameseHtml": "Trong trường hợp bị bệnh khẩn cấp, hay bị thương nặng ngay lập tức gọi xe cứu thương bằng cách điện thoại đến số 119."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しかし、電話（でんわ）をしたのに、うまく話（はな）せなくて、時間（じかん）を無駄（むだ）にしてしまう場合（ばあい）があります。",
+          "japaneseHtml": "しかし、<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をしたのに、うまく<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せなくて、<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を<ruby>無駄<rp>（</rp><rt>むだ</rt><rp>）</rp></ruby>にしてしまう<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>があります。",
+          "vietnamese": "Tuy nhiên, có trường hợp gây lãng phí thời gian vì cho dù gọi điện nhưng mà không thể nói trôi chảy.",
+          "vietnameseHtml": "Tuy nhiên, có trường hợp gây lãng phí thời gian vì cho dù gọi điện nhưng mà không thể nói trôi chảy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "消防署（しょうぼうしょ）で、こんな話（はなし）を聞（き）きました。",
+          "japaneseHtml": "<ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>で、こんな<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "Tôi đã nghe câu chuyện như thế này ở Cục cứu hộ.",
+          "vietnameseHtml": "Tôi đã nghe câu chuyện như thế này ở Cục cứu hộ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「ある日（ひ）、１１９番（ばん）の電話（でんわ）がありました。",
+          "japaneseHtml": "「ある<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>の<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>がありました。",
+          "vietnamese": "Một ngày nọ, có cuộc gọi đến số 119.",
+          "vietnameseHtml": "Một ngày nọ, có cuộc gọi đến số 119."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "女（おんな）の人（ひと）が『赤（あか）ちゃんが 赤（あか）ちゃんが』と言（い）いながら泣（な）いているです。",
+          "japaneseHtml": "<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が『<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんが <ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんが』と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いながら<ruby>泣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>いているです。",
+          "vietnamese": "Người phụ nữa vừa khóc vừa nói rằng: “Đứa bé, đứa bé”.",
+          "vietnameseHtml": "Người phụ nữa vừa khóc vừa nói rằng: “Đứa bé, đứa bé”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "でも、赤（あか）ちゃんがどうしたのか、救急車（きゅうきゅうしゃ）はどこへ行（い）けばいいのか、わかりません。",
+          "japaneseHtml": "でも、<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>ちゃんがどうしたのか、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>はどこへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>けばいいのか、わかりません。",
+          "vietnamese": "Nhưng mà, không biết đứa bé bị làm sao, không biết xe cứu thương nên đi đến đâu.",
+          "vietnameseHtml": "Nhưng mà, không biết đứa bé bị làm sao, không biết xe cứu thương nên đi đến đâu."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "『大丈夫（だいじょうぶ）ですから、落（お）ち着（つ）いてください』と言（い）って、やっと住所（じゅうしょ）と名前（なまえ）を聞（き）くことができましたが、救急車（きゅうきゅうしゃ）の出発（しゅっぱつ）が少（すこ）し遅（おく）れてしまいました。",
+          "japaneseHtml": "『<ruby>大丈夫<rp>（</rp><rt>だいじょうぶ</rt><rp>）</rp></ruby>ですから、<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いてください』と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って、やっと<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>くことができましたが、<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>の<ruby>出発<rp>（</rp><rt>しゅっぱつ</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>遅<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>れてしまいました。",
+          "vietnamese": "Nói rằng: “Không sao đâu hãy bình tĩnh “, và cuối cùng tôi đã có thể hỏi được tên và địa điểm nhưng xe cứu thương xuất phát trễ một chút.",
+          "vietnameseHtml": "Nói rằng: “Không sao đâu hãy bình tĩnh “, và cuối cùng tôi đã có thể hỏi được tên và địa điểm nhưng xe cứu thương xuất phát trễ một chút."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "急（きゅう）に家族（かぞく）が倒（たお）れたり、けがをしたりすると、たいていの人（ひと）はびっくりして、ちゃんと話（はな）せなくなるんですね。」",
+          "japaneseHtml": "<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>が<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れたり、けがをしたりすると、たいていの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はびっくりして、ちゃんと<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>せなくなるんですね。」",
+          "vietnamese": "Khi một thành viên trong gia đình đột ngột bị ngã xuống, hay bị thương thì hầu hết đều hoảng sợ và không thể nói chuyện rõ ràng.",
+          "vietnameseHtml": "Khi một thành viên trong gia đình đột ngột bị ngã xuống, hay bị thương thì hầu hết đều hoảng sợ và không thể nói chuyện rõ ràng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "こんな時（とき）、どうすれば電話（でんわ）で必要（ひつよう）なことをきちゃんと伝（つた）えることができるか、消防署（しょうぼうしょ）の人（ひと）に聞（き）いてみました。",
+          "japaneseHtml": "こんな<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、どうすれば<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>で<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>なことをきちゃんと<ruby>伝<rp>（</rp><rt>つた</rt><rp>）</rp></ruby>えることができるか、<ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみました。",
+          "vietnamese": "Tôi đã thử hỏi người ở Cục cứu hộ, những lúc như thế này thì nên làm gì để có thể truyền đạt rõ ràng những điều quan trọng qua điện thoại.",
+          "vietnameseHtml": "Tôi đã thử hỏi người ở Cục cứu hộ, những lúc như thế này thì nên làm gì để có thể truyền đạt rõ ràng những điều quan trọng qua điện thoại."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "大切（たいせつ）なことは次（つぎ）の４つです。",
+          "japaneseHtml": "<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>なことは<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の４つです。",
+          "vietnamese": "Việc quan trọng là bốn điều tiếp theo.",
+          "vietnameseHtml": "Việc quan trọng là bốn điều tiếp theo."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "①まず、病気（びょうき）か火事（かじ）か、言（い）う。（病気（びょうき）の場合（ばあい）は救急車（きゅうきゅうしゃ）、家事（かじ）の場合（ばあい）は消防車（しょうぼうしゃ））",
+          "japaneseHtml": "①まず、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>か<ruby>火事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>か、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。（<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は<ruby>救急車<rp>（</rp><rt>きゅうきゅうしゃ</rt><rp>）</rp></ruby>、<ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は<ruby>消防車<rp>（</rp><rt>しょうぼうしゃ</rt><rp>）</rp></ruby>）",
+          "vietnamese": "Trước tiên, nói hỏa hoạn hay bị bệnh. (Trong trường hợp bị bệnh là xe cứu thương, trường hợp hỏa hạn thì xe cứu hỏa.",
+          "vietnameseHtml": "Trước tiên, nói hỏa hoạn hay bị bệnh. (Trong trường hợp bị bệnh là xe cứu thương, trường hợp hỏa hạn thì xe cứu hỏa."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "②名前（なまえ）と住所（じゅうしょ）を言（い）う。",
+          "japaneseHtml": "②<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。",
+          "vietnamese": "Nói tên và địa chỉ.",
+          "vietnameseHtml": "Nói tên và địa chỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "➂病院（びょういん）へ運（はこ）ぶ人（ひと）は男（おとこ）の人（ひと）か女（おんな）の人（ひと）か、言（い）う。年齢（ねんれい）も言（い）う。",
+          "japaneseHtml": "➂<ruby>病院<rp>（</rp><rt>びょういん</rt><rp>）</rp></ruby>へ<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶ<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>か<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>か、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。<ruby>年齢<rp>（</rp><rt>ねんれい</rt><rp>）</rp></ruby>も<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。",
+          "vietnamese": "Người vận chuyển đến bệnh viện thì là nam hay nữ. Cũng nói tuổi tác.",
+          "vietnameseHtml": "Người vận chuyển đến bệnh viện thì là nam hay nữ. Cũng nói tuổi tác."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "④様子（ようす）を説明（せつめい）する。",
+          "japaneseHtml": "④<ruby>様子<rp>（</rp><rt>ようす</rt><rp>）</rp></ruby>を<ruby>説明<rp>（</rp><rt>せつめい</rt><rp>）</rp></ruby>する。",
+          "vietnamese": "Giải thích tình trạng.",
+          "vietnameseHtml": "Giải thích tình trạng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「電話（でんわ）のそばに、住所（じゅうしょ）と名前（なまえ）、電話番号（でんわばんごう）が書（か）いてあるメモをはっておいてください。",
+          "japaneseHtml": "「<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>のそばに、<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>と<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>、<ruby>電話番号<rp>（</rp><rt>でんわばんごう</rt><rp>）</rp></ruby>が<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあるメモをはっておいてください。",
+          "vietnamese": "Bên cạnh điện thoại hãy dán ghi chú có viết số điện thoại, tên và địa chỉ.",
+          "vietnameseHtml": "Bên cạnh điện thoại hãy dán ghi chú có viết số điện thoại, tên và địa chỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "慌（あわ）てていても、メモがあれば、それを読（よ）むことができます。",
+          "japaneseHtml": "<ruby>慌<rp>（</rp><rt>あわ</rt><rp>）</rp></ruby>てていても、メモがあれば、それを<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>むことができます。",
+          "vietnamese": "Cho dù hoảng sợ nhưng nếu có ghi chú thì có thể đọc được.",
+          "vietnameseHtml": "Cho dù hoảng sợ nhưng nếu có ghi chú thì có thể đọc được."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "気持（きも）ちも落（お）ち着（つ）きます」と、",
+          "japaneseHtml": "<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちも<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ち<ruby>着<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>きます」と、",
+          "vietnamese": "Tâm trạng cũng bình tĩnh.",
+          "vietnameseHtml": "Tâm trạng cũng bình tĩnh."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "消防署（しょうぼうしょ）の人（ひと）はアドバイスしてくれました。",
+          "japaneseHtml": "<ruby>消防署<rp>（</rp><rt>しょうぼうしょ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はアドバイスしてくれました。",
+          "vietnamese": "Người ở Cục cứu hộ đã khuyên như vậy.",
+          "vietnameseHtml": "Người ở Cục cứu hộ đã khuyên như vậy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "非常（ひじょう）の場合（ばあい）に、うまく電話（でんわ）がかけられるように、準備（じゅんび）しておきましょう。",
+          "japaneseHtml": "<ruby>非常<rp>（</rp><rt>ひじょう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>に、うまく<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>がかけられるように、<ruby>準備<rp>（</rp><rt>じゅんび</rt><rp>）</rp></ruby>しておきましょう。",
+          "vietnamese": "Hãy chuẩn bị sẵn để có thể gọi điện trôi chảy trong những trường hợp khẩn cấp.",
+          "vietnameseHtml": "Hãy chuẩn bị sẵn để có thể gọi điện trôi chảy trong những trường hợp khẩn cấp."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1. 正（ただ）しいものに〇、正（ただ）しくないものに✕を書（か）いてください。",
+          "japaneseHtml": "I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy điền 〇 vào câu đúng, ✕ vào câu không đúng.",
+          "vietnameseHtml": "Hãy điền 〇 vào câu đúng, ✕ vào câu không đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（Ｘ）急（きゅう）に病気（びょうき）になったら、しばらく様子（ようす）を見（み）てから、１１９番（ばん）に電話（でんわ）をかける。",
+          "japaneseHtml": "1)（<b>Ｘ</b>）<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったら、しばらく<ruby>様子<rp>（</rp><rt>ようす</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>てから、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかける。",
+          "vietnamese": "Nếu bị bệnh khẩn cấp, sau khi xem tình trạng một lúc, rồi gọi vào số 119.",
+          "vietnameseHtml": "Nếu bị bệnh khẩn cấp, sau khi xem tình trạng một lúc, rồi gọi vào số 119."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（〇）家事（かじ）の場合（ばあい）も、急（きゅう）に病気（びょうき）になった場合（ばあい）も、１１９番（ばん）に電話（でんわ）する。",
+          "japaneseHtml": "2)（<b>〇</b>）<ruby>家事<rp>（</rp><rt>かじ</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>も、<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になった<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>も、１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>する。",
+          "vietnamese": "Trong trường hợp hỏa hạn, trong trường hợp bị bệnh khẩn cấp cũng đều gọi vào số 119.",
+          "vietnameseHtml": "Trong trường hợp hỏa hạn, trong trường hợp bị bệnh khẩn cấp cũng đều gọi vào số 119."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（〇）１１９番（ばん）に電話（でんわ）をかけるとき、名前（なまえ）と住所（じゅうしょ）を必（かなら）ず言（い）う。",
+          "japaneseHtml": "3)（<b>〇</b>）１１９<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>に<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>をかけるとき、<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>と<ruby>住所<rp>（</rp><rt>じゅうしょ</rt><rp>）</rp></ruby>を<ruby>必<rp>（</rp><rt>かなら</rt><rp>）</rp></ruby>ず<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う。",
+          "vietnamese": "Khi gọi vào số 119, nhất định nói địa chỉ và tên.",
+          "vietnameseHtml": "Khi gọi vào số 119, nhất định nói địa chỉ và tên."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（〇）非常（ひじょう）の場合（ばあい）は、電話（でんわ）で必要（ひつよう）なことを伝（つた）えるのにメモが役（やく）に立（た）つ。",
+          "japaneseHtml": "4)（<b>〇</b>）<ruby>非常<rp>（</rp><rt>ひじょう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>電話<rp>（</rp><rt>でんわ</rt><rp>）</rp></ruby>で<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>なことを<ruby>伝<rp>（</rp><rt>つた</rt><rp>）</rp></ruby>えるのにメモが<ruby>役<rp>（</rp><rt>やく</rt><rp>）</rp></ruby>に<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>つ。",
+          "vietnamese": "Trong trường hợp khẩn cấp, việc ghi chú có ích cho việc truyền đạt những điều quan trọng qua điện thoại.",
+          "vietnameseHtml": "Trong trường hợp khẩn cấp, việc ghi chú có ích cho việc truyền đạt những điều quan trọng qua điện thoại."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II あなたや家族（かぞく）が急（きゅう）に病気（びょうき）になったり、けがをしたりしたことがありますか。",
+          "japaneseHtml": "II あなたや<ruby>家族<rp>（</rp><rt>かぞく</rt><rp>）</rp></ruby>が<ruby>急<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>に<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>になったり、けがをしたりしたことがありますか。",
+          "vietnamese": "Bạn hay gia đình đã từng bị bệnh khẩn cấp hay bị thương chưa?",
+          "vietnameseHtml": "Bạn hay gia đình đã từng bị bệnh khẩn cấp hay bị thương chưa?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "その時（とき）、どうしましたか。",
+          "japaneseHtml": "その<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、どうしましたか。",
+          "vietnamese": "Khi đó, bạn đã làm như thế nào?",
+          "vietnameseHtml": "Khi đó, bạn đã làm như thế nào?"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Bổ sung",
+      "titleHtml": "Bổ sung",
+      "contentHtml": "<p></p> ある<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ミラーさんは<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>を<ruby>渡<rp>（</rp><rt>わた</rt><rp>）</rp></ruby>っていました。その<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>こう<ruby>側<rp>（</rp><rt>がわ</rt><rp>）</rp></ruby>にいた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ない！」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました ミラーさんは<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>が<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ないのか、よくわかりませんでしたが、<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりました。 <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>がミラーさんの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>をすごいスピードで<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>っていきました。 <p></p> <ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ミラーさんは<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を<ruby>駐車場<rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby>に<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>めようと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>って、バックしていました。 <ruby>隣<rp>（</rp><rt>となり</rt><rp>）</rp></ruby>に<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>っていた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「ぶつかる」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました。 びっくりしたミラーさんはどうしたらいいか、わかりませんでした。 <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>にぶつかってしまいました。 <p></p> ミラーさんはどうして<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まれ」とか、「ブレーキを<ruby>踏<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>め！」とか、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われなかったのか、<ruby>不思議<rp>（</rp><rt>ふしぎ</rt><rp>）</rp></ruby>だと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いました。 <p></p> それで、いろいろな<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>に<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>が<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>うか、<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみました。 <p></p> ☆<ruby>右<rp>（</rp><rt>みぎ</rt><rp>）</rp></ruby>のページの1) ∼ 6)の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、どんな<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p> a ∼ f から<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> a.ぶつかる b.<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ちる c．<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れる <p></p> d.<ruby>折<rp>（</rp><rt>お</rt><rp>）</rp></ruby>れる e.<ruby>邪魔<rp>（</rp><rt>じゃま</rt><rp>）</rp></ruby> f.うるさい <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_1.jpg\" width=\"300px\"> <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_2.jpg\" width=\"300px\"> <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_3.jpg\" width=\"300px\"> <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_4.jpg\" width=\"300px\"> <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_5.jpg\" width=\"300px\"> <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_6.jpg\" width=\"300px\"> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp án & Dịch</span></div> <div class=\"slide-content sl2\"> <p></p><div class=\"tudich\"><div class=\"candich\">ある<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ミラーさんは<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>を<ruby>渡<rp>（</rp><rt>わた</rt><rp>）</rp></ruby>っていました。その<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>こう<ruby>側<rp>（</rp><rt>がわ</rt><rp>）</rp></ruby>にいた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ない！」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました</div><div class=\"kqdich\"><div class=\"nddich\">Một ngày nọ Miller qua đường. Khi đó, bạn người Nhật ở bên kia đường đã hét lên: “Nguy hiểm “.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ミラーさんは<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>が<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ないのか、よくわかりませんでしたが、<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりました。</div><div class=\"kqdich\"><div class=\"nddich\">Miller đã không hiểu điều gì nguy hiểm nhưng đã dừng lại.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>がミラーさんの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>をすごいスピードで<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>っていきました。</div><div class=\"kqdich\"><div class=\"nddich\">Xe ô tô đã chạy với tốc độ rất lớn trước mặt Miller.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ミラーさんは<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を<ruby>駐車場<rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby>に<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>めようと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>って、バックしていました。</div><div class=\"kqdich\"><div class=\"nddich\">Ngày tiếp theo, Miller đã lùi xe định đậu xe ở bãi đỗ xe.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>隣<rp>（</rp><rt>となり</rt><rp>）</rp></ruby>に<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>っていた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「ぶつかる」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn người Nhật ngồi bên cạnh đã hét lên: “Va chạm”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">びっくりしたミラーさんはどうしたらいいか、わかりませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Miller đã hoảng hốt không biết nên làm như thế nào.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>にぶつかってしまいました。</div><div class=\"kqdich\"><div class=\"nddich\">Ô tô đã đâm vào tường ở phía sau.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">ミラーさんはどうして<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まれ」とか、「ブレーキを<ruby>踏<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>め！」とか、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われなかったのか、<ruby>不思議<rp>（</rp><rt>ふしぎ</rt><rp>）</rp></ruby>だと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Miller đã nghĩ rằng: “Thật kì lạ, tại sao người bạn không nói ‘Hãy dừng lại’ hay là ‘Hãy đạp phanh'”.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">それで、いろいろな<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>に<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>が<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>うか、<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみました。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy, nên đã thử hỏi người Nhật nhiều trường hợp họ sẽ nói như thế nào.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">☆<ruby>右<rp>（</rp><rt>みぎ</rt><rp>）</rp></ruby>のページの1) ∼ 6)の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、どんな<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn nghĩ trong trường hợp từ 1 đến 6 ở trang bên phải những từ nào được sử dụng?</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">a ∼ f から<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy lựa chọn từ a đến f.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">a.ぶつかる b.<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ちる c．<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れる</div><div class=\"kqdich\"><div class=\"nddich\">a. Va chạm b. Rơi c. Ngã, đổ</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">d.<ruby>折<rp>（</rp><rt>お</rt><rp>）</rp></ruby>れる e.<ruby>邪魔<rp>（</rp><rt>じゃま</rt><rp>）</rp></ruby> f.うるさい</div><div class=\"kqdich\"><div class=\"nddich\">b. Gãy e. Cản trở f. Ồn ào</div></div></div> <p> Đáp án: 1)c 2)f 3)d 4)a 5)e 6)b </p> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> ある<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ミラーさんは<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>を<ruby>渡<rp>（</rp><rt>わた</rt><rp>）</rp></ruby>っていました。その<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>こう<ruby>側<rp>（</rp><rt>がわ</rt><rp>）</rp></ruby>にいた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ない！」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました ミラーさんは<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>が<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ないのか、よくわかりませんでしたが、<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりました。 <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>がミラーさんの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>をすごいスピードで<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>っていきました。 <p></p> <ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ミラーさんは<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を<ruby>駐車場<rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby>に<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>めようと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>って、バックしていました。 <ruby>隣<rp>（</rp><rt>となり</rt><rp>）</rp></ruby>に<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>っていた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「ぶつかる」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました。 びっくりしたミラーさんはどうしたらいいか、わかりませんでした。 <ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>にぶつかってしまいました。 <p></p> ミラーさんはどうして<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まれ」とか、「ブレーキを<ruby>踏<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>め！」とか、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われなかったのか、<ruby>不思議<rp>（</rp><rt>ふしぎ</rt><rp>）</rp></ruby>だと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いました。 <p></p> それで、いろいろな<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>に<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>が<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>うか、<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみました。 <p></p> ☆<ruby>右<rp>（</rp><rt>みぎ</rt><rp>）</rp></ruby>のページの1) ∼ 6)の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、どんな<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p> a ∼ f から<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> a.ぶつかる b.<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ちる c．<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れる <p></p> d.<ruby>折<rp>（</rp><rt>お</rt><rp>）</rp></ruby>れる e.<ruby>邪魔<rp>（</rp><rt>じゃま</rt><rp>）</rp></ruby> f.うるさい <p></p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai45/doc45_1.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_1.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai45/doc45_2.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_2.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai45/doc45_3.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_3.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai45/doc45_4.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_4.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai45/doc45_5.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_5.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai45/doc45_6.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai45/doc45_6.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp án & Dịch</span></div> <div class=\"slide-content sl2\"> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ある日（ひ）、ミラーさんは道（みち）を渡（わた）っていました。その時（とき）、向（む）こう側（がわ）にいた日本人（にほんじん）の友達（ともだち）が「危（あぶ）ない！」と叫（さけ）びました",
+          "japaneseHtml": "ある<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ミラーさんは<ruby>道<rp>（</rp><rt>みち</rt><rp>）</rp></ruby>を<ruby>渡<rp>（</rp><rt>わた</rt><rp>）</rp></ruby>っていました。その<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>こう<ruby>側<rp>（</rp><rt>がわ</rt><rp>）</rp></ruby>にいた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ない！」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました",
+          "vietnamese": "Một ngày nọ Miller qua đường. Khi đó, bạn người Nhật ở bên kia đường đã hét lên: “Nguy hiểm “.",
+          "vietnameseHtml": "Một ngày nọ Miller qua đường. Khi đó, bạn người Nhật ở bên kia đường đã hét lên: “Nguy hiểm “."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ミラーさんは何（なに）が危（あぶ）ないのか、よくわかりませんでしたが、止（と）まりました。",
+          "japaneseHtml": "ミラーさんは<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>が<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>ないのか、よくわかりませんでしたが、<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まりました。",
+          "vietnamese": "Miller đã không hiểu điều gì nguy hiểm nhưng đã dừng lại.",
+          "vietnameseHtml": "Miller đã không hiểu điều gì nguy hiểm nhưng đã dừng lại."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "車（くるま）がミラーさんの前（まえ）をすごいスピードで走（はし）っていきました。",
+          "japaneseHtml": "<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>がミラーさんの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>をすごいスピードで<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>っていきました。",
+          "vietnamese": "Xe ô tô đã chạy với tốc độ rất lớn trước mặt Miller.",
+          "vietnameseHtml": "Xe ô tô đã chạy với tốc độ rất lớn trước mặt Miller."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "次（つぎ）の日（ひ）、ミラーさんは車（くるま）を駐車場（ちゅうしゃじょう）に止（と）めようと思（おも）って、バックしていました。",
+          "japaneseHtml": "<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ミラーさんは<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を<ruby>駐車場<rp>（</rp><rt>ちゅうしゃじょう</rt><rp>）</rp></ruby>に<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>めようと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>って、バックしていました。",
+          "vietnamese": "Ngày tiếp theo, Miller đã lùi xe định đậu xe ở bãi đỗ xe.",
+          "vietnameseHtml": "Ngày tiếp theo, Miller đã lùi xe định đậu xe ở bãi đỗ xe."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "隣（となり）に座（すわ）っていた日本人（にほんじん）の友達（ともだち）が「ぶつかる」と叫（さけ）びました。",
+          "japaneseHtml": "<ruby>隣<rp>（</rp><rt>となり</rt><rp>）</rp></ruby>に<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>っていた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>の<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「ぶつかる」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました。",
+          "vietnamese": "Bạn người Nhật ngồi bên cạnh đã hét lên: “Va chạm”.",
+          "vietnameseHtml": "Bạn người Nhật ngồi bên cạnh đã hét lên: “Va chạm”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "びっくりしたミラーさんはどうしたらいいか、わかりませんでした。",
+          "japaneseHtml": "びっくりしたミラーさんはどうしたらいいか、わかりませんでした。",
+          "vietnamese": "Miller đã hoảng hốt không biết nên làm như thế nào.",
+          "vietnameseHtml": "Miller đã hoảng hốt không biết nên làm như thế nào."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "車（くるま）は後（うし）ろの壁（かべ）にぶつかってしまいました。",
+          "japaneseHtml": "<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>にぶつかってしまいました。",
+          "vietnamese": "Ô tô đã đâm vào tường ở phía sau.",
+          "vietnameseHtml": "Ô tô đã đâm vào tường ở phía sau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ミラーさんはどうして友達（ともだち）が「止（と）まれ」とか、「ブレーキを踏（ふ）め！」とか、言（い）われなかったのか、不思議（ふしぎ）だと思（おも）いました。",
+          "japaneseHtml": "ミラーさんはどうして<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>が「<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まれ」とか、「ブレーキを<ruby>踏<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>め！」とか、<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われなかったのか、<ruby>不思議<rp>（</rp><rt>ふしぎ</rt><rp>）</rp></ruby>だと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Miller đã nghĩ rằng: “Thật kì lạ, tại sao người bạn không nói ‘Hãy dừng lại’ hay là ‘Hãy đạp phanh'”.",
+          "vietnameseHtml": "Miller đã nghĩ rằng: “Thật kì lạ, tại sao người bạn không nói ‘Hãy dừng lại’ hay là ‘Hãy đạp phanh'”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで、いろいろな場合（ばあい）に日本人（にほんじん）が何（なん）と言（い）うか、聞（き）いてみました。",
+          "japaneseHtml": "それで、いろいろな<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>に<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>が<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>うか、<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみました。",
+          "vietnamese": "Vì vậy, nên đã thử hỏi người Nhật nhiều trường hợp họ sẽ nói như thế nào.",
+          "vietnameseHtml": "Vì vậy, nên đã thử hỏi người Nhật nhiều trường hợp họ sẽ nói như thế nào."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "☆右（みぎ）のページの1) ∼ 6)の場合（ばあい）は、どんな言葉（ことば）が使（つか）われると思（おも）いますか。",
+          "japaneseHtml": "☆<ruby>右<rp>（</rp><rt>みぎ</rt><rp>）</rp></ruby>のページの1) ∼ 6)の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、どんな<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。",
+          "vietnamese": "Bạn nghĩ trong trường hợp từ 1 đến 6 ở trang bên phải những từ nào được sử dụng?",
+          "vietnameseHtml": "Bạn nghĩ trong trường hợp từ 1 đến 6 ở trang bên phải những từ nào được sử dụng?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "a ∼ f から選（えら）んでください。",
+          "japaneseHtml": "a ∼ f から<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。",
+          "vietnamese": "Hãy lựa chọn từ a đến f.",
+          "vietnameseHtml": "Hãy lựa chọn từ a đến f."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "a.ぶつかる b.落（お）ちる c．倒（たお）れる",
+          "japaneseHtml": "a.ぶつかる b.<ruby>落<rp>（</rp><rt>お</rt><rp>）</rp></ruby>ちる c．<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れる",
+          "vietnamese": "a. Va chạm b. Rơi c. Ngã, đổ",
+          "vietnameseHtml": "a. Va chạm b. Rơi c. Ngã, đổ"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "d.折（お）れる e.邪魔（じゃま） f.うるさい",
+          "japaneseHtml": "d.<ruby>折<rp>（</rp><rt>お</rt><rp>）</rp></ruby>れる e.<ruby>邪魔<rp>（</rp><rt>じゃま</rt><rp>）</rp></ruby> f.うるさい",
+          "vietnamese": "b. Gãy e. Cản trở f. Ồn ào",
+          "vietnameseHtml": "b. Gãy e. Cản trở f. Ồn ào"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p> Đáp án: 1)c 2)f 3)d 4)a 5)e 6)b </p> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+        }
+      ]
+    }
+  ]
+}

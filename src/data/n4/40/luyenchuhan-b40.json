@@ -1,0 +1,54 @@
+{
+  "lesson": 40,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca9b5e551364352b62b7c3d",
+      "index": 196,
+      "character": "式",
+      "sinoVietnameseWord": "Nghi",
+      "mean": "Nghi thức",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l17/kanji/img/ceremony-illust01-768x554.png",
+      "reminiscentDescription": "<p>Nghi thức gả c&ocirc;ng ch&uacute;a cho Giặc</p>",
+      "onReading": "シキ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">入学式</td>\n<td style=\"width: 33.3333%; height: 21px;\">にゅうがくしき</td>\n<td style=\"width: 33.3333%; height: 21px;\">Lễ nhập h&agrave;ng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">式</td>\n<td style=\"width: 33.3333%; height: 21px;\">しき</td>\n<td style=\"width: 33.3333%; height: 21px;\">Lễ, nghi thức</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">結婚式</td>\n<td style=\"width: 33.3333%; height: 21px;\">けっこんしき</td>\n<td style=\"width: 33.3333%; height: 21px;\">Lễ kết h&ocirc;n</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">和式</td>\n<td style=\"width: 33.3333%; height: 21px;\">わしき</td>\n<td style=\"width: 33.3333%; height: 21px;\">Phong c&aacute;ch Nhật</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9b66351364352b62b7c42",
+      "index": 197,
+      "character": "全",
+      "sinoVietnameseWord": "Toàn",
+      "mean": "Toàn bộ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l17/kanji/img/2_安全第一_012-1448x2048.png",
+      "reminiscentDescription": "<p>Vua m&agrave; ngồi ở dưới th&igrave; an to&agrave;n</p>",
+      "onReading": "ゼン",
+      "kunReading": "まった、すべ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 83px;\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 33.3333%; height: 17px;\">全部</td>\n<td style=\"width: 33.3333%; height: 17px;\">ぜんぶ</td>\n<td style=\"width: 33.3333%; height: 17px;\">To&agrave;n bộ</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">安全</td>\n<td style=\"width: 33.3333%; height: 22px;\">あんぜん</td>\n<td style=\"width: 33.3333%; height: 22px;\">An to&agrave;n</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">全員</td>\n<td style=\"width: 33.3333%; height: 22px;\">ぜんいん</td>\n<td style=\"width: 33.3333%; height: 22px;\">Đ&ocirc;ng đủ</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">全力</td>\n<td style=\"width: 33.3333%; height: 22px;\">ぜんりょく</td>\n<td style=\"width: 33.3333%; height: 22px;\">To&agrave;n lực</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9b6d651364352b62b7c44",
+      "index": 198,
+      "character": "次",
+      "sinoVietnameseWord": "Thứ",
+      "mean": "Tiếp theo",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l17/kanji/img/istockphoto-479538530-612x612.jpg",
+      "reminiscentDescription": "<p>Nh&agrave; BĂNG kh&ocirc;ng THIẾU THỨ g&igrave;.</p>",
+      "onReading": "ジ、シ",
+      "kunReading": "つぎ、つ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">次</td>\n<td style=\"width: 33.3333%;\">つぎ</td>\n<td style=\"width: 33.3333%;\">Tiếp theo</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">目次</td>\n<td style=\"width: 33.3333%;\">もくじ</td>\n<td style=\"width: 33.3333%;\">Mục lục</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">次男</td>\n<td style=\"width: 33.3333%;\">じなん</td>\n<td style=\"width: 33.3333%;\">Con trai thứ</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9b76d51364352b62b7c48",
+      "index": 199,
+      "character": "以",
+      "sinoVietnameseWord": "Dĩ",
+      "mean": "Dĩ nhiên",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l17/kanji/img/monitor_tenin_nenrei_kakunin.png",
+      "reminiscentDescription": "<p>gười ngược (イ)hay người xu&ocirc;i(人) vốn DĨ (以) vẫn l&agrave; người</p>",
+      "onReading": "イ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 84px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">以上</td>\n<td style=\"width: 33.3333%; height: 21px;\">いじょう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Trở l&ecirc;n</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">以下</td>\n<td style=\"width: 33.3333%; height: 21px;\">いか</td>\n<td style=\"width: 33.3333%; height: 21px;\">Trở xuống</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">以外</td>\n<td style=\"width: 33.3333%; height: 21px;\">いがい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Ngo&agrave;i ra</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">以来</td>\n<td style=\"width: 33.3333%; height: 21px;\">いらい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Từ đ&oacute;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

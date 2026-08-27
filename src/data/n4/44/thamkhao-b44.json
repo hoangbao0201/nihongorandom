@@ -1,0 +1,434 @@
+{
+  "lesson": 44,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "美容院（びよういん）・理髪店（りはつてん） Hiệu làm đẹp, hiệu cắt tóc",
+      "titleHtml": "<ruby>美容院<rp>（</rp><rt>びよういん</rt><rp>）</rp></ruby>・<ruby>理髪店<rp>（</rp><rt>りはつてん</rt><rp>）</rp></ruby> Hiệu làm đẹp, hiệu cắt tóc",
+      "introHtml": "",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "カット",
+              "html": "カット"
+            },
+            {
+              "text": "cắt tóc",
+              "html": "cắt tóc"
+            }
+          ],
+          "term": "カット",
+          "termHtml": "カット",
+          "meaning": "cắt tóc",
+          "meaningHtml": "cắt tóc"
+        },
+        {
+          "cells": [
+            {
+              "text": "パーマ",
+              "html": "パーマ"
+            },
+            {
+              "text": "uốn tóc",
+              "html": "uốn tóc"
+            }
+          ],
+          "term": "パーマ",
+          "termHtml": "パーマ",
+          "meaning": "uốn tóc",
+          "meaningHtml": "uốn tóc"
+        },
+        {
+          "cells": [
+            {
+              "text": "セット",
+              "html": "セット"
+            },
+            {
+              "text": "làm đầu, tạo kiểu tóc (set)",
+              "html": "làm đầu, tạo kiểu tóc (set)"
+            }
+          ],
+          "term": "セット",
+          "termHtml": "セット",
+          "meaning": "làm đầu, tạo kiểu tóc (set)",
+          "meaningHtml": "làm đầu, tạo kiểu tóc (set)"
+        },
+        {
+          "cells": [
+            {
+              "text": "シャンプー",
+              "html": "シャンプー"
+            },
+            {
+              "text": "dầu gội",
+              "html": "dầu gội"
+            }
+          ],
+          "term": "シャンプー",
+          "termHtml": "シャンプー",
+          "meaning": "dầu gội",
+          "meaningHtml": "dầu gội"
+        },
+        {
+          "cells": [
+            {
+              "text": "リンス",
+              "html": "リンス"
+            },
+            {
+              "text": "dầu xả (rinse)",
+              "html": "dầu xả (rinse)"
+            }
+          ],
+          "term": "リンス",
+          "termHtml": "リンス",
+          "meaning": "dầu xả (rinse)",
+          "meaningHtml": "dầu xả (rinse)"
+        },
+        {
+          "cells": [
+            {
+              "text": "トリートメント",
+              "html": "トリートメント"
+            },
+            {
+              "text": "dầu dưỡng tóc",
+              "html": "dầu dưỡng tóc"
+            }
+          ],
+          "term": "トリートメント",
+          "termHtml": "トリートメント",
+          "meaning": "dầu dưỡng tóc",
+          "meaningHtml": "dầu dưỡng tóc"
+        },
+        {
+          "cells": [
+            {
+              "text": "ブロー",
+              "html": "ブロー"
+            },
+            {
+              "text": "sấy tóc",
+              "html": "sấy tóc"
+            }
+          ],
+          "term": "ブロー",
+          "termHtml": "ブロー",
+          "meaning": "sấy tóc",
+          "meaningHtml": "sấy tóc"
+        },
+        {
+          "cells": [
+            {
+              "text": "ヘアダイ",
+              "html": "ヘアダイ"
+            },
+            {
+              "text": "nhuộm tóc",
+              "html": "nhuộm tóc"
+            }
+          ],
+          "term": "ヘアダイ",
+          "termHtml": "ヘアダイ",
+          "meaning": "nhuộm tóc",
+          "meaningHtml": "nhuộm tóc"
+        },
+        {
+          "cells": [
+            {
+              "text": "そる[ひげ/顔（かお）を〜]",
+              "html": "そる[ひげ/<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>を〜]"
+            },
+            {
+              "text": "cạo (râu/ mặt)",
+              "html": "cạo (râu/ mặt)"
+            }
+          ],
+          "term": "そる[ひげ/顔（かお）を〜]",
+          "termHtml": "そる[ひげ/<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>を〜]",
+          "meaning": "cạo (râu/ mặt)",
+          "meaningHtml": "cạo (râu/ mặt)"
+        },
+        {
+          "cells": [
+            {
+              "text": "分（わ）ける[髪（かみ）を〜]",
+              "html": "<ruby>分<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>ける[<ruby>髪<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>を〜]"
+            },
+            {
+              "text": "rẽ ngôi (tóc)",
+              "html": "rẽ ngôi (tóc)"
+            }
+          ],
+          "term": "分（わ）ける[髪（かみ）を〜]",
+          "termHtml": "<ruby>分<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>ける[<ruby>髪<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>を〜]",
+          "meaning": "rẽ ngôi (tóc)",
+          "meaningHtml": "rẽ ngôi (tóc)"
+        },
+        {
+          "cells": [
+            {
+              "text": "耳（みみ）が見（み）えるくらいに",
+              "html": "<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>が<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えるくらいに"
+            },
+            {
+              "text": "để hở tai",
+              "html": "để hở tai"
+            }
+          ],
+          "term": "耳（みみ）が見（み）えるくらいに",
+          "termHtml": "<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>が<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えるくらいに",
+          "meaning": "để hở tai",
+          "meaningHtml": "để hở tai"
+        },
+        {
+          "cells": [
+            {
+              "text": "肩（かた）にかかるくらいに",
+              "html": "<ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>にかかるくらいに"
+            },
+            {
+              "text": "đến cỡ ngang vai",
+              "html": "đến cỡ ngang vai"
+            }
+          ],
+          "term": "肩（かた）にかかるくらいに",
+          "termHtml": "<ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>にかかるくらいに",
+          "meaning": "đến cỡ ngang vai",
+          "meaningHtml": "đến cỡ ngang vai"
+        },
+        {
+          "cells": [
+            {
+              "text": "まゆが隠（かく）れるくらいに",
+              "html": "まゆが<ruby>隠<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>れるくらいに"
+            },
+            {
+              "text": "để che được lông mày",
+              "html": "để che được lông mày"
+            }
+          ],
+          "term": "まゆが隠（かく）れるくらいに",
+          "termHtml": "まゆが<ruby>隠<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>れるくらいに",
+          "meaning": "để che được lông mày",
+          "meaningHtml": "để che được lông mày"
+        },
+        {
+          "cells": [
+            {
+              "text": "1センチくらいに",
+              "html": "1センチくらいに"
+            },
+            {
+              "text": "khoảng 1cm",
+              "html": "khoảng 1cm"
+            }
+          ],
+          "term": "1センチくらいに",
+          "termHtml": "1センチくらいに",
+          "meaning": "khoảng 1cm",
+          "meaningHtml": "khoảng 1cm"
+        },
+        {
+          "cells": [
+            {
+              "text": "この写真（しゃしん）みたいに",
+              "html": "この<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>みたいに"
+            },
+            {
+              "text": "như kiểu trong tấm ảnh này",
+              "html": "như kiểu trong tấm ảnh này"
+            }
+          ],
+          "term": "この写真（しゃしん）みたいに",
+          "termHtml": "この<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>みたいに",
+          "meaning": "như kiểu trong tấm ảnh này",
+          "meaningHtml": "như kiểu trong tấm ảnh này"
+        },
+        {
+          "cells": [
+            {
+              "text": "切（き）ってください",
+              "html": "<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ってください"
+            },
+            {
+              "text": "Hãy cắt (tóc) cho tôi",
+              "html": "Hãy cắt (tóc) cho tôi"
+            }
+          ],
+          "term": "切（き）ってください",
+          "termHtml": "<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ってください",
+          "meaning": "Hãy cắt (tóc) cho tôi",
+          "meaningHtml": "Hãy cắt (tóc) cho tôi"
+        },
+        {
+          "cells": [
+            {
+              "text": "いろいろなヘアスタイル",
+              "html": "いろいろなヘアスタイル"
+            },
+            {
+              "text": "Các kiểu tóc",
+              "html": "Các kiểu tóc"
+            }
+          ],
+          "term": "いろいろなヘアスタイル",
+          "termHtml": "いろいろなヘアスタイル",
+          "meaning": "Các kiểu tóc",
+          "meaningHtml": "Các kiểu tóc"
+        },
+        {
+          "cells": [
+            {
+              "text": "ボブ",
+              "html": "ボブ"
+            },
+            {
+              "text": "kiểu bob",
+              "html": "kiểu bob"
+            }
+          ],
+          "term": "ボブ",
+          "termHtml": "ボブ",
+          "meaning": "kiểu bob",
+          "meaningHtml": "kiểu bob"
+        },
+        {
+          "cells": [
+            {
+              "text": "レイヤーカット",
+              "html": "レイヤーカット"
+            },
+            {
+              "text": "kiểu mái đuổi (layered)",
+              "html": "kiểu mái đuổi (layered)"
+            }
+          ],
+          "term": "レイヤーカット",
+          "termHtml": "レイヤーカット",
+          "meaning": "kiểu mái đuổi (layered)",
+          "meaningHtml": "kiểu mái đuổi (layered)"
+        },
+        {
+          "cells": [
+            {
+              "text": "ソバージュ",
+              "html": "ソバージュ"
+            },
+            {
+              "text": "kiểu xù (shaggy)",
+              "html": "kiểu xù (shaggy)"
+            }
+          ],
+          "term": "ソバージュ",
+          "termHtml": "ソバージュ",
+          "meaning": "kiểu xù (shaggy)",
+          "meaningHtml": "kiểu xù (shaggy)"
+        },
+        {
+          "cells": [
+            {
+              "text": "おかっぱ",
+              "html": "おかっぱ"
+            },
+            {
+              "text": "kiểu tóc duỗi (bodded hair)",
+              "html": "kiểu tóc duỗi (bodded hair)"
+            }
+          ],
+          "term": "おかっぱ",
+          "termHtml": "おかっぱ",
+          "meaning": "kiểu tóc duỗi (bodded hair)",
+          "meaningHtml": "kiểu tóc duỗi (bodded hair)"
+        },
+        {
+          "cells": [
+            {
+              "text": "三（み）つ編（あ）み",
+              "html": "<ruby>三<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つ<ruby>編<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>み"
+            },
+            {
+              "text": "búi đôi",
+              "html": "búi đôi"
+            }
+          ],
+          "term": "三（み）つ編（あ）み",
+          "termHtml": "<ruby>三<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つ<ruby>編<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>み",
+          "meaning": "búi đôi",
+          "meaningHtml": "búi đôi"
+        },
+        {
+          "cells": [
+            {
+              "text": "ポニーテール",
+              "html": "ポニーテール"
+            },
+            {
+              "text": "búi đằng sau, búi đuôi ngựa",
+              "html": "búi đằng sau, búi đuôi ngựa"
+            }
+          ],
+          "term": "ポニーテール",
+          "termHtml": "ポニーテール",
+          "meaning": "búi đằng sau, búi đuôi ngựa",
+          "meaningHtml": "búi đằng sau, búi đuôi ngựa"
+        },
+        {
+          "cells": [
+            {
+              "text": "丸刈（まるが）り",
+              "html": "<ruby>丸刈<rp>（</rp><rt>まるが</rt><rp>）</rp></ruby>り"
+            },
+            {
+              "text": "kiểu đầu vuông (close-cropped)",
+              "html": "kiểu đầu vuông (close-cropped)"
+            }
+          ],
+          "term": "丸刈（まるが）り",
+          "termHtml": "<ruby>丸刈<rp>（</rp><rt>まるが</rt><rp>）</rp></ruby>り",
+          "meaning": "kiểu đầu vuông (close-cropped)",
+          "meaningHtml": "kiểu đầu vuông (close-cropped)"
+        },
+        {
+          "cells": [
+            {
+              "text": "長髪（ちょうはつ）",
+              "html": "<ruby>長髪<rp>（</rp><rt>ちょうはつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tóc dài",
+              "html": "tóc dài"
+            }
+          ],
+          "term": "長髪（ちょうはつ）",
+          "termHtml": "<ruby>長髪<rp>（</rp><rt>ちょうはつ</rt><rp>）</rp></ruby>",
+          "meaning": "tóc dài",
+          "meaningHtml": "tóc dài"
+        },
+        {
+          "cells": [
+            {
+              "text": "リーゼント",
+              "html": "リーゼント"
+            },
+            {
+              "text": "kiểu đuôi vịt (ducktail)",
+              "html": "kiểu đuôi vịt (ducktail)"
+            }
+          ],
+          "term": "リーゼント",
+          "termHtml": "リーゼント",
+          "meaning": "kiểu đuôi vịt (ducktail)",
+          "meaningHtml": "kiểu đuôi vịt (ducktail)"
+        }
+      ],
+      "contentHtml": "<table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">カット</td> <td>cắt tóc</td> </tr><tr> <td width=\"40%\">パーマ</td> <td>uốn tóc</td> </tr><tr> <td width=\"40%\">セット</td> <td>làm đầu, tạo kiểu tóc (set)</td> </tr><tr> <td width=\"40%\">シャンプー</td> <td>dầu gội</td> </tr><tr> <td width=\"40%\">リンス</td> <td>dầu xả (rinse)</td> </tr><tr> <td width=\"40%\">トリートメント</td> <td>dầu dưỡng tóc</td> </tr><tr> <td width=\"40%\">ブロー</td> <td>sấy tóc</td> </tr><tr> <td width=\"40%\">ヘアダイ</td> <td>nhuộm tóc</td> </tr><tr> <td width=\"40%\">そる[ひげ/<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>を〜]</td> <td>cạo (râu/ mặt)</td> </tr><tr> <td width=\"40%\"><ruby>分<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>ける[<ruby>髪<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>を〜]</td> <td>rẽ ngôi (tóc)</td> </tr><tr> <td width=\"40%\"><ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>が<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えるくらいに</td> <td>để hở tai</td> </tr><tr> <td width=\"40%\"><ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>にかかるくらいに</td> <td>đến cỡ ngang vai</td> </tr><tr> <td width=\"40%\">まゆが<ruby>隠<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>れるくらいに</td> <td>để che được lông mày</td> </tr><tr> <td width=\"40%\">1センチくらいに</td> <td>khoảng 1cm</td> </tr><tr> <td width=\"40%\">この<ruby>写真<rp>（</rp><rt>しゃしん</rt><rp>）</rp></ruby>みたいに</td> <td>như kiểu trong tấm ảnh này</td> </tr><tr> <td width=\"40%\"><ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ってください</td> <td>Hãy cắt (tóc) cho tôi</td> </tr><tr> <td width=\"40%\">いろいろなヘアスタイル</td> <td>Các kiểu tóc</td> </tr><tr> <td width=\"40%\">ボブ</td> <td>kiểu bob</td> </tr><tr> <td width=\"40%\">レイヤーカット</td> <td>kiểu mái đuổi (layered)</td> </tr><tr> <td width=\"40%\">ソバージュ</td> <td>kiểu xù (shaggy)</td> </tr><tr> <td width=\"40%\">おかっぱ</td> <td>kiểu tóc duỗi (bodded hair)</td> </tr><tr> <td width=\"40%\"><ruby>三<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つ<ruby>編<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>み</td> <td>búi đôi</td> </tr><tr> <td width=\"40%\">ポニーテール</td> <td>búi đằng sau, búi đuôi ngựa</td> </tr><tr> <td width=\"40%\"><ruby>丸刈<rp>（</rp><rt>まるが</rt><rp>）</rp></ruby>り</td> <td>kiểu đầu vuông (close-cropped)</td> </tr><tr> <td width=\"40%\"><ruby>長髪<rp>（</rp><rt>ちょうはつ</rt><rp>）</rp></ruby></td> <td>tóc dài</td> </tr><tr> <td width=\"40%\">リーゼント</td> <td>kiểu đuôi vịt (ducktail)</td> </tr></tbody></table><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

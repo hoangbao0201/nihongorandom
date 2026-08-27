@@ -1,0 +1,158 @@
+{
+  "lesson": 34,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "磨きます [歯を～]",
+      "kanjiHtml": "磨きます<br />[歯を～]",
+      "sinoVietnamese": "MA XỈ",
+      "kana": "みがきます [はを～]",
+      "kanaHtml": "みがきます<br /> [はを～]"
+    },
+    {
+      "index": 2,
+      "kanji": "組み立てます",
+      "kanjiHtml": "組み立てます",
+      "sinoVietnamese": "TỔ LẬP",
+      "kana": "くみたてます",
+      "kanaHtml": "くみたてます"
+    },
+    {
+      "index": 3,
+      "kanji": "折ります",
+      "kanjiHtml": "折ります",
+      "sinoVietnamese": "TRIẾT",
+      "kana": "おります",
+      "kanaHtml": "おります"
+    },
+    {
+      "index": 4,
+      "kanji": "気がつきます [忘れ物に～]",
+      "kanjiHtml": "気がつきます<br />[忘れ物に～]",
+      "sinoVietnamese": "KHÍ VONG VẬT",
+      "kana": "きがつきます [わすれものに～]",
+      "kanaHtml": "きがつきます<br /> [わすれものに～]"
+    },
+    {
+      "index": 5,
+      "kanji": "見つかります [かぎが～]",
+      "kanjiHtml": "見つかります<br />[かぎが～]",
+      "sinoVietnamese": "KIẾN",
+      "kana": "みつかります [かぎが～]",
+      "kanaHtml": "みつかります<br /> [かぎが～]"
+    },
+    {
+      "index": 6,
+      "kanji": "質問します",
+      "kanjiHtml": "質問します",
+      "sinoVietnamese": "CHẤT VẤN",
+      "kana": "しつもんします",
+      "kanaHtml": "しつもんします"
+    },
+    {
+      "index": 7,
+      "kanji": "[お]城",
+      "kanjiHtml": "[お]城",
+      "sinoVietnamese": "THÀNH",
+      "kana": "[お]しろ",
+      "kanaHtml": "[お]しろ"
+    },
+    {
+      "index": 8,
+      "kanji": "説明書",
+      "kanjiHtml": "説明書",
+      "sinoVietnamese": "THUYẾT MINH THƯ",
+      "kana": "せつめいしょ",
+      "kanaHtml": "せつめいしょ"
+    },
+    {
+      "index": 9,
+      "kanji": "図",
+      "kanjiHtml": "図",
+      "sinoVietnamese": "ĐỒ",
+      "kana": "ず",
+      "kanaHtml": "ず"
+    },
+    {
+      "index": 10,
+      "kanji": "線",
+      "kanjiHtml": "線",
+      "sinoVietnamese": "TUYẾN",
+      "kana": "せん",
+      "kanaHtml": "せん"
+    },
+    {
+      "index": 11,
+      "kanji": "矢印",
+      "kanjiHtml": "矢印",
+      "sinoVietnamese": "THỈ ẤN",
+      "kana": "やじるし",
+      "kanaHtml": "やじるし"
+    },
+    {
+      "index": 12,
+      "kanji": "黒",
+      "kanjiHtml": "黒",
+      "sinoVietnamese": "HẮC",
+      "kana": "くろ",
+      "kanaHtml": "くろ"
+    },
+    {
+      "index": 13,
+      "kanji": "白",
+      "kanjiHtml": "白",
+      "sinoVietnamese": "BẠCH",
+      "kana": "しろ",
+      "kanaHtml": "しろ"
+    },
+    {
+      "index": 14,
+      "kanji": "赤",
+      "kanjiHtml": "赤",
+      "sinoVietnamese": "XÍCH",
+      "kana": "あか",
+      "kanaHtml": "あか"
+    },
+    {
+      "index": 15,
+      "kanji": "青",
+      "kanjiHtml": "青",
+      "sinoVietnamese": "THANH",
+      "kana": "あお",
+      "kanaHtml": "あお"
+    },
+    {
+      "index": 16,
+      "kanji": "紺",
+      "kanjiHtml": "紺",
+      "sinoVietnamese": "CÁM",
+      "kana": "こん",
+      "kanaHtml": "こん"
+    },
+    {
+      "index": 17,
+      "kanji": "黄色",
+      "kanjiHtml": "黄色",
+      "sinoVietnamese": "HOÀNG SẮC",
+      "kana": "きいろ",
+      "kanaHtml": "きいろ"
+    },
+    {
+      "index": 18,
+      "kanji": "茶色",
+      "kanjiHtml": "茶色",
+      "sinoVietnamese": "TRÀ SẮC",
+      "kana": "ちゃいろ",
+      "kanaHtml": "ちゃいろ"
+    },
+    {
+      "index": 19,
+      "kanji": "お客[さん]",
+      "kanjiHtml": "お客[さん]",
+      "sinoVietnamese": "KHÁCH",
+      "kana": "おきゃく[さん]",
+      "kanaHtml": "おきゃく[さん]"
+    }
+  ]
+}

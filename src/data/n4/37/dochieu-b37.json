@@ -1,0 +1,841 @@
+{
+  "lesson": 37,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ゴールインします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">về đích</div> <div class=\"nghia_anh\">finish the race</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>せんしゅ</b></div> <div class=\"kanji\">選手</div> <div class=\"nghia_viet\">vận động viên</div> <div class=\"nghia_anh\">athlete </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>だいーかい</b></div> <div class=\"kanji\">第ー会</div> <div class=\"nghia_viet\">lần thứ ~</div> <div class=\"nghia_anh\">(indicates an ordinal number; used to indicate number of times)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ストックホルム</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Xtốc-khôm (Thụy Điển)</div> <div class=\"nghia_anh\">Stockholm (in Sweden)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たいかい</b></div> <div class=\"kanji\">大会</div> <div class=\"nghia_viet\">đại hội, hội thi</div> <div class=\"nghia_anh\">meet</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さんかします</b></div> <div class=\"kanji\">参加します</div> <div class=\"nghia_viet\">tham gia</div> <div class=\"nghia_anh\">particpate, take part in</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>マラソン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ma-ra-tông</div> <div class=\"nghia_anh\">marathon</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーびょう</b></div> <div class=\"kanji\">ー秒</div> <div class=\"nghia_viet\">giây</div> <div class=\"nghia_anh\">second</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きろく</b></div> <div class=\"kanji\">記録</div> <div class=\"nghia_viet\">kỷ lục</div> <div class=\"nghia_anh\">record</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しかし</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nhưng</div> <div class=\"nghia_anh\">but</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>みずをあびます</b></div> <div class=\"kanji\">水を浴びます</div> <div class=\"nghia_viet\">giội nước</div> <div class=\"nghia_anh\">pour water on oneself</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～のところで</b></div> <div class=\"kanji\">～の所で</div> <div class=\"nghia_viet\">tại địa điểm ~</div> <div class=\"nghia_anh\">at the point of ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たおれます</b></div> <div class=\"kanji\">倒れます</div> <div class=\"nghia_viet\">ngã, đổ gục</div> <div class=\"nghia_anh\">fall down</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たすけます</b></div> <div class=\"kanji\">助けます</div> <div class=\"nghia_viet\">giúp đỡ, cứu giúp</div> <div class=\"nghia_anh\">save</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>スウェーデン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Thụy Điển</div> <div class=\"nghia_anh\">Sweden</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いっしょうけんめい</b></div> <div class=\"kanji\">一生懸命</div> <div class=\"nghia_viet\">chăm chỉ, nổ lực</div> <div class=\"nghia_anh\">with all one's might</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>よろこびます</b></div> <div class=\"kanji\">喜びます</div> <div class=\"nghia_viet\">vui mừng</div> <div class=\"nghia_anh\">be glad</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はずかし</b></div> <div class=\"kanji\">恥ずかしい</div> <div class=\"nghia_viet\">xấu hổ</div> <div class=\"nghia_anh\">ashamed</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きょうぎじょう</b></div> <div class=\"kanji\">競技場</div> <div class=\"nghia_viet\">nhà thi đấu, sân vận động</div> <div class=\"nghia_anh\">stadium</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>アナウンス</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">phát thanh</div> <div class=\"nghia_anh\">announcement</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ミスターカナグル</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ông Kanaguri, Nhật Bản</div> <div class=\"nghia_anh\">Mr. Kanaguri, Japan</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きょうぎ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">thi đấu, tranh tài</div> <div class=\"nghia_anh\">event</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>スタート</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">xuất phát</div> <div class=\"nghia_anh\">start</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まご</b></div> <div class=\"kanji\">孫</div> <div class=\"nghia_viet\">cháu</div> <div class=\"nghia_anh\">grandchild</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おもいで</b></div> <div class=\"kanji\">思い出</div> <div class=\"nghia_viet\">kỷ niệm</div> <div class=\"nghia_anh\">memory</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ギリシア</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Hy Lạp</div> <div class=\"nghia_anh\">greek</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かみ</b></div> <div class=\"kanji\">神</div> <div class=\"nghia_viet\">thần</div> <div class=\"nghia_anh\">god</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ゼウス</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Dớt</div> <div class=\"nghia_anh\">zeus</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きげんぜん</b></div> <div class=\"kanji\">紀元前</div> <div class=\"nghia_viet\">trước Công Nguyên</div> <div class=\"nghia_anh\">before Christ</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>アテネ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">A-ten</div> <div class=\"nghia_anh\">Athens</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>せんそう</b></div> <div class=\"kanji\">戦争</div> <div class=\"nghia_viet\">chiến tranh</div> <div class=\"nghia_anh\">war</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～いじょう</b></div> <div class=\"kanji\">～以上</div> <div class=\"nghia_viet\">từ ~ trở lên</div> <div class=\"nghia_anh\">more than ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こだい</b></div> <div class=\"kanji\">古代</div> <div class=\"nghia_viet\">cổ đại</div> <div class=\"nghia_anh\">ancient times</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>クーベルタン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Coubertin (1863-1937)</div> <div class=\"nghia_anh\">de Coubertin, Pierre (1863-1937)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>よびかけます</b></div> <div class=\"kanji\">呼びかけます</div> <div class=\"nghia_viet\">kêu gọi</div> <div class=\"nghia_anh\">appeal</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さんかこく</b></div> <div class=\"kanji\">参加国</div> <div class=\"nghia_viet\">nước tham gia</div> <div class=\"nghia_anh\">participating countries/ nations</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ちいき</b></div> <div class=\"kanji\">地域</div> <div class=\"nghia_viet\">khu vực</div> <div class=\"nghia_anh\">regoin</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さんかせんしゅ</b></div> <div class=\"kanji\">参加選手</div> <div class=\"nghia_viet\">vận động viên tham gia</div> <div class=\"nghia_anh\">participating player/ athlete</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>シャモニー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Chamonix (Pháp)</div> <div class=\"nghia_anh\">Chamonix</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>モンブラン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Mont Blanc (Pháp)</div> <div class=\"nghia_anh\">Mont Blanc</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>アジア</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">châu Á</div> <div class=\"nghia_anh\">Asia</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>リオデジャネイロ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Rio de Janeiro</div> <div class=\"nghia_anh\">Rio de Janeiro</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>みなみアメリカ</b></div> <div class=\"kanji\">南アメリカ</div> <div class=\"nghia_viet\">Nam Mỹ</div> <div class=\"nghia_anh\">South America</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>55<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>かかってゴールインした<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby><ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby></b></h3> <p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は１９１２<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>５<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>ストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>からオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>した。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではまだオリンピックはほとんど<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>られていなかった。 <ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>を<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>めるマラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>が<ruby>開<rp>（</rp><rt>ひら</rt><rp>）</rp></ruby>かれて、20<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の<ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>が２<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>３２<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>４５<ruby>秒<rp>（</rp><rt>びょう</rt><rp>）</rp></ruby>の<ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>で<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>った。 これはその<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>の<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby><ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>より２７<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>かった。 <ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>の<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby><ruby>四三<rp>（</rp><rt>しぞう</rt><rp>）</rp></ruby>。 <p></p> <ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はオリンピック<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>に<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>ばれた。 ストックホルムへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>くお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がなかったが、<ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby>や<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>がお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めてくれた。 それで、やっとオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>することができた。 <ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は１<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>になるかもしれないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>われていた。 しかし、マラソンが<ruby>行<rp>（</rp><rt>おこな</rt><rp>）</rp></ruby>われた７<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１４<ruby>日<rp>（</rp><rt>か</rt><rp>）</rp></ruby>はとても<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>だった。 <ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>っていてだんだん<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなった。 <p></p> <ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んだり、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>から<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたりしたが、３２㎞の<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>で<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れてしまった。 <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいた<ruby>親切<rp>（</rp><rt>しんせつ</rt><rp>）</rp></ruby>な<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けられて、その<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>のうちに<ruby>泊<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まった。 そして、<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>になって、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>がいるホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。 <p></p> 「<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>」はスウェーデンのニュースはなっていた。 <ruby>一生懸命<rp>（</rp><rt>いっしょうけんめい</rt><rp>）</rp></ruby><ruby>捜<rp>（</rp><rt>さが</rt><rp>）</rp></ruby>していた<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はみんな<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>た<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、とても<ruby>喜<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>んでくれた。 しかし、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしかった。 <p></p> １９６７<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>、７５<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>招待<rp>（</rp><rt>しょうたい</rt><rp>）</rp></ruby>されてストックホルムへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。 <ruby>競技場<rp>（</rp><rt>きょうぎじょう</rt><rp>）</rp></ruby>でたくさんの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>迎<rp>（</rp><rt>むか</rt><rp>）</rp></ruby>えられた<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はみんなの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>をゆっくり<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>って、ゴールインした。 <ruby>競技場<rp>（</rp><rt>きょうぎじょう</rt><rp>）</rp></ruby>にアナウンスがあった。 「ミスター・カナグリ、ニッポン。ゴールイン。<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>は５５<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>…。これでストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>は<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>の<ruby>競技<rp>（</rp><rt>きょうぎ</rt><rp>）</rp></ruby>を<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりました。」 <ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。「<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>試合<rp>（</rp><rt>しあい</rt><rp>）</rp></ruby>でした。スタートからゴールインまでに<ruby>孫<rp>（</rp><rt>まご</rt><rp>）</rp></ruby>が５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>できましたよ。」 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1.<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ）１９１２<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>ごろに<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>ではオリンピックはとても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>はあった。 <p></p> 2)（ ）<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>５<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>は<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>の<ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>が<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>で<ruby>一番<rp>（</rp><rt>いちばん</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>かった。 <p></p> 3)（ ）<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>のお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>でオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>した。 <p></p> 4)（ ）オリンピックの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>必<rp>（</rp><rt>かなら</rt><rp>）</rp></ruby>ずマラソンで<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>つと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われていた。 <p></p> 2. ゴールインした<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>さんに<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> 1) ゴールインおめでとうございます。<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、どんな<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちですか。 <p></p> ①ストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>。 <p></p> ②<ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>のマラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>。 <p></p> のことをいろいろ<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>しています。 <p></p> あの<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>はゴールインできませんでした。 <p></p> 2) どうして<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>れなくなったんですか。 <p></p> ①<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>る<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んだから <p></p> ②とても<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>だったから。 <p></p> <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなって、<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れてしまいました。 <p></p> 3) それで、どうしたんですか。 <p></p> ①<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby> <p></p> ②<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くのスウェーデン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby> <p></p> ➂オリンピック<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby> <p></p> に<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けられて、<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。みんな、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>を<ruby>捜<rp>（</rp><rt>さが</rt><rp>）</rp></ruby>していました。 <p></p> 4) ホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったとき、<ruby>皆<rp>（</rp><rt>みんな</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いましたか。 <p></p> ①「どうして<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>れなかったんだ」 <p></p> ②「<ruby>本当<rp>（</rp><rt>ほんとう</rt><rp>）</rp></ruby>に<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>かった」 <p></p> 5) それで、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はどう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いましたか。 <p></p> ①みんなが<ruby>喜<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>んでくれたから、よかった。 <p></p> ②ゴールインできなかったから、<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしい <p></p>II オリンピックについて<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>がありますか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>55<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>かかってゴールインした<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby><ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Tuyển thủ Nhật Bản về đích sau 55 năm.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は１９１２<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>５<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>ストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>からオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>した。</div><div class=\"kqdich\"><div class=\"nddich\">Nhật Bản tham gia Olympic bắt đầu từ Olympic Stockholm lần thứ 5 vào năm 1912. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではまだオリンピックはほとんど<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>られていなかった。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Nhật Bản hầu như chưa biết đến Olympic.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>を<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>めるマラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>が<ruby>開<rp>（</rp><rt>ひら</rt><rp>）</rp></ruby>かれて、20<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の<ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>が２<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>３２<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>４５<ruby>秒<rp>（</rp><rt>びょう</rt><rp>）</rp></ruby>の<ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>で<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>った。</div><div class=\"kqdich\"><div class=\"nddich\"> Họ đã quyết định tổ chức đại hội Marathon tuyển chọn vận động viên, một sinh viên 20 tuổi đã thắng với kỷ lục là mất 2 giờ 32 phút 45 giây.</div></div></div> <div class=\"tudich\"><div class=\"candich\">これはその<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>の<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby><ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>より２７<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>かった。</div><div class=\"kqdich\"><div class=\"nddich\">Kỷ lục này nhanh hơn kỷ lục thế giới lúc đó 27 phút.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>の<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby><ruby>四三<rp>（</rp><rt>しぞう</rt><rp>）</rp></ruby>。</div><div class=\"kqdich\"><div class=\"nddich\">Tên của sinh viên là Shizou Kanaguri.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はオリンピック<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>に<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>ばれた。</div><div class=\"kqdich\"><div class=\"nddich\">Kanaguri đã được lựa chọn làm vận động viên Olympic.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ストックホルムへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>くお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がなかったが、<ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby>や<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>がお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めてくれた。</div><div class=\"kqdich\"><div class=\"nddich\">Anh ấy không có tiền đi đến Stockholm, nhưng người anh trai và những người bạn đã góp tiền cho anh ấy.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それで、やっとオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>することができた。</div><div class=\"kqdich\"><div class=\"nddich\">Vì thế, cuối cùng anh đã có thể tham gia Olympic.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は１<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>になるかもしれないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>われていた。</div><div class=\"kqdich\"><div class=\"nddich\">Kanaguri đã nghĩ rằng có thế sẽ đứng vị trí số 1.</div></div></div> <div class=\"tudich\"><div class=\"candich\">しかし、マラソンが<ruby>行<rp>（</rp><rt>おこな</rt><rp>）</rp></ruby>われた７<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１４<ruby>日<rp>（</rp><rt>か</rt><rp>）</rp></ruby>はとても<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>だった。</div><div class=\"kqdich\"><div class=\"nddich\">Nhưng mà, marathon được tổ chức vào ngày 14 tháng 7, là một ngày rất nóng.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>っていてだんだん<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなった。</div><div class=\"kqdich\"><div class=\"nddich\">Tình trạng cơ thể dần dần trở nên xấu đi khi đang chạy.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んだり、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>から<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたりしたが、３２㎞の<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>で<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れてしまった。</div><div class=\"kqdich\"><div class=\"nddich\">Uống nước, tắm nước từ đầu xuống, nhưng mà anh ấy đã gục ngã ở 32km.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいた<ruby>親切<rp>（</rp><rt>しんせつ</rt><rp>）</rp></ruby>な<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けられて、その<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>のうちに<ruby>泊<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まった。</div><div class=\"kqdich\"><div class=\"nddich\">Anh ấy đã được người dân tốt bụng gần đó cứu sống, rồi anh ấy đã trọ lại nhà của người đó.</div></div></div> <div class=\"tudich\"><div class=\"candich\">そして、<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>になって、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>がいるホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。</div><div class=\"kqdich\"><div class=\"nddich\">Và rồi, ngày tiếp theo, anh ấy đã khỏe hơn, và đã quay về khách sạn có những vận động viên Nhật Bản.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">「<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>」はスウェーデンのニュースはなっていた。</div><div class=\"kqdich\"><div class=\"nddich\">Tin tức Thụy Điển thông báo rằng “Người Nhật Bản biến mất”.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>一生懸命<rp>（</rp><rt>いっしょうけんめい</rt><rp>）</rp></ruby><ruby>捜<rp>（</rp><rt>さが</rt><rp>）</rp></ruby>していた<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はみんな<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>た<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、とても<ruby>喜<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>んでくれた。</div><div class=\"kqdich\"><div class=\"nddich\">Những người miệt mài tìm kiếm khi thấy Kanaguri thì đã rất vui mừng.</div></div></div> <div class=\"tudich\"><div class=\"candich\">しかし、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしかった。</div><div class=\"kqdich\"><div class=\"nddich\">Tuy nhiên, Kanaguri thì cảm thấy xấu hổ.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">１９６７<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>、７５<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>招待<rp>（</rp><rt>しょうたい</rt><rp>）</rp></ruby>されてストックホルムへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。</div><div class=\"kqdich\"><div class=\"nddich\">Năm 1967, Kanaguri tuổi 75 được mời, rồi đi đến Stockholm.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>競技場<rp>（</rp><rt>きょうぎじょう</rt><rp>）</rp></ruby>でたくさんの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>迎<rp>（</rp><rt>むか</rt><rp>）</rp></ruby>えられた<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はみんなの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>をゆっくり<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>って、ゴールインした。</div><div class=\"kqdich\"><div class=\"nddich\">Kanaguri đã được rất nhiều người chào đón ở sân thi đấu, anh ấy chạy từ từ trước mặt mọi người và hoàn thành chặng đua.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>競技場<rp>（</rp><rt>きょうぎじょう</rt><rp>）</rp></ruby>にアナウンスがあった。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sân thi đấu có thông báo.</div></div></div> <div class=\"tudich\"><div class=\"candich\">「ミスター・カナグリ、ニッポン。ゴールイン。<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>は５５<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>…。これでストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>は<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>の<ruby>競技<rp>（</rp><rt>きょうぎ</rt><rp>）</rp></ruby>を<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりました。」</div><div class=\"kqdich\"><div class=\"nddich\">“Ông Kanaguri, Japan đã hoàn thành chặng đua. Thời gian là 55 năm. Từ lúc này tất cả sự kiện ở đại hội Stokholm kết thúc”.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。「<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>試合<rp>（</rp><rt>しあい</rt><rp>）</rp></ruby>でした。スタートからゴールインまでに<ruby>孫<rp>（</rp><rt>まご</rt><rp>）</rp></ruby>が５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>できましたよ。」</div><div class=\"kqdich\"><div class=\"nddich\">Kanaguri đã nói rằng: “Cuộc thi thật là dài. Từ lúc bắt đầu đến lúc hoàn thành chặng đua thì tôi đã có 5 đứa cháu rồi ấy”.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I 1.<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy điền 〇 vào câu đúng và ✕ vào câu không đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>Ｘ</b>）１９１２<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>ごろに<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>ではオリンピックはとても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>はあった。</div><div class=\"kqdich\"><div class=\"nddich\">Khoảng năm 1912 ở Nhật bản Olympic rất được yêu thích.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>〇</b>）<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>５<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>は<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>の<ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>が<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>で<ruby>一番<rp>（</rp><rt>いちばん</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>かった。</div><div class=\"kqdich\"><div class=\"nddich\">Trước đại hội lần thư 5 thì kỷ lục của Kanaguri nhanh nhất thế giới.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>Ｘ</b>）<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>のお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>でオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>した。</div><div class=\"kqdich\"><div class=\"nddich\">Kanaguri dùng tiền của bản thân tham gia Olympic.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（<b>Ｘ</b>）オリンピックの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>必<rp>（</rp><rt>かなら</rt><rp>）</rp></ruby>ずマラソンで<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>つと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われていた。</div><div class=\"kqdich\"><div class=\"nddich\">Kanaguri đã nước trước Olympic rằng nhất định sẽ thắng Marathon.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2. ゴールインした<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>さんに<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。</div><div class=\"kqdich\"><div class=\"nddich\">Đã hỏi Kanaguri đã hoàn thành chặng đua. Hãy chọn câu trả lời đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1) ゴールインおめでとうございます。<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、どんな<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちですか。</div><div class=\"kqdich\"><div class=\"nddich\">Chúc mừng ông đã hoàn thành chặng đua. Bây giờ cảm giác của ông như thế nào?</div></div></div> <p></p> ①<b>ストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>。</b> <p></p> ②<ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>のマラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>。 <p></p><div class=\"tudich\"><div class=\"candich\"> のことをいろいろ<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>しています。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đang nhớ nhiều thứ về cuộc thi Marathon ở Stockholm.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> あの<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>はゴールインできませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Khi đó tôi đã không thể về đích.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2) どうして<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>れなくなったんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao ông không thể chạy được nữa?</div></div></div> <p></p> ①<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>る<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んだから <p></p> <b>②とても<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>だったから。</b> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなって、<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れてしまいました。</div><div class=\"kqdich\"><div class=\"nddich\">Vì là một ngày rất nóng, nên tình trạng cơ thể xấu đi rồi tôi đã ngã gục xuống.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3) それで、どうしたんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Và rồi, chuyện gì đã xảy ra?</div></div></div> <p></p> ①<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby> <p></p> <b>②<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くのスウェーデン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></b> <p></p><div class=\"tudich\"><div class=\"candich\"> ➂オリンピック<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby></div><div class=\"kqdich\"><div class=\"nddich\"></div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> に<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けられて、<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。みんな、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>を<ruby>捜<rp>（</rp><rt>さが</rt><rp>）</rp></ruby>していました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi được người Thụy Điển ở gần cứu giúp, ngày tiếp theo tôi đã trở về khách sạn. Mọi người đã tìm kiếm.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4) ホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったとき、<ruby>皆<rp>（</rp><rt>みんな</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Về khách sạn, rồi mọi người nói gì với ông?</div></div></div> <p></p> ①「どうして<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>れなかったんだ」 <p></p> <b>②「<ruby>本当<rp>（</rp><rt>ほんとう</rt><rp>）</rp></ruby>に<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>かった」</b> <p></p><div class=\"tudich\"><div class=\"candich\"> と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Đã nói rằng: “Thật sự tốt rồi”.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 5) それで、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はどう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Và rồi, Kanaguri đã nghĩ như thế nào?</div></div></div> <p></p> ①みんなが<ruby>喜<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>んでくれたから、よかった。 <p></p> <b>②ゴールインできなかったから、<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしい</b> <p></p><div class=\"tudich\"><div class=\"candich\"> と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã nghĩ rằng “Thật xấu hổ vì đã không thể về đích”.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">II オリンピックについて<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>がありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn có kỉ niệm gì đó về Olympic không?</div></div></div> </div> </div><!--END--> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "55年（ねん）かかってゴールインした日本人（にほんじん）選手（せんしゅ）",
+          "textHtml": "<b>55<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>かかってゴールインした<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby><ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby></b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は１９１２<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>５<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>ストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>からオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>した。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではまだオリンピックはほとんど<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>られていなかった。 <ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>を<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>めるマラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>が<ruby>開<rp>（</rp><rt>ひら</rt><rp>）</rp></ruby>かれて、20<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の<ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>が２<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>３２<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>４５<ruby>秒<rp>（</rp><rt>びょう</rt><rp>）</rp></ruby>の<ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>で<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>った。 これはその<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>の<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby><ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>より２７<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>かった。 <ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>の<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby><ruby>四三<rp>（</rp><rt>しぞう</rt><rp>）</rp></ruby>。 <p></p> <ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はオリンピック<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>に<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>ばれた。 ストックホルムへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>くお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がなかったが、<ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby>や<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>がお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めてくれた。 それで、やっとオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>することができた。 <ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は１<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>になるかもしれないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>われていた。 しかし、マラソンが<ruby>行<rp>（</rp><rt>おこな</rt><rp>）</rp></ruby>われた７<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１４<ruby>日<rp>（</rp><rt>か</rt><rp>）</rp></ruby>はとても<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>だった。 <ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>っていてだんだん<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなった。 <p></p> <ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んだり、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>から<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたりしたが、３２㎞の<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>で<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れてしまった。 <ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいた<ruby>親切<rp>（</rp><rt>しんせつ</rt><rp>）</rp></ruby>な<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けられて、その<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>のうちに<ruby>泊<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まった。 そして、<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>になって、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>がいるホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。 <p></p> 「<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>」はスウェーデンのニュースはなっていた。 <ruby>一生懸命<rp>（</rp><rt>いっしょうけんめい</rt><rp>）</rp></ruby><ruby>捜<rp>（</rp><rt>さが</rt><rp>）</rp></ruby>していた<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はみんな<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>た<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、とても<ruby>喜<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>んでくれた。 しかし、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしかった。 <p></p> １９６７<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>、７５<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>招待<rp>（</rp><rt>しょうたい</rt><rp>）</rp></ruby>されてストックホルムへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。 <ruby>競技場<rp>（</rp><rt>きょうぎじょう</rt><rp>）</rp></ruby>でたくさんの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>迎<rp>（</rp><rt>むか</rt><rp>）</rp></ruby>えられた<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はみんなの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>をゆっくり<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>って、ゴールインした。 <ruby>競技場<rp>（</rp><rt>きょうぎじょう</rt><rp>）</rp></ruby>にアナウンスがあった。 「ミスター・カナグリ、ニッポン。ゴールイン。<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>は５５<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>…。これでストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>は<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>の<ruby>競技<rp>（</rp><rt>きょうぎ</rt><rp>）</rp></ruby>を<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりました。」 <ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。「<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>試合<rp>（</rp><rt>しあい</rt><rp>）</rp></ruby>でした。スタートからゴールインまでに<ruby>孫<rp>（</rp><rt>まご</rt><rp>）</rp></ruby>が５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>できましたよ。」 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1.<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ）１９１２<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>ごろに<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>ではオリンピックはとても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>はあった。 <p></p> 2)（ ）<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>５<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>は<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>の<ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>が<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>で<ruby>一番<rp>（</rp><rt>いちばん</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>かった。 <p></p> 3)（ ）<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>のお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>でオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>した。 <p></p> 4)（ ）オリンピックの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>必<rp>（</rp><rt>かなら</rt><rp>）</rp></ruby>ずマラソンで<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>つと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われていた。 <p></p> 2. ゴールインした<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>さんに<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> 1) ゴールインおめでとうございます。<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、どんな<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちですか。 <p></p> ①ストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>。 <p></p> ②<ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>のマラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>。 <p></p> のことをいろいろ<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>しています。 <p></p> あの<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>はゴールインできませんでした。 <p></p> 2) どうして<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>れなくなったんですか。 <p></p> ①<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>る<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んだから <p></p> ②とても<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>だったから。 <p></p> <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなって、<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れてしまいました。 <p></p> 3) それで、どうしたんですか。 <p></p> ①<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby> <p></p> ②<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くのスウェーデン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby> <p></p> ➂オリンピック<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby> <p></p> に<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けられて、<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。みんな、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>を<ruby>捜<rp>（</rp><rt>さが</rt><rp>）</rp></ruby>していました。 <p></p> 4) ホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったとき、<ruby>皆<rp>（</rp><rt>みんな</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いましたか。 <p></p> ①「どうして<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>れなかったんだ」 <p></p> ②「<ruby>本当<rp>（</rp><rt>ほんとう</rt><rp>）</rp></ruby>に<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>かった」 <p></p> 5) それで、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はどう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いましたか。 <p></p> ①みんなが<ruby>喜<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>んでくれたから、よかった。 <p></p> ②ゴールインできなかったから、<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしい <p></p>II オリンピックについて<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>がありますか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>55<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>かかってゴールインした<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby><ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Tuyển thủ Nhật Bản về đích sau 55 năm.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "55年（ねん）かかってゴールインした日本人（にほんじん）選手（せんしゅ）",
+              "textHtml": "<b>55<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>かかってゴールインした<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby><ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby></b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Tuyển thủ Nhật Bản về đích sau 55 năm."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）は１９１２年（ねん）の第（だい）５回（かい）ストックホルム大会（たいかい）からオリンピックに参加（さんか）した。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は１９１２<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>５<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>ストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>からオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>した。",
+          "vietnamese": "Nhật Bản tham gia Olympic bắt đầu từ Olympic Stockholm lần thứ 5 vào năm 1912.",
+          "vietnameseHtml": "Nhật Bản tham gia Olympic bắt đầu từ Olympic Stockholm lần thứ 5 vào năm 1912."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）ではまだオリンピックはほとんど知（し）られていなかった。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではまだオリンピックはほとんど<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>られていなかった。",
+          "vietnamese": "Ở Nhật Bản hầu như chưa biết đến Olympic.",
+          "vietnameseHtml": "Ở Nhật Bản hầu như chưa biết đến Olympic."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "選手（せんしゅ）を決（き）めるマラソン大会（たいかい）が開（ひら）かれて、20歳（さい）の学生（がくせい）が２時間（じかん）３２分（ふん）４５秒（びょう）の記録（きろく）で勝（か）った。",
+          "japaneseHtml": "<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>を<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>めるマラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>が<ruby>開<rp>（</rp><rt>ひら</rt><rp>）</rp></ruby>かれて、20<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の<ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>が２<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>３２<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>４５<ruby>秒<rp>（</rp><rt>びょう</rt><rp>）</rp></ruby>の<ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>で<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>った。",
+          "vietnamese": "Họ đã quyết định tổ chức đại hội Marathon tuyển chọn vận động viên, một sinh viên 20 tuổi đã thắng với kỷ lục là mất 2 giờ 32 phút 45 giây.",
+          "vietnameseHtml": "Họ đã quyết định tổ chức đại hội Marathon tuyển chọn vận động viên, một sinh viên 20 tuổi đã thắng với kỷ lục là mất 2 giờ 32 phút 45 giây."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "これはその時（とき）の世界（せかい）記録（きろく）より２７分（ふん）速（はや）かった。",
+          "japaneseHtml": "これはその<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>の<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby><ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>より２７<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>かった。",
+          "vietnamese": "Kỷ lục này nhanh hơn kỷ lục thế giới lúc đó 27 phút.",
+          "vietnameseHtml": "Kỷ lục này nhanh hơn kỷ lục thế giới lúc đó 27 phút."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "学生（がくせい）の名前（なまえ）は金栗（かなぐり）四三（しぞう）。",
+          "japaneseHtml": "<ruby>学生<rp>（</rp><rt>がくせい</rt><rp>）</rp></ruby>の<ruby>名前<rp>（</rp><rt>なまえ</rt><rp>）</rp></ruby>は<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby><ruby>四三<rp>（</rp><rt>しぞう</rt><rp>）</rp></ruby>。",
+          "vietnamese": "Tên của sinh viên là Shizou Kanaguri.",
+          "vietnameseHtml": "Tên của sinh viên là Shizou Kanaguri."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "金栗（かなぐり）はオリンピック選手（せんしゅ）に選（えら）ばれた。",
+          "japaneseHtml": "<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はオリンピック<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>に<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>ばれた。",
+          "vietnamese": "Kanaguri đã được lựa chọn làm vận động viên Olympic.",
+          "vietnameseHtml": "Kanaguri đã được lựa chọn làm vận động viên Olympic."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ストックホルムへ行（い）くお金（かね）がなかったが、兄（あに）や友達（ともだち）がお金（かね）を集（あつ）めてくれた。",
+          "japaneseHtml": "ストックホルムへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>くお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がなかったが、<ruby>兄<rp>（</rp><rt>あに</rt><rp>）</rp></ruby>や<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>がお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めてくれた。",
+          "vietnamese": "Anh ấy không có tiền đi đến Stockholm, nhưng người anh trai và những người bạn đã góp tiền cho anh ấy.",
+          "vietnameseHtml": "Anh ấy không có tiền đi đến Stockholm, nhưng người anh trai và những người bạn đã góp tiền cho anh ấy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで、やっとオリンピックに参加（さんか）することができた。",
+          "japaneseHtml": "それで、やっとオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>することができた。",
+          "vietnamese": "Vì thế, cuối cùng anh đã có thể tham gia Olympic.",
+          "vietnameseHtml": "Vì thế, cuối cùng anh đã có thể tham gia Olympic."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "金栗（かなぐり）は１番（ばん）になるかもしれないと思（おも）われていた。",
+          "japaneseHtml": "<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は１<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>になるかもしれないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>われていた。",
+          "vietnamese": "Kanaguri đã nghĩ rằng có thế sẽ đứng vị trí số 1.",
+          "vietnameseHtml": "Kanaguri đã nghĩ rằng có thế sẽ đứng vị trí số 1."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しかし、マラソンが行（おこな）われた７月（がつ）１４日（か）はとても暑（あつ）い日（ひ）だった。",
+          "japaneseHtml": "しかし、マラソンが<ruby>行<rp>（</rp><rt>おこな</rt><rp>）</rp></ruby>われた７<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>１４<ruby>日<rp>（</rp><rt>か</rt><rp>）</rp></ruby>はとても<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>だった。",
+          "vietnamese": "Nhưng mà, marathon được tổ chức vào ngày 14 tháng 7, là một ngày rất nóng.",
+          "vietnameseHtml": "Nhưng mà, marathon được tổ chức vào ngày 14 tháng 7, là một ngày rất nóng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "金栗（かなぐり）は走（はし）っていてだんだん気分（きぶん）が悪（わる）くなった。",
+          "japaneseHtml": "<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>っていてだんだん<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなった。",
+          "vietnamese": "Tình trạng cơ thể dần dần trở nên xấu đi khi đang chạy.",
+          "vietnameseHtml": "Tình trạng cơ thể dần dần trở nên xấu đi khi đang chạy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "水（みず）を飲（の）んだり、頭（あたま）から水（みず）を浴（あ）びたりしたが、３２㎞の所（ところ）で倒（たお）れてしまった。",
+          "japaneseHtml": "<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んだり、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>から<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたりしたが、３２㎞の<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>で<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れてしまった。",
+          "vietnamese": "Uống nước, tắm nước từ đầu xuống, nhưng mà anh ấy đã gục ngã ở 32km.",
+          "vietnameseHtml": "Uống nước, tắm nước từ đầu xuống, nhưng mà anh ấy đã gục ngã ở 32km."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "近（ちか）くに住（す）んでいた親切（しんせつ）な人（ひと）に助（たす）けられて、その人（ひと）のうちに泊（と）まった。",
+          "japaneseHtml": "<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くに<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいた<ruby>親切<rp>（</rp><rt>しんせつ</rt><rp>）</rp></ruby>な<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けられて、その<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>のうちに<ruby>泊<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まった。",
+          "vietnamese": "Anh ấy đã được người dân tốt bụng gần đó cứu sống, rồi anh ấy đã trọ lại nhà của người đó.",
+          "vietnameseHtml": "Anh ấy đã được người dân tốt bụng gần đó cứu sống, rồi anh ấy đã trọ lại nhà của người đó."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "そして、次（つぎ）の日（ひ）、元気（げんき）になって、日本（にほん）の選手（せんしゅ）がいるホテルへ帰（かえ）った。",
+          "japaneseHtml": "そして、<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>になって、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>がいるホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。",
+          "vietnamese": "Và rồi, ngày tiếp theo, anh ấy đã khỏe hơn, và đã quay về khách sạn có những vận động viên Nhật Bản.",
+          "vietnameseHtml": "Và rồi, ngày tiếp theo, anh ấy đã khỏe hơn, và đã quay về khách sạn có những vận động viên Nhật Bản."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「消（き）えた日本人（にほんじん）」はスウェーデンのニュースはなっていた。",
+          "japaneseHtml": "「<ruby>消<rp>（</rp><rt>き</rt><rp>）</rp></ruby>えた<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>」はスウェーデンのニュースはなっていた。",
+          "vietnamese": "Tin tức Thụy Điển thông báo rằng “Người Nhật Bản biến mất”.",
+          "vietnameseHtml": "Tin tức Thụy Điển thông báo rằng “Người Nhật Bản biến mất”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "一生懸命（いっしょうけんめい）捜（さが）していた人（ひと）はみんな金栗（かなぐり）を見（み）た時（とき）、とても喜（よろこ）んでくれた。",
+          "japaneseHtml": "<ruby>一生懸命<rp>（</rp><rt>いっしょうけんめい</rt><rp>）</rp></ruby><ruby>捜<rp>（</rp><rt>さが</rt><rp>）</rp></ruby>していた<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はみんな<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>た<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、とても<ruby>喜<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>んでくれた。",
+          "vietnamese": "Những người miệt mài tìm kiếm khi thấy Kanaguri thì đã rất vui mừng.",
+          "vietnameseHtml": "Những người miệt mài tìm kiếm khi thấy Kanaguri thì đã rất vui mừng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しかし、金栗（かなぐり）は恥（は）ずかしかった。",
+          "japaneseHtml": "しかし、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしかった。",
+          "vietnamese": "Tuy nhiên, Kanaguri thì cảm thấy xấu hổ.",
+          "vietnameseHtml": "Tuy nhiên, Kanaguri thì cảm thấy xấu hổ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１９６７年（ねん）、７５歳（さい）の金栗（かなぐり）は招待（しょうたい）されてストックホルムへ行（い）った。",
+          "japaneseHtml": "１９６７<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>、７５<ruby>歳<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>の<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>招待<rp>（</rp><rt>しょうたい</rt><rp>）</rp></ruby>されてストックホルムへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。",
+          "vietnamese": "Năm 1967, Kanaguri tuổi 75 được mời, rồi đi đến Stockholm.",
+          "vietnameseHtml": "Năm 1967, Kanaguri tuổi 75 được mời, rồi đi đến Stockholm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "競技場（きょうぎじょう）でたくさんの人（ひと）に迎（むか）えられた金栗（かなぐり）はみんなの前（まえ）をゆっくり走（はし）って、ゴールインした。",
+          "japaneseHtml": "<ruby>競技場<rp>（</rp><rt>きょうぎじょう</rt><rp>）</rp></ruby>でたくさんの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>迎<rp>（</rp><rt>むか</rt><rp>）</rp></ruby>えられた<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はみんなの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>をゆっくり<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>って、ゴールインした。",
+          "vietnamese": "Kanaguri đã được rất nhiều người chào đón ở sân thi đấu, anh ấy chạy từ từ trước mặt mọi người và hoàn thành chặng đua.",
+          "vietnameseHtml": "Kanaguri đã được rất nhiều người chào đón ở sân thi đấu, anh ấy chạy từ từ trước mặt mọi người và hoàn thành chặng đua."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "競技場（きょうぎじょう）にアナウンスがあった。",
+          "japaneseHtml": "<ruby>競技場<rp>（</rp><rt>きょうぎじょう</rt><rp>）</rp></ruby>にアナウンスがあった。",
+          "vietnamese": "Tại sân thi đấu có thông báo.",
+          "vietnameseHtml": "Tại sân thi đấu có thông báo."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「ミスター・カナグリ、ニッポン。ゴールイン。時間（じかん）は５５年（ねん）…。これでストックホルム大会（たいかい）は全部（ぜんぶ）の競技（きょうぎ）を終（お）わりました。」",
+          "japaneseHtml": "「ミスター・カナグリ、ニッポン。ゴールイン。<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>は５５<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>…。これでストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>は<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>の<ruby>競技<rp>（</rp><rt>きょうぎ</rt><rp>）</rp></ruby>を<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりました。」",
+          "vietnamese": "“Ông Kanaguri, Japan đã hoàn thành chặng đua. Thời gian là 55 năm. Từ lúc này tất cả sự kiện ở đại hội Stokholm kết thúc”.",
+          "vietnameseHtml": "“Ông Kanaguri, Japan đã hoàn thành chặng đua. Thời gian là 55 năm. Từ lúc này tất cả sự kiện ở đại hội Stokholm kết thúc”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "金栗（かなぐり）は言（い）った。「長（なが）い試合（しあい）でした。スタートからゴールインまでに孫（まご）が５人（にん）できましたよ。」",
+          "japaneseHtml": "<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。「<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>試合<rp>（</rp><rt>しあい</rt><rp>）</rp></ruby>でした。スタートからゴールインまでに<ruby>孫<rp>（</rp><rt>まご</rt><rp>）</rp></ruby>が５<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>できましたよ。」",
+          "vietnamese": "Kanaguri đã nói rằng: “Cuộc thi thật là dài. Từ lúc bắt đầu đến lúc hoàn thành chặng đua thì tôi đã có 5 đứa cháu rồi ấy”.",
+          "vietnameseHtml": "Kanaguri đã nói rằng: “Cuộc thi thật là dài. Từ lúc bắt đầu đến lúc hoàn thành chặng đua thì tôi đã có 5 đứa cháu rồi ấy”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1.正（ただ）しいものに〇、正（ただ）しくないものに✕を書（か）いてください。",
+          "japaneseHtml": "I 1.<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy điền 〇 vào câu đúng và ✕ vào câu không đúng.",
+          "vietnameseHtml": "Hãy điền 〇 vào câu đúng và ✕ vào câu không đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（Ｘ）１９１２年（ねん）ごろに本（ほん）ではオリンピックはとても人気（にんき）はあった。",
+          "japaneseHtml": "1)（<b>Ｘ</b>）１９１２<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>ごろに<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>ではオリンピックはとても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>はあった。",
+          "vietnamese": "Khoảng năm 1912 ở Nhật bản Olympic rất được yêu thích.",
+          "vietnameseHtml": "Khoảng năm 1912 ở Nhật bản Olympic rất được yêu thích."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（〇）第（だい）５回（かい）大会（たいかい）の前（まえ）は金栗（かなぐり）の記録（きろく）が世界（せかい）で一番（いちばん）速（はや）かった。",
+          "japaneseHtml": "2)（<b>〇</b>）<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>５<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>は<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>の<ruby>記録<rp>（</rp><rt>きろく</rt><rp>）</rp></ruby>が<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>で<ruby>一番<rp>（</rp><rt>いちばん</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>かった。",
+          "vietnamese": "Trước đại hội lần thư 5 thì kỷ lục của Kanaguri nhanh nhất thế giới.",
+          "vietnameseHtml": "Trước đại hội lần thư 5 thì kỷ lục của Kanaguri nhanh nhất thế giới."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（Ｘ）金栗（かなぐり）は自分（じぶん）のお金（かね）でオリンピックに参加（さんか）した。",
+          "japaneseHtml": "3)（<b>Ｘ</b>）<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>のお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>でオリンピックに<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>した。",
+          "vietnamese": "Kanaguri dùng tiền của bản thân tham gia Olympic.",
+          "vietnameseHtml": "Kanaguri dùng tiền của bản thân tham gia Olympic."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（Ｘ）オリンピックの前（まえ）に、金栗（かなぐり）は必（かなら）ずマラソンで勝（か）つと言（い）われていた。",
+          "japaneseHtml": "4)（<b>Ｘ</b>）オリンピックの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>は<ruby>必<rp>（</rp><rt>かなら</rt><rp>）</rp></ruby>ずマラソンで<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>つと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われていた。",
+          "vietnamese": "Kanaguri đã nước trước Olympic rằng nhất định sẽ thắng Marathon.",
+          "vietnameseHtml": "Kanaguri đã nước trước Olympic rằng nhất định sẽ thắng Marathon."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. ゴールインした金栗（かなぐり）さんに聞（き）きました。正（ただ）しい答（こた）えを選（えら）んでください。",
+          "japaneseHtml": "2. ゴールインした<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>さんに<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。",
+          "vietnamese": "Đã hỏi Kanaguri đã hoàn thành chặng đua. Hãy chọn câu trả lời đúng.",
+          "vietnameseHtml": "Đã hỏi Kanaguri đã hoàn thành chặng đua. Hãy chọn câu trả lời đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1) ゴールインおめでとうございます。今（いま）、どんな気持（きも）ちですか。",
+          "japaneseHtml": "1) ゴールインおめでとうございます。<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、どんな<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちですか。",
+          "vietnamese": "Chúc mừng ông đã hoàn thành chặng đua. Bây giờ cảm giác của ông như thế nào?",
+          "vietnameseHtml": "Chúc mừng ông đã hoàn thành chặng đua. Bây giờ cảm giác của ông như thế nào?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> ①<b>ストックホルム<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>。</b> <p></p> ②<ruby>東京<rp>（</rp><rt>とうきょう</rt><rp>）</rp></ruby>のマラソン<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>。 <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "のことをいろいろ思（おも）い出（だ）しています。",
+          "japaneseHtml": "のことをいろいろ<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>しています。",
+          "vietnamese": "Tôi đang nhớ nhiều thứ về cuộc thi Marathon ở Stockholm.",
+          "vietnameseHtml": "Tôi đang nhớ nhiều thứ về cuộc thi Marathon ở Stockholm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "あの時（とき）はゴールインできませんでした。",
+          "japaneseHtml": "あの<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>はゴールインできませんでした。",
+          "vietnamese": "Khi đó tôi đã không thể về đích.",
+          "vietnameseHtml": "Khi đó tôi đã không thể về đích."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2) どうして走（はし）れなくなったんですか。",
+          "japaneseHtml": "2) どうして<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>れなくなったんですか。",
+          "vietnamese": "Tại sao ông không thể chạy được nữa?",
+          "vietnameseHtml": "Tại sao ông không thể chạy được nữa?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> ①<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>る<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>んだから <p></p> <b>②とても<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>だったから。</b> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "体（からだ）の調子（ちょうし）が悪（わる）くなって、倒（たお）れてしまいました。",
+          "japaneseHtml": "<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くなって、<ruby>倒<rp>（</rp><rt>たお</rt><rp>）</rp></ruby>れてしまいました。",
+          "vietnamese": "Vì là một ngày rất nóng, nên tình trạng cơ thể xấu đi rồi tôi đã ngã gục xuống.",
+          "vietnameseHtml": "Vì là một ngày rất nóng, nên tình trạng cơ thể xấu đi rồi tôi đã ngã gục xuống."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3) それで、どうしたんですか。",
+          "japaneseHtml": "3) それで、どうしたんですか。",
+          "vietnamese": "Và rồi, chuyện gì đã xảy ra?",
+          "vietnameseHtml": "Và rồi, chuyện gì đã xảy ra?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> ①<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby> <p></p> <b>②<ruby>近<rp>（</rp><rt>ちか</rt><rp>）</rp></ruby>くのスウェーデン<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby></b> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "➂オリンピック選手（せんしゅ）",
+          "japaneseHtml": "➂オリンピック<ruby>選手<rp>（</rp><rt>せんしゅ</rt><rp>）</rp></ruby>",
+          "vietnamese": "",
+          "vietnameseHtml": ""
+        },
+        {
+          "kind": "tudich",
+          "japanese": "に助（たす）けられて、次（つぎ）の日（ひ）、ホテルへ帰（かえ）りました。みんな、私（わたし）を捜（さが）していました。",
+          "japaneseHtml": "に<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けられて、<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>の<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>、ホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。みんな、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>を<ruby>捜<rp>（</rp><rt>さが</rt><rp>）</rp></ruby>していました。",
+          "vietnamese": "Tôi được người Thụy Điển ở gần cứu giúp, ngày tiếp theo tôi đã trở về khách sạn. Mọi người đã tìm kiếm.",
+          "vietnameseHtml": "Tôi được người Thụy Điển ở gần cứu giúp, ngày tiếp theo tôi đã trở về khách sạn. Mọi người đã tìm kiếm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4) ホテルへ帰（かえ）ったとき、皆（みんな）は何（なに）か言（い）いましたか。",
+          "japaneseHtml": "4) ホテルへ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったとき、<ruby>皆<rp>（</rp><rt>みんな</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いましたか。",
+          "vietnamese": "Về khách sạn, rồi mọi người nói gì với ông?",
+          "vietnameseHtml": "Về khách sạn, rồi mọi người nói gì với ông?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> ①「どうして<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>れなかったんだ」 <p></p> <b>②「<ruby>本当<rp>（</rp><rt>ほんとう</rt><rp>）</rp></ruby>に<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>かった」</b> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "と言（い）いました。",
+          "japaneseHtml": "と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Đã nói rằng: “Thật sự tốt rồi”.",
+          "vietnameseHtml": "Đã nói rằng: “Thật sự tốt rồi”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "5) それで、金栗（かなぐり）はどう思（おも）いましたか。",
+          "japaneseHtml": "5) それで、<ruby>金栗<rp>（</rp><rt>かなぐり</rt><rp>）</rp></ruby>はどう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いましたか。",
+          "vietnamese": "Và rồi, Kanaguri đã nghĩ như thế nào?",
+          "vietnameseHtml": "Và rồi, Kanaguri đã nghĩ như thế nào?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> ①みんなが<ruby>喜<rp>（</rp><rt>よろこ</rt><rp>）</rp></ruby>んでくれたから、よかった。 <p></p> <b>②ゴールインできなかったから、<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしい</b> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "と思（おも）いました。",
+          "japaneseHtml": "と<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Tôi đã nghĩ rằng “Thật xấu hổ vì đã không thể về đích”.",
+          "vietnameseHtml": "Tôi đã nghĩ rằng “Thật xấu hổ vì đã không thể về đích”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II オリンピックについて何（なに）か思（おも）い出（で）がありますか。",
+          "japaneseHtml": "II オリンピックについて<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>がありますか。",
+          "vietnamese": "Bạn có kỉ niệm gì đó về Olympic không?",
+          "vietnameseHtml": "Bạn có kỉ niệm gì đó về Olympic không?"
+        }
+      ]
+    }
+  ]
+}

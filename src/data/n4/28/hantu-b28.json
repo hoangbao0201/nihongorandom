@@ -1,0 +1,246 @@
+{
+  "lesson": 28,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "売れます",
+      "kanjiHtml": "売れます",
+      "sinoVietnamese": "MẠI",
+      "kana": "うれます [パンが～]",
+      "kanaHtml": "うれます<br /> [パンが～]"
+    },
+    {
+      "index": 2,
+      "kanji": "踊ります",
+      "kanjiHtml": "踊ります",
+      "sinoVietnamese": "DŨNG",
+      "kana": "おどります",
+      "kanaHtml": "おどります"
+    },
+    {
+      "index": 3,
+      "kanji": "選びます",
+      "kanjiHtml": "選びます",
+      "sinoVietnamese": "TUYỂN",
+      "kana": "えらびます",
+      "kanaHtml": "えらびます"
+    },
+    {
+      "index": 4,
+      "kanji": "通います [大学に～]",
+      "kanjiHtml": "通います<br />[大学に～]",
+      "sinoVietnamese": "THÔNG ĐẠI HỌC",
+      "kana": "かよいます [だいがくに～]",
+      "kanaHtml": "かよいます<br /> [だいがくに～]"
+    },
+    {
+      "index": 5,
+      "kanji": "熱心[な]",
+      "kanjiHtml": "熱心[な]",
+      "sinoVietnamese": "NHIỆT TÂM",
+      "kana": "ねっしん[な]",
+      "kanaHtml": "ねっしん[な]"
+    },
+    {
+      "index": 6,
+      "kanji": "偉い",
+      "kanjiHtml": "偉い",
+      "sinoVietnamese": "VĨ",
+      "kana": "えらい",
+      "kanaHtml": "えらい"
+    },
+    {
+      "index": 7,
+      "kanji": "景色",
+      "kanjiHtml": "景色",
+      "sinoVietnamese": "CẢNH SẮC",
+      "kana": "けしき",
+      "kanaHtml": "けしき"
+    },
+    {
+      "index": 8,
+      "kanji": "美容院",
+      "kanjiHtml": "美容院",
+      "sinoVietnamese": "MỸ DUNG VIỆN",
+      "kana": "びよういん",
+      "kanaHtml": "びよういん"
+    },
+    {
+      "index": 9,
+      "kanji": "台所",
+      "kanjiHtml": "台所",
+      "sinoVietnamese": "ĐÀI SỞ",
+      "kana": "だいどころ",
+      "kanaHtml": "だいどころ"
+    },
+    {
+      "index": 10,
+      "kanji": "経験",
+      "kanjiHtml": "経験",
+      "sinoVietnamese": "KINH NGHIỆM",
+      "kana": "けいけん",
+      "kanaHtml": "けいけん"
+    },
+    {
+      "index": 11,
+      "kanji": "力",
+      "kanjiHtml": "力",
+      "sinoVietnamese": "LỰC",
+      "kana": "ちから",
+      "kanaHtml": "ちから"
+    },
+    {
+      "index": 12,
+      "kanji": "人気",
+      "kanjiHtml": "人気",
+      "sinoVietnamese": "NHÂN KHÍ",
+      "kana": "にんき",
+      "kanaHtml": "にんき"
+    },
+    {
+      "index": 13,
+      "kanji": "形",
+      "kanjiHtml": "形",
+      "sinoVietnamese": "HÌNH",
+      "kana": "かたち",
+      "kanaHtml": "かたち"
+    },
+    {
+      "index": 14,
+      "kanji": "色",
+      "kanjiHtml": "色",
+      "sinoVietnamese": "SẮC",
+      "kana": "いろ",
+      "kanaHtml": "いろ"
+    },
+    {
+      "index": 15,
+      "kanji": "味",
+      "kanjiHtml": "味",
+      "sinoVietnamese": "VỊ",
+      "kana": "あじ",
+      "kanaHtml": "あじ"
+    },
+    {
+      "index": 16,
+      "kanji": "品物",
+      "kanjiHtml": "品物",
+      "sinoVietnamese": "PHẨM VẬT",
+      "kana": "しなもの",
+      "kanaHtml": "しなもの"
+    },
+    {
+      "index": 17,
+      "kanji": "値段",
+      "kanjiHtml": "値段",
+      "sinoVietnamese": "TRỊ ĐOẠN",
+      "kana": "ねだん",
+      "kanaHtml": "ねだん"
+    },
+    {
+      "index": 18,
+      "kanji": "給料",
+      "kanjiHtml": "給料",
+      "sinoVietnamese": "CẤP LIỆU",
+      "kana": "きゅうりょう",
+      "kanaHtml": "きゅうりょう"
+    },
+    {
+      "index": 19,
+      "kanji": "番組",
+      "kanjiHtml": "番組",
+      "sinoVietnamese": "PHIÊN TỔ",
+      "kana": "ばんぐみ",
+      "kanaHtml": "ばんぐみ"
+    },
+    {
+      "index": 20,
+      "kanji": "歌手",
+      "kanjiHtml": "歌手",
+      "sinoVietnamese": "CA THỦ",
+      "kana": "かしゅ",
+      "kanaHtml": "かしゅ"
+    },
+    {
+      "index": 21,
+      "kanji": "小説",
+      "kanjiHtml": "小説",
+      "sinoVietnamese": "TIỂU THUYẾT",
+      "kana": "しょうせつ",
+      "kanaHtml": "しょうせつ"
+    },
+    {
+      "index": 22,
+      "kanji": "小説家",
+      "kanjiHtml": "小説家",
+      "sinoVietnamese": "TIỂU THUYẾT GIA",
+      "kana": "しょうせつか",
+      "kanaHtml": "しょうせつか"
+    },
+    {
+      "index": 23,
+      "kanji": "～家",
+      "kanjiHtml": "～家",
+      "sinoVietnamese": "GIA",
+      "kana": "～か",
+      "kanaHtml": "～か"
+    },
+    {
+      "index": 24,
+      "kanji": "～機",
+      "kanjiHtml": "～機",
+      "sinoVietnamese": "CƠ",
+      "kana": "～き",
+      "kanaHtml": "～き"
+    },
+    {
+      "index": 25,
+      "kanji": "息子",
+      "kanjiHtml": "息子",
+      "sinoVietnamese": "TỨC TỬ",
+      "kana": "むすこ",
+      "kanaHtml": "むすこ"
+    },
+    {
+      "index": 26,
+      "kanji": "息子さん",
+      "kanjiHtml": "息子さん",
+      "sinoVietnamese": "TỨC TỬ",
+      "kana": "むすこさん",
+      "kanaHtml": "むすこさん"
+    },
+    {
+      "index": 27,
+      "kanji": "娘",
+      "kanjiHtml": "娘",
+      "sinoVietnamese": "NƯƠNG",
+      "kana": "むすめ",
+      "kanaHtml": "むすめ"
+    },
+    {
+      "index": 28,
+      "kanji": "娘さん",
+      "kanjiHtml": "娘さん",
+      "sinoVietnamese": "NƯƠNG",
+      "kana": "むすめさん",
+      "kanaHtml": "むすめさん"
+    },
+    {
+      "index": 29,
+      "kanji": "自分",
+      "kanjiHtml": "自分",
+      "sinoVietnamese": "TỰ PHÂN",
+      "kana": "じぶん",
+      "kanaHtml": "じぶん"
+    },
+    {
+      "index": 30,
+      "kanji": "将来",
+      "kanjiHtml": "将来",
+      "sinoVietnamese": "TƯƠNG LAI",
+      "kana": "しょうらい",
+      "kanaHtml": "しょうらい"
+    }
+  ]
+}

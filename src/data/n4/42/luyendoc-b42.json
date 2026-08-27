@@ -1,0 +1,286 @@
+{
+  "lesson": 42,
+  "type": "luyendoc",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> <audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100001110112.mp3\" type=\"audio/mpeg\"></audio></p> <p> １．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_bk_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>将来<rp>(</rp><rt>しょうらい</rt><rp>)</rp></ruby> <ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の <ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>を <ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>つ ために、<ruby>貯金<rp>(</rp><rt>ちょきん</rt><rp>)</rp></ruby>して います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi tiết kiệm tiền để mở cửa hàng của riêng mình.</div></div></div><p></p> <p> ２．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_bk_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>この <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>は <ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>を <ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>くのに いいです</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Đôi giày này tốt cho việc đi bộ.</div></div></div><p></p> <p> </p></div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/100001110112.mp3",
+          "contentHtml": "<audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100001110112.mp3\" type=\"audio/mpeg\"></audio>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> １．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_bk_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "将来(しょうらい) 自分(じぶん)の 店(みせ)を 持(も)つ ために、貯金(ちょきん)して います。",
+          "japaneseHtml": "<span><ruby>将来<rp>(</rp><rt>しょうらい</rt><rp>)</rp></ruby> <ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の <ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>を <ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>つ ために、<ruby>貯金<rp>(</rp><rt>ちょきん</rt><rp>)</rp></ruby>して います。</span>",
+          "vietnamese": "Tôi tiết kiệm tiền để mở cửa hàng của riêng mình.",
+          "vietnameseHtml": "Tôi tiết kiệm tiền để mở cửa hàng của riêng mình."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> ２．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_bk_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "この 靴(くつ)は 山(やま)を 歩(ある)くのに いいです",
+          "japaneseHtml": "<span>この <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>は <ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>を <ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>くのに いいです</span>",
+          "vietnamese": "Đôi giày này tốt cho việc đi bộ.",
+          "vietnameseHtml": "Đôi giày này tốt cho việc đi bộ."
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> <audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100001111002.mp3\" type=\"audio/mpeg\"></audio></p> <p> １．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_rb_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>盆踊<rp>(</rp><rt>ぼんおど</rt><rp>)</rp></ruby>りに <ruby>参加<rp>(</rp><rt>さんか</rt><rp>)</rp></ruby>する ために、<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> <ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>して います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hàng ngày tôi luyện tập để tham gia lễ hội múa Bon.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>…そうですか。 <ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しみですね。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Thế à? Vui nhỉ.</div></div></div><p></p> <p> ２．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_rb_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>なぜ <ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>で <ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>に <ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>るんですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tại sao anh lại leo núi một mình?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>… <ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>に なって <ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>える ために、<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>に <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんです。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Tôi muốn lên núi để được ở một mình và suy nghĩ.</div></div></div><p></p> <p> ３．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_rb_3.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>の ために、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か して いますか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hiện giờ anh/chị có làm gì vì sức khỏe không?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>… いいえ、 でも、<ruby>来週<rp>(</rp><rt>らいしゅう</rt><rp>)</rp></ruby>から <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>ろうと <ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>って います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Không. Nhưng tôi đang định từ tuần sau sẽ chạy vào buổi sáng.</div></div></div><p></p> <p> ４．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_rb_4.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>きれいな <ruby>曲<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby>ですね。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Bản nhạc hay nhỉ.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>…「エリーゼの ために」ですよ。 ベートーベンが ある <ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の ために、<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>った <ruby>曲<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby>です。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Đó là bản Fur Elize đấy. Beethoven đã viết bản nhạc này để tặng một cô gái.</div></div></div><p></p> <p> ５．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_rb_5.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>これは <ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>に <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>うんですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái này dùng để làm gì?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>… ワインを <ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けるのに <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>います。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Dùng để mở rượu vang.</div></div></div><p></p> <p> ６．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_rb_6.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>２、３<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>の <ruby>出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp></ruby>に いい かばんが ありますか。。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có cái túi nào tốt cho việc công tác tầm 2,3 ngày không?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>… こちらは いかがですか。 パソコンも <ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って、<ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby>ですよ。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Cái này được không? Có thể bỏ máy tính và tiện lợi ấy.</div></div></div><p></p> <p> ７．</p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai42_rb_7.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>この<ruby>橋<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>を <ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>るのに <ruby>何年<rp>(</rp><rt>なんねん</rt><rp>)</rp></ruby> かかりましたか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Đã mất bao lâu để xây cây cầu này? </div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>… １２<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby> かかりました。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">… Đã mất 12 năm.</div></div></div><p></p> <p> </p></div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/100001111002.mp3",
+          "contentHtml": "<audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100001111002.mp3\" type=\"audio/mpeg\"></audio>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> １．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_rb_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "盆踊(ぼんおど)りに 参加(さんか)する ために、毎日(まいにち) 練習(れんしゅう)して います。",
+          "japaneseHtml": "<span><ruby>盆踊<rp>(</rp><rt>ぼんおど</rt><rp>)</rp></ruby>りに <ruby>参加<rp>(</rp><rt>さんか</rt><rp>)</rp></ruby>する ために、<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby> <ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>して います。</span>",
+          "vietnamese": "Hàng ngày tôi luyện tập để tham gia lễ hội múa Bon.",
+          "vietnameseHtml": "Hàng ngày tôi luyện tập để tham gia lễ hội múa Bon."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…そうですか。 楽(たの)しみですね。",
+          "japaneseHtml": "<span>…そうですか。 <ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しみですね。</span>",
+          "vietnamese": "…Thế à? Vui nhỉ.",
+          "vietnameseHtml": "…Thế à? Vui nhỉ."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> ２．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_rb_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "なぜ 一人(ひとり)で 山(やま)に 登(のぼ)るんですか。",
+          "japaneseHtml": "<span>なぜ <ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>で <ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>に <ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>るんですか。</span>",
+          "vietnamese": "Tại sao anh lại leo núi một mình?",
+          "vietnameseHtml": "Tại sao anh lại leo núi một mình?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 一人(ひとり)に なって 考(かんが)える ために、山(やま)に 行(い)くんです。",
+          "japaneseHtml": "<span>… <ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>に なって <ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>える ために、<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>に <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんです。</span>",
+          "vietnamese": "…Tôi muốn lên núi để được ở một mình và suy nghĩ.",
+          "vietnameseHtml": "…Tôi muốn lên núi để được ở một mình và suy nghĩ."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> ３．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_rb_3.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "健康(けんこう)の ために、何(なに)か して いますか。",
+          "japaneseHtml": "<span><ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>の ために、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か して いますか。</span>",
+          "vietnamese": "Hiện giờ anh/chị có làm gì vì sức khỏe không?",
+          "vietnameseHtml": "Hiện giờ anh/chị có làm gì vì sức khỏe không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… いいえ、 でも、来週(らいしゅう)から 毎朝(まいあさ) 走(はし)ろうと 思(おも)って います。",
+          "japaneseHtml": "<span>… いいえ、 でも、<ruby>来週<rp>(</rp><rt>らいしゅう</rt><rp>)</rp></ruby>から <ruby>毎朝<rp>(</rp><rt>まいあさ</rt><rp>)</rp></ruby> <ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>ろうと <ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>って います。</span>",
+          "vietnamese": "…Không. Nhưng tôi đang định từ tuần sau sẽ chạy vào buổi sáng.",
+          "vietnameseHtml": "…Không. Nhưng tôi đang định từ tuần sau sẽ chạy vào buổi sáng."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> ４．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_rb_4.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "きれいな 曲(きょく)ですね。",
+          "japaneseHtml": "<span>きれいな <ruby>曲<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby>ですね。</span>",
+          "vietnamese": "Bản nhạc hay nhỉ.",
+          "vietnameseHtml": "Bản nhạc hay nhỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…「エリーゼの ために」ですよ。 ベートーベンが ある 女(おんな)の 人(ひと)の ために、作(つく)った 曲(きょく)です。",
+          "japaneseHtml": "<span>…「エリーゼの ために」ですよ。 ベートーベンが ある <ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の ために、<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>った <ruby>曲<rp>(</rp><rt>きょく</rt><rp>)</rp></ruby>です。</span>",
+          "vietnamese": "Đó là bản Fur Elize đấy. Beethoven đã viết bản nhạc này để tặng một cô gái.",
+          "vietnameseHtml": "Đó là bản Fur Elize đấy. Beethoven đã viết bản nhạc này để tặng một cô gái."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> ５．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_rb_5.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "これは 何(なに)に 使(つか)うんですか。",
+          "japaneseHtml": "<span>これは <ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>に <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>うんですか。</span>",
+          "vietnamese": "Cái này dùng để làm gì?",
+          "vietnameseHtml": "Cái này dùng để làm gì?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ワインを 開(あ)けるのに 使(つか)います。",
+          "japaneseHtml": "<span>… ワインを <ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けるのに <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>います。</span>",
+          "vietnamese": "…Dùng để mở rượu vang.",
+          "vietnameseHtml": "…Dùng để mở rượu vang."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> ６．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_rb_6.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２、３日(ひ)の 出張(しゅっちょう)に いい かばんが ありますか。。",
+          "japaneseHtml": "<span>２、３<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>の <ruby>出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp></ruby>に いい かばんが ありますか。。</span>",
+          "vietnamese": "Có cái túi nào tốt cho việc công tác tầm 2,3 ngày không?",
+          "vietnameseHtml": "Có cái túi nào tốt cho việc công tác tầm 2,3 ngày không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… こちらは いかがですか。 パソコンも 入(はい)って、便利(べんり)ですよ。",
+          "japaneseHtml": "<span>… こちらは いかがですか。 パソコンも <ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って、<ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby>ですよ。</span>",
+          "vietnamese": "…Cái này được không? Có thể bỏ máy tính và tiện lợi ấy.",
+          "vietnameseHtml": "…Cái này được không? Có thể bỏ máy tính và tiện lợi ấy."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> ７．</p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai42_rb_7.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "この橋(はし)を 作(つく)るのに 何年(なんねん) かかりましたか。",
+          "japaneseHtml": "<span>この<ruby>橋<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>を <ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>るのに <ruby>何年<rp>(</rp><rt>なんねん</rt><rp>)</rp></ruby> かかりましたか。</span>",
+          "vietnamese": "Đã mất bao lâu để xây cây cầu này?",
+          "vietnameseHtml": "Đã mất bao lâu để xây cây cầu này?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １２年(とし) かかりました。",
+          "japaneseHtml": "<span>… １２<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby> かかりました。</span>",
+          "vietnamese": "… Đã mất 12 năm.",
+          "vietnameseHtml": "… Đã mất 12 năm."
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> </p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 20px;\"> <strong>1.</strong></td> <td> <ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>を</td> <td style=\"background-color: rgb(205, 227, 235);\"> かう</td> <td rowspan=\"4\"> ために、<ruby>一生懸命<rp>(</rp><rt>いっしょうけんめい</rt><rp>)</rp></ruby> <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます </td> </tr> <tr> <td> <ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>を</td> <td style=\"background-color: rgb(205, 227, 235);\"> つくる</td> </tr> <tr> <td>  </td> <td style=\"background-color: rgb(205, 227, 235);\"> しょうらいの</td> </tr> <tr> <td>  </td> <td style=\"background-color: rgb(205, 227, 235);\"> かぞくの</td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p>Làm việc chăm chỉ để xây nhà.</p> <p>Làm việc chăm chỉ để xây dựng công ty.</p> <p>Làm việc chăm chỉ cho tương lai.</p> <p>Làm việc chăm chỉ cho gia đình.</p> <p> </p></div></div><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 20px;\"> <strong>2.</strong></td> <td rowspan=\"4\"> この かばんは</td> <td> <ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>を</td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> はこぶ の</td> <td rowspan=\"4\"> に</td> <td rowspan=\"2\"> <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>います。</td> </tr> <tr> <td> </td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> しゅっちょう</td> <td> </td> </tr> <tr> <td> パソコンを</td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> いれる の</td> <td rowspan=\"2\"> いいです</td> </tr> <tr> <td> </td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> りょこう</td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p>Cái túi này dùng cho việc vận chuyển tranh.</p> <p>Cái túi này dùng cho việc đi công tác.</p> <p>Cái túi này tốt cho việc để máy tính.</p> <p>Cái túi này tốt cho việc đi du lịch.</p> <p> </p></div></div><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"2\" style=\"width: 20px;\"> <strong>3.</strong></td> <td> <ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>を</td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> たてる の</td> <td rowspan=\"2\"> に</td> <td> 2000<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></td> <td rowspan=\"2\"> かかります。</td> </tr> <tr> <td></td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\">ひっこし</td> <td> <ruby>2日<rp>(</rp><rt>ふつか</rt><rp>)</rp></ruby></td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p>Mất 20.000.000 Yên để xây nhà.</p> <p>Mất 2 ngày để dọn nhà.</p> <p> </p></div></div><p></p> <p> </p></div></div><p></p> <br /> <?php $de_stt = \"42\"; ?><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 20px;\"> <strong>1.</strong></td> <td> <ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>を</td> <td style=\"background-color: rgb(205, 227, 235);\"> かう</td> <td rowspan=\"4\"> ために、<ruby>一生懸命<rp>(</rp><rt>いっしょうけんめい</rt><rp>)</rp></ruby> <ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>きます </td> </tr> <tr> <td> <ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>を</td> <td style=\"background-color: rgb(205, 227, 235);\"> つくる</td> </tr> <tr> <td> </td> <td style=\"background-color: rgb(205, 227, 235);\"> しょうらいの</td> </tr> <tr> <td> </td> <td style=\"background-color: rgb(205, 227, 235);\"> かぞくの</td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p>Làm việc chăm chỉ để xây nhà.</p> <p>Làm việc chăm chỉ để xây dựng công ty.</p> <p>Làm việc chăm chỉ cho tương lai.</p> <p>Làm việc chăm chỉ cho gia đình.</p> <p> </p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p>Làm việc chăm chỉ để xây nhà.</p> <p>Làm việc chăm chỉ để xây dựng công ty.</p> <p>Làm việc chăm chỉ cho tương lai.</p> <p>Làm việc chăm chỉ cho gia đình.</p> <p> </p>"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"4\" style=\"width: 20px;\"> <strong>2.</strong></td> <td rowspan=\"4\"> この かばんは</td> <td> <ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>を</td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> はこぶ の</td> <td rowspan=\"4\"> に</td> <td rowspan=\"2\"> <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>います。</td> </tr> <tr> <td> </td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> しゅっちょう</td> <td> </td> </tr> <tr> <td> パソコンを</td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> いれる の</td> <td rowspan=\"2\"> いいです</td> </tr> <tr> <td> </td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> りょこう</td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p>Cái túi này dùng cho việc vận chuyển tranh.</p> <p>Cái túi này dùng cho việc đi công tác.</p> <p>Cái túi này tốt cho việc để máy tính.</p> <p>Cái túi này tốt cho việc đi du lịch.</p> <p> </p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p>Cái túi này dùng cho việc vận chuyển tranh.</p> <p>Cái túi này dùng cho việc đi công tác.</p> <p>Cái túi này tốt cho việc để máy tính.</p> <p>Cái túi này tốt cho việc đi du lịch.</p> <p> </p>"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"2\" style=\"width: 20px;\"> <strong>3.</strong></td> <td> <ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>を</td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\"> たてる の</td> <td rowspan=\"2\"> に</td> <td> 2000<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></td> <td rowspan=\"2\"> かかります。</td> </tr> <tr> <td></td> <td align=\"right\" style=\"background-color: rgb(205, 227, 235);\">ひっこし</td> <td> <ruby>2日<rp>(</rp><rt>ふつか</rt><rp>)</rp></ruby></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p>Mất 20.000.000 Yên để xây nhà.</p> <p>Mất 2 ngày để dọn nhà.</p> <p> </p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p>Mất 20.000.000 Yên để xây nhà.</p> <p>Mất 2 ngày để dọn nhà.</p> <p> </p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "lesson": 42,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "包みます",
+      "kanjiHtml": "包みます",
+      "sinoVietnamese": "BAO",
+      "kana": "つつみます",
+      "kanaHtml": "つつみます"
+    },
+    {
+      "index": 2,
+      "kanji": "沸かします",
+      "kanjiHtml": "沸かします",
+      "sinoVietnamese": "PHẮT/PHI",
+      "kana": "わかします",
+      "kanaHtml": "わかします"
+    },
+    {
+      "index": 3,
+      "kanji": "混ぜます",
+      "kanjiHtml": "混ぜます",
+      "sinoVietnamese": "HỖN",
+      "kana": "まぜます",
+      "kanaHtml": "まぜます"
+    },
+    {
+      "index": 4,
+      "kanji": "計算します",
+      "kanjiHtml": "計算します",
+      "sinoVietnamese": "KẾ TOÁN",
+      "kana": "けいさんします",
+      "kanaHtml": "けいさんします"
+    },
+    {
+      "index": 5,
+      "kanji": "並びます",
+      "kanjiHtml": "並びます",
+      "sinoVietnamese": "TỊNH",
+      "kana": "ならびます",
+      "kanaHtml": "ならびます"
+    },
+    {
+      "index": 6,
+      "kanji": "丈夫[な]",
+      "kanjiHtml": "丈夫[な]",
+      "sinoVietnamese": "TRƯỢNG PHU",
+      "kana": "じょうぶ[な]",
+      "kanaHtml": "じょうぶ[な]"
+    },
+    {
+      "index": 7,
+      "kanji": "弁護士",
+      "kanjiHtml": "弁護士",
+      "sinoVietnamese": "BIỆN HỘ SĨ",
+      "kana": "べんごし",
+      "kanaHtml": "べんごし"
+    },
+    {
+      "index": 8,
+      "kanji": "音楽家",
+      "kanjiHtml": "音楽家",
+      "sinoVietnamese": "ÂM NHẠC GIA",
+      "kana": "おんがくか",
+      "kanaHtml": "おんがくか"
+    },
+    {
+      "index": 9,
+      "kanji": "子どもたち",
+      "kanjiHtml": "子どもたち",
+      "sinoVietnamese": "TỬ",
+      "kana": "こどもたち",
+      "kanaHtml": "こどもたち"
+    },
+    {
+      "index": 10,
+      "kanji": "自然",
+      "kanjiHtml": "自然",
+      "sinoVietnamese": "TỰ NHIÊN",
+      "kana": "しぜん",
+      "kanaHtml": "しぜん"
+    },
+    {
+      "index": 11,
+      "kanji": "教育",
+      "kanjiHtml": "教育",
+      "sinoVietnamese": "GIÁO DỤC",
+      "kana": "きょういく",
+      "kanaHtml": "きょういく"
+    },
+    {
+      "index": 12,
+      "kanji": "文化",
+      "kanjiHtml": "文化",
+      "sinoVietnamese": "VĂN HÓA",
+      "kana": "ぶんか",
+      "kanaHtml": "ぶんか"
+    },
+    {
+      "index": 13,
+      "kanji": "社会",
+      "kanjiHtml": "社会",
+      "sinoVietnamese": "XÃ HỘI",
+      "kana": "しゃかい",
+      "kanaHtml": "しゃかい"
+    },
+    {
+      "index": 14,
+      "kanji": "政治",
+      "kanjiHtml": "政治",
+      "sinoVietnamese": "CHÍNH TRỊ",
+      "kana": "せいじ",
+      "kanaHtml": "せいじ"
+    },
+    {
+      "index": 15,
+      "kanji": "法律",
+      "kanjiHtml": "法律",
+      "sinoVietnamese": "PHÁP LUẬT",
+      "kana": "ほうりつ",
+      "kanaHtml": "ほうりつ"
+    },
+    {
+      "index": 16,
+      "kanji": "戦争",
+      "kanjiHtml": "戦争",
+      "sinoVietnamese": "CHIẾN TRANH",
+      "kana": "せんそう",
+      "kanaHtml": "せんそう"
+    },
+    {
+      "index": 17,
+      "kanji": "平和",
+      "kanjiHtml": "平和",
+      "sinoVietnamese": "BÌNH HÒA",
+      "kana": "へいわ",
+      "kanaHtml": "へいわ"
+    },
+    {
+      "index": 18,
+      "kanji": "目的",
+      "kanjiHtml": "目的",
+      "sinoVietnamese": "MỤC ĐÍCH",
+      "kana": "もくてき",
+      "kanaHtml": "もくてき"
+    },
+    {
+      "index": 19,
+      "kanji": "論文",
+      "kanjiHtml": "論文",
+      "sinoVietnamese": "LUẬN VĂN",
+      "kana": "ろんぶん",
+      "kanaHtml": "ろんぶん"
+    },
+    {
+      "index": 20,
+      "kanji": "楽しみ",
+      "kanjiHtml": "楽しみ",
+      "sinoVietnamese": "LẠC",
+      "kana": "たのしみ",
+      "kanaHtml": "たのしみ"
+    },
+    {
+      "index": 21,
+      "kanji": "栓抜き",
+      "kanjiHtml": "栓抜き",
+      "sinoVietnamese": "XUYÊN BẠT",
+      "kana": "せんぬき",
+      "kanaHtml": "せんぬき"
+    },
+    {
+      "index": 22,
+      "kanji": "缶切り",
+      "kanjiHtml": "缶切り",
+      "sinoVietnamese": "PHẪU THIẾT",
+      "kana": "かんきり",
+      "kanaHtml": "かんきり"
+    },
+    {
+      "index": 23,
+      "kanji": "缶詰",
+      "kanjiHtml": "缶詰",
+      "sinoVietnamese": "PHẪU CẬT",
+      "kana": "かんづめ",
+      "kanaHtml": "かんづめ"
+    },
+    {
+      "index": 24,
+      "kanji": "のし袋",
+      "kanjiHtml": "のし袋",
+      "sinoVietnamese": "ĐẠI",
+      "kana": "のしぶくろ",
+      "kanaHtml": "のしぶくろ"
+    },
+    {
+      "index": 25,
+      "kanji": "体温計",
+      "kanjiHtml": "体温計",
+      "sinoVietnamese": "THỂ ÔN KẾ",
+      "kana": "たいおんけい",
+      "kanaHtml": "たいおんけい"
+    },
+    {
+      "index": 26,
+      "kanji": "材料",
+      "kanjiHtml": "材料",
+      "sinoVietnamese": "TÀI LIỆU",
+      "kana": "ざいりょう",
+      "kanaHtml": "ざいりょう"
+    },
+    {
+      "index": 27,
+      "kanji": "一生懸命",
+      "kanjiHtml": "一生懸命",
+      "sinoVietnamese": "NHẤT SINH HUYỀN MỆNH",
+      "kana": "いっしょうけんめい",
+      "kanaHtml": "いっしょうけんめい"
+    },
+    {
+      "index": 28,
+      "kanji": "国連",
+      "kanjiHtml": "国連",
+      "sinoVietnamese": "QUỐC LIÊN",
+      "kana": "こくれん",
+      "kanaHtml": "こくれん"
+    }
+  ]
+}

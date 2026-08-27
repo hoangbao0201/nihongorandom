@@ -1,0 +1,847 @@
+{
+  "lesson": 33,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おおごえ</b></div> <div class=\"kanji\">大声</div> <div class=\"nghia_viet\">tiếng to, tiếng hét</div> <div class=\"nghia_anh\">loud voice</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たいかい</b></div> <div class=\"kanji\">大会</div> <div class=\"nghia_viet\">hội thi, lễ hội</div> <div class=\"nghia_anh\">contest</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まいとし</b></div> <div class=\"kanji\">毎年</div> <div class=\"nghia_viet\">hàng năm</div> <div class=\"nghia_anh\">every year</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さけびます</b></div> <div class=\"kanji\">叫びます</div> <div class=\"nghia_viet\">hét, kêu to</div> <div class=\"nghia_anh\">shout</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いや「な」</b></div> <div class=\"kanji\">嫌「な」</div> <div class=\"nghia_viet\">khó chịu, không thích, ghét</div> <div class=\"nghia_anh\">horrible</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>テーマ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">chủ đề, đề tài</div> <div class=\"nghia_anh\">theme</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ほとんどの</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">hầu hết</div> <div class=\"nghia_anh\">almost all</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ぜいきん</b></div> <div class=\"kanji\">税金</div> <div class=\"nghia_viet\">tiền thuế</div> <div class=\"nghia_anh\">tax</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さげます</b></div> <div class=\"kanji\">下げます</div> <div class=\"nghia_viet\">giảm, hạ thấp</div> <div class=\"nghia_anh\">lower</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しゅしょう</b></div> <div class=\"kanji\">首相</div> <div class=\"nghia_viet\">thủ tướng</div> <div class=\"nghia_anh\">prime minister</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さんかします</b></div> <div class=\"kanji\">参加します</div> <div class=\"nghia_viet\">tham gia </div> <div class=\"nghia_anh\">participate, take part in</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ある</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">một ~ nào đó</div> <div class=\"nghia_anh\">one ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>トーホク</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">Vùng Đông Bắc Nhật Bản</div> <div class=\"nghia_anh\">northerastern district of Japan</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ガンバロー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">cố lên</div> <div class=\"nghia_anh\">Let's keep going!</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じしん</b></div> <div class=\"kanji\">地震</div> <div class=\"nghia_viet\">động đất</div> <div class=\"nghia_anh\">earthquake</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とうほく</b></div> <div class=\"kanji\">東北</div> <div class=\"nghia_viet\">Vùng Đông Bắc Nhật Bản</div> <div class=\"nghia_anh\">northerastern district of Japan</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>げんきをだします</b></div> <div class=\"kanji\">元気を出します</div> <div class=\"nghia_viet\">vui vẻ, lạc quan lên</div> <div class=\"nghia_anh\">cheer up</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かね</b></div> <div class=\"kanji\">金</div> <div class=\"nghia_viet\">tiền </div> <div class=\"nghia_anh\">money</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>上げます</b></div> <div class=\"kanji\">上げます</div> <div class=\"nghia_viet\">tăng</div> <div class=\"nghia_anh\">increase</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>てくれ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">hãy ~ (cách nói suồng sả của ～てください)</div> <div class=\"nghia_anh\">(informal equivalent of ～てください)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あやまります</b></div> <div class=\"kanji\">謝ります</div> <div class=\"nghia_viet\">xin lỗi</div> <div class=\"nghia_anh\">apologize</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ストレスをだします</b></div> <div class=\"kanji\">ストレスを出します</div> <div class=\"nghia_viet\">xả stress</div> <div class=\"nghia_anh\">release stress</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ただしい</b></div> <div class=\"kanji\">正しい</div> <div class=\"nghia_viet\">đúng</div> <div class=\"nghia_anh\">correct</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あがります</b></div> <div class=\"kanji\">上がります</div> <div class=\"nghia_viet\">tăng</div> <div class=\"nghia_anh\">rise</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さがります</b></div> <div class=\"kanji\">下がります</div> <div class=\"nghia_viet\">giảm</div> <div class=\"nghia_anh\">fall</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>そばくいたいかい</b></div> <div class=\"kanji\">そば食い大会</div> <div class=\"nghia_viet\">hội thi ăn mì Soba</div> <div class=\"nghia_anh\">soba eating contest</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きんぎょすくいせんしゅ</b></div> <div class=\"kanji\">金魚すくい選手権大会</div> <div class=\"nghia_viet\">hội thi Vô địch hớt cá vàng</div> <div class=\"nghia_anh\">goldfish-scooping</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ならけんやまとことりやまし</b></div> <div class=\"kanji\">奈良県大和小鳥山師</div> <div class=\"nghia_viet\">thành phố Yamato Koriyama, tỉnh Nara</div> <div class=\"nghia_anh\">yamato Koriyama City in Nara prefecture</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ちからもちくらべ</b></div> <div class=\"kanji\">力持ち比べ</div> <div class=\"nghia_viet\">hội thi nâng bánh dày khổng lồ</div> <div class=\"nghia_anh\">heavy rice cake holding contest</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きょうとふだいごじ</b></div> <div class=\"kanji\">京都府醍醐寺</div> <div class=\"nghia_viet\">chùa Daigo ở Kyoto</div> <div class=\"nghia_anh\">daigoji Temple in kyoto prefecture</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うめたねとばしたいかい</b></div> <div class=\"kanji\">梅種と橋大会</div> <div class=\"nghia_viet\">hội thi phụt nhổ hạt mơ</div> <div class=\"nghia_anh\">ume stone blowing contest</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふくしまけんあいつみさとまち</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">thị trấn Aizmisato, tỉnh Fukushima</div> <div class=\"nghia_anh\">aizumisatomachi in Fukushima prefection</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おおつなひきたいかい</b></div> <div class=\"kanji\">大綱引き大会</div> <div class=\"nghia_viet\">lễ hội kéo co</div> <div class=\"nghia_anh\">tug-of-war contest</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おきなわけんあはし</b></div> <div class=\"kanji\">沖縄県馬橋</div> <div class=\"nghia_viet\">thành phố Naha,Okinawa</div> <div class=\"nghia_anh\">naha city in okinawa prefecture</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ながぐつことばしたいかい</b></div> <div class=\"kanji\">長靴飛ばし大会</div> <div class=\"nghia_viet\">hội thi văng ủng</div> <div class=\"nghia_anh\">boot throwing contest</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>そのまま</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">để nguyên, giữ nguyên</div> <div class=\"nghia_anh\">as it is </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>もえます</b></div> <div class=\"kanji\">燃えます</div> <div class=\"nghia_viet\">cháy</div> <div class=\"nghia_anh\">burn</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あか</b></div> <div class=\"kanji\">赤</div> <div class=\"nghia_viet\">đỏ</div> <div class=\"nghia_anh\">red</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>シーツ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">khăn trải gường</div> <div class=\"nghia_anh\">sheet</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～じゅう</b></div> <div class=\"kanji\">～中</div> <div class=\"nghia_viet\">suốt ~, cả ~</div> <div class=\"nghia_anh\">all ~ long</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まもります</b></div> <div class=\"kanji\">守ります</div> <div class=\"nghia_viet\">giữ gìn, bảo vệ </div> <div class=\"nghia_anh\">protect</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たしかめます</b></div> <div class=\"kanji\">確かめます</div> <div class=\"nghia_viet\">xác nhận</div> <div class=\"nghia_anh\">make sure</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひ</b></div> <div class=\"kanji\">火</div> <div class=\"nghia_viet\">lửa</div> <div class=\"nghia_anh\">fire</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しかります</b></div> <div class=\"kanji\">叱ります</div> <div class=\"nghia_viet\">mắng</div> <div class=\"nghia_anh\">scold</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>としより</b></div> <div class=\"kanji\">年寄り</div> <div class=\"nghia_viet\">người già</div> <div class=\"nghia_anh\">old people</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>わらいます</b></div> <div class=\"kanji\">笑います</div> <div class=\"nghia_viet\">người giàu</div> <div class=\"nghia_anh\">laugh at</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーびょう</b></div> <div class=\"kanji\">ー秒</div> <div class=\"nghia_viet\">- giây</div> <div class=\"nghia_anh\">- second</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いっしょう</b></div> <div class=\"kanji\">一生</div> <div class=\"nghia_viet\">cả đời</div> <div class=\"nghia_anh\">lifetime</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby></b></h3> <p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>の<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>では<ruby>毎年<rp>（</rp><rt>まいとし</rt><rp>）</rp></ruby>１２<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>に<ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby>があります。 <ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>で<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んで、１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby>嫌<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>なことを<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れるのです。 <p></p> <ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>のテーマは「あの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いたい」でした。 ほとんどの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は「<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げろ！」とか「<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>はやめろ」とか<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びましたが、<ruby>外国<rp>（</rp><rt>がいこく</rt><rp>）</rp></ruby>から<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したある<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は「トーホク！」がんばろー」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました。 この<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>が<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で<ruby>一番大<rp>（</rp><rt>いちばんおお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>でした。 <ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>地震<rp>（</rp><rt>じしん</rt><rp>）</rp></ruby>があった<ruby>東北<rp>（</rp><rt>とうほく</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に「<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>を<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して。いっしょにがんばりましょう」と言いたかったのです。 <p></p> <ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>に、「<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>！<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>した<ruby>金返<rp>（</rp><rt>かねかえ</rt><rp>）</rp></ruby>せ！」「<ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>を<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる！」「<ruby>良子<rp>（</rp><rt>よしこ</rt><rp>）</rp></ruby>、<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>してくれ！」「<ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby>！<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>な<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うなー」「<ruby>幸子<rp>（</rp><rt>さちこ</rt><rp>）</rp></ruby>、かんにーん」などがあります。 「かんにん」は<ruby>大阪弁<rp>（</rp><rt>おおさかべん</rt><rp>）</rp></ruby>で「すみません」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。 この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>幸子<rp>（</rp><rt>さちこ</rt><rp>）</rp></ruby>さんに<ruby>謝<rp>（</rp><rt>あやま</rt><rp>）</rp></ruby>りたいことがあるのでしょう。 <p></p> <ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>では<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>ぶチャンスがありません。 １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>、<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んで、１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>のストレスを<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してしまいましょう。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> 1) <ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>の<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で１<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>になった<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>はどれですか。 <p></p> ①<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げる ②<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>はやめる ➂とーほく！がんばろー <p></p> 2) 「<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>！<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>した<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby><ruby>返<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>せ！」が<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>が<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>に<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>ですか。 <p></p> ①<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>➙<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby> ②<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby>➙<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby> ➂<ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>➙<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby> <p></p> 3) <ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んだ<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はどの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。 <p></p> ①<ruby>東北<rp>（</rp><rt>とうほく</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby> ②<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>な<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う<ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby> ➂<ruby>大阪弁<rp>（</rp><rt>おおさかべん</rt><rp>）</rp></ruby>の<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby> <p></p> 2. <ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したら、どんないいことがありますか。 <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ）<ruby>嫌<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>なことが<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れられる。 <p></p> 2)（ ）ストレスを<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してしまうことができます。 <p></p> 3)（ ）<ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>が<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>がって、<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>が<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>がる。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Đại hội hét lớn.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>の<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>では<ruby>毎年<rp>（</rp><rt>まいとし</rt><rp>）</rp></ruby>１２<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>に<ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby>があります。</div><div class=\"kqdich\"><div class=\"nddich\">Ở thành phố tôi vào tháng 12 mỗi năm sẽ có cuộc thi hét lớn. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>で<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んで、１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby>嫌<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>なことを<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れるのです。</div><div class=\"kqdich\"><div class=\"nddich\">Hét lên điều gì đó với giọng thật lớn, rồi quên hết đi những điều phiền muộn trong một năm.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>のテーマは「あの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いたい」でした。</div><div class=\"kqdich\"><div class=\"nddich\">Chủ đề năm ngoái là “Muốn nói với người đó”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ほとんどの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は「<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げろ！」とか「<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>はやめろ」とか<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びましたが、<ruby>外国<rp>（</rp><rt>がいこく</rt><rp>）</rp></ruby>から<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したある<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は「トーホク！」がんばろー」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました。</div><div class=\"kqdich\"><div class=\"nddich\">Những người tham gia hầu hết đều hét lên những câu như là: ”Hãy giảm thuế”,”Thủ tướng hãy từ chức”, có một người phụ nữa nước ngoài đã hét lên “Tohoku ơi cố lên” .</div></div></div> <div class=\"tudich\"><div class=\"candich\">この<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>が<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で<ruby>一番大<rp>（</rp><rt>いちばんおお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>でした。</div><div class=\"kqdich\"><div class=\"nddich\">Tiếng hét này tiếng hét lớn nhất ở cuộc thi.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>地震<rp>（</rp><rt>じしん</rt><rp>）</rp></ruby>があった<ruby>東北<rp>（</rp><rt>とうほく</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に「<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>を<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して。いっしょにがんばりましょう」と言いたかったのです。</div><div class=\"kqdich\"><div class=\"nddich\">Muốn truyền tải đến những người ở Tohoku nơi có trận động đất lớn rằng: “Hãy mạnh mẽ lên, cùng cố gắng nào”.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>に、「<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>！<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>した<ruby>金返<rp>（</rp><rt>かねかえ</rt><rp>）</rp></ruby>せ！」「<ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>を<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる！」「<ruby>良子<rp>（</rp><rt>よしこ</rt><rp>）</rp></ruby>、<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>してくれ！」「<ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby>！<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>な<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うなー」「<ruby>幸子<rp>（</rp><rt>さちこ</rt><rp>）</rp></ruby>、かんにーん」などがあります。</div><div class=\"kqdich\"><div class=\"nddich\">Ngoài ra, còn có những tiếng hét như: “Yamamo hãy trả tiền mà tôi cho vay.”, ” Tăng lương “, “Yoshiko, kết hôn với tôi nhé!”, ”Giám đốc, dừng việc việc dùng tiếng anh dở tệ đi”, ”Sachiko à, tớ xin lỗi”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">「かんにん」は<ruby>大阪弁<rp>（</rp><rt>おおさかべん</rt><rp>）</rp></ruby>で「すみません」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">“Kannin” có nghĩa là xin lỗi trong tiếng vùng miền Osaka.</div></div></div> <div class=\"tudich\"><div class=\"candich\">この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>幸子<rp>（</rp><rt>さちこ</rt><rp>）</rp></ruby>さんに<ruby>謝<rp>（</rp><rt>あやま</rt><rp>）</rp></ruby>りたいことがあるのでしょう。</div><div class=\"kqdich\"><div class=\"nddich\">Có lẽ người này muốn xin lỗi điều gì đó đến Sachiko.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>では<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>ぶチャンスがありません。</div><div class=\"kqdich\"><div class=\"nddich\">Trong cuộc sống hàng ngày, chúng ta không có cơ hội hét lớn. </div></div></div> <div class=\"tudich\"><div class=\"candich\">１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>、<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んで、１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>のストレスを<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してしまいましょう。</div><div class=\"kqdich\"><div class=\"nddich\">Một năm một lần hét lớn thì sẽ làm tan biến toàn bộ Stress trong một năm.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy chọn câu trả lời đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1) <ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>の<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で１<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>になった<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>はどれですか。</div><div class=\"kqdich\"><div class=\"nddich\">Ở cuộc thi hét lớn năm ngoái, câu từ của người hét lớn nhất là gì?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> ①<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げる ②<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>はやめる <b>➂とーほく！がんばろー</b></div><div class=\"kqdich\"><div class=\"nddich\">1. Hãy giảm thuế 2. Thủ tướng hãy từ chức 3. Tohoku ơi cố lên</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2) 「<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>！<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>した<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby><ruby>返<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>せ！」が<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>が<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>に<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>ですか。</div><div class=\"kqdich\"><div class=\"nddich\">“Yamamoto hãy trả tiền mà tôi cho vay” là câu từ ai nói với ai?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <b>①<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>➙<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby></b> ②<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby>➙<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby> ➂<ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>➙<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby></div><div class=\"kqdich\"><div class=\"nddich\">1. Người bạn nói với Yammoto 2. Yammoto nói với bạn 3. Ngân hàng nói với Yammoto</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3) <ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んだ<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はどの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。</div><div class=\"kqdich\"><div class=\"nddich\">Người đã hét trong cuộc thi là người nào?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> ①<ruby>東北<rp>（</rp><rt>とうほく</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby> ②<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>な<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う<ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby> <b>➂<ruby>大阪弁<rp>（</rp><rt>おおさかべん</rt><rp>）</rp></ruby>の<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby></b></div><div class=\"kqdich\"><div class=\"nddich\">1. Người Tohoku 2. Giám đốc dùng tiếng anh dở tệ 3 Người đàn ông dùng tiếng vùng miền Osaka</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2. <ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したら、どんないいことがありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Tham gia đại hội hét lớn thì sẽ có được điều tốt nào?</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy đánh O vào câu trả lời đúng, X vào câu trả lời không đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>〇</b>）<ruby>嫌<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>なことが<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れられる。</div><div class=\"kqdich\"><div class=\"nddich\">Có thể quên hết những phiền muộn.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>〇</b>）ストレスを<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してしまうことができます。</div><div class=\"kqdich\"><div class=\"nddich\">Có thể trút bỏ hết Stress.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>Ｘ</b>）<ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>が<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>がって、<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>が<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>がる。</div><div class=\"kqdich\"><div class=\"nddich\">Lương tăng, thuế giảm.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">II もしあなたが<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したら、どんなことを<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びますか。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu như bạn tham gia đại hội hét lớn, thì bạn sẽ hét lên điều gì?</div></div></div> </div> <h5>Hình tham khảo</h5> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33.png\" alt=\"minna 25 bai doc hieu Bai 33\"> </div><!--END--> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "大声大会（おおごえたいかい）",
+          "textHtml": "<b><ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby></b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>の<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>では<ruby>毎年<rp>（</rp><rt>まいとし</rt><rp>）</rp></ruby>１２<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>に<ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby>があります。 <ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>で<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んで、１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby>嫌<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>なことを<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れるのです。 <p></p> <ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>のテーマは「あの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いたい」でした。 ほとんどの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は「<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げろ！」とか「<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>はやめろ」とか<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びましたが、<ruby>外国<rp>（</rp><rt>がいこく</rt><rp>）</rp></ruby>から<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したある<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は「トーホク！」がんばろー」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました。 この<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>が<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で<ruby>一番大<rp>（</rp><rt>いちばんおお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>でした。 <ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>地震<rp>（</rp><rt>じしん</rt><rp>）</rp></ruby>があった<ruby>東北<rp>（</rp><rt>とうほく</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に「<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>を<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して。いっしょにがんばりましょう」と言いたかったのです。 <p></p> <ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>に、「<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>！<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>した<ruby>金返<rp>（</rp><rt>かねかえ</rt><rp>）</rp></ruby>せ！」「<ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>を<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる！」「<ruby>良子<rp>（</rp><rt>よしこ</rt><rp>）</rp></ruby>、<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>してくれ！」「<ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby>！<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>な<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うなー」「<ruby>幸子<rp>（</rp><rt>さちこ</rt><rp>）</rp></ruby>、かんにーん」などがあります。 「かんにん」は<ruby>大阪弁<rp>（</rp><rt>おおさかべん</rt><rp>）</rp></ruby>で「すみません」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。 この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>幸子<rp>（</rp><rt>さちこ</rt><rp>）</rp></ruby>さんに<ruby>謝<rp>（</rp><rt>あやま</rt><rp>）</rp></ruby>りたいことがあるのでしょう。 <p></p> <ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>では<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>ぶチャンスがありません。 １<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>、<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んで、１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>のストレスを<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してしまいましょう。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> 1) <ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>の<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で１<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>になった<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>はどれですか。 <p></p> ①<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げる ②<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>はやめる ➂とーほく！がんばろー <p></p> 2) 「<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>！<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>した<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby><ruby>返<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>せ！」が<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>が<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>に<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>ですか。 <p></p> ①<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>➙<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby> ②<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby>➙<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby> ➂<ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>➙<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby> <p></p> 3) <ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んだ<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はどの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。 <p></p> ①<ruby>東北<rp>（</rp><rt>とうほく</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby> ②<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>な<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う<ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby> ➂<ruby>大阪弁<rp>（</rp><rt>おおさかべん</rt><rp>）</rp></ruby>の<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby> <p></p> 2. <ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したら、どんないいことがありますか。 <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ）<ruby>嫌<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>なことが<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れられる。 <p></p> 2)（ ）ストレスを<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してしまうことができます。 <p></p> 3)（ ）<ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>が<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>がって、<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>が<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>がる。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Đại hội hét lớn.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "大声大会（おおごえたいかい）",
+              "textHtml": "<b><ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby></b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Đại hội hét lớn."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）の町（まち）では毎年（まいとし）１２月（がつ）に大声大会（おおごえたいかい）があります。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>の<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>では<ruby>毎年<rp>（</rp><rt>まいとし</rt><rp>）</rp></ruby>１２<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>に<ruby>大声大会<rp>（</rp><rt>おおごえたいかい</rt><rp>）</rp></ruby>があります。",
+          "vietnamese": "Ở thành phố tôi vào tháng 12 mỗi năm sẽ có cuộc thi hét lớn.",
+          "vietnameseHtml": "Ở thành phố tôi vào tháng 12 mỗi năm sẽ có cuộc thi hét lớn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "大（おお）きい声（こえ）で何（なに）か叫（さけ）んで、１年（ねん）の嫌（いや）なことを忘（わす）れるのです。",
+          "japaneseHtml": "<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>で<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んで、１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby>嫌<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>なことを<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れるのです。",
+          "vietnamese": "Hét lên điều gì đó với giọng thật lớn, rồi quên hết đi những điều phiền muộn trong một năm.",
+          "vietnameseHtml": "Hét lên điều gì đó với giọng thật lớn, rồi quên hết đi những điều phiền muộn trong một năm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "去年（きょねん）のテーマは「あの人（ひと）に言（い）いたい」でした。",
+          "japaneseHtml": "<ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>のテーマは「あの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いたい」でした。",
+          "vietnamese": "Chủ đề năm ngoái là “Muốn nói với người đó”.",
+          "vietnameseHtml": "Chủ đề năm ngoái là “Muốn nói với người đó”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ほとんどの人（ひと）は「税金（ぜいきん）を下（さ）げろ！」とか「首相（しゅしょう）はやめろ」とか叫（さけ）びましたが、外国（がいこく）から参加（さんか）したある女（おんな）の人（ひと）は「トーホク！」がんばろー」と叫（さけ）びました。",
+          "japaneseHtml": "ほとんどの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は「<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げろ！」とか「<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>はやめろ」とか<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びましたが、<ruby>外国<rp>（</rp><rt>がいこく</rt><rp>）</rp></ruby>から<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したある<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は「トーホク！」がんばろー」と<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びました。",
+          "vietnamese": "Những người tham gia hầu hết đều hét lên những câu như là: ”Hãy giảm thuế”,”Thủ tướng hãy từ chức”, có một người phụ nữa nước ngoài đã hét lên “Tohoku ơi cố lên” .",
+          "vietnameseHtml": "Những người tham gia hầu hết đều hét lên những câu như là: ”Hãy giảm thuế”,”Thủ tướng hãy từ chức”, có một người phụ nữa nước ngoài đã hét lên “Tohoku ơi cố lên” ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "この声（こえ）が大会（たいかい）で一番大（いちばんおお）きい声（こえ）でした。",
+          "japaneseHtml": "この<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>が<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で<ruby>一番大<rp>（</rp><rt>いちばんおお</rt><rp>）</rp></ruby>きい<ruby>声<rp>（</rp><rt>こえ</rt><rp>）</rp></ruby>でした。",
+          "vietnamese": "Tiếng hét này tiếng hét lớn nhất ở cuộc thi.",
+          "vietnameseHtml": "Tiếng hét này tiếng hét lớn nhất ở cuộc thi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "大（おお）きい地震（じしん）があった東北（とうほく）の人（ひと）に「元気（げんき）を出（だ）して。いっしょにがんばりましょう」と言いたかったのです。",
+          "japaneseHtml": "<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>地震<rp>（</rp><rt>じしん</rt><rp>）</rp></ruby>があった<ruby>東北<rp>（</rp><rt>とうほく</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に「<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>を<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して。いっしょにがんばりましょう」と言いたかったのです。",
+          "vietnamese": "Muốn truyền tải đến những người ở Tohoku nơi có trận động đất lớn rằng: “Hãy mạnh mẽ lên, cùng cố gắng nào”.",
+          "vietnameseHtml": "Muốn truyền tải đến những người ở Tohoku nơi có trận động đất lớn rằng: “Hãy mạnh mẽ lên, cùng cố gắng nào”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "他（ほか）に、「山本（やまもと）！貸（か）した金返（かねかえ）せ！」「給料（きゅうりょう）を上（あ）げる！」「良子（よしこ）、結婚（けっこん）してくれ！」「社長（しゃちょう）！下手（へた）な英語（えいご）を使（つか）うなー」「幸子（さちこ）、かんにーん」などがあります。",
+          "japaneseHtml": "<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>に、「<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>！<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>した<ruby>金返<rp>（</rp><rt>かねかえ</rt><rp>）</rp></ruby>せ！」「<ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>を<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる！」「<ruby>良子<rp>（</rp><rt>よしこ</rt><rp>）</rp></ruby>、<ruby>結婚<rp>（</rp><rt>けっこん</rt><rp>）</rp></ruby>してくれ！」「<ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby>！<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>な<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うなー」「<ruby>幸子<rp>（</rp><rt>さちこ</rt><rp>）</rp></ruby>、かんにーん」などがあります。",
+          "vietnamese": "Ngoài ra, còn có những tiếng hét như: “Yamamo hãy trả tiền mà tôi cho vay.”, ” Tăng lương “, “Yoshiko, kết hôn với tôi nhé!”, ”Giám đốc, dừng việc việc dùng tiếng anh dở tệ đi”, ”Sachiko à, tớ xin lỗi”.",
+          "vietnameseHtml": "Ngoài ra, còn có những tiếng hét như: “Yamamo hãy trả tiền mà tôi cho vay.”, ” Tăng lương “, “Yoshiko, kết hôn với tôi nhé!”, ”Giám đốc, dừng việc việc dùng tiếng anh dở tệ đi”, ”Sachiko à, tớ xin lỗi”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「かんにん」は大阪弁（おおさかべん）で「すみません」と言（い）う意味（いみ）です。",
+          "japaneseHtml": "「かんにん」は<ruby>大阪弁<rp>（</rp><rt>おおさかべん</rt><rp>）</rp></ruby>で「すみません」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "“Kannin” có nghĩa là xin lỗi trong tiếng vùng miền Osaka.",
+          "vietnameseHtml": "“Kannin” có nghĩa là xin lỗi trong tiếng vùng miền Osaka."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "この人（ひと）は何（なに）か幸子（さちこ）さんに謝（あやま）りたいことがあるのでしょう。",
+          "japaneseHtml": "この<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>幸子<rp>（</rp><rt>さちこ</rt><rp>）</rp></ruby>さんに<ruby>謝<rp>（</rp><rt>あやま</rt><rp>）</rp></ruby>りたいことがあるのでしょう。",
+          "vietnamese": "Có lẽ người này muốn xin lỗi điều gì đó đến Sachiko.",
+          "vietnameseHtml": "Có lẽ người này muốn xin lỗi điều gì đó đến Sachiko."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "毎日（まいにち）の生活（せいかつ）では大声（おおごえ）で叫（さけ）ぶチャンスがありません。",
+          "japaneseHtml": "<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>では<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>ぶチャンスがありません。",
+          "vietnamese": "Trong cuộc sống hàng ngày, chúng ta không có cơ hội hét lớn.",
+          "vietnameseHtml": "Trong cuộc sống hàng ngày, chúng ta không có cơ hội hét lớn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１年（ねん）に一度（いちど）、大声（おおごえ）で叫（さけ）んで、１年（ねん）のストレスを全部（ぜんぶ）出（だ）してしまいましょう。",
+          "japaneseHtml": "１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>に<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>、<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んで、１<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>のストレスを<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby><ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してしまいましょう。",
+          "vietnamese": "Một năm một lần hét lớn thì sẽ làm tan biến toàn bộ Stress trong một năm.",
+          "vietnameseHtml": "Một năm một lần hét lớn thì sẽ làm tan biến toàn bộ Stress trong một năm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1. 正（ただ）しい答（こた）えを選（えら）んでください。",
+          "japaneseHtml": "I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。",
+          "vietnamese": "Hãy chọn câu trả lời đúng.",
+          "vietnameseHtml": "Hãy chọn câu trả lời đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1) 去年（きょねん）の大会（たいかい）で１番（ばん）になった人（ひと）の言葉（ことば）はどれですか。",
+          "japaneseHtml": "1) <ruby>去年<rp>（</rp><rt>きょねん</rt><rp>）</rp></ruby>の<ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で１<ruby>番<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>になった<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>はどれですか。",
+          "vietnamese": "Ở cuộc thi hét lớn năm ngoái, câu từ của người hét lớn nhất là gì?",
+          "vietnameseHtml": "Ở cuộc thi hét lớn năm ngoái, câu từ của người hét lớn nhất là gì?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "①税金（ぜいきん）を下（さ）げる ②首相（しゅしょう）はやめる ➂とーほく！がんばろー",
+          "japaneseHtml": "①<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げる ②<ruby>首相<rp>（</rp><rt>しゅしょう</rt><rp>）</rp></ruby>はやめる <b>➂とーほく！がんばろー</b>",
+          "vietnamese": "1. Hãy giảm thuế 2. Thủ tướng hãy từ chức 3. Tohoku ơi cố lên",
+          "vietnameseHtml": "1. Hãy giảm thuế 2. Thủ tướng hãy từ chức 3. Tohoku ơi cố lên"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2) 「山本（やまもと）！貸（か）した金（かね）返（かえ）せ！」が誰（だれ）が誰（だれ）に言（い）った言葉（ことば）ですか。",
+          "japaneseHtml": "2) 「<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby>！<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>した<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby><ruby>返<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>せ！」が<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>が<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>に<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>ですか。",
+          "vietnamese": "“Yamamoto hãy trả tiền mà tôi cho vay” là câu từ ai nói với ai?",
+          "vietnameseHtml": "“Yamamoto hãy trả tiền mà tôi cho vay” là câu từ ai nói với ai?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "①友達（ともだち）➙山本（やまもと）君（くん） ②山本（やまもと）君（くん）➙友達（ともだち） ➂銀行（ぎんこう）➙山本（やまもと）君（くん）",
+          "japaneseHtml": "<b>①<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>➙<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby></b> ②<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby>➙<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby> ➂<ruby>銀行<rp>（</rp><rt>ぎんこう</rt><rp>）</rp></ruby>➙<ruby>山本<rp>（</rp><rt>やまもと</rt><rp>）</rp></ruby><ruby>君<rp>（</rp><rt>くん</rt><rp>）</rp></ruby>",
+          "vietnamese": "1. Người bạn nói với Yammoto 2. Yammoto nói với bạn 3. Ngân hàng nói với Yammoto",
+          "vietnameseHtml": "1. Người bạn nói với Yammoto 2. Yammoto nói với bạn 3. Ngân hàng nói với Yammoto"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3) 大会（たいかい）で叫（さけ）んだ人（ひと）はどの人（ひと）ですか。",
+          "japaneseHtml": "3) <ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>で<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>んだ<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はどの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。",
+          "vietnamese": "Người đã hét trong cuộc thi là người nào?",
+          "vietnameseHtml": "Người đã hét trong cuộc thi là người nào?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "①東北（とうほく）の人（ひと） ②下手（へた）な英語（えいご）を使（つか）う社長（しゃちょう） ➂大阪弁（おおさかべん）の男（おとこ）の人（ひと）",
+          "japaneseHtml": "①<ruby>東北<rp>（</rp><rt>とうほく</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby> ②<ruby>下手<rp>（</rp><rt>へた</rt><rp>）</rp></ruby>な<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う<ruby>社長<rp>（</rp><rt>しゃちょう</rt><rp>）</rp></ruby> <b>➂<ruby>大阪弁<rp>（</rp><rt>おおさかべん</rt><rp>）</rp></ruby>の<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby></b>",
+          "vietnamese": "1. Người Tohoku 2. Giám đốc dùng tiếng anh dở tệ 3 Người đàn ông dùng tiếng vùng miền Osaka",
+          "vietnameseHtml": "1. Người Tohoku 2. Giám đốc dùng tiếng anh dở tệ 3 Người đàn ông dùng tiếng vùng miền Osaka"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. 大声（おおごえ）大会（たいかい）に参加（さんか）したら、どんないいことがありますか。",
+          "japaneseHtml": "2. <ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したら、どんないいことがありますか。",
+          "vietnamese": "Tham gia đại hội hét lớn thì sẽ có được điều tốt nào?",
+          "vietnameseHtml": "Tham gia đại hội hét lớn thì sẽ có được điều tốt nào?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "正（ただ）しいものに〇、正（ただ）しくないものに✕を書（か）いてください。",
+          "japaneseHtml": "<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy đánh O vào câu trả lời đúng, X vào câu trả lời không đúng.",
+          "vietnameseHtml": "Hãy đánh O vào câu trả lời đúng, X vào câu trả lời không đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（〇）嫌（いや）なことが忘（わす）れられる。",
+          "japaneseHtml": "1)（<b>〇</b>）<ruby>嫌<rp>（</rp><rt>いや</rt><rp>）</rp></ruby>なことが<ruby>忘<rp>（</rp><rt>わす</rt><rp>）</rp></ruby>れられる。",
+          "vietnamese": "Có thể quên hết những phiền muộn.",
+          "vietnameseHtml": "Có thể quên hết những phiền muộn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（〇）ストレスを出（だ）してしまうことができます。",
+          "japaneseHtml": "2)（<b>〇</b>）ストレスを<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>してしまうことができます。",
+          "vietnamese": "Có thể trút bỏ hết Stress.",
+          "vietnameseHtml": "Có thể trút bỏ hết Stress."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（Ｘ）給料（きゅうりょう）が上（あ）がって、税金（ぜいきん）が下（さ）がる。",
+          "japaneseHtml": "3)（<b>Ｘ</b>）<ruby>給料<rp>（</rp><rt>きゅうりょう</rt><rp>）</rp></ruby>が<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>がって、<ruby>税金<rp>（</rp><rt>ぜいきん</rt><rp>）</rp></ruby>が<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>がる。",
+          "vietnamese": "Lương tăng, thuế giảm.",
+          "vietnameseHtml": "Lương tăng, thuế giảm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II もしあなたが大声（おおごえ）大会（たいかい）に参加（さんか）したら、どんなことを叫（さけ）びますか。",
+          "japaneseHtml": "II もしあなたが<ruby>大声<rp>（</rp><rt>おおごえ</rt><rp>）</rp></ruby><ruby>大会<rp>（</rp><rt>たいかい</rt><rp>）</rp></ruby>に<ruby>参加<rp>（</rp><rt>さんか</rt><rp>）</rp></ruby>したら、どんなことを<ruby>叫<rp>（</rp><rt>さけ</rt><rp>）</rp></ruby>びますか。",
+          "vietnamese": "Nếu như bạn tham gia đại hội hét lớn, thì bạn sẽ hét lên điều gì?",
+          "vietnameseHtml": "Nếu như bạn tham gia đại hội hét lớn, thì bạn sẽ hét lên điều gì?"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Hình tham khảo",
+          "textHtml": "Hình tham khảo"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33.png\" alt=\"minna 25 bai doc hieu Bai 33\">"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Bổ sung",
+      "titleHtml": "Bổ sung",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><p>こんな<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>にこのことば</p></b></h3> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_1.jpg\"> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_2.jpg\" width=\"300px\"> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_3.jpg\" width=\"400px\"> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_4.jpg\"> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_5.jpg\"> <p>a. <ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>れ、<ruby>緑<rp>(</rp><rt>みどり</rt><rp>)</rp></ruby>の<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>！</p> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_a.jpg\" width=\"300px\"> <p>b. よく<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て！</p> <p> <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて！</p> <p> <ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かめて！</p> <p>c. <ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>をつけろ！</p> <p> <ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めはみんな</p> <p> <ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さい<ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby></p> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_c.jpg\" width=\"300px\"> <p>d. <ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ども、しかるな、</p> <p> <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>た<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>だから</p> <p> <ruby>年寄<rp>(</rp><rt>としよ</rt><rp>)</rp></ruby>り、<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うな、</p> <p> <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>だから</p> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_d.jpg\" width=\"300px\"> <p>e. <ruby>注意<rp>(</rp><rt>ちゅうい</rt><rp>)</rp></ruby>１<ruby>秒<rp>(</rp><rt>びょう</rt><rp>)</rp></ruby>、</p> <p> けが<ruby>一生<rp>(</rp><rt>いっしょう</rt><rp>)</rp></ruby></p> <img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_e.jpg\" width=\"300px\"> <p><br></p> <p>どの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>にa～eのことばを<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてあげたらいいですか。</p> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div> <div class=\"slide-content sl2\"> <p><br></p><table class=\"table table-bordered\"><tbody><tr><td><ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></td><td><ruby>石川<rp>(</rp><rt>いしかわ</rt><rp>)</rp></ruby></td><td><ruby>南山<rp>(</rp><rt>みなみやま</rt><rp>)</rp></ruby></td><td><ruby>上田<rp>(</rp><rt>うえだ</rt><rp>)</rp></ruby></td><td><ruby>田村<rp>(</rp><rt>たむら</rt><rp>)</rp></ruby></td><td><ruby>高橋<rp>(</rp><rt>たかはし</rt><rp>)</rp></ruby></td></tr><tr><td>ことば</td><td>c</td><td>e</td><td>b</td><td>a</td><td>d</td></tr></tbody></table><p><br></p> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "こんな人(ひと)にこのことば",
+          "textHtml": "<b><p>こんな<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>にこのことば</p></b>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_1.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_1.jpg\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_2.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_2.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_3.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_3.jpg\" width=\"400px\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_4.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_4.jpg\">"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_5.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_5.jpg\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>a. <ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>れ、<ruby>緑<rp>(</rp><rt>みどり</rt><rp>)</rp></ruby>の<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>！</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_a.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_a.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>b. よく<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て！</p> <p> <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて！</p> <p> <ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かめて！</p> <p>c. <ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>をつけろ！</p> <p> <ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めはみんな</p> <p> <ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さい<ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby></p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_c.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_c.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>d. <ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ども、しかるな、</p> <p> <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>た<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>だから</p> <p> <ruby>年寄<rp>(</rp><rt>としよ</rt><rp>)</rp></ruby>り、<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うな、</p> <p> <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>だから</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_d.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_d.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>e. <ruby>注意<rp>(</rp><rt>ちゅうい</rt><rp>)</rp></ruby>１<ruby>秒<rp>(</rp><rt>びょう</rt><rp>)</rp></ruby>、</p> <p> けが<ruby>一生<rp>(</rp><rt>いっしょう</rt><rp>)</rp></ruby></p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai33/doc33_e.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai33/doc33_e.jpg\" width=\"300px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p><br></p> <p>どの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>にa～eのことばを<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えてあげたらいいですか。</p> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div> <div class=\"slide-content sl2\"> <p><br></p><table class=\"table table-bordered\"><tbody><tr><td><ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></td><td><ruby>石川<rp>(</rp><rt>いしかわ</rt><rp>)</rp></ruby></td><td><ruby>南山<rp>(</rp><rt>みなみやま</rt><rp>)</rp></ruby></td><td><ruby>上田<rp>(</rp><rt>うえだ</rt><rp>)</rp></ruby></td><td><ruby>田村<rp>(</rp><rt>たむら</rt><rp>)</rp></ruby></td><td><ruby>高橋<rp>(</rp><rt>たかはし</rt><rp>)</rp></ruby></td></tr><tr><td>ことば</td><td>c</td><td>e</td><td>b</td><td>a</td><td>d</td></tr></tbody></table><p><br></p> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+        }
+      ]
+    }
+  ]
+}

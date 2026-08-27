@@ -1,0 +1,353 @@
+{
+  "lesson": 26,
+  "type": "luyendoc",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> <audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100000110112.mp3\" type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-size:16px;\">１．</span></p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai26_bk_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>あしたから <ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>なんです。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Từ ngày mai tôi sẽ đi du lịch.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">２．</span></p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai26_bk_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>け<ruby>花<rp>(</rp><rt>ばな</rt><rp>)</rp></ruby>を <ruby>習<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いたいんですが、いい <ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>を <ruby>紹介<rp>(</rp><rt>しょうかい</rt><rp>)</rp></ruby>して いただけませんか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Tôi muốn học cắm hoa. Bạn có thể giới thiệu cho tôi một giáo viên tốt không?</span></div></div></div><p></p> <p> </p></div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/100000110112.mp3",
+          "contentHtml": "<audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100000110112.mp3\" type=\"audio/mpeg\"></audio>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> <span style=\"font-size:16px;\">１．</span></p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai26_bk_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "あしたから 旅行(りょこう)なんです。",
+          "japaneseHtml": "<span>あしたから <ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>なんです。</span>",
+          "vietnamese": "Từ ngày mai tôi sẽ đi du lịch.",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">Từ ngày mai tôi sẽ đi du lịch.</span>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:16px;\">２．</span></p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai26_bk_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "生(い)け花(ばな)を 習(なら)いたいんですが、いい 先生(せんせい)を 紹介(しょうかい)して いただけませんか。",
+          "japaneseHtml": "<span><ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>け<ruby>花<rp>(</rp><rt>ばな</rt><rp>)</rp></ruby>を <ruby>習<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>いたいんですが、いい <ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>を <ruby>紹介<rp>(</rp><rt>しょうかい</rt><rp>)</rp></ruby>して いただけませんか。</span>",
+          "vietnamese": "Tôi muốn học cắm hoa. Bạn có thể giới thiệu cho tôi một giáo viên tốt không?",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">Tôi muốn học cắm hoa. Bạn có thể giới thiệu cho tôi một giáo viên tốt không?</span>"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> <audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100000111002.mp3\" type=\"audio/mpeg\"></audio></p> <p> <span style=\"font-size:16px;\">１．</span></p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai26_rb_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>渡辺<rp>(</rp><rt>わたなべ</rt><rp>)</rp></ruby>さんは <ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>々 <ruby>大阪弁<rp>(</rp><rt>おおさかべん</rt><rp>)</rp></ruby>を <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いますね。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Chị Watanabe đôi lúc nói giọng Osaka nhỉ.</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>に <ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで いたんですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Chị đã sống ở Osaka à?</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>…ええ、15<ruby>歳<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>まで <ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>に <ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで いました。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Vâng, tôi sống ở Osaka cho đến năm 15 tuổi.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">２．</span></p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai26_rb_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>おもしろい デザインの <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>ですね。 どこで <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったんですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Kiểu thiết kế đôi giầy của anh/chị thú vị nhỉ. Anh/chị mua ở đâu thế?</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span> </span><span>…エドヤストアで <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました。 スペインの <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>です。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Tôi mua ở Cửa hàng Edo-ya Store. Giầy của Tây Ban Nha.</span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">３．</span></p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai26_rb_3.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>どうして <ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れたんですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\"> Tại sao anh/chị đến muộn?</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"> <span>…バスが <ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>なかったんです。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\"> …Vì xe buýt không đến. </span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">４．</span></p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai26_rb_4.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span>よく カラオケに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\"> Anh/chị có thường đi hát Karaoke không?</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"> <span>…いいえ、あまり <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きません。カラオケは あまり <ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きじゃないんです</span><span>。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\"> …Không, tôi không thường xuyên đi cho lắm. Vì tôi không thích Karaoke.</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></div></div></div><p></p> <p> <span style=\"font-size:16px;\">５．</span></p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai26_rb_5.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>で レポートを <ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いたんですが、 ちょっと <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て いただけませんか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\"> Tôi viết bản báo cáo bằng tiếng Nhật. Anh/chị xem giúp tôi một chút có được không? </span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span> </span><span>…いいですよ。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">….Được chứ.</span></div></div></div><p></p> <p> <span style=\"font-size: 14px;\"><span _fck_bookmark=\"1\" style=\"display: none;\">..</span></span><span style=\"font-size:16px;\">6．</span></p><div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai26_rb_6.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><span><ruby>国会議事堂<rp>(</rp><rt>こっかいぎじどう</rt><rp>)</rp></ruby>を <ruby>見学<rp>(</rp><rt>けんがく</rt><rp>)</rp></ruby>したいんですが、どう したら いいですか。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">Tôi muốn đến tham quan tòa nhà quốc hội. Tôi phải làm thế nào?</span></div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"> <span>…<ruby>直接<rp>(</rp><rt>ちょくせつ</rt><rp>)</rp></ruby> <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったら いいですよ。 <ruby>平日<rp>(</rp><rt>へいじつ</rt><rp>)</rp></ruby>は いつでも <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>る ことが できます。</span></div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\"><span style=\"font-size:14px;\">…Anh/chị cứ đến thẳng đó. Ngày thường thì lúc nào cũng xem được.</span></div></div></div><p></p> <p> </p></div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/100000111002.mp3",
+          "contentHtml": "<audio controls=\"\" preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100000111002.mp3\" type=\"audio/mpeg\"></audio>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> <span style=\"font-size:16px;\">１．</span></p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai26_rb_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "渡辺(わたなべ)さんは 時(とき)々 大阪弁(おおさかべん)を 使(つか)いますね。",
+          "japaneseHtml": "<span><ruby>渡辺<rp>(</rp><rt>わたなべ</rt><rp>)</rp></ruby>さんは <ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>々 <ruby>大阪弁<rp>(</rp><rt>おおさかべん</rt><rp>)</rp></ruby>を <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いますね。</span>",
+          "vietnamese": "Chị Watanabe đôi lúc nói giọng Osaka nhỉ.",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">Chị Watanabe đôi lúc nói giọng Osaka nhỉ.</span>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "大阪(おおさか)に 住(す)んで いたんですか。",
+          "japaneseHtml": "<span><ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>に <ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで いたんですか。</span>",
+          "vietnamese": "Chị đã sống ở Osaka à?",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">Chị đã sống ở Osaka à?</span>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…ええ、15歳(とし)まで 大阪(おおさか)に 住(す)んで いました。",
+          "japaneseHtml": "<span>…ええ、15<ruby>歳<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>まで <ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>に <ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで いました。</span>",
+          "vietnamese": "…Vâng, tôi sống ở Osaka cho đến năm 15 tuổi.",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">…Vâng, tôi sống ở Osaka cho đến năm 15 tuổi.</span>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:16px;\">２．</span></p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai26_rb_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "おもしろい デザインの 靴(くつ)ですね。 どこで 買(か)ったんですか。",
+          "japaneseHtml": "<span>おもしろい デザインの <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>ですね。 どこで <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったんですか。</span>",
+          "vietnamese": "Kiểu thiết kế đôi giầy của anh/chị thú vị nhỉ. Anh/chị mua ở đâu thế?",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">Kiểu thiết kế đôi giầy của anh/chị thú vị nhỉ. Anh/chị mua ở đâu thế?</span>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…エドヤストアで 買(か)いました。 スペインの 靴(くつ)です。",
+          "japaneseHtml": "<span> </span><span>…エドヤストアで <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました。 スペインの <ruby>靴<rp>(</rp><rt>くつ</rt><rp>)</rp></ruby>です。</span>",
+          "vietnamese": "…Tôi mua ở Cửa hàng Edo-ya Store. Giầy của Tây Ban Nha.",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">…Tôi mua ở Cửa hàng Edo-ya Store. Giầy của Tây Ban Nha.</span>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:16px;\">３．</span></p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai26_rb_3.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どうして 遅(おく)れたんですか。",
+          "japaneseHtml": "<span>どうして <ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れたんですか。</span>",
+          "vietnamese": "Tại sao anh/chị đến muộn?",
+          "vietnameseHtml": "<span style=\"font-size:14px;\"> Tại sao anh/chị đến muộn?</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…バスが 来(こ)なかったんです。",
+          "japaneseHtml": "<span>…バスが <ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>なかったんです。</span>",
+          "vietnamese": "…Vì xe buýt không đến.",
+          "vietnameseHtml": "<span style=\"font-size:14px;\"> …Vì xe buýt không đến. </span>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:16px;\">４．</span></p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai26_rb_4.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "よく カラオケに 行(い)きますか。",
+          "japaneseHtml": "<span>よく カラオケに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか。</span>",
+          "vietnamese": "Anh/chị có thường đi hát Karaoke không?",
+          "vietnameseHtml": "<span style=\"font-size:14px;\"> Anh/chị có thường đi hát Karaoke không?</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…いいえ、あまり 行(い)きません。カラオケは あまり 好(す)きじゃないんです。",
+          "japaneseHtml": "<span>…いいえ、あまり <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きません。カラオケは あまり <ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きじゃないんです</span><span>。</span>",
+          "vietnamese": "…Không, tôi không thường xuyên đi cho lắm. Vì tôi không thích Karaoke.",
+          "vietnameseHtml": "<span style=\"font-size:14px;\"> …Không, tôi không thường xuyên đi cho lắm. Vì tôi không thích Karaoke.</span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:16px;\">５．</span></p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai26_rb_5.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本語(にほんご)で レポートを 書(か)いたんですが、 ちょっと 見(み)て いただけませんか。",
+          "japaneseHtml": "<span><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>で レポートを <ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いたんですが、 ちょっと <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て いただけませんか。</span>",
+          "vietnamese": "Tôi viết bản báo cáo bằng tiếng Nhật. Anh/chị xem giúp tôi một chút có được không?",
+          "vietnameseHtml": "<span style=\"font-size:14px;\"> Tôi viết bản báo cáo bằng tiếng Nhật. Anh/chị xem giúp tôi một chút có được không? </span>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…いいですよ。",
+          "japaneseHtml": "<span> </span><span>…いいですよ。</span>",
+          "vietnamese": "….Được chứ.",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">….Được chứ.</span>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size: 14px;\"><span _fck_bookmark=\"1\" style=\"display: none;\">..</span></span><span style=\"font-size:16px;\">6．</span></p>"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai26_rb_6.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "国会議事堂(こっかいぎじどう)を 見学(けんがく)したいんですが、どう したら いいですか。",
+          "japaneseHtml": "<span><ruby>国会議事堂<rp>(</rp><rt>こっかいぎじどう</rt><rp>)</rp></ruby>を <ruby>見学<rp>(</rp><rt>けんがく</rt><rp>)</rp></ruby>したいんですが、どう したら いいですか。</span>",
+          "vietnamese": "Tôi muốn đến tham quan tòa nhà quốc hội. Tôi phải làm thế nào?",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">Tôi muốn đến tham quan tòa nhà quốc hội. Tôi phải làm thế nào?</span>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "…直接(ちょくせつ) 行(い)ったら いいですよ。 平日(へいじつ)は いつでも 見(み)る ことが できます。",
+          "japaneseHtml": "<span>…<ruby>直接<rp>(</rp><rt>ちょくせつ</rt><rp>)</rp></ruby> <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったら いいですよ。 <ruby>平日<rp>(</rp><rt>へいじつ</rt><rp>)</rp></ruby>は いつでも <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>る ことが できます。</span>",
+          "vietnamese": "…Anh/chị cứ đến thẳng đó. Ngày thường thì lúc nào cũng xem được.",
+          "vietnameseHtml": "<span style=\"font-size:14px;\">…Anh/chị cứ đến thẳng đó. Ngày thường thì lúc nào cũng xem được.</span>"
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> </p> <p> <strong><span class=\"mytitle\">1.</span></strong></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 22%;\"> <strong><span>いく</span></strong></td> <td rowspan=\"4\" style=\"width: 17%;\"> <span>んです</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>＊</span></strong><strong><span>きれいな</span></strong></td> <td rowspan=\"4\" style=\"width: 17%;\"> <span>んです。</span></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>いかない</span></strong></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>きれいじゃ ない</span></strong></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>いった</span></strong></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>きれいだった</span></strong></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>いかなかった</span></strong></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>きれいじゃ なかった</span></strong></td> </tr> </tbody> </table> <p>  </p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 22%;\"> <span><strong>さむい</strong></span></td> <td rowspan=\"4\" style=\"width: 17%;\"> <span>んです</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>＊びょうきな</strong></span></td> <td rowspan=\"4\" style=\"width: 17%;\"> <span>んです。</span></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>さむくない</strong></span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>びょうきじゃ ない</strong></span></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>さむかった</strong></span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>びょうきだった</strong></span></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>さむくなかった</strong></span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>びょうきじゃ なかった</strong></span></td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"width: 180px;\"> <span style=\"font-size:14px;\">Đi</span></td> <td> <span style=\"font-size:14px;\">Đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Không đi  </span></td> <td> <span style=\"font-size:14px;\">Không đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã đi   </span></td> <td> <span style=\"font-size:14px;\">Đã đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã  không đi </span></td> <td> <span style=\"font-size:14px;\">Đã không đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Lạnh   </span></td> <td> <span style=\"font-size:14px;\">Bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Không lạnh </span></td> <td> <span style=\"font-size:14px;\">Không bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã lạnh</span></td> <td> <span style=\"font-size:14px;\">Đã bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã không lạnh</span></td> <td> <span style=\"font-size:14px;\">Đã không bệnh</span></td> </tr> </tbody> </table> <p> </p></div></div><p></p> <p> <strong><span class=\"mytitle\">2.</span></strong></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"width: 30%;\"> <span>チケット</span></td> <td style=\"width: 3%;\"> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 70px;\"> <strong><span>いる</span></strong></td> <td rowspan=\"4\" style=\"width: 180px;\"> <span>んですか。</span></td> </tr> <tr> <td> <span><ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい パソコン</span></td> <td> <span>を</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 70px;\"> <strong><span>かった</span></strong></td> </tr> <tr> <td> <span>だれに チョコレート</span></td> <td> <span>を</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 70px;\"> <strong><span>あげる</span></strong></td> </tr> <tr> <td> <span>いつ <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby></span></td> <td> <span></span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 70px;\"> <strong><span>きた</span></strong></td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Có cần vé không vậy?</span></p> <p> <span style=\"font-size:14px;\">Đã mua máy tính mới hả?</span></p> <p> <span style=\"font-size:14px;\">Tặng socola cho ai vậy?</span></p> <p> <span style=\"font-size:14px;\">Đến Nhật khi nào thế?</span></p> <p> </p></div></div><p></p> <p> <strong><span class=\"mytitle\">3.</span></strong></p> <p style=\"text-align: right;\"> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p style=\"text-align: right;\"> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p style=\"text-align: right;\"> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p style=\"text-align: right;\"> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 120px;\"> <span>どうして</span></td> <td style=\"width: 120px;\"> <span><ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>を</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 120px;\"> <span><strong>やすんだ</strong></span></td> <td rowspan=\"3\" style=\"width: 18%;\"> <span>んですか。</span></td> </tr> <tr> <td> <span>エアコンを</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>つけない</strong></span></td> </tr> </tbody> </table> <p>  </p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"2\" style=\"width:8%;\"> ･･･････</td> <td style=\"width:12%;\"> <span><ruby>頭<rp>(</rp><rt>あたま</rt><rp>)</rp></ruby>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);width:20%;\"> <span><strong> いたかった</strong></span></td> <td rowspan=\"2\"> <span>んです。</span></td> </tr> <tr> <td>  </td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong> こしょうな</strong></span></td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Tại sao lại nghỉ làm công ty vậy?</span></p> <p> <span style=\"font-size:14px;\">Tại sao lại không bật điều hòa?</span></p> <p>  </p> <p> <span style=\"font-size:14px;\">･･･････  Vì đau đầu</span></p> <p> <span style=\"font-size:14px;\">              Vì bị hư rồi.</span></p> <p> </p></div></div><p></p> <p> <strong><span class=\"mytitle\">4.</span></strong></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%;\"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 290px;\"> <span>わたしは <ruby>運動会<rp>(</rp><rt>うんどうかい</rt><rp>)</rp></ruby>に <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きません。</span></td> <td> <span><ruby>用事<rp>(</rp><rt>ようじ</rt><rp>)</rp></ruby></span></td> <td> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>ある</span></strong></td> <td rowspan=\"2\"> <span>んです。</span></td> </tr> <tr> <td> <span><ruby>都合<rp>(</rp><rt>つごう</rt><rp>)</rp></ruby></span></td> <td> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>わるい</span></strong></td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Tôi không tham gia lễ hội thể thao. Vì tôi có việc bận.</span></p> <p> <span style=\"font-size:14px;\">Tôi không tham gia lễ hội thể thao. Vì không tiện lắm.</span></p> <p> </p></div></div><p></p> <p> <strong><span class=\"mytitle\">5.</span></strong></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td> <span><ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby></span></td> <td> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>ほしい</span></strong></td> <td rowspan=\"3\"> <span>んですが、</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>おくって</span></strong></td> <td rowspan=\"3\" style=\"width: 17%;\"> <span>いただけませんか。</span></td> </tr> <tr> <td> <span><ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby></span></td> <td> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>わからない</span></strong></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>おしえて</span></strong></td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Tôi muốn có tài liệu, liệu bạn có thể gửi cho tôi được không?</span></p> <p> <span style=\"font-size:14px;\">Tôi không hiểu cách viết nên xin chỉ cho tôi được không?</span></p> <p> </p></div></div><p></p> <p> <strong><span class=\"mytitle\">6.</span></strong></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td> <span>さくら<ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby></span></td> <td> <span>へ</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>いきたい</span></strong></td> <td rowspan=\"3\"> <span>んですが、</span></td> <td> <span>どこで</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>おりた</span></strong></td> <td rowspan=\"3\"> <span>ら いいですか。</span></td> </tr> <tr> <td> <span><ruby>保険証<rp>(</rp><rt>ほけんしょう</rt><rp>)</rp></ruby></span></td> <td> <span>を</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>わすれた</span></strong></td> <td> <span>どう</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>した</span></strong></td> </tr> </tbody> </table> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"><p></p> <p> <span style=\"font-size:14px;\">Tôi muốn đi đến trường đại học Sakura thì đi xuống ở đâu được đây?</span></p> <p> <span style=\"font-size:14px;\">Tôi đã quên mang thẻ bảo hiểm rồi thì làm sao được đây?</span></p> <p> </p></div></div><p></p> <p> </p></div></div><p></p> <br /> <?php $de_stt = \"26\"; ?><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> </p> <p> <strong><span class=\"mytitle\">1.</span></strong></p>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 22%;\"> <strong><span>いく</span></strong></td> <td rowspan=\"4\" style=\"width: 17%;\"> <span>んです</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>＊</span></strong><strong><span>きれいな</span></strong></td> <td rowspan=\"4\" style=\"width: 17%;\"> <span>んです。</span></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>いかない</span></strong></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>きれいじゃ ない</span></strong></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>いった</span></strong></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>きれいだった</span></strong></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>いかなかった</span></strong></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>きれいじゃ なかった</span></strong></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 22%;\"> <span><strong>さむい</strong></span></td> <td rowspan=\"4\" style=\"width: 17%;\"> <span>んです</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>＊びょうきな</strong></span></td> <td rowspan=\"4\" style=\"width: 17%;\"> <span>んです。</span></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>さむくない</strong></span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>びょうきじゃ ない</strong></span></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>さむかった</strong></span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>びょうきだった</strong></span></td> </tr> <tr> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>さむくなかった</strong></span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>びょうきじゃ なかった</strong></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"width: 180px;\"> <span style=\"font-size:14px;\">Đi</span></td> <td> <span style=\"font-size:14px;\">Đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Không đi </span></td> <td> <span style=\"font-size:14px;\">Không đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã đi </span></td> <td> <span style=\"font-size:14px;\">Đã đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã không đi </span></td> <td> <span style=\"font-size:14px;\">Đã không đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Lạnh </span></td> <td> <span style=\"font-size:14px;\">Bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Không lạnh </span></td> <td> <span style=\"font-size:14px;\">Không bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã lạnh</span></td> <td> <span style=\"font-size:14px;\">Đã bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã không lạnh</span></td> <td> <span style=\"font-size:14px;\">Đã không bệnh</span></td> </tr> </tbody> </table> <p> </p>",
+          "blocks": [
+            {
+              "kind": "table",
+              "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"width: 180px;\"> <span style=\"font-size:14px;\">Đi</span></td> <td> <span style=\"font-size:14px;\">Đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Không đi </span></td> <td> <span style=\"font-size:14px;\">Không đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã đi </span></td> <td> <span style=\"font-size:14px;\">Đã đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã không đi </span></td> <td> <span style=\"font-size:14px;\">Đã không đẹp</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Lạnh </span></td> <td> <span style=\"font-size:14px;\">Bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Không lạnh </span></td> <td> <span style=\"font-size:14px;\">Không bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã lạnh</span></td> <td> <span style=\"font-size:14px;\">Đã bệnh</span></td> </tr> <tr> <td> <span style=\"font-size:14px;\">Đã không lạnh</span></td> <td> <span style=\"font-size:14px;\">Đã không bệnh</span></td> </tr> </tbody> </table>"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <strong><span class=\"mytitle\">2.</span></strong></p>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td style=\"width: 30%;\"> <span>チケット</span></td> <td style=\"width: 3%;\"> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 70px;\"> <strong><span>いる</span></strong></td> <td rowspan=\"4\" style=\"width: 180px;\"> <span>んですか。</span></td> </tr> <tr> <td> <span><ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい パソコン</span></td> <td> <span>を</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 70px;\"> <strong><span>かった</span></strong></td> </tr> <tr> <td> <span>だれに チョコレート</span></td> <td> <span>を</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 70px;\"> <strong><span>あげる</span></strong></td> </tr> <tr> <td> <span>いつ <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby></span></td> <td> <span></span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 70px;\"> <strong><span>きた</span></strong></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Có cần vé không vậy?</span></p> <p> <span style=\"font-size:14px;\">Đã mua máy tính mới hả?</span></p> <p> <span style=\"font-size:14px;\">Tặng socola cho ai vậy?</span></p> <p> <span style=\"font-size:14px;\">Đến Nhật khi nào thế?</span></p> <p> </p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Có cần vé không vậy?</span></p> <p> <span style=\"font-size:14px;\">Đã mua máy tính mới hả?</span></p> <p> <span style=\"font-size:14px;\">Tặng socola cho ai vậy?</span></p> <p> <span style=\"font-size:14px;\">Đến Nhật khi nào thế?</span></p> <p> </p>"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <strong><span class=\"mytitle\">3.</span></strong></p> <p style=\"text-align: right;\"> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p style=\"text-align: right;\"> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p style=\"text-align: right;\"> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p style=\"text-align: right;\"> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p> <p> <span _fck_bookmark=\"1\" style=\"display: none;\"> </span></p>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 120px;\"> <span>どうして</span></td> <td style=\"width: 120px;\"> <span><ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>を</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235); width: 120px;\"> <span><strong>やすんだ</strong></span></td> <td rowspan=\"3\" style=\"width: 18%;\"> <span>んですか。</span></td> </tr> <tr> <td> <span>エアコンを</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong>つけない</strong></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td rowspan=\"2\" style=\"width:8%;\"> ･･･････</td> <td style=\"width:12%;\"> <span><ruby>頭<rp>(</rp><rt>あたま</rt><rp>)</rp></ruby>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);width:20%;\"> <span><strong> いたかった</strong></span></td> <td rowspan=\"2\"> <span>んです。</span></td> </tr> <tr> <td> </td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <span><strong> こしょうな</strong></span></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tại sao lại nghỉ làm công ty vậy?</span></p> <p> <span style=\"font-size:14px;\">Tại sao lại không bật điều hòa?</span></p> <p> </p> <p> <span style=\"font-size:14px;\">･･･････ Vì đau đầu</span></p> <p> <span style=\"font-size:14px;\"> Vì bị hư rồi.</span></p> <p> </p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tại sao lại nghỉ làm công ty vậy?</span></p> <p> <span style=\"font-size:14px;\">Tại sao lại không bật điều hòa?</span></p> <p> </p> <p> <span style=\"font-size:14px;\">･･･････ Vì đau đầu</span></p> <p> <span style=\"font-size:14px;\"> Vì bị hư rồi.</span></p> <p> </p>"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <strong><span class=\"mytitle\">4.</span></strong></p>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%;\"> <tbody> <tr> <td rowspan=\"3\" style=\"width: 290px;\"> <span>わたしは <ruby>運動会<rp>(</rp><rt>うんどうかい</rt><rp>)</rp></ruby>に <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きません。</span></td> <td> <span><ruby>用事<rp>(</rp><rt>ようじ</rt><rp>)</rp></ruby></span></td> <td> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>ある</span></strong></td> <td rowspan=\"2\"> <span>んです。</span></td> </tr> <tr> <td> <span><ruby>都合<rp>(</rp><rt>つごう</rt><rp>)</rp></ruby></span></td> <td> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>わるい</span></strong></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tôi không tham gia lễ hội thể thao. Vì tôi có việc bận.</span></p> <p> <span style=\"font-size:14px;\">Tôi không tham gia lễ hội thể thao. Vì không tiện lắm.</span></p> <p> </p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tôi không tham gia lễ hội thể thao. Vì tôi có việc bận.</span></p> <p> <span style=\"font-size:14px;\">Tôi không tham gia lễ hội thể thao. Vì không tiện lắm.</span></p> <p> </p>"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <strong><span class=\"mytitle\">5.</span></strong></p>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td> <span><ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby></span></td> <td> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>ほしい</span></strong></td> <td rowspan=\"3\"> <span>んですが、</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>おくって</span></strong></td> <td rowspan=\"3\" style=\"width: 17%;\"> <span>いただけませんか。</span></td> </tr> <tr> <td> <span><ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby></span></td> <td> <span>が</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>わからない</span></strong></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>おしえて</span></strong></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tôi muốn có tài liệu, liệu bạn có thể gửi cho tôi được không?</span></p> <p> <span style=\"font-size:14px;\">Tôi không hiểu cách viết nên xin chỉ cho tôi được không?</span></p> <p> </p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tôi muốn có tài liệu, liệu bạn có thể gửi cho tôi được không?</span></p> <p> <span style=\"font-size:14px;\">Tôi không hiểu cách viết nên xin chỉ cho tôi được không?</span></p> <p> </p>"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <strong><span class=\"mytitle\">6.</span></strong></p>"
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\" style=\"width: 100%; \"> <tbody> <tr> <td> <span>さくら<ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby></span></td> <td> <span>へ</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>いきたい</span></strong></td> <td rowspan=\"3\"> <span>んですが、</span></td> <td> <span>どこで</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>おりた</span></strong></td> <td rowspan=\"3\"> <span>ら いいですか。</span></td> </tr> <tr> <td> <span><ruby>保険証<rp>(</rp><rt>ほけんしょう</rt><rp>)</rp></ruby></span></td> <td> <span>を</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>わすれた</span></strong></td> <td> <span>どう</span></td> <td style=\"text-align: right; background-color: rgb(205, 227, 235);\"> <strong><span>した</span></strong></td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tôi muốn đi đến trường đại học Sakura thì đi xuống ở đâu được đây?</span></p> <p> <span style=\"font-size:14px;\">Tôi đã quên mang thẻ bảo hiểm rồi thì làm sao được đây?</span></p> <p> </p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <span style=\"font-size:14px;\">Tôi muốn đi đến trường đại học Sakura thì đi xuống ở đâu được đây?</span></p> <p> <span style=\"font-size:14px;\">Tôi đã quên mang thẻ bảo hiểm rồi thì làm sao được đây?</span></p> <p> </p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

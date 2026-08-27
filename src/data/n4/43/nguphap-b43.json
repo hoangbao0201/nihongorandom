@@ -1,0 +1,664 @@
+{
+  "lesson": 43,
+  "type": "nguphap",
+  "sections": [
+    {
+      "id": "tab3",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> </p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 1: ～そうです : có vẻ, sắp sửa ~</span></div><div class=\"slide-content\"><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252); text-align: center;\"> <img decoding=\"async\" alt=\"\" src=\"/images/minnano/bai43_1.png\" style=\"width: 358px; \"><br /> <p>Đặc biệt: <span style=\"color:#ff0000;\">いいです → よさそうです。</span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Động từ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\">  </td> <td> Diễn đạt dấu hiệu biến động hoặc thay đổi của động từ biểu thị sắp xảy ra.<br /> Thường dùng kèm với:<br /> いまにも bất kỳ lúc nào<br /> もうすぐ sắp sửa<br /> これから từ giờ </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>が <ruby>曇<rp>(</rp><rt>くも</rt><rp>)</rp></ruby>っています。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>にも あめが ふりそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Bầu trời đầy mây. Có vẻ như trời sắp mưa đến nơi rồi.</div></div></div></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\">もうすぐ <ruby>桜<rp>(</rp><rt>さくら</rt><rp>)</rp></ruby>が <ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>きそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hoa anh đào có vẻ sắp nở.</div></div></div><p></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Tính từ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\">  </td> <td> Diễn tả sự suy đoán về tính chất đó của sự vật dựa trên vẻ bề ngoài dù chưa xác nhận thực tế như thế nào.<br /> Khi nói về tâm trạng, tình cảm của người khác thì chúng ta không thể dùng nguyên cách biểu thị tâm trạng, mà thêm そうです để biểu thị sự suy đoán từ vẻ bề ngoài. </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <div class=\"tudich\"><div class=\"candich\">この <ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>は <ruby>辛<rp>(</rp><rt>から</rt><rp>)</rp></ruby>そうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Món ăn này có vẻ cay.</div></div></div></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\"><ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>は まだ <ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>っていませんので、<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby>は しんぱいそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cha vẫn chưa về nên mẹ có vẻ lo lắng.</div></div></div><p></p> </td> </tr> </tbody> </table> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> </p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 2: ～Vて<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます : đi ~ rồi quay lại</span></div><div class=\"slide-content\"><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <span style=\"color:#ff0000;\"><span>～Vてきます。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\">  </td> <td> ～Vて<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます：đi ~ rồi quay lại</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\">A: ちょっと でんわを かけて<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで まっていてください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">A: Tôi đi gọi điện một chút rồi sẽ quay lại nên xin hãy chờ ở đây.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">B: はい。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">B: Vâng</div></div></div><p></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\">A: どうしたんですか。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">A: Bị sao vậy?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">B: <ruby>教室<rp>(</rp><rt>きょうしつ</rt><rp>)</rp></ruby>に <ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>を <ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れたので、ちょっと とって<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">B: Tôi để quên đồng hồ trong lớp nên sẽ đi lấy một tí rồi quay lại ngay.</div></div></div><p></p> </td> </tr> </tbody> </table> <p> </p></div></div><p></p> <p> </p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 3: ～Vて くれませんか : Làm ơn ~</span></div><div class=\"slide-content\"><p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \">  </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <span style=\"color:#ff0000;\"><span>～Vて くれませんか。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\">  </td> <td> ～Vて くれませんか：là cách nói lịch sự hơn ～Vて ください nhưng không lịch sự bằng ～Vて いただけませんか/～Vて くださいませんか.<br /> Thích hợp dùng cho đối tượng là người ngang hàng hoặc người dưới mình. </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\">  </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\">A: コンビニへ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">A: Tôi đi cửa hàng tiện lợi rồi quay lại.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">B: じゃ、お<ruby>弁当<rp>(</rp><rt>べんとう</rt><rp>)</rp></ruby>を <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て くれませんか。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">B: Thế thì, mua giúp tôi cơm hộp được không?</div></div></div><p></p> </td> </tr> </tbody> </table> <p> </p></div></div><p></p> <p> </p></div>",
+      "blocks": [
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 1: ～そうです : có vẻ, sắp sửa ~",
+          "titleHtml": "Phần 1: ～そうです : có vẻ, sắp sửa ~",
+          "contentHtml": "<p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252); text-align: center;\"> <img decoding=\"async\" alt=\"\" src=\"/images/minnano/bai43_1.png\" style=\"width: 358px; \"><br /> <p>Đặc biệt: <span style=\"color:#ff0000;\">いいです → よさそうです。</span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Động từ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> </td> <td> Diễn đạt dấu hiệu biến động hoặc thay đổi của động từ biểu thị sắp xảy ra.<br /> Thường dùng kèm với:<br /> いまにも bất kỳ lúc nào<br /> もうすぐ sắp sửa<br /> これから từ giờ </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>が <ruby>曇<rp>(</rp><rt>くも</rt><rp>)</rp></ruby>っています。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>にも あめが ふりそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Bầu trời đầy mây. Có vẻ như trời sắp mưa đến nơi rồi.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252); text-align: center;\">"
+            },
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnano/bai43_1.png",
+              "contentHtml": "<img decoding=\"async\" alt=\"\" src=\"/images/minnano/bai43_1.png\" style=\"width: 358px; \">"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "<br /> <p>Đặc biệt: <span style=\"color:#ff0000;\">いいです → よさそうです。</span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Động từ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> </td> <td> Diễn đạt dấu hiệu biến động hoặc thay đổi của động từ biểu thị sắp xảy ra.<br /> Thường dùng kèm với:<br /> いまにも bất kỳ lúc nào<br /> もうすぐ sắp sửa<br /> これから từ giờ </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <div class=\"tudich\"><div class=\"candich\"><ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>が <ruby>曇<rp>(</rp><rt>くも</rt><rp>)</rp></ruby>っています。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>にも あめが ふりそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Bầu trời đầy mây. Có vẻ như trời sắp mưa đến nơi rồi."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "もうすぐ 桜(さくら)が 咲(さ)きそうです。",
+          "japaneseHtml": "もうすぐ <ruby>桜<rp>(</rp><rt>さくら</rt><rp>)</rp></ruby>が <ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>きそうです。",
+          "vietnamese": "Hoa anh đào có vẻ sắp nở.",
+          "vietnameseHtml": "Hoa anh đào có vẻ sắp nở."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Tính từ</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> </td> <td> Diễn tả sự suy đoán về tính chất đó của sự vật dựa trên vẻ bề ngoài dù chưa xác nhận thực tế như thế nào.<br /> Khi nói về tâm trạng, tình cảm của người khác thì chúng ta không thể dùng nguyên cách biểu thị tâm trạng, mà thêm そうです để biểu thị sự suy đoán từ vẻ bề ngoài. </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "この 料理(りょうり)は 辛(から)そうです。",
+          "japaneseHtml": "この <ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>は <ruby>辛<rp>(</rp><rt>から</rt><rp>)</rp></ruby>そうです。",
+          "vietnamese": "Món ăn này có vẻ cay.",
+          "vietnameseHtml": "Món ăn này có vẻ cay."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "父(ちち)は まだ 帰(かえ)っていませんので、母(はは)は しんぱいそうです。",
+          "japaneseHtml": "<ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>は まだ <ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>っていませんので、<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby>は しんぱいそうです。",
+          "vietnamese": "Cha vẫn chưa về nên mẹ có vẻ lo lắng.",
+          "vietnameseHtml": "Cha vẫn chưa về nên mẹ có vẻ lo lắng."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 2: ～Vて来(き)ます : đi ~ rồi quay lại",
+          "titleHtml": "Phần 2: ～Vて<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます : đi ~ rồi quay lại",
+          "contentHtml": "<p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <span style=\"color:#ff0000;\"><span>～Vてきます。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> </td> <td> ～Vて<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます：đi ~ rồi quay lại</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\">A: ちょっと でんわを かけて<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで まっていてください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">A: Tôi đi gọi điện một chút rồi sẽ quay lại nên xin hãy chờ ở đây.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <span style=\"color:#ff0000;\"><span>～Vてきます。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> </td> <td> ～Vて<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます：đi ~ rồi quay lại</td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\">A: ちょっと でんわを かけて<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで まっていてください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">A: Tôi đi gọi điện một chút rồi sẽ quay lại nên xin hãy chờ ở đây."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: はい。",
+          "japaneseHtml": "B: はい。",
+          "vietnamese": "B: Vâng",
+          "vietnameseHtml": "B: Vâng"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> </td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"color:#ffffff;\"><span style=\"font-size: 14px;\"><strong>2.</strong></span></span></td> <td> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "A: どうしたんですか。",
+          "japaneseHtml": "A: どうしたんですか。",
+          "vietnamese": "A: Bị sao vậy?",
+          "vietnameseHtml": "A: Bị sao vậy?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: 教室(きょうしつ)に 時計(とけい)を 忘(わす)れたので、ちょっと とって来(き)ます。",
+          "japaneseHtml": "B: <ruby>教室<rp>(</rp><rt>きょうしつ</rt><rp>)</rp></ruby>に <ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>を <ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れたので、ちょっと とって<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "B: Tôi để quên đồng hồ trong lớp nên sẽ đi lấy một tí rồi quay lại ngay.",
+          "vietnameseHtml": "B: Tôi để quên đồng hồ trong lớp nên sẽ đi lấy một tí rồi quay lại ngay."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 3: ～Vて くれませんか : Làm ơn ~",
+          "titleHtml": "Phần 3: ～Vて くれませんか : Làm ơn ~",
+          "contentHtml": "<p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <span style=\"color:#ff0000;\"><span>～Vて くれませんか。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> </td> <td> ～Vて くれませんか：là cách nói lịch sự hơn ～Vて ください nhưng không lịch sự bằng ～Vて いただけませんか/～Vて くださいませんか.<br /> Thích hợp dùng cho đối tượng là người ngang hàng hoặc người dưới mình. </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\">A: コンビニへ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">A: Tôi đi cửa hàng tiện lợi rồi quay lại.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"khung\" style=\"width: 100%;\"> <tbody> <tr> <td colspan=\"2\" style=\"background-color: rgb(205, 227, 235); width: 4%; \"> <p style=\"margin-left: 40px\"> <span style=\"color: #000080\"><span style=\"font-size: 12px\"><strong>Cấu trúc</strong></span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(149, 177, 213); width: 4%; \"> </td> <td style=\"background-color: rgb(248, 251, 252);\"> <p style=\"margin-left: 40px;\"> <span style=\"color:#ff0000;\"><span>～Vて くれませんか。</span></span></p> </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"font-size: 12px\"><strong><span style=\"color: rgb(0,0,128)\">Giải thích & Hướng dẫn</span></strong></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> </td> <td> ～Vて くれませんか：là cách nói lịch sự hơn ～Vて ください nhưng không lịch sự bằng ～Vて いただけませんか/～Vて くださいませんか.<br /> Thích hợp dùng cho đối tượng là người ngang hàng hoặc người dưới mình. </td> </tr> <tr> <td style=\"background-color: rgb(205,227,235); width: 4%; height: 15px\"> </td> <td style=\"background-color: rgb(205,227,235); height: 20px\"> <span style=\"color:#000080;\"><span style=\"font-size: 12px;\"><strong>Ví dụ</strong></span></span></td> </tr> <tr> <td style=\"background-color: rgb(149,177,213); width: 4%; height: 30px\"> <span style=\"font-size: 14px\"><span style=\"color: rgb(255,255,255)\"><strong>1.</strong></span></span></td> <td> <p> </p><div class=\"tudich\"><div class=\"candich\">A: コンビニへ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">A: Tôi đi cửa hàng tiện lợi rồi quay lại."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "B: じゃ、お弁当(べんとう)を 買(か)って 来(き)て くれませんか。",
+          "japaneseHtml": "B: じゃ、お<ruby>弁当<rp>(</rp><rt>べんとう</rt><rp>)</rp></ruby>を <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て くれませんか。",
+          "vietnamese": "B: Thế thì, mua giúp tôi cơm hộp được không?",
+          "vietnameseHtml": "B: Thế thì, mua giúp tôi cơm hộp được không?"
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": null,
+      "titleHtml": null,
+      "contentHtml": "<p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 1: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh</span></div><div class=\"slide-content\"><p></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai43/renshuuB-1.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai43/renshuuB-1.jpg\" style=\"width: 100%; \"></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： ⇒ </p> <p> </p><div class=\"tudich\"><div class=\"candich\"><ruby>荷物<rp>(</rp><rt>にもつ</rt><rp>)</rp></ruby>が <ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ちそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hành lý có vẻ sắp rớt ra.</div></div></div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）⇒    ２）⇒    ３）⇒    ４）⇒</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<  Đáp án  >>></span></div><div class=\"slide-content sl2\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>枝<rp>(</rp><rt>えだ</rt><rp>)</rp></ruby>が <ruby>折<rp>(</rp><rt>お</rt><rp>)</rp></ruby>れそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cành cây có vẻ sắp gãy.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">２）ひもが <ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>れそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Sợi dây có vẻ sắp đứt.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">３）ボタンが とれそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái cúc áo có vẻ sắp tuột.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">４）<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>が <ruby>倒<rp>(</rp><rt>たお</rt><rp>)</rp></ruby>れそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cây có vẻ sắp đổ.</div></div></div><p></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 2: Hoàn thành câu tương tự ví dụ</span></div><div class=\"slide-content\"><p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>袋<rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>が <ruby>破<rp>(</rp><rt>やぶ</rt><rp>)</rp></ruby>れます・<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>袋<rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>が <ruby>破<rp>(</rp><rt>やぶ</rt><rp>)</rp></ruby>れそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái túi có vẻ sắp rách ấy.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"> … じゃ、<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vậy thì tôi sẽ mua cái mới.</div></div></div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が <ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>ります（<ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>を <ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます） ⇒</p> <p> ２）ガスの <ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>が <ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えます（<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を <ruby>閉<rp>(</rp><rt>し</rt><rp>)</rp></ruby>めます） ⇒</p> <p> ３）もうすぐ <ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が やみます（ちょっと <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ちます） ⇒</p> <p> ４）<ruby>信号<rp>(</rp><rt>しんごう</rt><rp>)</rp></ruby>が <ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わります（<ruby>急<rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>ぎましょう） ⇒</p> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<< Đáp án >>></span></div><div class=\"slide-content sl2\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が <ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ trời sắp mưa.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  じゃ、<ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>を <ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vậy thì mang theo dù.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">２）ガスの <ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>が <ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ sắp lửa bếp ga sắp tắt.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  じゃ、<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を <ruby>閉<rp>(</rp><rt>し</rt><rp>)</rp></ruby>めます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vậy thì đóng cửa sổ lại.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">３）もうすぐ <ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が やみそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Trời có vẻ sắp tạnh rồi.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  じゃ、ちょっと <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ちます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vây thì đợi thêm một chút.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">４）<ruby>信号<rp>(</rp><rt>しんごう</rt><rp>)</rp></ruby>が <ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わりそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Đèn giao thông có vẻ sắp đổi màu.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  じゃ、<ruby>急<rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>ぎましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vậy thì gấp gáp lên thôi.</div></div></div><p></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 3: Hoàn thành câu tương tự ví dụ</span></div><div class=\"slide-content\"><p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： きょうは <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なります </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ きょうは <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なりそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hôm nay trời có vẻ trở nên lạnh.</div></div></div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）<ruby>今週<rp>(</rp><rt>こんしゅう</rt><rp>)</rp></ruby>は いい <ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が <ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きます ⇒</p> <p> ２）ことしは <ruby>去年<rp>(</rp><rt>きょねん</rt><rp>)</rp></ruby>より <ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>桜<rp>(</rp><rt>さくら</rt><rp>)</rp></ruby>が <ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>きます ⇒</p> <p> ３）ことしは <ruby>米<rp>(</rp><rt>こめ</rt><rp>)</rp></ruby>の <ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>が <ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がります ⇒</p> <p> ４）これから <ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>しない <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が <ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えます ⇒</p> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<< Đáp án >>></span></div><div class=\"slide-content sl2\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>今週<rp>(</rp><rt>こんしゅう</rt><rp>)</rp></ruby>は いい <ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が <ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tuần nay có vẻ thời tiết tốt tiếp tục.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">２）ことしは <ruby>去年<rp>(</rp><rt>きょねん</rt><rp>)</rp></ruby>より <ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>桜<rp>(</rp><rt>さくら</rt><rp>)</rp></ruby>が <ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>きそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Năm nay hoa anh đào có vẻ nở sớm hơn năm ngoái.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">３）ことしは <ruby>米<rp>(</rp><rt>こめ</rt><rp>)</rp></ruby>の <ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>が <ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がりそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Năm nay giá gạo có vẻ sẽ tăng.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">４）これから <ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>しない <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が <ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Từ giờ số người không kết hôn có vẻ sẽ tăng.</div></div></div><p></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 4: Hoàn thành câu tương tự ví dụ</span></div><div class=\"slide-content\"><p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>が <ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>みます・<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>します </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>が <ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>みそうですから、<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>しましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì đường có vẻ đông nên hãy xuất phát sớm thôi..</div></div></div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>は <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なります・コートを <ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます ⇒</p> <p> ２）ガソリンが なくなります・あの <ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>で <ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れます ⇒</p> <p> ３）<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>く なります・ホテルに <ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>して おきます ⇒</p> <p> ４）<ruby>台風<rp>(</rp><rt>たいふう</rt><rp>)</rp></ruby>が <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます・<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>は やめます ⇒</p> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<< Đáp án >>></span></div><div class=\"slide-content sl2\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>は <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なりそうですから、コートを <ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì buổi tối có vẻ trở lạnh nên cùng mặc áo ấm rồi đi.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">２）ガソリンが なくなりそうですから、あの <ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>で <ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì có vẻ xăng sắp hết nên cùng đổ ở tiệm kia thôi.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">３）<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>く なりそうですから、ホテルに <ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>して おきましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì có vẻ muộn nên liên lạc trước cho khách sạn thôi.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">４）<ruby>台風<rp>(</rp><rt>たいふう</rt><rp>)</rp></ruby>が <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>そうですから、<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>は やめましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì có vẻ bão sắp đến nên du lịch thì hủy thôi.</div></div></div><p></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 5: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh</span></div><div class=\"slide-content\"><p></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai43/renshuuB-5.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai43/renshuuB-5.jpg\" style=\"width: 100%; \"></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： つまらない</p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ つまらなそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Trông bạn có vẻ bận nhỉ. Có vẻ nhàm chán.</div></div></div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しい ⇒</p> <p> ２）うれしい ⇒</p> <p> ３）<ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby> ⇒</p> <p> ４）<ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby> ⇒</p> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<< Đáp án >>></span></div><div class=\"slide-content sl2\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ buồn rầu.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">２）うれしそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ vui sướng.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">３）<ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby>そうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ rảnh rỗi.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">４）<ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby>そうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ tiện lợi.</div></div></div><p></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 6: Hoàn thành câu tương tự ví dụ</span></div><div class=\"slide-content\"><p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>いです（きのう <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>られませんでした） </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>そうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ buồn ngủ nhỉ.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"> … ええ、きのう <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>られなかったんです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vâng, hôm qua không ngủ được.</div></div></div><p></p> <p> <span style=\"font-size: 16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）その セーター、<ruby>暖<rp>(</rp><rt>あたた</rt><rp>)</rp></ruby>かいです（イギリスで <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました） ⇒</p> <p> ２）その かばん、<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いです（<ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>が ３<ruby>冊<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby> <ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って います） ⇒</p> <p> ３）<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>です（<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby> <ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>の <ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>が いいです） ⇒</p> <p> ４）あの <ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>、<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せです（<ruby>先月<rp>(</rp><rt>せんげつ</rt><rp>)</rp></ruby> <ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>しました） ⇒</p> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<< Đáp án >>></span></div><div class=\"slide-content sl2\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）その セーター、<ruby>暖<rp>(</rp><rt>あたた</rt><rp>)</rp></ruby>かそうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái áo len đó có vẻ ấm nhỉ.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  ええ、イギリスで <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったんです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vâng, tôi đã mua tại Ý.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">２）その かばん、<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>そうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái cặp đó trông có vẻ nặng nhỉ.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  ええ、<ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>が ３<ruby>冊<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby> <ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って いるんです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vâng, có bỏ 3 quyển từ điển.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">３）<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>そうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Trông khỏe nhỉ.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  ええ、<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby> <ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>の <ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>が いいんです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vâng, gần đây tình trạng cơ thể tốt.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">４）あの <ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>、<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せそうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hai người kia trông hạnh phúc nhỉ.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  ええ、<ruby>先月<rp>(</rp><rt>せんげつ</rt><rp>)</rp></ruby> <ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>したんです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vâng, đã kết hôn vào tháng trước.</div></div></div><p></p> <p> </p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 7: Hoàn thành câu tương tự ví dụ</span></div><div class=\"slide-content\"><p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： トイレに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ トイレに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ちょっと <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi sẽ đi vệ sinh rồi quay lại nên hãy đợi ở đây nhé.</div></div></div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）バスの <ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ます ⇒</p> <p> ２）<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>を <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>きます ⇒</p> <p> ３）ジュースを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います ⇒</p> <p> ４）<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>を <ruby>駐車場<rp>(</rp><rt>ちゅうしゃじょう</rt><rp>)</rp></ruby>に <ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めます ⇒</p> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<< Đáp án >>></span></div><div class=\"slide-content sl2\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）ちょっと バスの <ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi đi xem giờ chạy của xe buýt rồi quay lại nên hãy đợi ở đây nhé.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">２）ちょっと <ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>を <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi đi hỏi đường rồi quay lại nên hãy đợi ở đây nhé.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">３）ちょっと ジュースを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi đi mua nước ép trái cây một tí rồi quay lại nên hãy đợi ở đây nhé.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">４）ちょっと <ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>を <ruby>駐車場<rp>(</rp><rt>ちゅうしゃじょう</rt><rp>)</rp></ruby>に <ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めて <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi đi đậu xe ở bãi rồi quay lại nên hãy đợi ở đây nhé.</div></div></div><p></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p><div class=\"slide\"><div class=\"slide-title\"><span>Phần 8: Hoàn thành câu tương tự ví dụ</span></div><div class=\"slide-content\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： どう したんですか</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có chuyện gì vậy?</div></div></div><p></p> <p> （うちに <ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>を <ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れました・ちょっと <ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>ります）</p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ うちに <ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>を <ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れたので、ちょっと <ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi để quên đồng hồ trong lớp học nên đi lấy rồi quay lại.</div></div></div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）どう したんですか。（<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>な <ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえました・ちょっと <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ます） ⇒</p> <p> ２）<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけるんですか。（ええ。<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が いいです・<ruby>散歩<rp>(</rp><rt>さんぽ</rt><rp>)</rp></ruby>します） ⇒</p> <p> ３）<ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby>が ２０<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> ありますか。（１<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> <ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>りません・ちょっと コピーします） ⇒</p> <p> ４）どこへ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんですか。（<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます・<ruby>迎<rp>(</rp><rt>むか</rt><rp>)</rp></ruby>えに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます） ⇒</p> <p> </p><div class=\"slide\"><div class=\"slide-title sl2\"><span><<< Đáp án >>></span></div><div class=\"slide-content sl2\"><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）どう したんですか。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có chuyện gì vậy?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  <ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>な <ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえたので、ちょっと <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Tôi đã nghe thấy âm thanh lạ nên đi xem rồi sẽ quay lại.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">２）<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけるんですか。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Đi ra ngoài ấy à?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  ええ。<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が いいので、<ruby>散歩<rp>(</rp><rt>さんぽ</rt><rp>)</rp></ruby>して <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Vì thời tiết tốt nên đi tản bộ rồi quay lại.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">３）<ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby>が ２０<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> ありますか。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tài liện có 20 bản không?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  １<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> <ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>りないので、ちょっと コピーして <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Vì thiếu một tờ nên tôi đi copy một chút rồi quay lại.</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">４）どこへ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんですか。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Bạn đi đâu đấy?</div></div></div><p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">   …  <ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が <ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るので、<ruby>迎<rp>(</rp><rt>むか</rt><rp>)</rp></ruby>えに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">…Vì bạn đến nên tôi đi đón rồi quay lại.</div></div></div><p></p> <p> <span style=\"font-family: arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p></div></div><p></p> <p> </p></div></div><p></p> <br /> <?php $de_stt = \"43\"; ?><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 1: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "titleHtml": "Phần 1: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "contentHtml": "<p></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai43/renshuuB-1.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai43/renshuuB-1.jpg\" style=\"width: 100%; \"></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： ⇒ </p> <p> </p><div class=\"tudich\"><div class=\"candich\"><ruby>荷物<rp>(</rp><rt>にもつ</rt><rp>)</rp></ruby>が <ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ちそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hành lý có vẻ sắp rớt ra.",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai43/renshuuB-1.jpg",
+              "linkUrl": "https://www.vnjpclub.com/images/minnamoi/bai43/renshuuB-1.jpg",
+              "contentHtml": "<a class=\"motaicho720\" href=\"/images/minnamoi/bai43/renshuuB-1.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai43/renshuuB-1.jpg\" style=\"width: 100%; \">"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： ⇒ </p> <p> </p><div class=\"tudich\"><div class=\"candich\"><ruby>荷物<rp>(</rp><rt>にもつ</rt><rp>)</rp></ruby>が <ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ちそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hành lý có vẻ sắp rớt ra."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）⇒ ２）⇒ ３）⇒ ４）⇒</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></span></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>枝<rp>(</rp><rt>えだ</rt><rp>)</rp></ruby>が <ruby>折<rp>(</rp><rt>お</rt><rp>)</rp></ruby>れそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cành cây có vẻ sắp gãy.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>枝<rp>(</rp><rt>えだ</rt><rp>)</rp></ruby>が <ruby>折<rp>(</rp><rt>お</rt><rp>)</rp></ruby>れそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cành cây có vẻ sắp gãy."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）ひもが 切(き)れそうです。",
+          "japaneseHtml": "２）ひもが <ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>れそうです。",
+          "vietnamese": "Sợi dây có vẻ sắp đứt.",
+          "vietnameseHtml": "Sợi dây có vẻ sắp đứt."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）ボタンが とれそうです。",
+          "japaneseHtml": "３）ボタンが とれそうです。",
+          "vietnamese": "Cái cúc áo có vẻ sắp tuột.",
+          "vietnameseHtml": "Cái cúc áo có vẻ sắp tuột."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）木(き)が 倒(たお)れそうです。",
+          "japaneseHtml": "４）<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>が <ruby>倒<rp>(</rp><rt>たお</rt><rp>)</rp></ruby>れそうです。",
+          "vietnamese": "Cây có vẻ sắp đổ.",
+          "vietnameseHtml": "Cây có vẻ sắp đổ."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 2: Hoàn thành câu tương tự ví dụ",
+          "titleHtml": "Phần 2: Hoàn thành câu tương tự ví dụ",
+          "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>袋<rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>が <ruby>破<rp>(</rp><rt>やぶ</rt><rp>)</rp></ruby>れます・<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>袋<rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>が <ruby>破<rp>(</rp><rt>やぶ</rt><rp>)</rp></ruby>れそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái túi có vẻ sắp rách ấy.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>袋<rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>が <ruby>破<rp>(</rp><rt>やぶ</rt><rp>)</rp></ruby>れます・<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>袋<rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>が <ruby>破<rp>(</rp><rt>やぶ</rt><rp>)</rp></ruby>れそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái túi có vẻ sắp rách ấy."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… じゃ、新(あたら)しいのを 買(か)います。",
+          "japaneseHtml": "… じゃ、<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しいのを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います。",
+          "vietnamese": "Vậy thì tôi sẽ mua cái mới.",
+          "vietnameseHtml": "Vậy thì tôi sẽ mua cái mới."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が <ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>ります（<ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>を <ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます） ⇒</p> <p> ２）ガスの <ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>が <ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えます（<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を <ruby>閉<rp>(</rp><rt>し</rt><rp>)</rp></ruby>めます） ⇒</p> <p> ３）もうすぐ <ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が やみます（ちょっと <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ちます） ⇒</p> <p> ４）<ruby>信号<rp>(</rp><rt>しんごう</rt><rp>)</rp></ruby>が <ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わります（<ruby>急<rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>ぎましょう） ⇒</p> <p> </p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が <ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ trời sắp mưa.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が <ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りそうですよ。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ trời sắp mưa."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… じゃ、傘(かさ)を 持(も)って 行(い)きます。",
+          "japaneseHtml": "… じゃ、<ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>を <ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+          "vietnamese": "Vậy thì mang theo dù.",
+          "vietnameseHtml": "Vậy thì mang theo dù."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）ガスの 火(ひ)が 消(き)えそうですよ。",
+          "japaneseHtml": "２）ガスの <ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>が <ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えそうですよ。",
+          "vietnamese": "Có vẻ sắp lửa bếp ga sắp tắt.",
+          "vietnameseHtml": "Có vẻ sắp lửa bếp ga sắp tắt."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… じゃ、窓(まど)を 閉(し)めます。",
+          "japaneseHtml": "… じゃ、<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>を <ruby>閉<rp>(</rp><rt>し</rt><rp>)</rp></ruby>めます。",
+          "vietnamese": "Vậy thì đóng cửa sổ lại.",
+          "vietnameseHtml": "Vậy thì đóng cửa sổ lại."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）もうすぐ 雨(あめ)が やみそうですよ。",
+          "japaneseHtml": "３）もうすぐ <ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が やみそうですよ。",
+          "vietnamese": "Trời có vẻ sắp tạnh rồi.",
+          "vietnameseHtml": "Trời có vẻ sắp tạnh rồi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… じゃ、ちょっと 待(ま)ちます。",
+          "japaneseHtml": "… じゃ、ちょっと <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ちます。",
+          "vietnamese": "Vây thì đợi thêm một chút.",
+          "vietnameseHtml": "Vây thì đợi thêm một chút."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）信号(しんごう)が 変(か)わりそうですよ。",
+          "japaneseHtml": "４）<ruby>信号<rp>(</rp><rt>しんごう</rt><rp>)</rp></ruby>が <ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わりそうですよ。",
+          "vietnamese": "Đèn giao thông có vẻ sắp đổi màu.",
+          "vietnameseHtml": "Đèn giao thông có vẻ sắp đổi màu."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… じゃ、急(いそ)ぎましょう。",
+          "japaneseHtml": "… じゃ、<ruby>急<rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>ぎましょう。",
+          "vietnamese": "Vậy thì gấp gáp lên thôi.",
+          "vietnameseHtml": "Vậy thì gấp gáp lên thôi."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 3: Hoàn thành câu tương tự ví dụ",
+          "titleHtml": "Phần 3: Hoàn thành câu tương tự ví dụ",
+          "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： きょうは <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なります </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ きょうは <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なりそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hôm nay trời có vẻ trở nên lạnh.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： きょうは <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なります </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ きょうは <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なりそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Hôm nay trời có vẻ trở nên lạnh."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）<ruby>今週<rp>(</rp><rt>こんしゅう</rt><rp>)</rp></ruby>は いい <ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が <ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きます ⇒</p> <p> ２）ことしは <ruby>去年<rp>(</rp><rt>きょねん</rt><rp>)</rp></ruby>より <ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>桜<rp>(</rp><rt>さくら</rt><rp>)</rp></ruby>が <ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>きます ⇒</p> <p> ３）ことしは <ruby>米<rp>(</rp><rt>こめ</rt><rp>)</rp></ruby>の <ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>が <ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がります ⇒</p> <p> ４）これから <ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>しない <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が <ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えます ⇒</p> <p> </p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>今週<rp>(</rp><rt>こんしゅう</rt><rp>)</rp></ruby>は いい <ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が <ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tuần nay có vẻ thời tiết tốt tiếp tục.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>今週<rp>(</rp><rt>こんしゅう</rt><rp>)</rp></ruby>は いい <ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が <ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tuần nay có vẻ thời tiết tốt tiếp tục."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）ことしは 去年(きょねん)より 早(はや)く 桜(さくら)が 咲(さ)きそうです。",
+          "japaneseHtml": "２）ことしは <ruby>去年<rp>(</rp><rt>きょねん</rt><rp>)</rp></ruby>より <ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>桜<rp>(</rp><rt>さくら</rt><rp>)</rp></ruby>が <ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>きそうです。",
+          "vietnamese": "Năm nay hoa anh đào có vẻ nở sớm hơn năm ngoái.",
+          "vietnameseHtml": "Năm nay hoa anh đào có vẻ nở sớm hơn năm ngoái."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）ことしは 米(こめ)の 値段(ねだん)が 上(あ)がりそうです。",
+          "japaneseHtml": "３）ことしは <ruby>米<rp>(</rp><rt>こめ</rt><rp>)</rp></ruby>の <ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>が <ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がりそうです。",
+          "vietnamese": "Năm nay giá gạo có vẻ sẽ tăng.",
+          "vietnameseHtml": "Năm nay giá gạo có vẻ sẽ tăng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）これから 結婚(けっこん)しない 人(ひと)が 増(ふ)えそうです。",
+          "japaneseHtml": "４）これから <ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>しない <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が <ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えそうです。",
+          "vietnamese": "Từ giờ số người không kết hôn có vẻ sẽ tăng.",
+          "vietnameseHtml": "Từ giờ số người không kết hôn có vẻ sẽ tăng."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 4: Hoàn thành câu tương tự ví dụ",
+          "titleHtml": "Phần 4: Hoàn thành câu tương tự ví dụ",
+          "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>が <ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>みます・<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>します </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>が <ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>みそうですから、<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>しましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì đường có vẻ đông nên hãy xuất phát sớm thôi..",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>が <ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>みます・<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>します </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>が <ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>みそうですから、<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く <ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>しましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì đường có vẻ đông nên hãy xuất phát sớm thôi.."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>は <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なります・コートを <ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます ⇒</p> <p> ２）ガソリンが なくなります・あの <ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>で <ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れます ⇒</p> <p> ３）<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>く なります・ホテルに <ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>して おきます ⇒</p> <p> ４）<ruby>台風<rp>(</rp><rt>たいふう</rt><rp>)</rp></ruby>が <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます・<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>は やめます ⇒</p> <p> </p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>は <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なりそうですから、コートを <ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì buổi tối có vẻ trở lạnh nên cùng mặc áo ấm rồi đi.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>は <ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>く なりそうですから、コートを <ruby>着<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Vì buổi tối có vẻ trở lạnh nên cùng mặc áo ấm rồi đi."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）ガソリンが なくなりそうですから、あの 店(みせ)で 入(い)れましょう。",
+          "japaneseHtml": "２）ガソリンが なくなりそうですから、あの <ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>で <ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れましょう。",
+          "vietnamese": "Vì có vẻ xăng sắp hết nên cùng đổ ở tiệm kia thôi.",
+          "vietnameseHtml": "Vì có vẻ xăng sắp hết nên cùng đổ ở tiệm kia thôi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）遅(おそ)く なりそうですから、ホテルに 連絡(れんらく)して おきましょう。",
+          "japaneseHtml": "３）<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>く なりそうですから、ホテルに <ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>して おきましょう。",
+          "vietnamese": "Vì có vẻ muộn nên liên lạc trước cho khách sạn thôi.",
+          "vietnameseHtml": "Vì có vẻ muộn nên liên lạc trước cho khách sạn thôi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）台風(たいふう)が 来(き)そうですから、旅行(りょこう)は やめましょう。",
+          "japaneseHtml": "４）<ruby>台風<rp>(</rp><rt>たいふう</rt><rp>)</rp></ruby>が <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>そうですから、<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>は やめましょう。",
+          "vietnamese": "Vì có vẻ bão sắp đến nên du lịch thì hủy thôi.",
+          "vietnameseHtml": "Vì có vẻ bão sắp đến nên du lịch thì hủy thôi."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 5: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "titleHtml": "Phần 5: Hoàn thành câu tương tự ví dụ với dữ liệu trên tranh",
+          "contentHtml": "<p></p> <p> <a class=\"motaicho720\" href=\"/images/minnamoi/bai43/renshuuB-5.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai43/renshuuB-5.jpg\" style=\"width: 100%; \"></strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： つまらない</p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ つまらなそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Trông bạn có vẻ bận nhỉ. Có vẻ nhàm chán.",
+          "blocks": [
+            {
+              "kind": "image",
+              "url": "https://www.vnjpclub.com/images/minnamoi/bai43/renshuuB-5.jpg",
+              "linkUrl": "https://www.vnjpclub.com/images/minnamoi/bai43/renshuuB-5.jpg",
+              "contentHtml": "<a class=\"motaicho720\" href=\"/images/minnamoi/bai43/renshuuB-5.jpg\"><span style=\"font-size: 12px;\"><span style=\"font-family: arial,helvetica,sans-serif;\"><strong><img decoding=\"async\" alt=\"\" src=\"/images/minnamoi/bai43/renshuuB-5.jpg\" style=\"width: 100%; \">"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</strong></span></span></a></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： つまらない</p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ つまらなそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Trông bạn có vẻ bận nhỉ. Có vẻ nhàm chán."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しい ⇒</p> <p> ２）うれしい ⇒</p> <p> ３）<ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby> ⇒</p> <p> ４）<ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby> ⇒</p> <p> </p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ buồn rầu.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しそうです。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ buồn rầu."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）うれしそうです。",
+          "japaneseHtml": "２）うれしそうです。",
+          "vietnamese": "Có vẻ vui sướng.",
+          "vietnameseHtml": "Có vẻ vui sướng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）暇(ひま)そうです。",
+          "japaneseHtml": "３）<ruby>暇<rp>(</rp><rt>ひま</rt><rp>)</rp></ruby>そうです。",
+          "vietnamese": "Có vẻ rảnh rỗi.",
+          "vietnameseHtml": "Có vẻ rảnh rỗi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）便利(べんり)そうですね。",
+          "japaneseHtml": "４）<ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby>そうですね。",
+          "vietnamese": "Có vẻ tiện lợi.",
+          "vietnameseHtml": "Có vẻ tiện lợi."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 6: Hoàn thành câu tương tự ví dụ",
+          "titleHtml": "Phần 6: Hoàn thành câu tương tự ví dụ",
+          "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>いです（きのう <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>られませんでした） </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>そうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ buồn ngủ nhỉ.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： <ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>いです（きのう <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>られませんでした） </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ <ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>そうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có vẻ buồn ngủ nhỉ."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ええ、きのう 寝(ね)られなかったんです。",
+          "japaneseHtml": "… ええ、きのう <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>られなかったんです。",
+          "vietnamese": "Vâng, hôm qua không ngủ được.",
+          "vietnameseHtml": "Vâng, hôm qua không ngủ được."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size: 16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）その セーター、<ruby>暖<rp>(</rp><rt>あたた</rt><rp>)</rp></ruby>かいです（イギリスで <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました） ⇒</p> <p> ２）その かばん、<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いです（<ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>が ３<ruby>冊<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby> <ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って います） ⇒</p> <p> ３）<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>です（<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby> <ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>の <ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>が いいです） ⇒</p> <p> ４）あの <ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>、<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せです（<ruby>先月<rp>(</rp><rt>せんげつ</rt><rp>)</rp></ruby> <ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>しました） ⇒</p> <p> </p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）その セーター、<ruby>暖<rp>(</rp><rt>あたた</rt><rp>)</rp></ruby>かそうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái áo len đó có vẻ ấm nhỉ.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）その セーター、<ruby>暖<rp>(</rp><rt>あたた</rt><rp>)</rp></ruby>かそうですね。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Cái áo len đó có vẻ ấm nhỉ."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ええ、イギリスで 買(か)ったんです。",
+          "japaneseHtml": "… ええ、イギリスで <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったんです。",
+          "vietnamese": "Vâng, tôi đã mua tại Ý.",
+          "vietnameseHtml": "Vâng, tôi đã mua tại Ý."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）その かばん、重(おも)そうですね。",
+          "japaneseHtml": "２）その かばん、<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>そうですね。",
+          "vietnamese": "Cái cặp đó trông có vẻ nặng nhỉ.",
+          "vietnameseHtml": "Cái cặp đó trông có vẻ nặng nhỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ええ、辞書(じしょ)が ３冊(さつ) 入(はい)って いるんです。",
+          "japaneseHtml": "… ええ、<ruby>辞書<rp>(</rp><rt>じしょ</rt><rp>)</rp></ruby>が ３<ruby>冊<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby> <ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って いるんです。",
+          "vietnamese": "Vâng, có bỏ 3 quyển từ điển.",
+          "vietnameseHtml": "Vâng, có bỏ 3 quyển từ điển."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）元気(げんき)そうですね。",
+          "japaneseHtml": "３）<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>そうですね。",
+          "vietnamese": "Trông khỏe nhỉ.",
+          "vietnameseHtml": "Trông khỏe nhỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ええ、最近(さいきん) 体(からだ)の 調子(ちょうし)が いいんです。",
+          "japaneseHtml": "… ええ、<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby> <ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>の <ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>が いいんです。",
+          "vietnamese": "Vâng, gần đây tình trạng cơ thể tốt.",
+          "vietnameseHtml": "Vâng, gần đây tình trạng cơ thể tốt."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）あの 二人(ふたり)、幸(しあわ)せそうですね。",
+          "japaneseHtml": "４）あの <ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>、<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せそうですね。",
+          "vietnamese": "Hai người kia trông hạnh phúc nhỉ.",
+          "vietnameseHtml": "Hai người kia trông hạnh phúc nhỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ええ、先月(せんげつ) 結婚(けっこん)したんです。",
+          "japaneseHtml": "… ええ、<ruby>先月<rp>(</rp><rt>せんげつ</rt><rp>)</rp></ruby> <ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>したんです。",
+          "vietnamese": "Vâng, đã kết hôn vào tháng trước.",
+          "vietnameseHtml": "Vâng, đã kết hôn vào tháng trước."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 7: Hoàn thành câu tương tự ví dụ",
+          "titleHtml": "Phần 7: Hoàn thành câu tương tự ví dụ",
+          "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： トイレに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ トイレに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ちょっと <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi sẽ đi vệ sinh rồi quay lại nên hãy đợi ở đây nhé.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> <ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： トイレに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます </p> <p> </p><div class=\"tudich\"><div class=\"candich\"> ⇒ トイレに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ちょっと <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi sẽ đi vệ sinh rồi quay lại nên hãy đợi ở đây nhé."
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div><p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）バスの <ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ます ⇒</p> <p> ２）<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>を <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>きます ⇒</p> <p> ３）ジュースを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>います ⇒</p> <p> ４）<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>を <ruby>駐車場<rp>(</rp><rt>ちゅうしゃじょう</rt><rp>)</rp></ruby>に <ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めます ⇒</p> <p> </p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）ちょっと バスの <ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi đi xem giờ chạy của xe buýt rồi quay lại nên hãy đợi ở đây nhé.",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）ちょっと バスの <ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Tôi đi xem giờ chạy của xe buýt rồi quay lại nên hãy đợi ở đây nhé."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）ちょっと 道(みち)を 聞(き)いて 来(き)ますから、ここで 待(ま)って いて ください。",
+          "japaneseHtml": "２）ちょっと <ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>を <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。",
+          "vietnamese": "Tôi đi hỏi đường rồi quay lại nên hãy đợi ở đây nhé.",
+          "vietnameseHtml": "Tôi đi hỏi đường rồi quay lại nên hãy đợi ở đây nhé."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）ちょっと ジュースを 買(か)って 来(き)ますから、ここで 待(ま)って いて ください。",
+          "japaneseHtml": "３）ちょっと ジュースを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。",
+          "vietnamese": "Tôi đi mua nước ép trái cây một tí rồi quay lại nên hãy đợi ở đây nhé.",
+          "vietnameseHtml": "Tôi đi mua nước ép trái cây một tí rồi quay lại nên hãy đợi ở đây nhé."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）ちょっと 車(くるま)を 駐車場(ちゅうしゃじょう)に 止(と)めて 来(き)ますから、ここで 待(ま)って いて ください。",
+          "japaneseHtml": "４）ちょっと <ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>を <ruby>駐車場<rp>(</rp><rt>ちゅうしゃじょう</rt><rp>)</rp></ruby>に <ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めて <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ますから、ここで <ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って いて ください。",
+          "vietnamese": "Tôi đi đậu xe ở bãi rồi quay lại nên hãy đợi ở đây nhé.",
+          "vietnameseHtml": "Tôi đi đậu xe ở bãi rồi quay lại nên hãy đợi ở đây nhé."
+        },
+        {
+          "kind": "slide",
+          "variant": "default",
+          "title": "Phần 8: Hoàn thành câu tương tự ví dụ",
+          "titleHtml": "Phần 8: Hoàn thành câu tương tự ví dụ",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： どう したんですか</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có chuyện gì vậy?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\"><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>： どう したんですか</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có chuyện gì vậy?"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div><p></p> <p> （うちに <ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>を <ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れました・ちょっと <ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>ります）</p> <p> </p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "⇒ うちに 傘(かさ)を 忘(わす)れたので、ちょっと 取(と)って 来(き)ます。",
+          "japaneseHtml": "⇒ うちに <ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>を <ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れたので、ちょっと <ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "Tôi để quên đồng hồ trong lớp học nên đi lấy rồi quay lại.",
+          "vietnameseHtml": "Tôi để quên đồng hồ trong lớp học nên đi lấy rồi quay lại."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <p> <span style=\"font-size:16px;\"><strong>Hoàn thành các câu sau:</strong></span></p> <p> １）どう したんですか。（<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>な <ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえました・ちょっと <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ます） ⇒</p> <p> ２）<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけるんですか。（ええ。<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が いいです・<ruby>散歩<rp>(</rp><rt>さんぽ</rt><rp>)</rp></ruby>します） ⇒</p> <p> ３）<ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby>が ２０<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> ありますか。（１<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> <ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>りません・ちょっと コピーします） ⇒</p> <p> ４）どこへ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんですか。（<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます・<ruby>迎<rp>(</rp><rt>むか</rt><rp>)</rp></ruby>えに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます） ⇒</p> <p> </p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Đáp án >>>",
+          "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）どう したんですか。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có chuyện gì vậy?",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "<p></p> <p> </p><div class=\"tudich\"><div class=\"candich\">１）どう したんですか。</div><div class=\"kqdich\" style=\"opacity: 0; display: none;\"><span></span><div class=\"nddich\">Có chuyện gì vậy?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 変(へん)な 音(おと)が 聞(き)こえたので、ちょっと 見(み)て 来(き)ます。",
+          "japaneseHtml": "… <ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>な <ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえたので、ちょっと <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "…Tôi đã nghe thấy âm thanh lạ nên đi xem rồi sẽ quay lại.",
+          "vietnameseHtml": "…Tôi đã nghe thấy âm thanh lạ nên đi xem rồi sẽ quay lại."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）出(で)かけるんですか。",
+          "japaneseHtml": "２）<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけるんですか。",
+          "vietnamese": "Đi ra ngoài ấy à?",
+          "vietnameseHtml": "Đi ra ngoài ấy à?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… ええ。天気(てんき)が いいので、散歩(さんぽ)して 来(き)ます。",
+          "japaneseHtml": "… ええ。<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が いいので、<ruby>散歩<rp>(</rp><rt>さんぽ</rt><rp>)</rp></ruby>して <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "…Vì thời tiết tốt nên đi tản bộ rồi quay lại.",
+          "vietnameseHtml": "…Vì thời tiết tốt nên đi tản bộ rồi quay lại."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）資料(しりょう)が ２０枚(まい) ありますか。",
+          "japaneseHtml": "３）<ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby>が ２０<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> ありますか。",
+          "vietnamese": "Tài liện có 20 bản không?",
+          "vietnameseHtml": "Tài liện có 20 bản không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… １枚(まい) 足(た)りないので、ちょっと コピーして 来(き)ます。",
+          "japaneseHtml": "… １<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby> <ruby>足<rp>(</rp><rt>た</rt><rp>)</rp></ruby>りないので、ちょっと コピーして <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "…Vì thiếu một tờ nên tôi đi copy một chút rồi quay lại.",
+          "vietnameseHtml": "…Vì thiếu một tờ nên tôi đi copy một chút rồi quay lại."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４）どこへ 行(い)くんですか。",
+          "japaneseHtml": "４）どこへ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんですか。",
+          "vietnamese": "Bạn đi đâu đấy?",
+          "vietnameseHtml": "Bạn đi đâu đấy?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "… 友達(ともだち)が 来(く)るので、迎(むか)えに 行(い)って 来(き)ます。",
+          "japaneseHtml": "… <ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が <ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るので、<ruby>迎<rp>(</rp><rt>むか</rt><rp>)</rp></ruby>えに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って <ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ます。",
+          "vietnamese": "…Vì bạn đến nên tôi đi đón rồi quay lại.",
+          "vietnameseHtml": "…Vì bạn đến nên tôi đi đón rồi quay lại."
+        }
+      ]
+    }
+  ]
+}

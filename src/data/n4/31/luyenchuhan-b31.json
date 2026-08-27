@@ -1,0 +1,66 @@
+{
+  "lesson": 31,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca9799f51364352b62b7bb7",
+      "index": 151,
+      "character": "東",
+      "sinoVietnameseWord": "Đông",
+      "mean": "Phía đông",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l7/kanji/img/「東」-300x300.png",
+      "reminiscentDescription": "<p>Mặt trời mọc đằng Đ&ocirc;ng sau h&agrave;ng c&acirc;y</p>",
+      "onReading": "トウ",
+      "kunReading": "ひがし",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">東</td>\n<td style=\"width: 33.3333%;\">ひがし</td>\n<td style=\"width: 33.3333%;\">Ph&iacute;a đ&ocirc;ng</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">東口</td>\n<td style=\"width: 33.3333%;\">ひがしぐち</td>\n<td style=\"width: 33.3333%;\">Cửa đ&ocirc;ng</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">東京</td>\n<td style=\"width: 33.3333%;\">とうきょう</td>\n<td style=\"width: 33.3333%;\">Tokyo</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">関東</td>\n<td style=\"width: 33.3333%;\">かんとう</td>\n<td style=\"width: 33.3333%;\">V&ugrave;ng Kanto</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n<td style=\"width: 33.3333%;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca97b1251364352b62b7bb9",
+      "index": 152,
+      "character": "西",
+      "sinoVietnameseWord": "Tây",
+      "mean": "Phía Tây",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l7/kanji/img/hougaku2_nishi.png",
+      "reminiscentDescription": "<p>Một trong 4 hướng l&agrave; Hướng T&acirc;y</p>",
+      "onReading": "セイ、サイ、ザイ",
+      "kunReading": "にし",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 168px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">西</td>\n<td style=\"width: 33.2422%; height: 21px;\">にし</td>\n<td style=\"width: 33.3333%; height: 21px;\">Ph&iacute;a t&acirc;y</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">西口</td>\n<td style=\"width: 33.2422%; height: 21px;\">にしぐち</td>\n<td style=\"width: 33.3333%; height: 21px;\">Cửa T&acirc;y</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">西洋</td>\n<td style=\"width: 33.2422%; height: 21px;\">せいよう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Phương T&acirc;y</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">関西</td>\n<td style=\"width: 33.2422%; height: 21px;\">かんさい</td>\n<td style=\"width: 33.3333%; height: 21px;\">V&ugrave;ng Kansai</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.2422%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.2422%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.2422%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.2422%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca97be951364352b62b7bbb",
+      "index": 153,
+      "character": "南",
+      "sinoVietnameseWord": "Nam",
+      "mean": "Phía Nam",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l7/kanji/img/hougaku3_minami__1_.png",
+      "reminiscentDescription": "<p>Ở bi&ecirc;n giới ph&iacute;a Nam c&oacute; 10 &yen; (y&ecirc;n) Nhật</p>",
+      "onReading": "ナン",
+      "kunReading": "みなみ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 169px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">南</td>\n<td style=\"width: 33.3333%; height: 21px;\">みなみ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Ph&iacute;a Nam</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">南口</td>\n<td style=\"width: 33.3333%; height: 21px;\">みなみぐち</td>\n<td style=\"width: 33.3333%; height: 21px;\">Cửa Nam</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">東南アジア</td>\n<td style=\"width: 33.3333%; height: 21px;\">とうなんアジア</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đ&ocirc;ng Nam &Aacute;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">南米</td>\n<td style=\"width: 33.3333%; height: 21px;\">なんべい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Nam Mỹ</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca97cba51364352b62b7bbe",
+      "index": 154,
+      "character": "北",
+      "sinoVietnameseWord": "Bắc",
+      "mean": "Phía Bắc",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l7/kanji/img/houi_3_20180213011345cff.png",
+      "reminiscentDescription": "<p>Hai người ngồi đối lưng v&agrave;o nhau bởi v&igrave; phương Bắc rất lạnh</p>",
+      "onReading": "ホク、ホッ、ボク",
+      "kunReading": "きた",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 168px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">北</td>\n<td style=\"width: 33.3333%; height: 21px;\">きた</td>\n<td style=\"width: 33.3333%; height: 21px;\">Ph&iacute;a Bắc</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">北口</td>\n<td style=\"width: 33.3333%; height: 21px;\">きたぐち</td>\n<td style=\"width: 33.3333%; height: 21px;\">Cửa Bắc</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">北海道</td>\n<td style=\"width: 33.3333%; height: 21px;\">ほっかいどう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Hokkaido</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">東北</td>\n<td style=\"width: 33.3333%; height: 21px;\">とうほく</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đ&ocirc;ng Bắc</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "659e611ce6a4de66995121f6",
+      "index": 155,
+      "character": "市",
+      "sinoVietnameseWord": "Thị",
+      "mean": "Thị Trường",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l7/kanji/img/greengrocer-768x768.png",
+      "reminiscentDescription": "<p>Ở chợ mỗi nh&agrave; c&oacute; M&aacute;i che v&agrave; 1 c&aacute;i C&Acirc;N</p>",
+      "onReading": "シ",
+      "kunReading": "いち",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">都市</td>\n<td style=\"width: 33.3333%;\">とし</td>\n<td style=\"width: 33.3333%;\">Đ&ocirc; thị&nbsp;</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">市長</td>\n<td style=\"width: 33.3333%;\">しちょう</td>\n<td style=\"width: 33.3333%;\">Thị trường</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">市役所</td>\n<td style=\"width: 33.3333%;\">しやくしょ</td>\n<td style=\"width: 33.3333%;\">T&ograve;a thị ch&iacute;nh</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">市場</td>\n<td style=\"width: 33.3333%;\">いちば</td>\n<td style=\"width: 33.3333%;\">\n<table style=\"width: 42px; height: 22px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 28.5156px; height: 22px;\">Chợ</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

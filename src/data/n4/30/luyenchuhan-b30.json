@@ -1,0 +1,54 @@
+{
+  "lesson": 30,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca974e551364352b62b7ba6",
+      "index": 146,
+      "character": "曜",
+      "sinoVietnameseWord": "Diệu",
+      "mean": "Ngày",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l5/kanji/img/14-200324-week2-5.png",
+      "reminiscentDescription": "<p>Chim k&ecirc;u ヨヨ cả ng&agrave;y 日 thật l&agrave; vi diệu</p>",
+      "onReading": "ヨウ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">日曜日</td>\n<td style=\"width: 33.3333%; height: 21px;\">にちようび</td>\n<td style=\"width: 33.3333%; height: 21px;\">s&ocirc;ng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">土曜日</td>\n<td style=\"width: 33.3333%; height: 21px;\">どようび</td>\n<td style=\"width: 33.3333%; height: 21px;\">anh Ogawa</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">何曜日</td>\n<td style=\"width: 33.3333%; height: 21px;\">なんようび</td>\n<td style=\"width: 33.3333%; height: 21px;\">s&ocirc;ng Nile</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca975be51364352b62b7ba8",
+      "index": 147,
+      "character": "重",
+      "sinoVietnameseWord": "Trọng",
+      "mean": "Trọng lượng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l5/kanji/img/omoi_man.png",
+      "reminiscentDescription": "<p>Người ta cho rằng chiếc xe c&oacute; th&ecirc;m 2 c&aacute;i b&aacute;nh rất quan trọng</p>",
+      "onReading": "ジュウ、チョウ",
+      "kunReading": "おも、かさ、え",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 169px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">重い</td>\n<td style=\"width: 33.3333%; height: 21px;\">おもい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Nặng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">体重</td>\n<td style=\"width: 33.3333%; height: 21px;\">たいじゅう</td>\n<td style=\"width: 33.3333%; height: 21px;\">C&acirc;n nặng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">貴重品</td>\n<td style=\"width: 33.3333%; height: 21px;\">きちょうひん</td>\n<td style=\"width: 33.3333%; height: 21px;\">Vật qu&yacute; gi&aacute;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9766251364352b62b7baa",
+      "index": 148,
+      "character": "池",
+      "sinoVietnameseWord": "Trì",
+      "mean": "Ao",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l5/kanji/img/mizuumi-illust2.png",
+      "reminiscentDescription": "<p>C&aacute;i ao duy tr&igrave; nước dư d&atilde; để d&ugrave;ng</p>",
+      "onReading": "千",
+      "kunReading": "いけ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">池</td>\n<td style=\"width: 33.3333%;\">いけ</td>\n<td style=\"width: 33.3333%;\">C&aacute;i ao</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">電池</td>\n<td style=\"width: 33.3333%;\">でんち</td>\n<td style=\"width: 33.3333%;\">Pin</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">ため池</td>\n<td style=\"width: 33.3333%;\">ためいけ</td>\n<td style=\"width: 33.3333%;\">Vũng nước</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9773151364352b62b7baf",
+      "index": 149,
+      "character": "形",
+      "sinoVietnameseWord": "Hình",
+      "mean": "Hình dáng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l5/kanji/img/character_gokaku2.png",
+      "reminiscentDescription": "<p>Chắp tay tạo h&igrave;nh kiểu t&oacute;c</p>",
+      "onReading": "ケイ、ギョウ",
+      "kunReading": "かたち、かた",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 157px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 10px;\">形</td>\n<td style=\"width: 33.3333%; height: 10px;\">かたち</td>\n<td style=\"width: 33.3333%; height: 10px;\">H&igrave;nh dạng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">人形</td>\n<td style=\"width: 33.3333%; height: 21px;\">にんぎょう</td>\n<td style=\"width: 33.3333%; height: 21px;\">B&uacute;p b&ecirc;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">形見</td>\n<td style=\"width: 33.3333%; height: 21px;\">かたみ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đồ lưu niệm</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

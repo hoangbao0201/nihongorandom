@@ -1,0 +1,939 @@
+{
+  "lesson": 42,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>りょう</b></div> <div class=\"kanji\">量</div> <div class=\"nghia_viet\">lượng </div> <div class=\"nghia_anh\">quantity</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふえます</b></div> <div class=\"kanji\">増えます</div> <div class=\"nghia_viet\">tăng</div> <div class=\"nghia_anh\">increase</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>げんいん</b></div> <div class=\"kanji\">原因</div> <div class=\"nghia_viet\">nguyên nhân</div> <div class=\"nghia_anh\">cause</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひとびと</b></div> <div class=\"kanji\">人々</div> <div class=\"nghia_viet\">mọi người, con người</div> <div class=\"nghia_anh\">people</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しょくせいかつ</b></div> <div class=\"kanji\">食生活</div> <div class=\"nghia_viet\">thói quen ăn uống</div> <div class=\"nghia_anh\">eating habits</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しょうひりょう</b></div> <div class=\"kanji\">消費量</div> <div class=\"nghia_viet\">lượng tiêu thụ</div> <div class=\"nghia_anh\">consumption</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じんこう</b></div> <div class=\"kanji\">人口</div> <div class=\"nghia_viet\">dân số</div> <div class=\"nghia_anh\">population</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ートン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">- tấn</div> <div class=\"nghia_anh\">- ton</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うし</b></div> <div class=\"kanji\">牛</div> <div class=\"nghia_viet\">bò</div> <div class=\"nghia_anh\">cow</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひつじ</b></div> <div class=\"kanji\">羊</div> <div class=\"nghia_viet\">cừu</div> <div class=\"nghia_anh\">sheep</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ぶた</b></div> <div class=\"kanji\">豚</div> <div class=\"nghia_viet\">lợn</div> <div class=\"nghia_anh\">pig</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>にわとり</b></div> <div class=\"kanji\">鶏</div> <div class=\"nghia_viet\">gà</div> <div class=\"nghia_anh\">chicken</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かちく</b></div> <div class=\"kanji\">家畜</div> <div class=\"nghia_viet\">gia súc</div> <div class=\"nghia_anh\">livestock</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かず</b></div> <div class=\"kanji\">数</div> <div class=\"nghia_viet\">số, số lượng</div> <div class=\"nghia_anh\">number</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ばい</b></div> <div class=\"kanji\">倍</div> <div class=\"nghia_viet\">lần</div> <div class=\"nghia_anh\">times</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>くさち</b></div> <div class=\"kanji\">草地</div> <div class=\"nghia_viet\">đồng cỏ</div> <div class=\"nghia_anh\">meadow</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>もり</b></div> <div class=\"kanji\">森</div> <div class=\"nghia_viet\">rừng</div> <div class=\"nghia_anh\">forest</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さばくか</b></div> <div class=\"kanji\">砂漠化</div> <div class=\"nghia_viet\">sa mạc hóa</div> <div class=\"nghia_anh\">desertification</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>また</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ngoài ra, lại nữa</div> <div class=\"nghia_anh\">also, and</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とうもろこし</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ngô</div> <div class=\"nghia_anh\">corn</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>だいず</b></div> <div class=\"kanji\">大豆</div> <div class=\"nghia_viet\">đậu tương</div> <div class=\"nghia_anh\">soybean</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こくもつ</b></div> <div class=\"kanji\">穀物</div> <div class=\"nghia_viet\">ngũ cốc</div> <div class=\"nghia_anh\">grain, cereal</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>エネルギー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">năng lượng</div> <div class=\"nghia_anh\">energy</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーリットル</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">- lít</div> <div class=\"nghia_anh\">- liter</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>へらします</b></div> <div class=\"kanji\">減らします</div> <div class=\"nghia_viet\">giảm</div> <div class=\"nghia_anh\">reduce</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まもります</b></div> <div class=\"kanji\">守ります</div> <div class=\"nghia_viet\">giữ gìn bảo vệ </div> <div class=\"nghia_anh\">protect</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>わけます</b></div> <div class=\"kanji\">分けます</div> <div class=\"nghia_viet\">phân chia</div> <div class=\"nghia_anh\">separate</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>エネルギー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">năng lượng</div> <div class=\"nghia_anh\">energy</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>どんどん</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ngày càng</div> <div class=\"nghia_anh\">more and more, one after another</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>もやします</b></div> <div class=\"kanji\">燃やします</div> <div class=\"nghia_viet\">đốt cháy</div> <div class=\"nghia_anh\">burn</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かんきょホルモン</b></div> <div class=\"kanji\">環境ホルモン</div> <div class=\"nghia_viet\">hoóc-môn môi trường</div> <div class=\"nghia_anh\">environmental hormones</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しょくりょう</b></div> <div class=\"kanji\">食料</div> <div class=\"nghia_viet\">thực phẩm</div> <div class=\"nghia_anh\">foods</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>なんみん</b></div> <div class=\"kanji\">難民</div> <div class=\"nghia_viet\">dân tị nạn</div> <div class=\"nghia_anh\">refugee</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>オツンそう</b></div> <div class=\"kanji\">オツン槽</div> <div class=\"nghia_viet\">tầng ô-zôn</div> <div class=\"nghia_anh\">ozon layer</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しがいせん</b></div> <div class=\"kanji\">紫外線</div> <div class=\"nghia_viet\">tia cực tím</div> <div class=\"nghia_anh\">ultraviolet rays</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふえます</b></div> <div class=\"kanji\">増えます</div> <div class=\"nghia_viet\">tăng</div> <div class=\"nghia_anh\">increase</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ガン </b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ung thư</div> <div class=\"nghia_anh\">cancer</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>フロンガス</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">khí freon</div> <div class=\"nghia_anh\">chlorofluorocarbon</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ダイオキシン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">dioxin</div> <div class=\"nghia_anh\">dioxin</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>にさんかたんそ</b></div> <div class=\"kanji\">二酸化炭素</div> <div class=\"nghia_viet\">khí các-bon</div> <div class=\"nghia_anh\">carbon dioxide</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>エコロジー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">thân thiện môi trường</div> <div class=\"nghia_anh\">energy</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～ど</b></div> <div class=\"kanji\">～度</div> <div class=\"nghia_viet\">mức độ ~</div> <div class=\"nghia_anh\">~ degree</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーてん</b></div> <div class=\"kanji\">ー点</div> <div class=\"nghia_viet\">- điểm</div> <div class=\"nghia_anh\">- point</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しょうえね</b></div> <div class=\"kanji\">省エネ</div> <div class=\"nghia_viet\">tiết kiệm năng lượng</div> <div class=\"nghia_anh\">energy-saving</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>りようします</b></div> <div class=\"kanji\">利用します</div> <div class=\"nghia_viet\">sử dụng</div> <div class=\"nghia_anh\">use</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ごうせいせんざい</b></div> <div class=\"kanji\">合成洗剤</div> <div class=\"nghia_viet\">bột giặt, bột giặt tổng hợp</div> <div class=\"nghia_anh\">detergent</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あぶら</b></div> <div class=\"kanji\">油</div> <div class=\"nghia_viet\">dầu, mỡ</div> <div class=\"nghia_anh\">oil</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>よごれ</b></div> <div class=\"kanji\">汚れ</div> <div class=\"nghia_viet\">vết bẩn, chỗ bẩn</div> <div class=\"nghia_anh\">dirt</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まもります</b></div> <div class=\"kanji\">守ります</div> <div class=\"nghia_viet\">giữ gìn bảo vệ </div> <div class=\"nghia_anh\">protect</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まあまあ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">bình thường, tàm tạm</div> <div class=\"nghia_anh\">not so bad</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると</b></h3> <p></p> <ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>は<ruby>毎年<rp>（</rp><rt>まいとし</rt><rp>）</rp></ruby><ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えています。 その<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きな<ruby>原因<rp>（</rp><rt>げんいん</rt><rp>）</rp></ruby>は<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>の<ruby>食生活<rp>（</rp><rt>しょくせいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わったからだ。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でも<ruby>魚<rp>（</rp><rt>さかな</rt><rp>）</rp></ruby>や<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>より<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもが<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。 <p></p> <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>では<ruby>牛<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>や<ruby>羊<rp>（</rp><rt>ひつじ</rt><rp>）</rp></ruby>、<ruby>豚<rp>（</rp><rt>ぶた</rt><rp>）</rp></ruby>、<ruby>鶏<rp>（</rp><rt>にわとり</rt><rp>）</rp></ruby>など、たくさんの<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>が<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>われている。 <ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>の<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>は<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>の<ruby>人口<rp>（</rp><rt>じんこう</rt><rp>）</rp></ruby>の３<ruby>倍<rp>（</rp><rt>ばい</rt><rp>）</rp></ruby><ruby>以上<rp>（</rp><rt>いじょう</rt><rp>）</rp></ruby>で、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>も<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。 <ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えた<ruby>牛<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>や<ruby>羊<rp>（</rp><rt>ひつじ</rt><rp>）</rp></ruby>を<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>うのに、<ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>が<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>になる。 それで、<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>るために、<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>森<rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>られている。 <ruby>森<rp>（</rp><rt>もり</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなると、<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>は<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かくなる。 そして、<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>はだんだん<ruby>砂漠化<rp>（</rp><rt>さばくか</rt><rp>）</rp></ruby>する。 <p></p> また、<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>のえさに<ruby>麦<rp>（</rp><rt>むぎ</rt><rp>）</rp></ruby>やとうもろこし、<ruby>大豆<rp>（</rp><rt>だいず</rt><rp>）</rp></ruby>などの<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>がたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われる。 <ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>は<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>の３０％<ruby>以上<rp>（</rp><rt>いじょう</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べている。 それに、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>やエネルギーも<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>だ。 １キロの<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>るのに、１１キロの<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>ト２０，０００リットルの<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>、７～８リットルの<ruby>石油<rp>（</rp><rt>せきゆ</rt><rp>）</rp></ruby>が<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>だと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。 <p></p> <ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>の９<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>に<ruby>１人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>は<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がない。 <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>を<ruby>減<rp>（</rp><rt>へ</rt><rp>）</rp></ruby>らせば、<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がない<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>のために、<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うことができるかもしれない。 <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>や<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、どんな<ruby>食生活<rp>（</rp><rt>しょくせいかつ</rt><rp>）</rp></ruby>がいいか、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えなければならない。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1．<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えてください。 <p></p> 1) どうして<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えているのですか。 <p></p> 2) <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>で<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>っている<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>はどのくらいいますか。 <p></p> 2. ①～④に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>をa～dから<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai42/doc42_2.png\" alt=\"minna 25 bai doc hieu Bai 42 2\"> <p></p> a. <ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>やエネルギーをたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p> b. <ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>をたくさん<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う <p></p> c. <ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>が<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かくなる <p></p> d. <ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>をたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p>II <ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、どんなことをすればいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Ăn thịt thì…</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>は<ruby>毎年<rp>（</rp><rt>まいとし</rt><rp>）</rp></ruby><ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えています。</div><div class=\"kqdich\"><div class=\"nddich\">Lượng thịt mà con người trên thế giới tiêu thụ đang tăng lên hằng năm. </div></div></div> <div class=\"tudich\"><div class=\"candich\">その<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きな<ruby>原因<rp>（</rp><rt>げんいん</rt><rp>）</rp></ruby>は<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>の<ruby>食生活<rp>（</rp><rt>しょくせいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わったからだ。</div><div class=\"kqdich\"><div class=\"nddich\">Nguyên nhân chính của việc đó là do chế độ ăn uống của con người đã thay đổi.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でも<ruby>魚<rp>（</rp><rt>さかな</rt><rp>）</rp></ruby>や<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>より<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもが<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Nhật có rất nhiều trẻ em thích thịt hơn cá và rau.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>では<ruby>牛<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>や<ruby>羊<rp>（</rp><rt>ひつじ</rt><rp>）</rp></ruby>、<ruby>豚<rp>（</rp><rt>ぶた</rt><rp>）</rp></ruby>、<ruby>鶏<rp>（</rp><rt>にわとり</rt><rp>）</rp></ruby>など、たくさんの<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>が<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>われている。</div><div class=\"kqdich\"><div class=\"nddich\">Hiện nay, nhiều gia súc như bò, cừu, lợn, gà được chăn nuôi trên thế giới.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>の<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>は<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>の<ruby>人口<rp>（</rp><rt>じんこう</rt><rp>）</rp></ruby>の３<ruby>倍<rp>（</rp><rt>ばい</rt><rp>）</rp></ruby><ruby>以上<rp>（</rp><rt>いじょう</rt><rp>）</rp></ruby>で、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>も<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。</div><div class=\"kqdich\"><div class=\"nddich\">Số lượng gia súc nhiều hơn gấp 3 lần dân số thế giới, bây giờ cũng đang tăng lên.. Những đồng cở mới cần thiết để nuôi thêm gia súc và cừu.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えた<ruby>牛<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>や<ruby>羊<rp>（</rp><rt>ひつじ</rt><rp>）</rp></ruby>を<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>うのに、<ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>が<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>になる。</div><div class=\"kqdich\"><div class=\"nddich\">Cần có những đồng cỏ mới để nuôi số dê bò gia tăng.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それで、<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>るために、<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>森<rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>られている。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy, các khu rừng trên khắp thế giới đang bị chặt phát để tạo ra đồng cỏ.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>森<rp>（</rp><rt>もり</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなると、<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>は<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かくなる。</div><div class=\"kqdich\"><div class=\"nddich\">Khi rừng bị giảm đi, thì trái đất nóng lên. </div></div></div> <div class=\"tudich\"><div class=\"candich\">そして、<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>はだんだん<ruby>砂漠化<rp>（</rp><rt>さばくか</rt><rp>）</rp></ruby>する。</div><div class=\"kqdich\"><div class=\"nddich\">Và rồi, đồng cỏ dần dần trở thành sa mạc.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">また、<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>のえさに<ruby>麦<rp>（</rp><rt>むぎ</rt><rp>）</rp></ruby>やとうもろこし、<ruby>大豆<rp>（</rp><rt>だいず</rt><rp>）</rp></ruby>などの<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>がたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われる。</div><div class=\"kqdich\"><div class=\"nddich\">Ngoài ra một lượng lớn những loại ngũ cốc như lúa mì, ngô, đậu nành được sử dụng làm thức ăn gia súc.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>は<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>の３０％<ruby>以上<rp>（</rp><rt>いじょう</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べている。</div><div class=\"kqdich\"><div class=\"nddich\">Gia súc ăn hơn 30% ngũ cốc trên thế giới. </div></div></div> <div class=\"tudich\"><div class=\"candich\">それに、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>やエネルギーも<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>だ。</div><div class=\"kqdich\"><div class=\"nddich\">Hơn nữa cũng cần nước và năng lượng.</div></div></div> <div class=\"tudich\"><div class=\"candich\">１キロの<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>るのに、１１キロの<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>ト２０，０００リットルの<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>、７～８リットルの<ruby>石油<rp>（</rp><rt>せきゆ</rt><rp>）</rp></ruby>が<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>だと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。</div><div class=\"kqdich\"><div class=\"nddich\">Người ta cho rằng cần 11 kg ngũ cốc, 20000 lít nước và 7~8 lít dầu để tạo ra 1 kg thịt bò. </div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>の９<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>に<ruby>１人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>は<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がない。</div><div class=\"kqdich\"><div class=\"nddich\">Cứ 9 người trên thế giới thì có 1 người chịu cảnh nghèo đói.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>を<ruby>減<rp>（</rp><rt>へ</rt><rp>）</rp></ruby>らせば、<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がない<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>のために、<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うことができるかもしれない。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu giảm số lượng thịt chúng ta ăn, thì có lẽ có thể sử dụng ngũ cốc cho những người nghèo đói.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>や<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、どんな<ruby>食生活<rp>（</rp><rt>しょくせいかつ</rt><rp>）</rp></ruby>がいいか、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えなければならない。</div><div class=\"kqdich\"><div class=\"nddich\">Chúng ta phải suy nghĩ về chế độ ăn uống như thế nào là tốt để bảo vệ con người và trái đất.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I 1．<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy trả lời.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1) どうして<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えているのですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao lượng thịt mà con người ăn đang tăng lên?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2) <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>で<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>っている<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>はどのくらいいますか。</div><div class=\"kqdich\"><div class=\"nddich\">Hiện nay, gia súc được nuôi trên thế giới có khoảng bao nhiêu?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2. ①～④に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>をa～dから<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。</div><div class=\"kqdich\"><div class=\"nddich\">Chọn từ a đến d để điền vào từ 1 đến 4.</div></div></div> <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai42/doc42_2.png\" alt=\"minna 25 bai doc hieu Bai 42 2\"> <p></p> a. <ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>やエネルギーをたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p> b. <ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>をたくさん<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う <p></p> c. <ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>が<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かくなる <p></p> d. <ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>をたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p>Đáp án: <b>①b ②a ③d ④c</b> <p></p><div class=\"tudich\"><div class=\"candich\">II <ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、どんなことをすればいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn nghĩ nên làm những việc như thế nào để bảo vệ trái đất?</div></div></div> </div> <h5>Hình tham khảo</h5> <img decoding=\"async\" src=\"/images/minnamoi/bai42/doc42_1.png\" alt=\"minna 25 bai doc hieu Bai 42 1\"> </div><!--END--> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "肉（にく）を食（た）べると",
+          "textHtml": "<b><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>は<ruby>毎年<rp>（</rp><rt>まいとし</rt><rp>）</rp></ruby><ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えています。 その<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きな<ruby>原因<rp>（</rp><rt>げんいん</rt><rp>）</rp></ruby>は<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>の<ruby>食生活<rp>（</rp><rt>しょくせいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わったからだ。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でも<ruby>魚<rp>（</rp><rt>さかな</rt><rp>）</rp></ruby>や<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>より<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもが<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。 <p></p> <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>では<ruby>牛<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>や<ruby>羊<rp>（</rp><rt>ひつじ</rt><rp>）</rp></ruby>、<ruby>豚<rp>（</rp><rt>ぶた</rt><rp>）</rp></ruby>、<ruby>鶏<rp>（</rp><rt>にわとり</rt><rp>）</rp></ruby>など、たくさんの<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>が<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>われている。 <ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>の<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>は<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>の<ruby>人口<rp>（</rp><rt>じんこう</rt><rp>）</rp></ruby>の３<ruby>倍<rp>（</rp><rt>ばい</rt><rp>）</rp></ruby><ruby>以上<rp>（</rp><rt>いじょう</rt><rp>）</rp></ruby>で、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>も<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。 <ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えた<ruby>牛<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>や<ruby>羊<rp>（</rp><rt>ひつじ</rt><rp>）</rp></ruby>を<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>うのに、<ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>が<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>になる。 それで、<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>るために、<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>森<rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>られている。 <ruby>森<rp>（</rp><rt>もり</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなると、<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>は<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かくなる。 そして、<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>はだんだん<ruby>砂漠化<rp>（</rp><rt>さばくか</rt><rp>）</rp></ruby>する。 <p></p> また、<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>のえさに<ruby>麦<rp>（</rp><rt>むぎ</rt><rp>）</rp></ruby>やとうもろこし、<ruby>大豆<rp>（</rp><rt>だいず</rt><rp>）</rp></ruby>などの<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>がたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われる。 <ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>は<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>の３０％<ruby>以上<rp>（</rp><rt>いじょう</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べている。 それに、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>やエネルギーも<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>だ。 １キロの<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>るのに、１１キロの<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>ト２０，０００リットルの<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>、７～８リットルの<ruby>石油<rp>（</rp><rt>せきゆ</rt><rp>）</rp></ruby>が<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>だと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。 <p></p> <ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>の９<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>に<ruby>１人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>は<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がない。 <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>を<ruby>減<rp>（</rp><rt>へ</rt><rp>）</rp></ruby>らせば、<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がない<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>のために、<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うことができるかもしれない。 <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>や<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、どんな<ruby>食生活<rp>（</rp><rt>しょくせいかつ</rt><rp>）</rp></ruby>がいいか、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えなければならない。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1．<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えてください。 <p></p> 1) どうして<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えているのですか。 <p></p> 2) <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>で<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>っている<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>はどのくらいいますか。 <p></p> 2. ①～④に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>をa～dから<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai42/doc42_2.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai42/doc42_2.png\" alt=\"minna 25 bai doc hieu Bai 42 2\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> a. <ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>やエネルギーをたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p> b. <ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>をたくさん<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う <p></p> c. <ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>が<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かくなる <p></p> d. <ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>をたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p>II <ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、どんなことをすればいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Ăn thịt thì…",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "肉（にく）を食（た）べると",
+              "textHtml": "<b><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると</b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Ăn thịt thì…"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "世界（せかい）中（じゅう）の人（ひと）が食（た）べる肉（にく）の量（りょう）は毎年（まいとし）増（ふ）えています。",
+          "japaneseHtml": "<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>は<ruby>毎年<rp>（</rp><rt>まいとし</rt><rp>）</rp></ruby><ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えています。",
+          "vietnamese": "Lượng thịt mà con người trên thế giới tiêu thụ đang tăng lên hằng năm.",
+          "vietnameseHtml": "Lượng thịt mà con người trên thế giới tiêu thụ đang tăng lên hằng năm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "その大（おお）きな原因（げんいん）は人々（ひとびと）の食生活（しょくせいかつ）が変（か）わったからだ。",
+          "japaneseHtml": "その<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きな<ruby>原因<rp>（</rp><rt>げんいん</rt><rp>）</rp></ruby>は<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>の<ruby>食生活<rp>（</rp><rt>しょくせいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わったからだ。",
+          "vietnamese": "Nguyên nhân chính của việc đó là do chế độ ăn uống của con người đã thay đổi.",
+          "vietnameseHtml": "Nguyên nhân chính của việc đó là do chế độ ăn uống của con người đã thay đổi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）でも魚（さかな）や野菜（やさい）より肉（にく）が好（す）きな子（こ）どもが多（おお）い。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でも<ruby>魚<rp>（</rp><rt>さかな</rt><rp>）</rp></ruby>や<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>より<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもが<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。",
+          "vietnamese": "Ở Nhật có rất nhiều trẻ em thích thịt hơn cá và rau.",
+          "vietnameseHtml": "Ở Nhật có rất nhiều trẻ em thích thịt hơn cá và rau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今（いま）、世界（せかい）では牛（うし）や羊（ひつじ）、豚（ぶた）、鶏（にわとり）など、たくさんの家畜（かちく）が飼（か）われている。",
+          "japaneseHtml": "<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>では<ruby>牛<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>や<ruby>羊<rp>（</rp><rt>ひつじ</rt><rp>）</rp></ruby>、<ruby>豚<rp>（</rp><rt>ぶた</rt><rp>）</rp></ruby>、<ruby>鶏<rp>（</rp><rt>にわとり</rt><rp>）</rp></ruby>など、たくさんの<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>が<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>われている。",
+          "vietnamese": "Hiện nay, nhiều gia súc như bò, cừu, lợn, gà được chăn nuôi trên thế giới.",
+          "vietnameseHtml": "Hiện nay, nhiều gia súc như bò, cừu, lợn, gà được chăn nuôi trên thế giới."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "家畜（かちく）の数（かず）は世界（せかい）の人口（じんこう）の３倍（ばい）以上（いじょう）で、今（いま）も増（ふ）えている。",
+          "japaneseHtml": "<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>の<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>は<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>の<ruby>人口<rp>（</rp><rt>じんこう</rt><rp>）</rp></ruby>の３<ruby>倍<rp>（</rp><rt>ばい</rt><rp>）</rp></ruby><ruby>以上<rp>（</rp><rt>いじょう</rt><rp>）</rp></ruby>で、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>も<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。",
+          "vietnamese": "Số lượng gia súc nhiều hơn gấp 3 lần dân số thế giới, bây giờ cũng đang tăng lên.. Những đồng cở mới cần thiết để nuôi thêm gia súc và cừu.",
+          "vietnameseHtml": "Số lượng gia súc nhiều hơn gấp 3 lần dân số thế giới, bây giờ cũng đang tăng lên.. Những đồng cở mới cần thiết để nuôi thêm gia súc và cừu."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "増（ふ）えた牛（うし）や羊（ひつじ）を飼（か）うのに、新（あたら）しい草地（くさち）が必要（ひつよう）になる。",
+          "japaneseHtml": "<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えた<ruby>牛<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>や<ruby>羊<rp>（</rp><rt>ひつじ</rt><rp>）</rp></ruby>を<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>うのに、<ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>が<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>になる。",
+          "vietnamese": "Cần có những đồng cỏ mới để nuôi số dê bò gia tăng.",
+          "vietnameseHtml": "Cần có những đồng cỏ mới để nuôi số dê bò gia tăng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで、草地（くさち）を作（つく）るために、世界中（せかいじゅう）の森（もり）の木（き）が切（き）られている。",
+          "japaneseHtml": "それで、<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>るために、<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>森<rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>られている。",
+          "vietnamese": "Vì vậy, các khu rừng trên khắp thế giới đang bị chặt phát để tạo ra đồng cỏ.",
+          "vietnameseHtml": "Vì vậy, các khu rừng trên khắp thế giới đang bị chặt phát để tạo ra đồng cỏ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "森（もり）が少（すく）なくなると、地球（ちきゅう）は暖（あたた）かくなる。",
+          "japaneseHtml": "<ruby>森<rp>（</rp><rt>もり</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなると、<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>は<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かくなる。",
+          "vietnamese": "Khi rừng bị giảm đi, thì trái đất nóng lên.",
+          "vietnameseHtml": "Khi rừng bị giảm đi, thì trái đất nóng lên."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "そして、草地（くさち）はだんだん砂漠化（さばくか）する。",
+          "japaneseHtml": "そして、<ruby>草地<rp>（</rp><rt>くさち</rt><rp>）</rp></ruby>はだんだん<ruby>砂漠化<rp>（</rp><rt>さばくか</rt><rp>）</rp></ruby>する。",
+          "vietnamese": "Và rồi, đồng cỏ dần dần trở thành sa mạc.",
+          "vietnameseHtml": "Và rồi, đồng cỏ dần dần trở thành sa mạc."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "また、家畜（かちく）のえさに麦（むぎ）やとうもろこし、大豆（だいず）などの穀物（こくもつ）がたくさん使（つか）われる。",
+          "japaneseHtml": "また、<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>のえさに<ruby>麦<rp>（</rp><rt>むぎ</rt><rp>）</rp></ruby>やとうもろこし、<ruby>大豆<rp>（</rp><rt>だいず</rt><rp>）</rp></ruby>などの<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>がたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われる。",
+          "vietnamese": "Ngoài ra một lượng lớn những loại ngũ cốc như lúa mì, ngô, đậu nành được sử dụng làm thức ăn gia súc.",
+          "vietnameseHtml": "Ngoài ra một lượng lớn những loại ngũ cốc như lúa mì, ngô, đậu nành được sử dụng làm thức ăn gia súc."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "家畜（かちく）は世界中（せかいじゅう）の穀物（こくもつ）の３０％以上（いじょう）を食（た）べている。",
+          "japaneseHtml": "<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>は<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>の３０％<ruby>以上<rp>（</rp><rt>いじょう</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べている。",
+          "vietnamese": "Gia súc ăn hơn 30% ngũ cốc trên thế giới.",
+          "vietnameseHtml": "Gia súc ăn hơn 30% ngũ cốc trên thế giới."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それに、水（みず）やエネルギーも必要（ひつよう）だ。",
+          "japaneseHtml": "それに、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>やエネルギーも<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>だ。",
+          "vietnamese": "Hơn nữa cũng cần nước và năng lượng.",
+          "vietnameseHtml": "Hơn nữa cũng cần nước và năng lượng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１キロの牛乳（ぎゅうにゅう）を作（つく）るのに、１１キロの穀物（こくもつ）ト２０，０００リットルの水（みず）、７～８リットルの石油（せきゆ）が必要（ひつよう）だと言（い）われています。",
+          "japaneseHtml": "１キロの<ruby>牛乳<rp>（</rp><rt>ぎゅうにゅう</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>るのに、１１キロの<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>ト２０，０００リットルの<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>、７～８リットルの<ruby>石油<rp>（</rp><rt>せきゆ</rt><rp>）</rp></ruby>が<ruby>必要<rp>（</rp><rt>ひつよう</rt><rp>）</rp></ruby>だと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。",
+          "vietnamese": "Người ta cho rằng cần 11 kg ngũ cốc, 20000 lít nước và 7~8 lít dầu để tạo ra 1 kg thịt bò.",
+          "vietnameseHtml": "Người ta cho rằng cần 11 kg ngũ cốc, 20000 lít nước và 7~8 lít dầu để tạo ra 1 kg thịt bò."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "世界中（せかいじゅう）の人々（ひとびと）の９人（にん）に１人（ひとり）は食（た）べる物（もの）がない。",
+          "japaneseHtml": "<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>の９<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>に<ruby>１人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>は<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がない。",
+          "vietnamese": "Cứ 9 người trên thế giới thì có 1 người chịu cảnh nghèo đói.",
+          "vietnameseHtml": "Cứ 9 người trên thế giới thì có 1 người chịu cảnh nghèo đói."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "食（た）べる肉（にく）の量（りょう）を減（へ）らせば、食（た）べ物（もの）がない人々（ひとびと）のために、穀物（こくもつ）を使（つか）うことができるかもしれない。",
+          "japaneseHtml": "<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>を<ruby>減<rp>（</rp><rt>へ</rt><rp>）</rp></ruby>らせば、<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がない<ruby>人々<rp>（</rp><rt>ひとびと</rt><rp>）</rp></ruby>のために、<ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うことができるかもしれない。",
+          "vietnamese": "Nếu giảm số lượng thịt chúng ta ăn, thì có lẽ có thể sử dụng ngũ cốc cho những người nghèo đói.",
+          "vietnameseHtml": "Nếu giảm số lượng thịt chúng ta ăn, thì có lẽ có thể sử dụng ngũ cốc cho những người nghèo đói."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "人（ひと）や地球（ちきゅう）を守（まも）るために、どんな食生活（しょくせいかつ）がいいか、私（わたし）たちは考（かんが）えなければならない。",
+          "japaneseHtml": "<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>や<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、どんな<ruby>食生活<rp>（</rp><rt>しょくせいかつ</rt><rp>）</rp></ruby>がいいか、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えなければならない。",
+          "vietnamese": "Chúng ta phải suy nghĩ về chế độ ăn uống như thế nào là tốt để bảo vệ con người và trái đất.",
+          "vietnameseHtml": "Chúng ta phải suy nghĩ về chế độ ăn uống như thế nào là tốt để bảo vệ con người và trái đất."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1．答（こた）えてください。",
+          "japaneseHtml": "I 1．<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えてください。",
+          "vietnamese": "Hãy trả lời.",
+          "vietnameseHtml": "Hãy trả lời."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1) どうして人（ひと）が食（た）べる肉（にく）の量（りょう）が増（ふ）えているのですか。",
+          "japaneseHtml": "1) どうして<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>の<ruby>量<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えているのですか。",
+          "vietnamese": "Tại sao lượng thịt mà con người ăn đang tăng lên?",
+          "vietnameseHtml": "Tại sao lượng thịt mà con người ăn đang tăng lên?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2) 今（いま）、世界（せかい）で買（か）っている家畜（かちく）はどのくらいいますか。",
+          "japaneseHtml": "2) <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>で<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>っている<ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>はどのくらいいますか。",
+          "vietnamese": "Hiện nay, gia súc được nuôi trên thế giới có khoảng bao nhiêu?",
+          "vietnameseHtml": "Hiện nay, gia súc được nuôi trên thế giới có khoảng bao nhiêu?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. ①～④に入（い）れる物（もの）をa～dから選（えら）んでください。",
+          "japaneseHtml": "2. ①～④に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>をa～dから<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。",
+          "vietnamese": "Chọn từ a đến d để điền vào từ 1 đến 4.",
+          "vietnameseHtml": "Chọn từ a đến d để điền vào từ 1 đến 4."
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai42/doc42_2.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai42/doc42_2.png\" alt=\"minna 25 bai doc hieu Bai 42 2\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> a. <ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>やエネルギーをたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p> b. <ruby>家畜<rp>（</rp><rt>かちく</rt><rp>）</rp></ruby>をたくさん<ruby>飼<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う <p></p> c. <ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>が<ruby>暖<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かくなる <p></p> d. <ruby>穀物<rp>（</rp><rt>こくもつ</rt><rp>）</rp></ruby>をたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p>Đáp án: <b>①b ②a ③d ④c</b> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II 地球（ちきゅう）を守（まも）るために、どんなことをすればいいと思（おも）いますか。",
+          "japaneseHtml": "II <ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、どんなことをすればいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。",
+          "vietnamese": "Bạn nghĩ nên làm những việc như thế nào để bảo vệ trái đất?",
+          "vietnameseHtml": "Bạn nghĩ nên làm những việc như thế nào để bảo vệ trái đất?"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Hình tham khảo",
+          "textHtml": "Hình tham khảo"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai42/doc42_1.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai42/doc42_1.png\" alt=\"minna 25 bai doc hieu Bai 42 1\">"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Bổ sung",
+      "titleHtml": "Bổ sung",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>はどうなる？</b></h3> <img decoding=\"async\" src=\"/images/minnamoi/bai42/doc42_3.jpg\" alt=\"minna 25 bai doc hieu Bai 42 1\"> <p><br></p><p>①～③はどれですか。</p> <p>a. フロンガス</p> <p>b. ダイオキシン</p> <p>c. <ruby>二酸化<rp>(</rp><rt>にさんか</rt><rp>)</rp></ruby><ruby>炭素<rp>(</rp><rt>たんそ</rt><rp>)</rp></ruby>(CO2)</p> <p><br></p><p><br></p> <h3 style=\"text-align: center; \"><b>あなたのエコロジー<ruby>d度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>は？</b></h3> <p></p> いつもしている（2<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>） ときどきしている（1<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>）していない（０<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>） <p></p> １．<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>・<ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>・<ruby>瓶<rp>（</rp><rt>びん</rt><rp>）</rp></ruby>・<ruby>缶<rp>（</rp><rt>かん</rt><rp>）</rp></ruby>などをリサイクルに<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>している <p></p> 2．できるだけリサイクルできるものを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う <p></p> 3．<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>い<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>のとき、<ruby>袋<rp>（</rp><rt>ふくろ</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く <p></p> 4．できるだけ<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>らないで、<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>やバスを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p> 5．エアコンはできるだけ<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない <p></p> 6．<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>は<ruby>省<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>エネの<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>しか<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない <p></p> 7．<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>の<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>利用<rp>（</rp><rt>りよう</rt><rp>）</rp></ruby>する <p></p> 8．<ruby>合成洗剤<rp>（</rp><rt>ごうせいせんざい</rt><rp>）</rp></ruby>やせっけんをたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない <p></p> 9．<ruby>油<rp>（</rp><rt>あぶら</rt><rp>）</rp></ruby>で<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れたお<ruby>皿<rp>（</rp><rt>さら</rt><rp>）</rp></ruby>は、<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れをふぃてから<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>う <p></p> 10．<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>は<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby><ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる <p></p> ☆<ruby>何点<rp>（</rp><rt>なんてん</rt><rp>）</rp></ruby>になりましたか。 <p></p> １７∼ ２０<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> <ruby>貴方<rp>（</rp><rt>あなた</rt><rp>）</rp></ruby>は<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、よく<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>っています。 <p></p> １２∼ １６<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> かなりいいですね。 <p></p> ９ ∼ １１<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> まあまあですね、もう<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>ってください。 <p></p> ６ ∼ ８<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> もっと<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>にことを<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてください。 <p></p> ０ ∼ ５<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> あなたはエコロジーについて<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えたことがありますか。<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>が<ruby>死<rp>（</rp><rt>し</rt><rp>）</rp></ruby>んでしますよ。 <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Dịch</span></div> <div class=\"slide-content sl2\"> <p></p> <div class=\"tudich\"><div class=\"candich\">いつもしている（2<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>） ときどきしている（1<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>）していない（０<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>）</div><div class=\"kqdich\"><div class=\"nddich\">Thường xuyên thực hiện (2 điểm) thỉnh thoảng thực hiện (1 điểm) không thực hiện (0điểm)</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">１．<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>・<ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>・<ruby>瓶<rp>（</rp><rt>びん</rt><rp>）</rp></ruby>・<ruby>缶<rp>（</rp><rt>かん</rt><rp>）</rp></ruby>などをリサイクルに<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>している</div><div class=\"kqdich\"><div class=\"nddich\">1. Vứt báo, tạp chí, chai, lon… để tái chế</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">2．できるだけリサイクルできるものを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う</div><div class=\"kqdich\"><div class=\"nddich\">2. Cố gắng mua đồ có thể tái chế</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">3．<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>い<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>のとき、<ruby>袋<rp>（</rp><rt>ふくろ</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く</div><div class=\"kqdich\"><div class=\"nddich\">3. Khi mua sắm thì mang theo túi đựng</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">4．できるだけ<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>らないで、<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>やバスを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う</div><div class=\"kqdich\"><div class=\"nddich\">4. Cố gắng không lái xe ô tô mà sử dụng xe bus hoặc tàu điện</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">5．エアコンはできるだけ<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない</div><div class=\"kqdich\"><div class=\"nddich\">5. Cố gắng không sử dụng máy điều hòa</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">6．<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>は<ruby>省<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>エネの<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>しか<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない</div><div class=\"kqdich\"><div class=\"nddich\">6. Sản phẩm điện thì chỉ sử dụng thiết bị điện tiết kiệm năng lượng</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">7．<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>の<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>利用<rp>（</rp><rt>りよう</rt><rp>）</rp></ruby>する</div><div class=\"kqdich\"><div class=\"nddich\">7. Khi giặt quần áo thì sử dụng nước bồn tắm</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">8．<ruby>合成洗剤<rp>（</rp><rt>ごうせいせんざい</rt><rp>）</rp></ruby>やせっけんをたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない</div><div class=\"kqdich\"><div class=\"nddich\">8. Không sử dụng nhiều chất tẩy rửa tổng hợp hoặc xà phòng</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">9．<ruby>油<rp>（</rp><rt>あぶら</rt><rp>）</rp></ruby>で<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れたお<ruby>皿<rp>（</rp><rt>さら</rt><rp>）</rp></ruby>は、<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れをふぃてから<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>う</div><div class=\"kqdich\"><div class=\"nddich\">9. Dĩa bị dính dầu thì sau khi lau chùi vết bẩn rồi mới rửa</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">10．<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>は<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby><ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる</div><div class=\"kqdich\"><div class=\"nddich\">10. Tối đi ngủ sớm, buổi sáng dậy sớm </div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">☆<ruby>何点<rp>（</rp><rt>なんてん</rt><rp>）</rp></ruby>になりましたか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn đã đạt bao nhiêu điểm?</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">１７∼ ２０<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> <ruby>貴方<rp>（</rp><rt>あなた</rt><rp>）</rp></ruby>は<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、よく<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>っています。</div><div class=\"kqdich\"><div class=\"nddich\">17 đến 20 điểm Bạn đang cố gắng để bảo vệ trái đất</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">１２∼ １６<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> かなりいいですね。</div><div class=\"kqdich\"><div class=\"nddich\">12 đến 16 điểm Khá tốt</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">９ ∼ １１<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> まあまあですね、もう<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>ってください。</div><div class=\"kqdich\"><div class=\"nddich\">9 đến 10 điểm Tàm tạm. Hãy cố gắng thêm chút nữa</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">６ ∼ ８<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> もっと<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>にことを<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてください。</div><div class=\"kqdich\"><div class=\"nddich\">6 đến 8 điểm Hãy suy nghĩ về trái đất nhiều hơn.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">０ ∼ ５<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> あなたはエコロジーについて<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えたことがありますか。<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>が<ruby>死<rp>（</rp><rt>し</rt><rp>）</rp></ruby>んでしましますよ。</div><div class=\"kqdich\"><div class=\"nddich\">0 đến 5 điểm Bạn đã từng suy nghĩ về sinh thái chưa? Trái đất đang chết đi đấy.</div></div></div> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "地球(ちきゅう)はどうなる？",
+          "textHtml": "<b><ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>はどうなる？</b>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai42/doc42_3.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai42/doc42_3.jpg\" alt=\"minna 25 bai doc hieu Bai 42 1\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p><br></p><p>①～③はどれですか。</p> <p>a. フロンガス</p> <p>b. ダイオキシン</p> <p>c. <ruby>二酸化<rp>(</rp><rt>にさんか</rt><rp>)</rp></ruby><ruby>炭素<rp>(</rp><rt>たんそ</rt><rp>)</rp></ruby>(CO2)</p> <p><br></p><p><br></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "あなたのエコロジーd度(ど)は？",
+          "textHtml": "<b>あなたのエコロジー<ruby>d度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>は？</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> いつもしている（2<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>） ときどきしている（1<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>）していない（０<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>） <p></p> １．<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>・<ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>・<ruby>瓶<rp>（</rp><rt>びん</rt><rp>）</rp></ruby>・<ruby>缶<rp>（</rp><rt>かん</rt><rp>）</rp></ruby>などをリサイクルに<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>している <p></p> 2．できるだけリサイクルできるものを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う <p></p> 3．<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>い<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>のとき、<ruby>袋<rp>（</rp><rt>ふくろ</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く <p></p> 4．できるだけ<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>らないで、<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>やバスを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う <p></p> 5．エアコンはできるだけ<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない <p></p> 6．<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>は<ruby>省<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>エネの<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>しか<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない <p></p> 7．<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>の<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>利用<rp>（</rp><rt>りよう</rt><rp>）</rp></ruby>する <p></p> 8．<ruby>合成洗剤<rp>（</rp><rt>ごうせいせんざい</rt><rp>）</rp></ruby>やせっけんをたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない <p></p> 9．<ruby>油<rp>（</rp><rt>あぶら</rt><rp>）</rp></ruby>で<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れたお<ruby>皿<rp>（</rp><rt>さら</rt><rp>）</rp></ruby>は、<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れをふぃてから<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>う <p></p> 10．<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>は<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby><ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる <p></p> ☆<ruby>何点<rp>（</rp><rt>なんてん</rt><rp>）</rp></ruby>になりましたか。 <p></p> １７∼ ２０<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> <ruby>貴方<rp>（</rp><rt>あなた</rt><rp>）</rp></ruby>は<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、よく<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>っています。 <p></p> １２∼ １６<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> かなりいいですね。 <p></p> ９ ∼ １１<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> まあまあですね、もう<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>ってください。 <p></p> ６ ∼ ８<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> もっと<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>にことを<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてください。 <p></p> ０ ∼ ５<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> あなたはエコロジーについて<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えたことがありますか。<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>が<ruby>死<rp>（</rp><rt>し</rt><rp>）</rp></ruby>んでしますよ。 <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Dịch</span></div> <div class=\"slide-content sl2\"> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "いつもしている（2点（てん）） ときどきしている（1点（てん））していない（０点（てん））",
+          "japaneseHtml": "いつもしている（2<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>） ときどきしている（1<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>）していない（０<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>）",
+          "vietnamese": "Thường xuyên thực hiện (2 điểm) thỉnh thoảng thực hiện (1 điểm) không thực hiện (0điểm)",
+          "vietnameseHtml": "Thường xuyên thực hiện (2 điểm) thỉnh thoảng thực hiện (1 điểm) không thực hiện (0điểm)"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１．新聞（しんぶん）・雑誌（ざっし）・瓶（びん）・缶（かん）などをリサイクルに出（だ）している",
+          "japaneseHtml": "１．<ruby>新聞<rp>（</rp><rt>しんぶん</rt><rp>）</rp></ruby>・<ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>・<ruby>瓶<rp>（</rp><rt>びん</rt><rp>）</rp></ruby>・<ruby>缶<rp>（</rp><rt>かん</rt><rp>）</rp></ruby>などをリサイクルに<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>している",
+          "vietnamese": "1. Vứt báo, tạp chí, chai, lon… để tái chế",
+          "vietnameseHtml": "1. Vứt báo, tạp chí, chai, lon… để tái chế"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2．できるだけリサイクルできるものを買（か）う",
+          "japaneseHtml": "2．できるだけリサイクルできるものを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う",
+          "vietnamese": "2. Cố gắng mua đồ có thể tái chế",
+          "vietnameseHtml": "2. Cố gắng mua đồ có thể tái chế"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3．買（か）い物（もの）のとき、袋（ふくろ）を持（も）って行（い）く",
+          "japaneseHtml": "3．<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>い<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>のとき、<ruby>袋<rp>（</rp><rt>ふくろ</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く",
+          "vietnamese": "3. Khi mua sắm thì mang theo túi đựng",
+          "vietnameseHtml": "3. Khi mua sắm thì mang theo túi đựng"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4．できるだけ車（くるま）に乗（の）らないで、電車（でんしゃ）やバスを使（つか）う",
+          "japaneseHtml": "4．できるだけ<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>らないで、<ruby>電車<rp>（</rp><rt>でんしゃ</rt><rp>）</rp></ruby>やバスを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う",
+          "vietnamese": "4. Cố gắng không lái xe ô tô mà sử dụng xe bus hoặc tàu điện",
+          "vietnameseHtml": "4. Cố gắng không lái xe ô tô mà sử dụng xe bus hoặc tàu điện"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "5．エアコンはできるだけ使（つか）わない",
+          "japaneseHtml": "5．エアコンはできるだけ<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない",
+          "vietnamese": "5. Cố gắng không sử dụng máy điều hòa",
+          "vietnameseHtml": "5. Cố gắng không sử dụng máy điều hòa"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "6．電気（でんき）製品（せいひん）は省（しょう）エネの製品（せいひん）しか使（つか）わない",
+          "japaneseHtml": "6．<ruby>電気<rp>（</rp><rt>でんき</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>は<ruby>省<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>エネの<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>しか<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない",
+          "vietnamese": "6. Sản phẩm điện thì chỉ sử dụng thiết bị điện tiết kiệm năng lượng",
+          "vietnameseHtml": "6. Sản phẩm điện thì chỉ sử dụng thiết bị điện tiết kiệm năng lượng"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "7．洗濯（せんたく）の時（とき）は、お風呂（ふろ）の水（みず）を利用（りよう）する",
+          "japaneseHtml": "7．<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>の<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>利用<rp>（</rp><rt>りよう</rt><rp>）</rp></ruby>する",
+          "vietnamese": "7. Khi giặt quần áo thì sử dụng nước bồn tắm",
+          "vietnameseHtml": "7. Khi giặt quần áo thì sử dụng nước bồn tắm"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "8．合成洗剤（ごうせいせんざい）やせっけんをたくさん使（つか）わない",
+          "japaneseHtml": "8．<ruby>合成洗剤<rp>（</rp><rt>ごうせいせんざい</rt><rp>）</rp></ruby>やせっけんをたくさん<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>わない",
+          "vietnamese": "8. Không sử dụng nhiều chất tẩy rửa tổng hợp hoặc xà phòng",
+          "vietnameseHtml": "8. Không sử dụng nhiều chất tẩy rửa tổng hợp hoặc xà phòng"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "9．油（あぶら）で汚（よご）れたお皿（さら）は、汚（よご）れをふぃてから洗（あら）う",
+          "japaneseHtml": "9．<ruby>油<rp>（</rp><rt>あぶら</rt><rp>）</rp></ruby>で<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れたお<ruby>皿<rp>（</rp><rt>さら</rt><rp>）</rp></ruby>は、<ruby>汚<rp>（</rp><rt>よご</rt><rp>）</rp></ruby>れをふぃてから<ruby>洗<rp>（</rp><rt>あら</rt><rp>）</rp></ruby>う",
+          "vietnamese": "9. Dĩa bị dính dầu thì sau khi lau chùi vết bẩn rồi mới rửa",
+          "vietnameseHtml": "9. Dĩa bị dính dầu thì sau khi lau chùi vết bẩn rồi mới rửa"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "10．夜（よる）は早（はや）く寝（ね）て、朝（あさ）早（はや）く起（お）きる",
+          "japaneseHtml": "10．<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>は<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby><ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる",
+          "vietnamese": "10. Tối đi ngủ sớm, buổi sáng dậy sớm",
+          "vietnameseHtml": "10. Tối đi ngủ sớm, buổi sáng dậy sớm"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "☆何点（なんてん）になりましたか。",
+          "japaneseHtml": "☆<ruby>何点<rp>（</rp><rt>なんてん</rt><rp>）</rp></ruby>になりましたか。",
+          "vietnamese": "Bạn đã đạt bao nhiêu điểm?",
+          "vietnameseHtml": "Bạn đã đạt bao nhiêu điểm?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１７∼ ２０点（てん） 貴方（あなた）は地球（ちきゅう）を守（まも）るために、よく頑張（がんば）っています。",
+          "japaneseHtml": "１７∼ ２０<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> <ruby>貴方<rp>（</rp><rt>あなた</rt><rp>）</rp></ruby>は<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>守<rp>（</rp><rt>まも</rt><rp>）</rp></ruby>るために、よく<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>っています。",
+          "vietnamese": "17 đến 20 điểm Bạn đang cố gắng để bảo vệ trái đất",
+          "vietnameseHtml": "17 đến 20 điểm Bạn đang cố gắng để bảo vệ trái đất"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１２∼ １６点（てん） かなりいいですね。",
+          "japaneseHtml": "１２∼ １６<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> かなりいいですね。",
+          "vietnamese": "12 đến 16 điểm Khá tốt",
+          "vietnameseHtml": "12 đến 16 điểm Khá tốt"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "９ ∼ １１点（てん） まあまあですね、もう少（すこ）し頑張（がんば）ってください。",
+          "japaneseHtml": "９ ∼ １１<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> まあまあですね、もう<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>し<ruby>頑張<rp>（</rp><rt>がんば</rt><rp>）</rp></ruby>ってください。",
+          "vietnamese": "9 đến 10 điểm Tàm tạm. Hãy cố gắng thêm chút nữa",
+          "vietnameseHtml": "9 đến 10 điểm Tàm tạm. Hãy cố gắng thêm chút nữa"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "６ ∼ ８点（てん） もっと地球（ちきゅう）にことを考（かんが）えてください。",
+          "japaneseHtml": "６ ∼ ８<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> もっと<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>にことを<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてください。",
+          "vietnamese": "6 đến 8 điểm Hãy suy nghĩ về trái đất nhiều hơn.",
+          "vietnameseHtml": "6 đến 8 điểm Hãy suy nghĩ về trái đất nhiều hơn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "０ ∼ ５点（てん） あなたはエコロジーについて考（かんが）えたことがありますか。地球（ちきゅう）が死（し）んでしましますよ。",
+          "japaneseHtml": "０ ∼ ５<ruby>点<rp>（</rp><rt>てん</rt><rp>）</rp></ruby> あなたはエコロジーについて<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えたことがありますか。<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>が<ruby>死<rp>（</rp><rt>し</rt><rp>）</rp></ruby>んでしましますよ。",
+          "vietnamese": "0 đến 5 điểm Bạn đã từng suy nghĩ về sinh thái chưa? Trái đất đang chết đi đấy.",
+          "vietnameseHtml": "0 đến 5 điểm Bạn đã từng suy nghĩ về sinh thái chưa? Trái đất đang chết đi đấy."
+        }
+      ]
+    }
+  ]
+}

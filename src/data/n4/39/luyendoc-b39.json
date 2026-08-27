@@ -1,0 +1,300 @@
+{
+  "lesson": 39,
+  "type": "luyendoc",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Đọc 文型(ぶんけい) (văn mẫu)",
+      "titleHtml": "Đọc <ruby>文型<rp>(</rp><rt>ぶんけい</rt><rp>)</rp></ruby> (văn mẫu)",
+      "contentHtml": "</p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100001101012.mp3\" type=\"audio/mpeg\"></audio></p> <p> １．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_bk_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div><span><span _fck_bookmark=\"1\" style=\"display: none;\"> </span></span></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>ニュースを <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて、びっくりしました。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Tôi ngạc nhiên khi nghe tin.</div></div></div></p> <p> ２．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_bk_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>地震<rp>(</rp><rt>じしん</rt><rp>)</rp></ruby>で ビルが <ruby>倒<rp>(</rp><rt>たお</rt><rp>)</rp></ruby>れました。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">T&ograve;a nhà đổ v&igrave; động đất.</div></div></div></p> <p> ３．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_bk_3.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>の <ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>が <ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いので、<ruby>病院<rp>(</rp><rt>びょういん</rt><rp>)</rp></ruby>へ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">V&igrave; thấy trong người không khỏe nên tôi đi bệnh viện.</div></div></div></p> <p> </div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/100001101012.mp3",
+          "contentHtml": "<audio controls preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100001101012.mp3\" type=\"audio/mpeg\"></audio>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> １．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_bk_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ニュースを 聞(き)いて、びっくりしました。",
+          "japaneseHtml": "<span>ニュースを <ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いて、びっくりしました。</span>",
+          "vietnamese": "Tôi ngạc nhiên khi nghe tin.",
+          "vietnameseHtml": "Tôi ngạc nhiên khi nghe tin."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> ２．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_bk_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "地震(じしん)で ビルが 倒(たお)れました。",
+          "japaneseHtml": "<span><ruby>地震<rp>(</rp><rt>じしん</rt><rp>)</rp></ruby>で ビルが <ruby>倒<rp>(</rp><rt>たお</rt><rp>)</rp></ruby>れました。</span>",
+          "vietnamese": "T&ograve;a nhà đổ v&igrave; động đất.",
+          "vietnameseHtml": "T&ograve;a nhà đổ v&igrave; động đất."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> ３．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_bk_3.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "体(からだ)の 調子(ちょうし)が 悪(わる)いので、病院(びょういん)へ 行(い)きます。",
+          "japaneseHtml": "<span><ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>の <ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>が <ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いので、<ruby>病院<rp>(</rp><rt>びょういん</rt><rp>)</rp></ruby>へ <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。</span>",
+          "vietnamese": "V&igrave; thấy trong người không khỏe nên tôi đi bệnh viện.",
+          "vietnameseHtml": "V&igrave; thấy trong người không khỏe nên tôi đi bệnh viện."
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Đọc 例文(れいぶん) (ví dụ)",
+      "titleHtml": "Đọc <ruby>例文<rp>(</rp><rt>れいぶん</rt><rp>)</rp></ruby> (ví dụ)",
+      "contentHtml": "</p> <p> <audio controls preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100001101102.mp3\" type=\"audio/mpeg\"></audio></p> <p> １．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_rb_1.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>お<ruby>見合<rp>(</rp><rt>みあ</rt><rp>)</rp></ruby>いは どうでしたか</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Cuộc gặp với người được làm mối của anh/chị thế nào?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>&hellip;<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た ときは、すてきな <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>だと <ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いましたが、<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ってがっかりしました。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">… Khi xem ảnh th&igrave; tôi thấy là người hấp dẫn, nhưng khi gặp th&igrave; bị thất vọng.</div></div></div></p> <p> ２．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_rb_2.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>今度<rp>(</rp><rt>こんど</rt><rp>)</rp></ruby>の <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>にみんなで ハイキングに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんですが、いっしょに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thứ bảy này mọi người đi leo núi, anh chị có đi cùng không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>&hellip;すみません。 <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>は ちょっと <ruby>都合<rp>(</rp><rt>つごう</rt><rp>)</rp></ruby>が<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>くて、 <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けないんです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Xin lỗi, thứ bảy tôi có việc nên không thể đi được.</div></div></div></p> <p> ３．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_rb_3.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>きのうの <ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>はどうでしたか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Bộ phim hôm qua thế nào?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>&hellip;<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>が <ruby>複雑<rp>(</rp><rt>ふくざつ</rt><rp>)</rp></ruby>で、よく わかりませんでした。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Nội dung phức tạp nên tôi không hiểu lắm.</div></div></div></p> <p> ４．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_rb_4.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>く なって、すみません。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Xin lỗi tôi đến muộn.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>&hellip;どう したんですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Có chuyện g&igrave; thế?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>事故<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby>で バスが <ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れたんです。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">V&igrave; tai nạn nên xe bu&yacute;t bị chậm.</div></div></div></p> <p> ５．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_rb_5.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>ちょっと <ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みに いきませんか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Đi uống với tôi chút không?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>&hellip;すみません。<ruby>用事<rp>(</rp><rt>ようじ</rt><rp>)</rp></ruby>が あるので、 お<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に <ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>します。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Xin lỗi v&igrave; có việc nên tôi xin phép về trước.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>そうですか。 お<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れさまでした</span>。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Thế à. Chào anh.</div></div></div></p> <p> ６．<div class=\"playwrap\"><audio class=\"player\" src=\"/Audio/FD1/Minna_Bai39_rb_6.mp3\" type=\"audio/mpeg\" preload=\"none\"></audio><a class=\"playerbt\" title=\"button\"></a></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby> <ruby>布団<rp>(</rp><rt>ふとん</rt><rp>)</rp></ruby>で <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>て いるんですが、 <ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby>ですね。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">Gần đây tôi ngủ bằng futon. Tiện lắm.</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span>&hellip;ベッドは どう したんですか。</span></div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">&hellip;Giường của anh sao rồi?</div></div></div></p> <p> <div class=\"tudich\"><div class=\"candich\"><span><ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>が <ruby>狭<rp>(</rp><rt>せま</rt><rp>)</rp></ruby>くて、<ruby>邪魔<rp>(</rp><rt>じゃま</rt><rp>)</rp></ruby>なので、<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>に あげました</span>。</div></span><div class=\"kqdich\"><span></span><div class=\"nddich\">V&igrave; ph&ograve;ng chật, giường chiếm diện tích nên tôi đã cho bạn.</div></div></div></p> <p> </div>",
+      "blocks": [
+        {
+          "kind": "audio",
+          "style": "controls",
+          "url": "https://www.vnjpclub.com/Audio/minnamoi/bunkeireibun/100001101102.mp3",
+          "contentHtml": "<audio controls preload=\"none\"><source src=\"/Audio/minnamoi/bunkeireibun/100001101102.mp3\" type=\"audio/mpeg\"></audio>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> １．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_rb_1.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お見合(みあ)いは どうでしたか",
+          "japaneseHtml": "<span>お<ruby>見合<rp>(</rp><rt>みあ</rt><rp>)</rp></ruby>いは どうでしたか</span>",
+          "vietnamese": "Cuộc gặp với người được làm mối của anh/chị thế nào?",
+          "vietnameseHtml": "Cuộc gặp với người được làm mối của anh/chị thế nào?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;写真(しゃしん)を 見(み)た ときは、すてきな 人(ひと)だと 思(おも)いましたが、会(あ)ってがっかりしました。",
+          "japaneseHtml": "<span>&hellip;<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を <ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た ときは、すてきな <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>だと <ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いましたが、<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ってがっかりしました。</span>",
+          "vietnamese": "… Khi xem ảnh th&igrave; tôi thấy là người hấp dẫn, nhưng khi gặp th&igrave; bị thất vọng.",
+          "vietnameseHtml": "… Khi xem ảnh th&igrave; tôi thấy là người hấp dẫn, nhưng khi gặp th&igrave; bị thất vọng."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> ２．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_rb_2.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今度(こんど)の 土曜日(どようび)にみんなで ハイキングに行(い)くんですが、いっしょに 行(い)きませんか。",
+          "japaneseHtml": "<span><ruby>今度<rp>(</rp><rt>こんど</rt><rp>)</rp></ruby>の <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>にみんなで ハイキングに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんですが、いっしょに <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。</span>",
+          "vietnamese": "Thứ bảy này mọi người đi leo núi, anh chị có đi cùng không?",
+          "vietnameseHtml": "Thứ bảy này mọi người đi leo núi, anh chị có đi cùng không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;すみません。 土曜日(どようび)は ちょっと 都合(つごう)が悪(わる)くて、 行(い)けないんです。",
+          "japaneseHtml": "<span>&hellip;すみません。 <ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>は ちょっと <ruby>都合<rp>(</rp><rt>つごう</rt><rp>)</rp></ruby>が<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>くて、 <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けないんです。</span>",
+          "vietnamese": "&hellip;Xin lỗi, thứ bảy tôi có việc nên không thể đi được.",
+          "vietnameseHtml": "&hellip;Xin lỗi, thứ bảy tôi có việc nên không thể đi được."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> ３．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_rb_3.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "きのうの 映画(えいが)はどうでしたか。",
+          "japaneseHtml": "<span>きのうの <ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>はどうでしたか。</span>",
+          "vietnamese": "Bộ phim hôm qua thế nào?",
+          "vietnameseHtml": "Bộ phim hôm qua thế nào?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;話(はなし)が 複雑(ふくざつ)で、よく わかりませんでした。",
+          "japaneseHtml": "<span>&hellip;<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>が <ruby>複雑<rp>(</rp><rt>ふくざつ</rt><rp>)</rp></ruby>で、よく わかりませんでした。</span>",
+          "vietnamese": "&hellip;Nội dung phức tạp nên tôi không hiểu lắm.",
+          "vietnameseHtml": "&hellip;Nội dung phức tạp nên tôi không hiểu lắm."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> ４．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_rb_4.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "遅(おそ)く なって、すみません。",
+          "japaneseHtml": "<span><ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>く なって、すみません。</span>",
+          "vietnamese": "Xin lỗi tôi đến muộn.",
+          "vietnameseHtml": "Xin lỗi tôi đến muộn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;どう したんですか。",
+          "japaneseHtml": "<span>&hellip;どう したんですか。</span>",
+          "vietnamese": "&hellip;Có chuyện g&igrave; thế?",
+          "vietnameseHtml": "&hellip;Có chuyện g&igrave; thế?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "事故(じこ)で バスが 遅(おく)れたんです。",
+          "japaneseHtml": "<span><ruby>事故<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby>で バスが <ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れたんです。</span>",
+          "vietnamese": "V&igrave; tai nạn nên xe bu&yacute;t bị chậm.",
+          "vietnameseHtml": "V&igrave; tai nạn nên xe bu&yacute;t bị chậm."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> ５．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_rb_5.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ちょっと 飲(の)みに いきませんか。",
+          "japaneseHtml": "<span>ちょっと <ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みに いきませんか。</span>",
+          "vietnamese": "Đi uống với tôi chút không?",
+          "vietnameseHtml": "Đi uống với tôi chút không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;すみません。用事(ようじ)が あるので、 お先(さき)に 失礼(しつれい)します。",
+          "japaneseHtml": "<span>&hellip;すみません。<ruby>用事<rp>(</rp><rt>ようじ</rt><rp>)</rp></ruby>が あるので、 お<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に <ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>します。</span>",
+          "vietnamese": "&hellip;Xin lỗi v&igrave; có việc nên tôi xin phép về trước.",
+          "vietnameseHtml": "&hellip;Xin lỗi v&igrave; có việc nên tôi xin phép về trước."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "そうですか。 お疲(つか)れさまでした。",
+          "japaneseHtml": "<span>そうですか。 お<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れさまでした</span>。",
+          "vietnamese": "Thế à. Chào anh.",
+          "vietnameseHtml": "Thế à. Chào anh."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</p> <p> ６．"
+        },
+        {
+          "kind": "audio",
+          "style": "player",
+          "url": "https://www.vnjpclub.com/Audio/FD1/Minna_Bai39_rb_6.mp3"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "最近(さいきん) 布団(ふとん)で 寝(ね)て いるんですが、 便利(べんり)ですね。",
+          "japaneseHtml": "<span><ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby> <ruby>布団<rp>(</rp><rt>ふとん</rt><rp>)</rp></ruby>で <ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>て いるんですが、 <ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby>ですね。</span>",
+          "vietnamese": "Gần đây tôi ngủ bằng futon. Tiện lắm.",
+          "vietnameseHtml": "Gần đây tôi ngủ bằng futon. Tiện lắm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "&hellip;ベッドは どう したんですか。",
+          "japaneseHtml": "<span>&hellip;ベッドは どう したんですか。</span>",
+          "vietnamese": "&hellip;Giường của anh sao rồi?",
+          "vietnameseHtml": "&hellip;Giường của anh sao rồi?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "部屋(へや)が 狭(せま)くて、邪魔(じゃま)なので、友達(ともだち)に あげました。",
+          "japaneseHtml": "<span><ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>が <ruby>狭<rp>(</rp><rt>せま</rt><rp>)</rp></ruby>くて、<ruby>邪魔<rp>(</rp><rt>じゃま</rt><rp>)</rp></ruby>なので、<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>に あげました</span>。",
+          "vietnamese": "V&igrave; ph&ograve;ng chật, giường chiếm diện tích nên tôi đã cho bạn.",
+          "vietnameseHtml": "V&igrave; ph&ograve;ng chật, giường chiếm diện tích nên tôi đã cho bạn."
+        }
+      ]
+    },
+    {
+      "id": "tab4",
+      "title": "Đọc 練習(れんしゅう) A(Luyện tập A)",
+      "titleHtml": "Đọc <ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby> A(Luyện tập A)",
+      "contentHtml": "</p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\"> <tbody> <tr> <td rowspan=\"6\" style=\"width: 20px;\"> <strong>1.</strong></td> <td style=\"text-align: right;\"> メールを</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> よんで、</td> <td rowspan=\"2\"> <ruby>安心<rp>(</rp><rt>あんしん</rt><rp>)</rp></ruby>しました。</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>を</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> もらって、</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>に</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> あえなくて、</td> <td rowspan=\"2\"> <ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しいです。</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> いなくて、</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>が</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> むずかしくて、</td> <td rowspan=\"2\"> わかりません。</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>が</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> ふくざつで、</td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Đọc thư rồi nên cũng đã an tâm.</p> <p> Nhận điện thoại rồi nên cũng đã an tâm.</p> <p> Không gặp được gia đ&igrave;nh nên tôi buồn.</p> <p> Không có bạn nên tôi buồn.</p> <p> Đề bài khó nên không hiểu.</p> <p> Cách dùng phức tạp nên tôi không biết.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\"> <tbody> <tr> <td rowspan=\"2\" style=\"width: 20px;\"> <strong>2.</strong></td> <td style=\"background-color: rgb(205, 227, 235);\"> じこ</td> <td rowspan=\"3\"> で <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が <ruby>大勢<rp>(</rp><rt>おおぜい</rt><rp>)</rp></ruby> <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>にました。</td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> つなみ</td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> Nhiều người đã chết v&igrave; tai nạn.</p> <p> Nhiều người đã chết v&igrave; sóng thần.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"></div></div></span></p> <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\"> <tbody> <tr> <td rowspan=\"7\" style=\"width: 20px;\"> <strong>3.</strong></td> <td style=\"width: 80px;\"> <ruby>病院<rp>(</rp><rt>びょういん</rt><rp>)</rp></ruby>へ</td> <td style=\"background-color: rgb(205, 227, 235); width: 140px;\"> いく</td> <td rowspan=\"7\" style=\"width: 60px;\"> ので、</td> <td> 5<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>っても いいですか。</td> </tr> <tr> <td> <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が</td> <td style=\"background-color: rgb(205, 227, 235);\"> わからない</td> <td> <ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>で <ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>して いただけませんか。</td> </tr> <tr> <td> バスが</td> <td style=\"background-color: rgb(205, 227, 235);\"> おくれた</td> <td> <ruby>約束<rp>(</rp><rt>やくそく</rt><rp>)</rp></ruby>に <ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>に<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いませんでした。</td> </tr> <tr> <td> <ruby>新聞<rp>(</rp><rt>しんぶん</rt><rp>)</rp></ruby>を</td> <td style=\"background-color: rgb(205, 227, 235);\"> よまなかった</td> <td> <ruby>事故<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby>の ことを <ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>りませんでした。</td> </tr> <tr> <td> <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby></td> <td style=\"background-color: rgb(205, 227, 235);\"> いそがしい</td> <td> どこも <ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びに <ruby>行<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>けません。</td> </tr> <tr> <td> きょうは</td> <td style=\"background-color: rgb(205, 227, 235);\"> たんじょうびな</td> <td> ワインを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました。</td> </tr> <tr> <td> あしたは</td> <td style=\"background-color: rgb(205, 227, 235);\"> やすみな</td> <td> うちで ゆっくり <ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みます。</td> </tr> </tbody> </table> <p> <span style=\"font-family:arial,helvetica,sans-serif;\"><div class=\"slide\"><div class=\"slide-title sl2\"><span><<<   Dịch   >>></span></div><div class=\"slide-content sl2\"></span></p> <p> V&igrave; đến bệnh viện nên tôi về lúc 5 giờ cũng được chứ?</p> <p> V&igrave; không biết tiếng Nhật nên tôi có thể nói chuyện bằng tiếng Anh chứ?</p> <p> V&igrave; đã trễ xe bu&yacute;t nên tôi đã không kịp cuộc hẹn.</p> <p> V&igrave; đã không đọc báo nên tôi đã không biết về vụ tai nạn.</p> <p> Mỗi ngày đều bận nên chẳng thể đi đâu chơi cả.</p> <p> Ngày hôm nay v&igrave; là sinh nhật nên tôi đã mua rượu vang.</p> <p> Ngày mai là ngày nghỉ nên có thể nghỉ ngơi thong thả ở nhà.</p> </div></div></div> <br /> <?php $de_stt = \"39\"; ?> <div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\"> <tbody> <tr> <td rowspan=\"6\" style=\"width: 20px;\"> <strong>1.</strong></td> <td style=\"text-align: right;\"> メールを</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> よんで、</td> <td rowspan=\"2\"> <ruby>安心<rp>(</rp><rt>あんしん</rt><rp>)</rp></ruby>しました。</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>を</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> もらって、</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>に</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> あえなくて、</td> <td rowspan=\"2\"> <ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しいです。</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> いなくて、</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>が</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> むずかしくて、</td> <td rowspan=\"2\"> わかりません。</td> </tr> <tr> <td style=\"text-align: right;\"> <ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>が</td> <td style=\"background-color: rgb(205, 227, 235); text-align: right;\"> ふくざつで、</td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Đọc thư rồi nên cũng đã an tâm.</p> <p> Nhận điện thoại rồi nên cũng đã an tâm.</p> <p> Không gặp được gia đ&igrave;nh nên tôi buồn.</p> <p> Không có bạn nên tôi buồn.</p> <p> Đề bài khó nên không hiểu.</p> <p> Cách dùng phức tạp nên tôi không biết.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Đọc thư rồi nên cũng đã an tâm.</p> <p> Nhận điện thoại rồi nên cũng đã an tâm.</p> <p> Không gặp được gia đ&igrave;nh nên tôi buồn.</p> <p> Không có bạn nên tôi buồn.</p> <p> Đề bài khó nên không hiểu.</p> <p> Cách dùng phức tạp nên tôi không biết.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\"> <tbody> <tr> <td rowspan=\"2\" style=\"width: 20px;\"> <strong>2.</strong></td> <td style=\"background-color: rgb(205, 227, 235);\"> じこ</td> <td rowspan=\"3\"> で <ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が <ruby>大勢<rp>(</rp><rt>おおぜい</rt><rp>)</rp></ruby> <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>にました。</td> </tr> <tr> <td style=\"background-color: rgb(205, 227, 235);\"> つなみ</td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> Nhiều người đã chết v&igrave; tai nạn.</p> <p> Nhiều người đã chết v&igrave; sóng thần.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> Nhiều người đã chết v&igrave; tai nạn.</p> <p> Nhiều người đã chết v&igrave; sóng thần.</p> <p> <span style=\"font-family:arial,helvetica,sans-serif;\">"
+            }
+          ]
+        },
+        {
+          "kind": "table",
+          "contentHtml": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_ngang\"> <tbody> <tr> <td rowspan=\"7\" style=\"width: 20px;\"> <strong>3.</strong></td> <td style=\"width: 80px;\"> <ruby>病院<rp>(</rp><rt>びょういん</rt><rp>)</rp></ruby>へ</td> <td style=\"background-color: rgb(205, 227, 235); width: 140px;\"> いく</td> <td rowspan=\"7\" style=\"width: 60px;\"> ので、</td> <td> 5<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に <ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>っても いいですか。</td> </tr> <tr> <td> <ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>が</td> <td style=\"background-color: rgb(205, 227, 235);\"> わからない</td> <td> <ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>で <ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>して いただけませんか。</td> </tr> <tr> <td> バスが</td> <td style=\"background-color: rgb(205, 227, 235);\"> おくれた</td> <td> <ruby>約束<rp>(</rp><rt>やくそく</rt><rp>)</rp></ruby>に <ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>に<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いませんでした。</td> </tr> <tr> <td> <ruby>新聞<rp>(</rp><rt>しんぶん</rt><rp>)</rp></ruby>を</td> <td style=\"background-color: rgb(205, 227, 235);\"> よまなかった</td> <td> <ruby>事故<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby>の ことを <ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>りませんでした。</td> </tr> <tr> <td> <ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby></td> <td style=\"background-color: rgb(205, 227, 235);\"> いそがしい</td> <td> どこも <ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びに <ruby>行<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>けません。</td> </tr> <tr> <td> きょうは</td> <td style=\"background-color: rgb(205, 227, 235);\"> たんじょうびな</td> <td> ワインを <ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いました。</td> </tr> <tr> <td> あしたは</td> <td style=\"background-color: rgb(205, 227, 235);\"> やすみな</td> <td> うちで ゆっくり <ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みます。</td> </tr> </tbody> </table>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": ">>",
+          "titleHtml": "<<< Dịch >>>",
+          "contentHtml": "</span></p> <p> V&igrave; đến bệnh viện nên tôi về lúc 5 giờ cũng được chứ?</p> <p> V&igrave; không biết tiếng Nhật nên tôi có thể nói chuyện bằng tiếng Anh chứ?</p> <p> V&igrave; đã trễ xe bu&yacute;t nên tôi đã không kịp cuộc hẹn.</p> <p> V&igrave; đã không đọc báo nên tôi đã không biết về vụ tai nạn.</p> <p> Mỗi ngày đều bận nên chẳng thể đi đâu chơi cả.</p> <p> Ngày hôm nay v&igrave; là sinh nhật nên tôi đã mua rượu vang.</p> <p> Ngày mai là ngày nghỉ nên có thể nghỉ ngơi thong thả ở nhà.</p>",
+          "blocks": [
+            {
+              "kind": "html",
+              "contentHtml": "</span></p> <p> V&igrave; đến bệnh viện nên tôi về lúc 5 giờ cũng được chứ?</p> <p> V&igrave; không biết tiếng Nhật nên tôi có thể nói chuyện bằng tiếng Anh chứ?</p> <p> V&igrave; đã trễ xe bu&yacute;t nên tôi đã không kịp cuộc hẹn.</p> <p> V&igrave; đã không đọc báo nên tôi đã không biết về vụ tai nạn.</p> <p> Mỗi ngày đều bận nên chẳng thể đi đâu chơi cả.</p> <p> Ngày hôm nay v&igrave; là sinh nhật nên tôi đã mua rượu vang.</p> <p> Ngày mai là ngày nghỉ nên có thể nghỉ ngơi thong thả ở nhà.</p>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

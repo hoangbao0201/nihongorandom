@@ -1,0 +1,54 @@
+{
+  "lesson": 44,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca9c3ee51364352b62b7c93",
+      "index": 216,
+      "character": "軽",
+      "sinoVietnameseWord": "Khinh",
+      "mean": "Nhẹ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l22/kanji/img/shopping_bag_woman.png",
+      "reminiscentDescription": "",
+      "onReading": "ケイ",
+      "kunReading": "かる、がる、かろ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 132px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.8797%; height: 22px;\">軽い</td>\n<td style=\"width: 32.7869%; height: 22px;\">かるい</td>\n<td style=\"width: 33.3333%; height: 22px;\">Nhẹ</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.8797%; height: 22px;\">手軽</td>\n<td style=\"width: 32.7869%; height: 22px;\">てがる</td>\n<td style=\"width: 33.3333%; height: 22px;\">Nhẹ nh&agrave;ng</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.8797%; height: 22px;\">軽自動車</td>\n<td style=\"width: 32.7869%; height: 22px;\">けいじどうしゃ</td>\n<td style=\"width: 33.3333%; height: 22px;\">&Ocirc; t&ocirc; con</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.8797%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 32.7869%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.8797%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 32.7869%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.8797%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 32.7869%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9c48d51364352b62b7c96",
+      "index": 217,
+      "character": "洗",
+      "sinoVietnameseWord": "Tẩy",
+      "mean": "Tẩy rửa",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l22/kanji/img/tearai_boy.png",
+      "reminiscentDescription": "<p>Muốn TẨY vết thương TRƯỚC ti&ecirc;n phải nh&uacute;ng v&agrave;o NƯỚC</p>",
+      "onReading": "セン",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 105px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">洗います</td>\n<td style=\"width: 33.3333%; height: 21px;\">あらいます</td>\n<td style=\"width: 33.3333%; height: 21px;\">Rửa</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">お手洗い</td>\n<td style=\"width: 33.3333%; height: 21px;\">おてあらい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Nh&agrave; vệ sinh</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">洗濯物</td>\n<td style=\"width: 33.3333%; height: 21px;\">せんたくもの</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đồ giặt</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "kunReading": "あら"
+    },
+    {
+      "_id": "5ca9c53651364352b62b7c98",
+      "index": 218,
+      "character": "洋",
+      "sinoVietnameseWord": "Dương",
+      "mean": "Tây Dương",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l22/kanji/img/job_youfuku_hanbai.png",
+      "reminiscentDescription": "<p>Con cừu vượt Đại T&acirc;y Dương</p>",
+      "onReading": "ヨウ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 126px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">洋服</td>\n<td style=\"width: 33.3333%; height: 21px;\">ようふく</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đồ T&acirc;y</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">洋食</td>\n<td style=\"width: 33.3333%; height: 21px;\">ようしょく</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đồ ăn kiểu T&acirc;y</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">西洋</td>\n<td style=\"width: 33.3333%; height: 21px;\">せいよう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Phương T&acirc;y</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">東洋</td>\n<td style=\"width: 33.3333%; height: 21px;\">とうよう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đ&ocirc;ng Dương</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9c62051364352b62b7c9d",
+      "index": 219,
+      "character": "別",
+      "sinoVietnameseWord": "Biệt",
+      "mean": "Ly biệt",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l22/kanji/img/shitsuren_man.png",
+      "reminiscentDescription": "<p>D&ugrave;ng miệng để ph&acirc;n biệt vạn loại dao</p>",
+      "onReading": "ベツ、ベッ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 176px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">別れる</td>\n<td style=\"width: 33.3333%; height: 22px;\">わかれる</td>\n<td style=\"width: 33.3333%; height: 22px;\">Chia tay</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">特別</td>\n<td style=\"width: 33.3333%; height: 22px;\">とくべつ</td>\n<td style=\"width: 33.3333%; height: 22px;\">Đặc biệt</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">性別</td>\n<td style=\"width: 33.3333%; height: 22px;\">せいべつ</td>\n<td style=\"width: 33.3333%; height: 22px;\">Giới t&iacute;nh</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">別々に</td>\n<td style=\"width: 33.3333%; height: 22px;\">べつべつに</td>\n<td style=\"width: 33.3333%; height: 22px;\">Ri&ecirc;ng biệt</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "kunReading": "わか"
+    }
+  ]
+}

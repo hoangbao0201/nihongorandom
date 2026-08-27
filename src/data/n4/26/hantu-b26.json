@@ -1,0 +1,150 @@
+{
+  "lesson": 26,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "見ます, 診ます",
+      "kanjiHtml": "見ます, 診ます",
+      "sinoVietnamese": "KIẾN, CHẨN",
+      "kana": "みます",
+      "kanaHtml": "みます"
+    },
+    {
+      "index": 2,
+      "kanji": "探します,捜します",
+      "kanjiHtml": "探します,捜します",
+      "sinoVietnamese": "THÁM、SƯU",
+      "kana": "さがします",
+      "kanaHtml": "さがします"
+    },
+    {
+      "index": 3,
+      "kanji": "遅れます [時間に～]",
+      "kanjiHtml": "遅れます<br />[時間に～]",
+      "sinoVietnamese": "TRÌ THỜI GIAN",
+      "kana": "おくれます [じかんに～]",
+      "kanaHtml": "おくれます<br />[じかんに～]"
+    },
+    {
+      "index": 4,
+      "kanji": "間に合います [時間に～]",
+      "kanjiHtml": "間に合います<br />[時間に～]",
+      "sinoVietnamese": "GIAN HỢP THỜI GIAN",
+      "kana": "まにあいます [じかんに～]",
+      "kanaHtml": "まにあいます<br />[じかんに～]"
+    },
+    {
+      "index": 5,
+      "kanji": "拾います",
+      "kanjiHtml": "拾います",
+      "sinoVietnamese": "THẬP",
+      "kana": "ひろいます",
+      "kanaHtml": "ひろいます"
+    },
+    {
+      "index": 6,
+      "kanji": "連絡します",
+      "kanjiHtml": "連絡します",
+      "sinoVietnamese": "LIÊN LẠC",
+      "kana": "れんらくします",
+      "kanaHtml": "れんらくします"
+    },
+    {
+      "index": 7,
+      "kanji": "気分がいい",
+      "kanjiHtml": "気分がいい",
+      "sinoVietnamese": "KHÍ PHÂN",
+      "kana": "きぶんがいい",
+      "kanaHtml": "きぶんがいい"
+    },
+    {
+      "index": 8,
+      "kanji": "気分が悪い",
+      "kanjiHtml": "気分が悪い",
+      "sinoVietnamese": "KHÍ PHÂN ÁC",
+      "kana": "きぶんがわるい",
+      "kanaHtml": "きぶんがわるい"
+    },
+    {
+      "index": 9,
+      "kanji": "運動会",
+      "kanjiHtml": "運動会",
+      "sinoVietnamese": "VẬN ĐỘNG HỘI",
+      "kana": "うんどうかい",
+      "kanaHtml": "うんどうかい"
+    },
+    {
+      "index": 10,
+      "kanji": "盆踊り",
+      "kanjiHtml": "盆踊り",
+      "sinoVietnamese": "BỒN DŨNG",
+      "kana": "ぼんおどり",
+      "kanaHtml": "ぼんおどり"
+    },
+    {
+      "index": 11,
+      "kanji": "場所",
+      "kanjiHtml": "場所",
+      "sinoVietnamese": "TRƯỜNG SỞ",
+      "kana": "ばしょ",
+      "kanaHtml": "ばしょ"
+    },
+    {
+      "index": 12,
+      "kanji": "財布",
+      "kanjiHtml": "財布",
+      "sinoVietnamese": "TÀI BỐ",
+      "kana": "さいふ",
+      "kanaHtml": "さいふ"
+    },
+    {
+      "index": 13,
+      "kanji": "国会議事堂",
+      "kanjiHtml": "国会議事堂",
+      "sinoVietnamese": "QUỐC HỘI NGHỊ SỰ ĐƯỜNG",
+      "kana": "こっかいぎじどう",
+      "kanaHtml": "こっかいぎじどう"
+    },
+    {
+      "index": 14,
+      "kanji": "平日",
+      "kanjiHtml": "平日",
+      "sinoVietnamese": "BÌNH NHẬT",
+      "kana": "へいじつ",
+      "kanaHtml": "へいじつ"
+    },
+    {
+      "index": 15,
+      "kanji": "～弁",
+      "kanjiHtml": "～弁",
+      "sinoVietnamese": "BIỆN",
+      "kana": "～べん",
+      "kanaHtml": "～べん"
+    },
+    {
+      "index": 16,
+      "kanji": "今度",
+      "kanjiHtml": "今度",
+      "sinoVietnamese": "KIM ĐỘ",
+      "kana": "こんど",
+      "kanaHtml": "こんど"
+    },
+    {
+      "index": 17,
+      "kanji": "直接",
+      "kanjiHtml": "直接",
+      "sinoVietnamese": "TRỰC TIẾP",
+      "kana": "ちょくせつ",
+      "kanaHtml": "ちょくせつ"
+    },
+    {
+      "index": 18,
+      "kanji": "何でも",
+      "kanjiHtml": "何でも",
+      "sinoVietnamese": "HÀ",
+      "kana": "なんでも",
+      "kanaHtml": "なんでも"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "lesson": 35,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "ことわざ（） Tục ngữ",
+      "titleHtml": "<ruby>ことわざ<rp>（</rp><rt></rt><rp>）</rp></ruby> Tục ngữ",
+      "introHtml": "",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "住（す）めば都（みやこ）",
+              "html": "<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>めば<ruby>都<rp>（</rp><rt>みやこ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Bất cứ chỗ nào cũng thế, cứ sống lâu và quen thì bạn cảm thấy nơi đó là nơi tốt nhất",
+              "html": "Bất cứ chỗ nào cũng thế, cứ sống lâu và quen thì bạn cảm thấy nơi đó là nơi tốt nhất"
+            }
+          ],
+          "term": "住（す）めば都（みやこ）",
+          "termHtml": "<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>めば<ruby>都<rp>（</rp><rt>みやこ</rt><rp>）</rp></ruby>",
+          "meaning": "Bất cứ chỗ nào cũng thế, cứ sống lâu và quen thì bạn cảm thấy nơi đó là nơi tốt nhất",
+          "meaningHtml": "Bất cứ chỗ nào cũng thế, cứ sống lâu và quen thì bạn cảm thấy nơi đó là nơi tốt nhất"
+        },
+        {
+          "cells": [
+            {
+              "text": "三人（さんにん）寄（よ）れば文殊（もんじゅ）の知恵（ちえ）",
+              "html": "<ruby>三人<rp>（</rp><rt>さんにん</rt><rp>）</rp></ruby><ruby>寄<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>れば<ruby>文殊<rp>（</rp><rt>もんじゅ</rt><rp>）</rp></ruby>の<ruby>知恵<rp>（</rp><rt>ちえ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "\"Ba ông đánh giầy là thầy Gia Cát Lượng\". So với 2 người thì 3 người nghĩ tốt hơn.",
+              "html": "\"Ba ông đánh giầy là thầy Gia Cát Lượng\". So với 2 người thì 3 người nghĩ tốt hơn."
+            }
+          ],
+          "term": "三人（さんにん）寄（よ）れば文殊（もんじゅ）の知恵（ちえ）",
+          "termHtml": "<ruby>三人<rp>（</rp><rt>さんにん</rt><rp>）</rp></ruby><ruby>寄<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>れば<ruby>文殊<rp>（</rp><rt>もんじゅ</rt><rp>）</rp></ruby>の<ruby>知恵<rp>（</rp><rt>ちえ</rt><rp>）</rp></ruby>",
+          "meaning": "\"Ba ông đánh giầy là thầy Gia Cát Lượng\". So với 2 người thì 3 người nghĩ tốt hơn.",
+          "meaningHtml": "\"Ba ông đánh giầy là thầy Gia Cát Lượng\". So với 2 người thì 3 người nghĩ tốt hơn."
+        },
+        {
+          "cells": [
+            {
+              "text": "立（た）てばしゃくやく、座（すわ）ればぼたん、歩（ある）く姿（すがた）はゆりの花（はな）",
+              "html": "<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てばしゃくやく、<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>ればぼたん、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く<ruby>姿<rp>（</rp><rt>すがた</rt><rp>）</rp></ruby>はゆりの<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Dùng để tả một cô gái đẹp. Dáng đứng như hoa shaku-yaku (một kiểu hoa mẫu đơn), kiểu ngồi như hoa mẫu đơn, điệu đi như hoa huệ.",
+              "html": "Dùng để tả một cô gái đẹp. Dáng đứng như hoa shaku-yaku (một kiểu hoa mẫu đơn), kiểu ngồi như hoa mẫu đơn, điệu đi như hoa huệ."
+            }
+          ],
+          "term": "立（た）てばしゃくやく、座（すわ）ればぼたん、歩（ある）く姿（すがた）はゆりの花（はな）",
+          "termHtml": "<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てばしゃくやく、<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>ればぼたん、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く<ruby>姿<rp>（</rp><rt>すがた</rt><rp>）</rp></ruby>はゆりの<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>",
+          "meaning": "Dùng để tả một cô gái đẹp. Dáng đứng như hoa shaku-yaku (một kiểu hoa mẫu đơn), kiểu ngồi như hoa mẫu đơn, điệu đi như hoa huệ.",
+          "meaningHtml": "Dùng để tả một cô gái đẹp. Dáng đứng như hoa shaku-yaku (một kiểu hoa mẫu đơn), kiểu ngồi như hoa mẫu đơn, điệu đi như hoa huệ."
+        },
+        {
+          "cells": [
+            {
+              "text": "ちりも積（つ）もれば山（やま）となる",
+              "html": "ちりも<ruby>積<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>もれば<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>となる"
+            },
+            {
+              "text": "\"Tích tiểu thành đại\". Những cái tuy nhỏ nhưng tập hợp lại thì sẽ thành cái lớn",
+              "html": "\"Tích tiểu thành đại\". Những cái tuy nhỏ nhưng tập hợp lại thì sẽ thành cái lớn"
+            }
+          ],
+          "term": "ちりも積（つ）もれば山（やま）となる",
+          "termHtml": "ちりも<ruby>積<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>もれば<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>となる",
+          "meaning": "\"Tích tiểu thành đại\". Những cái tuy nhỏ nhưng tập hợp lại thì sẽ thành cái lớn",
+          "meaningHtml": "\"Tích tiểu thành đại\". Những cái tuy nhỏ nhưng tập hợp lại thì sẽ thành cái lớn"
+        },
+        {
+          "cells": [
+            {
+              "text": "うわさをすれば影（かげ）",
+              "html": "うわさをすれば<ruby>影<rp>（</rp><rt>かげ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Khi đồn đại về ai đó, người đó thường hay xuất hiện",
+              "html": "Khi đồn đại về ai đó, người đó thường hay xuất hiện"
+            }
+          ],
+          "term": "うわさをすれば影（かげ）",
+          "termHtml": "うわさをすれば<ruby>影<rp>（</rp><rt>かげ</rt><rp>）</rp></ruby>",
+          "meaning": "Khi đồn đại về ai đó, người đó thường hay xuất hiện",
+          "meaningHtml": "Khi đồn đại về ai đó, người đó thường hay xuất hiện"
+        },
+        {
+          "cells": [
+            {
+              "text": "花（はな）よりだんご",
+              "html": "<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>よりだんご"
+            },
+            {
+              "text": "\"Tốt gỗ hơn tốt nước sơn\". (Nội dung quan trọng hơn vẻ bên ngoài)",
+              "html": "\"Tốt gỗ hơn tốt nước sơn\". (Nội dung quan trọng hơn vẻ bên ngoài)"
+            }
+          ],
+          "term": "花（はな）よりだんご",
+          "termHtml": "<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>よりだんご",
+          "meaning": "\"Tốt gỗ hơn tốt nước sơn\". (Nội dung quan trọng hơn vẻ bên ngoài)",
+          "meaningHtml": "\"Tốt gỗ hơn tốt nước sơn\". (Nội dung quan trọng hơn vẻ bên ngoài)"
+        },
+        {
+          "cells": [
+            {
+              "text": "転石（てんせき）苔（こけ）を生（なま）ぜす",
+              "html": "<ruby>転石<rp>（</rp><rt>てんせき</rt><rp>）</rp></ruby><ruby>苔<rp>（</rp><rt>こけ</rt><rp>）</rp></ruby>を<ruby>生<rp>（</rp><rt>なま</rt><rp>）</rp></ruby>ぜす"
+            },
+            {
+              "text": "Có hai nghĩa : 1. Người hoạt động tích cực thì nhanh tiến độ 2. Người hay thay đổi công việc, nơi ở thì ít thành công trong cuộc đời (không gây dựng được tài sản, chức vụ)",
+              "html": "Có hai nghĩa : 1. Người hoạt động tích cực thì nhanh tiến độ 2. Người hay thay đổi công việc, nơi ở thì ít thành công trong cuộc đời (không gây dựng được tài sản, chức vụ)"
+            }
+          ],
+          "term": "転石（てんせき）苔（こけ）を生（なま）ぜす",
+          "termHtml": "<ruby>転石<rp>（</rp><rt>てんせき</rt><rp>）</rp></ruby><ruby>苔<rp>（</rp><rt>こけ</rt><rp>）</rp></ruby>を<ruby>生<rp>（</rp><rt>なま</rt><rp>）</rp></ruby>ぜす",
+          "meaning": "Có hai nghĩa : 1. Người hoạt động tích cực thì nhanh tiến độ 2. Người hay thay đổi công việc, nơi ở thì ít thành công trong cuộc đời (không gây dựng được tài sản, chức vụ)",
+          "meaningHtml": "Có hai nghĩa : 1. Người hoạt động tích cực thì nhanh tiến độ 2. Người hay thay đổi công việc, nơi ở thì ít thành công trong cuộc đời (không gây dựng được tài sản, chức vụ)"
+        }
+      ],
+      "contentHtml": "<table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>めば<ruby>都<rp>（</rp><rt>みやこ</rt><rp>）</rp></ruby></td> <td>Bất cứ chỗ nào cũng thế, cứ sống lâu và quen thì bạn cảm thấy nơi đó là nơi tốt nhất</td> </tr><tr> <td width=\"40%\"><ruby>三人<rp>（</rp><rt>さんにん</rt><rp>）</rp></ruby><ruby>寄<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>れば<ruby>文殊<rp>（</rp><rt>もんじゅ</rt><rp>）</rp></ruby>の<ruby>知恵<rp>（</rp><rt>ちえ</rt><rp>）</rp></ruby></td> <td>\"Ba ông đánh giầy là thầy Gia Cát Lượng\". So với 2 người thì 3 người nghĩ tốt hơn.</td> </tr><tr> <td width=\"40%\"><ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てばしゃくやく、<ruby>座<rp>（</rp><rt>すわ</rt><rp>）</rp></ruby>ればぼたん、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く<ruby>姿<rp>（</rp><rt>すがた</rt><rp>）</rp></ruby>はゆりの<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby></td> <td>Dùng để tả một cô gái đẹp. Dáng đứng như hoa shaku-yaku (một kiểu hoa mẫu đơn), kiểu ngồi như hoa mẫu đơn, điệu đi như hoa huệ.</td> </tr><tr> <td width=\"40%\">ちりも<ruby>積<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>もれば<ruby>山<rp>（</rp><rt>やま</rt><rp>）</rp></ruby>となる</td> <td>\"Tích tiểu thành đại\". Những cái tuy nhỏ nhưng tập hợp lại thì sẽ thành cái lớn</td> </tr><tr> <td width=\"40%\">うわさをすれば<ruby>影<rp>（</rp><rt>かげ</rt><rp>）</rp></ruby></td> <td>Khi đồn đại về ai đó, người đó thường hay xuất hiện</td> </tr><tr> <td width=\"40%\"><ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>よりだんご</td> <td>\"Tốt gỗ hơn tốt nước sơn\". (Nội dung quan trọng hơn vẻ bên ngoài)</td> </tr><tr> <td width=\"40%\"><ruby>転石<rp>（</rp><rt>てんせき</rt><rp>）</rp></ruby><ruby>苔<rp>（</rp><rt>こけ</rt><rp>）</rp></ruby>を<ruby>生<rp>（</rp><rt>なま</rt><rp>）</rp></ruby>ぜす</td> <td>Có hai nghĩa : 1. Người hoạt động tích cực thì nhanh tiến độ 2. Người hay thay đổi công việc, nơi ở thì ít thành công trong cuộc đời (không gây dựng được tài sản, chức vụ)</td> </tr></tbody></table><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

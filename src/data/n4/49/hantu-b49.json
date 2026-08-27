@@ -1,0 +1,94 @@
+{
+  "lesson": 49,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "利用します",
+      "kanjiHtml": "利用します",
+      "sinoVietnamese": "LỢI DỤNG",
+      "kana": "りようします",
+      "kanaHtml": "りようします"
+    },
+    {
+      "index": 2,
+      "kanji": "勤めます [会社に～]",
+      "kanjiHtml": "勤めます<br />[会社に～]",
+      "sinoVietnamese": "HỘI XÃ CẦN",
+      "kana": "つとめます [かいしゃに～]",
+      "kanaHtml": "つとめます<br /> [かいしゃに～]"
+    },
+    {
+      "index": 3,
+      "kanji": "掛けます [いすに～]",
+      "kanjiHtml": "掛けます<br />[いすに～]",
+      "sinoVietnamese": "QUẢI",
+      "kana": "かけます [いすに～]",
+      "kanaHtml": "かけます<br /> [いすに～]"
+    },
+    {
+      "index": 4,
+      "kanji": "過ごします",
+      "kanjiHtml": "過ごします",
+      "sinoVietnamese": "QUÁ",
+      "kana": "すごします",
+      "kanaHtml": "すごします"
+    },
+    {
+      "index": 5,
+      "kanji": "召し上がります",
+      "kanjiHtml": "召し上がります",
+      "sinoVietnamese": "TRIỆU THƯỢNG",
+      "kana": "めしあがります",
+      "kanaHtml": "めしあがります"
+    },
+    {
+      "index": 6,
+      "kanji": "ご覧になります",
+      "kanjiHtml": "ご覧になります",
+      "sinoVietnamese": "LÃM",
+      "kana": "ごらんになります",
+      "kanaHtml": "ごらんになります"
+    },
+    {
+      "index": 7,
+      "kanji": "ご存じです",
+      "kanjiHtml": "ご存じです",
+      "sinoVietnamese": "TỒN",
+      "kana": "ごぞんじです",
+      "kanaHtml": "ごぞんじです"
+    },
+    {
+      "index": 8,
+      "kanji": "旅館",
+      "kanjiHtml": "旅館",
+      "sinoVietnamese": "LỮ QUÁN",
+      "kana": "りょかん",
+      "kanaHtml": "りょかん"
+    },
+    {
+      "index": 9,
+      "kanji": "バス停",
+      "kanjiHtml": "バス停",
+      "sinoVietnamese": "ĐÌNH",
+      "kana": "バスてい",
+      "kanaHtml": "バスてい"
+    },
+    {
+      "index": 10,
+      "kanji": "奥様",
+      "kanjiHtml": "奥様",
+      "sinoVietnamese": "ÁO DẠNG",
+      "kana": "おくさま",
+      "kanaHtml": "おくさま"
+    },
+    {
+      "index": 11,
+      "kanji": "～様",
+      "kanjiHtml": "～様",
+      "sinoVietnamese": "DẠNG",
+      "kana": "～さま",
+      "kanaHtml": "～さま"
+    }
+  ]
+}

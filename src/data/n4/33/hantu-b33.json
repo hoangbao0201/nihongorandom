@@ -1,0 +1,238 @@
+{
+  "lesson": 33,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "逃げます",
+      "kanjiHtml": "逃げます",
+      "sinoVietnamese": "ĐÀO",
+      "kana": "にげます",
+      "kanaHtml": "にげます"
+    },
+    {
+      "index": 2,
+      "kanji": "騒ぎます",
+      "kanjiHtml": "騒ぎます",
+      "sinoVietnamese": "TAO",
+      "kana": "さわぎます",
+      "kanaHtml": "さわぎます"
+    },
+    {
+      "index": 3,
+      "kanji": "投げます",
+      "kanjiHtml": "投げます",
+      "sinoVietnamese": "ĐẦU",
+      "kana": "なげます",
+      "kanaHtml": "なげます"
+    },
+    {
+      "index": 4,
+      "kanji": "守ります",
+      "kanjiHtml": "守ります",
+      "sinoVietnamese": "THỦ",
+      "kana": "まもります",
+      "kanaHtml": "まもります"
+    },
+    {
+      "index": 5,
+      "kanji": "始まります [式が～]",
+      "kanjiHtml": "始まります<br />[式が～]",
+      "sinoVietnamese": "THỨC THỦY",
+      "kana": "はじまります [しきが～]",
+      "kanaHtml": "はじまります<br /> [しきが～]"
+    },
+    {
+      "index": 6,
+      "kanji": "出席します[会議に～]",
+      "kanjiHtml": "出席します[会議に～]",
+      "sinoVietnamese": "XUẤT TỊCH HỘI NGHỊ",
+      "kana": "しゅっせきします [かいぎに～]",
+      "kanaHtml": "しゅっせきします<br /> [かいぎに～]"
+    },
+    {
+      "index": 7,
+      "kanji": "伝えます",
+      "kanjiHtml": "伝えます",
+      "sinoVietnamese": "TRUYỀN",
+      "kana": "つたえます",
+      "kanaHtml": "つたえます"
+    },
+    {
+      "index": 8,
+      "kanji": "注意します [車に～]",
+      "kanjiHtml": "注意します<br />[車に～]",
+      "sinoVietnamese": "CHÚ Ý XA",
+      "kana": "ちゅういします [くるまに～]",
+      "kanaHtml": "ちゅういします<br /> [くるまに～]"
+    },
+    {
+      "index": 9,
+      "kanji": "外します [席を～]",
+      "kanjiHtml": "外します<br />[席を～]",
+      "sinoVietnamese": "NGOẠI TỊCH",
+      "kana": "はずします [せきを～]",
+      "kanaHtml": "はずします<br /> [せきを～]"
+    },
+    {
+      "index": 10,
+      "kanji": "戻ります",
+      "kanjiHtml": "戻ります",
+      "sinoVietnamese": "LỆ",
+      "kana": "もどります",
+      "kanaHtml": "もどります"
+    },
+    {
+      "index": 11,
+      "kanji": "[電話が～]",
+      "kanjiHtml": "[電話が～]",
+      "sinoVietnamese": "ĐIỆN THOẠI",
+      "kana": "あります [でんわが～]",
+      "kanaHtml": "あります<br /> [でんわが～]"
+    },
+    {
+      "index": 12,
+      "kanji": "同じ",
+      "kanjiHtml": "同じ",
+      "sinoVietnamese": "ĐỒNG",
+      "kana": "おなじ",
+      "kanaHtml": "おなじ"
+    },
+    {
+      "index": 13,
+      "kanji": "警察",
+      "kanjiHtml": "警察",
+      "sinoVietnamese": "CẢNH SÁT",
+      "kana": "けいさつ",
+      "kanaHtml": "けいさつ"
+    },
+    {
+      "index": 14,
+      "kanji": "席",
+      "kanjiHtml": "席",
+      "sinoVietnamese": "TỊCH",
+      "kana": "せき",
+      "kanaHtml": "せき"
+    },
+    {
+      "index": 15,
+      "kanji": "締め切り",
+      "kanjiHtml": "締め切り",
+      "sinoVietnamese": "ĐẾ THIẾT",
+      "kana": "しめきり",
+      "kanaHtml": "しめきり"
+    },
+    {
+      "index": 16,
+      "kanji": "規則",
+      "kanjiHtml": "規則",
+      "sinoVietnamese": "QUY TẮC",
+      "kana": "きそく",
+      "kanaHtml": "きそく"
+    },
+    {
+      "index": 17,
+      "kanji": "危険",
+      "kanjiHtml": "危険",
+      "sinoVietnamese": "NGUY HIỂM",
+      "kana": "きけん",
+      "kanaHtml": "きけん"
+    },
+    {
+      "index": 18,
+      "kanji": "使用禁止",
+      "kanjiHtml": "使用禁止",
+      "sinoVietnamese": "SỬ DỤNG CẤM CHỈ",
+      "kana": "しようきんし",
+      "kanaHtml": "しようきんし"
+    },
+    {
+      "index": 19,
+      "kanji": "立入禁止",
+      "kanjiHtml": "立入禁止",
+      "sinoVietnamese": "LẬP NHẬP CẤM CHỈ",
+      "kana": "たちいりきんし",
+      "kanaHtml": "たちいりきんし"
+    },
+    {
+      "index": 20,
+      "kanji": "徐行",
+      "kanjiHtml": "徐行",
+      "sinoVietnamese": "TỪ HÀNH",
+      "kana": "じょこう",
+      "kanaHtml": "じょこう"
+    },
+    {
+      "index": 21,
+      "kanji": "入口",
+      "kanjiHtml": "入口",
+      "sinoVietnamese": "NHẬP KHẨU",
+      "kana": "いりぐち",
+      "kanaHtml": "いりぐち"
+    },
+    {
+      "index": 22,
+      "kanji": "出口",
+      "kanjiHtml": "出口",
+      "sinoVietnamese": "XUẤT KHẨU",
+      "kana": "でぐち",
+      "kanaHtml": "でぐち"
+    },
+    {
+      "index": 23,
+      "kanji": "非常口",
+      "kanjiHtml": "非常口",
+      "sinoVietnamese": "PHI THƯỜNG KHẨU",
+      "kana": "ひじょうぐち",
+      "kanaHtml": "ひじょうぐち"
+    },
+    {
+      "index": 24,
+      "kanji": "無料",
+      "kanjiHtml": "無料",
+      "sinoVietnamese": "VÔ LIỆU",
+      "kana": "むりょう",
+      "kanaHtml": "むりょう"
+    },
+    {
+      "index": 25,
+      "kanji": "割引",
+      "kanjiHtml": "割引",
+      "sinoVietnamese": "CÁT DẪN",
+      "kana": "わりびき",
+      "kanaHtml": "わりびき"
+    },
+    {
+      "index": 26,
+      "kanji": "飲み放題",
+      "kanjiHtml": "飲み放題",
+      "sinoVietnamese": "ẨM PHÓNG ĐỀ",
+      "kana": "のみほうだい",
+      "kanaHtml": "のみほうだい"
+    },
+    {
+      "index": 27,
+      "kanji": "使用中",
+      "kanjiHtml": "使用中",
+      "sinoVietnamese": "SỬ DỤNG TRUNG",
+      "kana": "しようちゅう",
+      "kanaHtml": "しようちゅう"
+    },
+    {
+      "index": 28,
+      "kanji": "募集中",
+      "kanjiHtml": "募集中",
+      "sinoVietnamese": "MỘ TẬP TRUNG",
+      "kana": "ぼしゅうちゅう",
+      "kanaHtml": "ぼしゅうちゅう"
+    },
+    {
+      "index": 29,
+      "kanji": "～中",
+      "kanjiHtml": "～中",
+      "sinoVietnamese": "TRUNG",
+      "kana": "～ちゅう",
+      "kanaHtml": "～ちゅう"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "lesson": 32,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "天気予報（てんきよほう） Dự báo thời tiết",
+      "titleHtml": "<ruby>天気予報<rp>（</rp><rt>てんきよほう</rt><rp>）</rp></ruby> Dự báo thời tiết",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "晴（は）れ",
+              "html": "<ruby>晴<rp>（</rp><rt>は</rt><rp>）</rp></ruby>れ"
+            },
+            {
+              "text": "nắng, quang đãng",
+              "html": "nắng, quang đãng"
+            }
+          ],
+          "term": "晴（は）れ",
+          "termHtml": "<ruby>晴<rp>（</rp><rt>は</rt><rp>）</rp></ruby>れ",
+          "meaning": "nắng, quang đãng",
+          "meaningHtml": "nắng, quang đãng"
+        },
+        {
+          "cells": [
+            {
+              "text": "曇（くも）り",
+              "html": "<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り"
+            },
+            {
+              "text": "có mây",
+              "html": "có mây"
+            }
+          ],
+          "term": "曇（くも）り",
+          "termHtml": "<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り",
+          "meaning": "có mây",
+          "meaningHtml": "có mây"
+        },
+        {
+          "cells": [
+            {
+              "text": "雨（あめ）",
+              "html": "<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "mưa",
+              "html": "mưa"
+            }
+          ],
+          "term": "雨（あめ）",
+          "termHtml": "<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>",
+          "meaning": "mưa",
+          "meaningHtml": "mưa"
+        },
+        {
+          "cells": [
+            {
+              "text": "雪（ゆき）",
+              "html": "<ruby>雪<rp>（</rp><rt>ゆき</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tuyết",
+              "html": "tuyết"
+            }
+          ],
+          "term": "雪（ゆき）",
+          "termHtml": "<ruby>雪<rp>（</rp><rt>ゆき</rt><rp>）</rp></ruby>",
+          "meaning": "tuyết",
+          "meaningHtml": "tuyết"
+        },
+        {
+          "cells": [
+            {
+              "text": "晴（は）れのち曇（くも）り",
+              "html": "<ruby>晴<rp>（</rp><rt>は</rt><rp>）</rp></ruby>れのち<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り"
+            },
+            {
+              "text": "nắng sau đó chuyển mây",
+              "html": "nắng sau đó chuyển mây"
+            }
+          ],
+          "term": "晴（は）れのち曇（くも）り",
+          "termHtml": "<ruby>晴<rp>（</rp><rt>は</rt><rp>）</rp></ruby>れのち<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り",
+          "meaning": "nắng sau đó chuyển mây",
+          "meaningHtml": "nắng sau đó chuyển mây"
+        },
+        {
+          "cells": [
+            {
+              "text": "曇（くも）り時々（ときどき）（一時（いちじ））雨（あめ）",
+              "html": "<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り<ruby>時々<rp>（</rp><rt>ときどき</rt><rp>）</rp></ruby>（<ruby>一時<rp>（</rp><rt>いちじ</rt><rp>）</rp></ruby>）<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "có mây thỉnh thoảng có mưa",
+              "html": "có mây thỉnh thoảng có mưa"
+            }
+          ],
+          "term": "曇（くも）り時々（ときどき）（一時（いちじ））雨（あめ）",
+          "termHtml": "<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り<ruby>時々<rp>（</rp><rt>ときどき</rt><rp>）</rp></ruby>（<ruby>一時<rp>（</rp><rt>いちじ</rt><rp>）</rp></ruby>）<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>",
+          "meaning": "có mây thỉnh thoảng có mưa",
+          "meaningHtml": "có mây thỉnh thoảng có mưa"
+        },
+        {
+          "cells": [
+            {
+              "text": "曇（くも）りよ頃（ころ）によって雨（あめ）",
+              "html": "<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>りよ<ruby>頃<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>によって<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "có mây, một vài nơi có mưa",
+              "html": "có mây, một vài nơi có mưa"
+            }
+          ],
+          "term": "曇（くも）りよ頃（ころ）によって雨（あめ）",
+          "termHtml": "<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>りよ<ruby>頃<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>によって<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>",
+          "meaning": "có mây, một vài nơi có mưa",
+          "meaningHtml": "có mây, một vài nơi có mưa"
+        },
+        {
+          "cells": [
+            {
+              "text": "降水（こうすい）確率（かくりつ）",
+              "html": "<ruby>降水<rp>（</rp><rt>こうすい</rt><rp>）</rp></ruby><ruby>確率<rp>（</rp><rt>かくりつ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "xác suất mưa",
+              "html": "xác suất mưa"
+            }
+          ],
+          "term": "降水（こうすい）確率（かくりつ）",
+          "termHtml": "<ruby>降水<rp>（</rp><rt>こうすい</rt><rp>）</rp></ruby><ruby>確率<rp>（</rp><rt>かくりつ</rt><rp>）</rp></ruby>",
+          "meaning": "xác suất mưa",
+          "meaningHtml": "xác suất mưa"
+        },
+        {
+          "cells": [
+            {
+              "text": "最高（さいこう）気温（きおん）",
+              "html": "<ruby>最高<rp>（</rp><rt>さいこう</rt><rp>）</rp></ruby><ruby>気温<rp>（</rp><rt>きおん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nhiệt độ cao nhất",
+              "html": "nhiệt độ cao nhất"
+            }
+          ],
+          "term": "最高（さいこう）気温（きおん）",
+          "termHtml": "<ruby>最高<rp>（</rp><rt>さいこう</rt><rp>）</rp></ruby><ruby>気温<rp>（</rp><rt>きおん</rt><rp>）</rp></ruby>",
+          "meaning": "nhiệt độ cao nhất",
+          "meaningHtml": "nhiệt độ cao nhất"
+        },
+        {
+          "cells": [
+            {
+              "text": "最低（さいてい）気温（きおん）",
+              "html": "<ruby>最低<rp>（</rp><rt>さいてい</rt><rp>）</rp></ruby><ruby>気温<rp>（</rp><rt>きおん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "nhiệt độ thấp nhất",
+              "html": "nhiệt độ thấp nhất"
+            }
+          ],
+          "term": "最低（さいてい）気温（きおん）",
+          "termHtml": "<ruby>最低<rp>（</rp><rt>さいてい</rt><rp>）</rp></ruby><ruby>気温<rp>（</rp><rt>きおん</rt><rp>）</rp></ruby>",
+          "meaning": "nhiệt độ thấp nhất",
+          "meaningHtml": "nhiệt độ thấp nhất"
+        },
+        {
+          "cells": [
+            {
+              "text": "にわか雨（あめ）/夕立（ゆうだち）",
+              "html": "にわか<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>/<ruby>夕立<rp>（</rp><rt>ゆうだち</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "mưa bất chợt, mưa rào",
+              "html": "mưa bất chợt, mưa rào"
+            }
+          ],
+          "term": "にわか雨（あめ）/夕立（ゆうだち）",
+          "termHtml": "にわか<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>/<ruby>夕立<rp>（</rp><rt>ゆうだち</rt><rp>）</rp></ruby>",
+          "meaning": "mưa bất chợt, mưa rào",
+          "meaningHtml": "mưa bất chợt, mưa rào"
+        },
+        {
+          "cells": [
+            {
+              "text": "雷（かみなり）",
+              "html": "<ruby>雷<rp>（</rp><rt>かみなり</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "sấm",
+              "html": "sấm"
+            }
+          ],
+          "term": "雷（かみなり）",
+          "termHtml": "<ruby>雷<rp>（</rp><rt>かみなり</rt><rp>）</rp></ruby>",
+          "meaning": "sấm",
+          "meaningHtml": "sấm"
+        },
+        {
+          "cells": [
+            {
+              "text": "台風（たいふう）",
+              "html": "<ruby>台風<rp>（</rp><rt>たいふう</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "bão",
+              "html": "bão"
+            }
+          ],
+          "term": "台風（たいふう）",
+          "termHtml": "<ruby>台風<rp>（</rp><rt>たいふう</rt><rp>）</rp></ruby>",
+          "meaning": "bão",
+          "meaningHtml": "bão"
+        },
+        {
+          "cells": [
+            {
+              "text": "虹（にじ）",
+              "html": "<ruby>虹<rp>（</rp><rt>にじ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "cầu vồng",
+              "html": "cầu vồng"
+            }
+          ],
+          "term": "虹（にじ）",
+          "termHtml": "<ruby>虹<rp>（</rp><rt>にじ</rt><rp>）</rp></ruby>",
+          "meaning": "cầu vồng",
+          "meaningHtml": "cầu vồng"
+        },
+        {
+          "cells": [
+            {
+              "text": "風（かぜ）",
+              "html": "<ruby>風<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "gió",
+              "html": "gió"
+            }
+          ],
+          "term": "風（かぜ）",
+          "termHtml": "<ruby>風<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>",
+          "meaning": "gió",
+          "meaningHtml": "gió"
+        },
+        {
+          "cells": [
+            {
+              "text": "雲（くも）",
+              "html": "<ruby>雲<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "mây",
+              "html": "mây"
+            }
+          ],
+          "term": "雲（くも）",
+          "termHtml": "<ruby>雲<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>",
+          "meaning": "mây",
+          "meaningHtml": "mây"
+        },
+        {
+          "cells": [
+            {
+              "text": "湿度（しつど）",
+              "html": "<ruby>湿度<rp>（</rp><rt>しつど</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "độ ẩm",
+              "html": "độ ẩm"
+            }
+          ],
+          "term": "湿度（しつど）",
+          "termHtml": "<ruby>湿度<rp>（</rp><rt>しつど</rt><rp>）</rp></ruby>",
+          "meaning": "độ ẩm",
+          "meaningHtml": "độ ẩm"
+        },
+        {
+          "cells": [
+            {
+              "text": "蒸（む）し暑（あつ）い",
+              "html": "<ruby>蒸<rp>（</rp><rt>む</rt><rp>）</rp></ruby>し<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "nóng ẩm, oi",
+              "html": "nóng ẩm, oi"
+            }
+          ],
+          "term": "蒸（む）し暑（あつ）い",
+          "termHtml": "<ruby>蒸<rp>（</rp><rt>む</rt><rp>）</rp></ruby>し<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い",
+          "meaning": "nóng ẩm, oi",
+          "meaningHtml": "nóng ẩm, oi"
+        },
+        {
+          "cells": [
+            {
+              "text": "さわやか「な」",
+              "html": "さわやか「な」"
+            },
+            {
+              "text": "thoáng, ráo",
+              "html": "thoáng, ráo"
+            }
+          ],
+          "term": "さわやか「な」",
+          "termHtml": "さわやか「な」",
+          "meaning": "thoáng, ráo",
+          "meaningHtml": "thoáng, ráo"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>晴<rp>（</rp><rt>は</rt><rp>）</rp></ruby>れ</td> <td>nắng, quang đãng</td> </tr><tr> <td width=\"40%\"><ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り</td> <td>có mây</td> </tr><tr> <td width=\"40%\"><ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby></td> <td>mưa</td> </tr><tr> <td width=\"40%\"><ruby>雪<rp>（</rp><rt>ゆき</rt><rp>）</rp></ruby></td> <td>tuyết</td> </tr><tr> <td width=\"40%\"><ruby>晴<rp>（</rp><rt>は</rt><rp>）</rp></ruby>れのち<ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り</td> <td>nắng sau đó chuyển mây</td> </tr><tr> <td width=\"40%\"><ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>り<ruby>時々<rp>（</rp><rt>ときどき</rt><rp>）</rp></ruby>（<ruby>一時<rp>（</rp><rt>いちじ</rt><rp>）</rp></ruby>）<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby></td> <td>có mây thỉnh thoảng có mưa</td> </tr><tr> <td width=\"40%\"><ruby>曇<rp>（</rp><rt>くも</rt><rp>）</rp></ruby>りよ<ruby>頃<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>によって<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby></td> <td>có mây, một vài nơi có mưa</td> </tr><tr> <td width=\"40%\"><ruby>降水<rp>（</rp><rt>こうすい</rt><rp>）</rp></ruby><ruby>確率<rp>（</rp><rt>かくりつ</rt><rp>）</rp></ruby></td> <td>xác suất mưa</td> </tr><tr> <td width=\"40%\"><ruby>最高<rp>（</rp><rt>さいこう</rt><rp>）</rp></ruby><ruby>気温<rp>（</rp><rt>きおん</rt><rp>）</rp></ruby></td> <td>nhiệt độ cao nhất</td> </tr><tr> <td width=\"40%\"><ruby>最低<rp>（</rp><rt>さいてい</rt><rp>）</rp></ruby><ruby>気温<rp>（</rp><rt>きおん</rt><rp>）</rp></ruby></td> <td>nhiệt độ thấp nhất</td> </tr><tr> <td width=\"40%\">にわか<ruby>雨<rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>/<ruby>夕立<rp>（</rp><rt>ゆうだち</rt><rp>）</rp></ruby></td> <td>mưa bất chợt, mưa rào</td> </tr><tr> <td width=\"40%\"><ruby>雷<rp>（</rp><rt>かみなり</rt><rp>）</rp></ruby></td> <td>sấm</td> </tr><tr> <td width=\"40%\"><ruby>台風<rp>（</rp><rt>たいふう</rt><rp>）</rp></ruby></td> <td>bão</td> </tr><tr> <td width=\"40%\"><ruby>虹<rp>（</rp><rt>にじ</rt><rp>）</rp></ruby></td> <td>cầu vồng</td> </tr><tr> <td width=\"40%\"><ruby>風<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby></td> <td>gió</td> </tr><tr> <td width=\"40%\"><ruby>雲<rp>（</rp><rt>くも</rt><rp>）</rp></ruby></td> <td>mây</td> </tr><tr> <td width=\"40%\"><ruby>湿度<rp>（</rp><rt>しつど</rt><rp>）</rp></ruby></td> <td>độ ẩm</td> </tr><tr> <td width=\"40%\"><ruby>蒸<rp>（</rp><rt>む</rt><rp>）</rp></ruby>し<ruby>暑<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>い</td> <td>nóng ẩm, oi</td> </tr><tr> <td width=\"40%\">さわやか「な」</td> <td>thoáng, ráo</td> </tr></tbody></table> <img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai32.jpg\" style=\"width: 100%; \"> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "lesson": 44,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "泣きます",
+      "kanjiHtml": "泣きます",
+      "sinoVietnamese": "KHẤP",
+      "kana": "なきます",
+      "kanaHtml": "なきます"
+    },
+    {
+      "index": 2,
+      "kanji": "笑います",
+      "kanjiHtml": "笑います",
+      "sinoVietnamese": "TIẾU",
+      "kana": "わらいます",
+      "kanaHtml": "わらいます"
+    },
+    {
+      "index": 3,
+      "kanji": "眠ります",
+      "kanjiHtml": "眠ります",
+      "sinoVietnamese": "MIÊN",
+      "kana": "ねむります",
+      "kanaHtml": "ねむります"
+    },
+    {
+      "index": 4,
+      "kanji": "乾きます",
+      "kanjiHtml": "乾きます",
+      "sinoVietnamese": "CAN",
+      "kana": "かわきます [シャツが～]",
+      "kanaHtml": "かわきます<br /> [シャツが～]"
+    },
+    {
+      "index": 5,
+      "kanji": "滑ります",
+      "kanjiHtml": "滑ります",
+      "sinoVietnamese": "HOẠT",
+      "kana": "すべります",
+      "kanaHtml": "すべります"
+    },
+    {
+      "index": 6,
+      "kanji": "起きます [事故が～]",
+      "kanjiHtml": "起きます<br />[事故が～]",
+      "sinoVietnamese": "KHỞI SỰ CỐ",
+      "kana": "おきます [じこが～]",
+      "kanaHtml": "おきます<br /> [じこが～]"
+    },
+    {
+      "index": 7,
+      "kanji": "調節します",
+      "kanjiHtml": "調節します",
+      "sinoVietnamese": "ĐIỀU TIẾT",
+      "kana": "ちょうせつします",
+      "kanaHtml": "ちょうせつします"
+    },
+    {
+      "index": 8,
+      "kanji": "安全[な]",
+      "kanjiHtml": "安全[な]",
+      "sinoVietnamese": "AN TOÀN",
+      "kana": "あんぜん[な]",
+      "kanaHtml": "あんぜん[な]"
+    },
+    {
+      "index": 9,
+      "kanji": "危険[な]",
+      "kanjiHtml": "危険[な]",
+      "sinoVietnamese": "NGUY HIỂM",
+      "kana": "きけん[な]",
+      "kanaHtml": "きけん[な]"
+    },
+    {
+      "index": 10,
+      "kanji": "濃い",
+      "kanjiHtml": "濃い",
+      "sinoVietnamese": "NỒNG",
+      "kana": "こい",
+      "kanaHtml": "こい"
+    },
+    {
+      "index": 11,
+      "kanji": "薄い",
+      "kanjiHtml": "薄い",
+      "sinoVietnamese": "BẠC",
+      "kana": "うすい",
+      "kanaHtml": "うすい"
+    },
+    {
+      "index": 12,
+      "kanji": "厚い",
+      "kanjiHtml": "厚い",
+      "sinoVietnamese": "HẬU",
+      "kana": "あつい",
+      "kanaHtml": "あつい"
+    },
+    {
+      "index": 13,
+      "kanji": "太い",
+      "kanjiHtml": "太い",
+      "sinoVietnamese": "THÁI",
+      "kana": "ふとい",
+      "kanaHtml": "ふとい"
+    },
+    {
+      "index": 14,
+      "kanji": "細い",
+      "kanjiHtml": "細い",
+      "sinoVietnamese": "TẾ",
+      "kana": "ほそい",
+      "kanaHtml": "ほそい"
+    },
+    {
+      "index": 15,
+      "kanji": "空気",
+      "kanjiHtml": "空気",
+      "sinoVietnamese": "KHÔNG KHÍ",
+      "kana": "くうき",
+      "kanaHtml": "くうき"
+    },
+    {
+      "index": 16,
+      "kanji": "涙",
+      "kanjiHtml": "涙",
+      "sinoVietnamese": "LỆ",
+      "kana": "なみだ",
+      "kanaHtml": "なみだ"
+    },
+    {
+      "index": 17,
+      "kanji": "和食",
+      "kanjiHtml": "和食",
+      "sinoVietnamese": "HÒA THỰC",
+      "kana": "わしょく",
+      "kanaHtml": "わしょく"
+    },
+    {
+      "index": 18,
+      "kanji": "洋食",
+      "kanjiHtml": "洋食",
+      "sinoVietnamese": "DƯƠNG THỰC",
+      "kana": "ようしょく",
+      "kanaHtml": "ようしょく"
+    },
+    {
+      "index": 19,
+      "kanji": "量",
+      "kanjiHtml": "量",
+      "sinoVietnamese": "LƯỢNG",
+      "kana": "りょう",
+      "kanaHtml": "りょう"
+    },
+    {
+      "index": 20,
+      "kanji": "―倍",
+      "kanjiHtml": "―倍",
+      "sinoVietnamese": "BỘI",
+      "kana": "―ばい",
+      "kanaHtml": "―ばい"
+    },
+    {
+      "index": 21,
+      "kanji": "洗濯物",
+      "kanjiHtml": "洗濯物",
+      "sinoVietnamese": "TẨY TRẠC VẬT",
+      "kana": "せんたくもの",
+      "kanaHtml": "せんたくもの"
+    }
+  ]
+}

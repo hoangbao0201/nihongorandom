@@ -3,15 +3,28 @@ import type { KanjiN5Row } from "@/lib/kanjiN5";
 
 interface KanjiN5PageProps {
   rows: KanjiN5Row[];
+  title?: string;
+  subtitle?: string;
+  backHref?: string;
+  backLabel?: string;
 }
 
-export default function KanjiN5Page({ rows }: KanjiN5PageProps) {
+export default function KanjiN5Page({
+  rows,
+  title = "Kanji N5",
+  subtitle,
+  backHref = "/",
+  backLabel = "Về trang chủ",
+}: KanjiN5PageProps) {
+  const resolvedSubtitle =
+    subtitle ?? `${rows.length} chữ - Minna no Nihongo N5`;
+
   return (
     <LessonPageShell
-      title="Kanji N5"
-      subtitle={`${rows.length} chữ - Minna no Nihongo N5`}
-      backHref="/"
-      backLabel="Về trang chủ"
+      title={title}
+      subtitle={resolvedSubtitle}
+      backHref={backHref}
+      backLabel={backLabel}
     >
       <div className="glass-panel overflow-hidden rounded-lg">
         <div className="overflow-x-auto">

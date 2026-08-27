@@ -1,0 +1,178 @@
+{
+  "lesson": 34,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "料理（りょうり） Nấu ăn",
+      "titleHtml": "<ruby>料理<rp>（</rp><rt>りょうり</rt><rp>）</rp></ruby> Nấu ăn",
+      "introHtml": "<p> <b>Nấu ăn</b>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "煮（に）る",
+              "html": "<ruby>煮<rp>（</rp><rt>に</rt><rp>）</rp></ruby>る"
+            },
+            {
+              "text": "nấu",
+              "html": "nấu"
+            }
+          ],
+          "term": "煮（に）る",
+          "termHtml": "<ruby>煮<rp>（</rp><rt>に</rt><rp>）</rp></ruby>る",
+          "meaning": "nấu",
+          "meaningHtml": "nấu"
+        },
+        {
+          "cells": [
+            {
+              "text": "焼（や）く",
+              "html": "<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>く"
+            },
+            {
+              "text": "nướng, rán",
+              "html": "nướng, rán"
+            }
+          ],
+          "term": "焼（や）く",
+          "termHtml": "<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>く",
+          "meaning": "nướng, rán",
+          "meaningHtml": "nướng, rán"
+        },
+        {
+          "cells": [
+            {
+              "text": "揚（あ）げる",
+              "html": "<ruby>揚<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる"
+            },
+            {
+              "text": "chiên",
+              "html": "chiên"
+            }
+          ],
+          "term": "揚（あ）げる",
+          "termHtml": "<ruby>揚<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる",
+          "meaning": "chiên",
+          "meaningHtml": "chiên"
+        },
+        {
+          "cells": [
+            {
+              "text": "いためる",
+              "html": "いためる"
+            },
+            {
+              "text": "xào",
+              "html": "xào"
+            }
+          ],
+          "term": "いためる",
+          "termHtml": "いためる",
+          "meaning": "xào",
+          "meaningHtml": "xào"
+        },
+        {
+          "cells": [
+            {
+              "text": "ゆでる",
+              "html": "ゆでる"
+            },
+            {
+              "text": "luộc",
+              "html": "luộc"
+            }
+          ],
+          "term": "ゆでる",
+          "termHtml": "ゆでる",
+          "meaning": "luộc",
+          "meaningHtml": "luộc"
+        },
+        {
+          "cells": [
+            {
+              "text": "蒸（む）す",
+              "html": "<ruby>蒸<rp>（</rp><rt>む</rt><rp>）</rp></ruby>す"
+            },
+            {
+              "text": "hấp",
+              "html": "hấp"
+            }
+          ],
+          "term": "蒸（む）す",
+          "termHtml": "<ruby>蒸<rp>（</rp><rt>む</rt><rp>）</rp></ruby>す",
+          "meaning": "hấp",
+          "meaningHtml": "hấp"
+        },
+        {
+          "cells": [
+            {
+              "text": "炊（た）く",
+              "html": "<ruby>炊<rp>（</rp><rt>た</rt><rp>）</rp></ruby>く"
+            },
+            {
+              "text": "nấu cơm",
+              "html": "nấu cơm"
+            }
+          ],
+          "term": "炊（た）く",
+          "termHtml": "<ruby>炊<rp>（</rp><rt>た</rt><rp>）</rp></ruby>く",
+          "meaning": "nấu cơm",
+          "meaningHtml": "nấu cơm"
+        },
+        {
+          "cells": [
+            {
+              "text": "むく",
+              "html": "むく"
+            },
+            {
+              "text": "gọt, bóc",
+              "html": "gọt, bóc"
+            }
+          ],
+          "term": "むく",
+          "termHtml": "むく",
+          "meaning": "gọt, bóc",
+          "meaningHtml": "gọt, bóc"
+        },
+        {
+          "cells": [
+            {
+              "text": "刻（きざ）む",
+              "html": "<ruby>刻<rp>（</rp><rt>きざ</rt><rp>）</rp></ruby>む"
+            },
+            {
+              "text": "thái",
+              "html": "thái"
+            }
+          ],
+          "term": "刻（きざ）む",
+          "termHtml": "<ruby>刻<rp>（</rp><rt>きざ</rt><rp>）</rp></ruby>む",
+          "meaning": "thái",
+          "meaningHtml": "thái"
+        },
+        {
+          "cells": [
+            {
+              "text": "かき混（ま）ぜる",
+              "html": "かき<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜる"
+            },
+            {
+              "text": "khuấy",
+              "html": "khuấy"
+            }
+          ],
+          "term": "かき混（ま）ぜる",
+          "termHtml": "かき<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜる",
+          "meaning": "khuấy",
+          "meaningHtml": "khuấy"
+        }
+      ],
+      "contentHtml": "<p> <b>Nấu ăn</b> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>煮<rp>（</rp><rt>に</rt><rp>）</rp></ruby>る</td> <td>nấu</td> </tr><tr> <td width=\"40%\"><ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>く</td> <td>nướng, rán</td> </tr><tr> <td width=\"40%\"><ruby>揚<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げる</td> <td>chiên</td> </tr><tr> <td width=\"40%\">いためる</td> <td>xào</td> </tr><tr> <td width=\"40%\">ゆでる</td> <td>luộc</td> </tr><tr> <td width=\"40%\"><ruby>蒸<rp>（</rp><rt>む</rt><rp>）</rp></ruby>す</td> <td>hấp</td> </tr><tr> <td width=\"40%\"><ruby>炊<rp>（</rp><rt>た</rt><rp>）</rp></ruby>く</td> <td>nấu cơm</td> </tr><tr> <td width=\"40%\">むく</td> <td>gọt, bóc</td> </tr><tr> <td width=\"40%\"><ruby>刻<rp>（</rp><rt>きざ</rt><rp>）</rp></ruby>む</td> <td>thái</td> </tr><tr> <td width=\"40%\">かき<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜる</td> <td>khuấy</td> </tr></tbody></table> </p> <br /> <p> <b>Gia vị</b> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">しょうゆ</td> <td>xì dầu</td> </tr><tr> <td width=\"40%\"><ruby>砂糖<rp>（</rp><rt>さとう</rt><rp>）</rp></ruby></td> <td>đường</td> </tr><tr> <td width=\"40%\"><ruby>塩<rp>（</rp><rt>しお</rt><rp>）</rp></ruby></td> <td>muối</td> </tr><tr> <td width=\"40%\"><ruby>酢<rp>（</rp><rt>す</rt><rp>）</rp></ruby></td> <td>giấm</td> </tr><tr> <td width=\"40%\">みそ</td> <td>miso (tương nhật)</td> </tr><tr> <td width=\"40%\"><ruby>油<rp>（</rp><rt>あぶら</rt><rp>）</rp></ruby></td> <td>dầu ăn, mỡ</td> </tr><tr> <td width=\"40%\">ソース</td> <td>nước chấm, nước xốt</td> </tr><tr> <td width=\"40%\">マヨネーズ</td> <td>ma-yo-nê (mayonnaise)</td> </tr><tr> <td width=\"40%\">ケチャップ</td> <td>tương cà chua (ketchup)</td> </tr><tr> <td width=\"40%\">からし（マスタード）</td> <td>mù-tạt, mù-tạc</td> </tr><tr> <td width=\"40%\">こしょう</td> <td>hạt tiêu</td> </tr><tr> <td width=\"40%\">とうがらし</td> <td>ớt</td> </tr><tr> <td width=\"40%\">しょうが</td> <td>gừng</td> </tr><tr> <td width=\"40%\">わさび</td> <td>wasabi</td> </tr><tr> <td width=\"40%\">カレー<ruby>粉<rp>（</rp><rt>こ</rt><rp>）</rp></ruby></td> <td>bột ca-ri</td> </tr></tbody></table> </p> <br /> <p> <b>Đồ dùng trong bếp</b> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">なべ</td> <td>cái chảo, cái nồi</td> </tr><tr> <td width=\"40%\">やかん</td> <td>cái ấm nước</td> </tr><tr> <td width=\"40%\">ふた</td> <td>cái nắp</td> </tr><tr> <td width=\"40%\">おたま</td> <td>cái muỗng</td> </tr><tr> <td width=\"40%\">まな<ruby>板<rp>（</rp><rt>いた</rt><rp>）</rp></ruby></td> <td>cái thớt</td> </tr><tr> <td width=\"40%\"><ruby>包丁<rp>（</rp><rt>ほうちょう</rt><rp>）</rp></ruby></td> <td>dao phay, dao thái thịt</td> </tr><tr> <td width=\"40%\">ふきん</td> <td>khăn lau, giấy lau</td> </tr><tr> <td width=\"40%\">フライパン</td> <td>cái chảo để rán</td> </tr><tr> <td width=\"40%\"><ruby>電子<rp>（</rp><rt>でんし</rt><rp>）</rp></ruby>オーブンレンジ</td> <td>lò vi-sóng</td> </tr><tr> <td width=\"40%\"><ruby>炊飯器<rp>（</rp><rt>すいはんき</rt><rp>）</rp></ruby></td> <td>nồi cơm điện</td> </tr><tr> <td width=\"40%\">しゃもじ</td> <td>thìa dẹt xới cơm</td> </tr><tr> <td width=\"40%\"><ruby>缶切<rp>（</rp><rt>かんき</rt><rp>）</rp></ruby>り</td> <td>cái mở đồ hộp</td> </tr><tr> <td width=\"40%\"><ruby>栓抜<rp>（</rp><rt>せんぬ</rt><rp>）</rp></ruby>き</td> <td>cái mở nắp chai</td> </tr><tr> <td width=\"40%\">ざる</td> <td>cái rá</td> </tr><tr> <td width=\"40%\">ポット</td> <td>cái ấm điện (đun và chứa nước nóng)</td> </tr><tr> <td width=\"40%\">ガス<ruby>代<rp>（</rp><rt>だい</rt><rp>）</rp></ruby></td> <td>chỗ để bếp ga</td> </tr><tr> <td width=\"40%\"><ruby>流<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>し「<ruby>台<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>」</td> <td>chậu rửa, bồn rửa</td> </tr><tr> <td width=\"40%\"><ruby>換気扇<rp>（</rp><rt>かんきせん</rt><rp>）</rp></ruby></td> <td>quạt hút khí</td> </tr></tbody></table> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

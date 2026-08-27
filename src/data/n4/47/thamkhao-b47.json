@@ -1,0 +1,258 @@
+{
+  "lesson": 47,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "擬音語（ぎおんご）・擬態語（ぎたいご） Từ tượng thanh và từ tượng hình",
+      "titleHtml": "<ruby>擬音語<rp>（</rp><rt>ぎおんご</rt><rp>）</rp></ruby>・<ruby>擬態語<rp>（</rp><rt>ぎたいご</rt><rp>）</rp></ruby> Từ tượng thanh và từ tượng hình",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "ザーザー（降（ふ）る）",
+              "html": "ザーザー（<ruby>降<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>る）"
+            },
+            {
+              "text": "(mưa) ra rả, lộp bộp",
+              "html": "(mưa) ra rả, lộp bộp"
+            }
+          ],
+          "term": "ザーザー（降（ふ）る）",
+          "termHtml": "ザーザー（<ruby>降<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>る）",
+          "meaning": "(mưa) ra rả, lộp bộp",
+          "meaningHtml": "(mưa) ra rả, lộp bộp"
+        },
+        {
+          "cells": [
+            {
+              "text": "ピューピュー（吹（ふ）く）",
+              "html": "ピューピュー（<ruby>吹<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>く）"
+            },
+            {
+              "text": "(gió thổi) vù vù",
+              "html": "(gió thổi) vù vù"
+            }
+          ],
+          "term": "ピューピュー（吹（ふ）く）",
+          "termHtml": "ピューピュー（<ruby>吹<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>く）",
+          "meaning": "(gió thổi) vù vù",
+          "meaningHtml": "(gió thổi) vù vù"
+        },
+        {
+          "cells": [
+            {
+              "text": "ゴロゴロ（鳴（な）る）",
+              "html": "ゴロゴロ（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>る）"
+            },
+            {
+              "text": "(sấm kêu) ầm ầm, ì ùng",
+              "html": "(sấm kêu) ầm ầm, ì ùng"
+            }
+          ],
+          "term": "ゴロゴロ（鳴（な）る）",
+          "termHtml": "ゴロゴロ（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>る）",
+          "meaning": "(sấm kêu) ầm ầm, ì ùng",
+          "meaningHtml": "(sấm kêu) ầm ầm, ì ùng"
+        },
+        {
+          "cells": [
+            {
+              "text": "ワンワン（ほえる）",
+              "html": "ワンワン（ほえる）"
+            },
+            {
+              "text": "(chó sủa) gâu gâu",
+              "html": "(chó sủa) gâu gâu"
+            }
+          ],
+          "term": "ワンワン（ほえる）",
+          "termHtml": "ワンワン（ほえる）",
+          "meaning": "(chó sủa) gâu gâu",
+          "meaningHtml": "(chó sủa) gâu gâu"
+        },
+        {
+          "cells": [
+            {
+              "text": "ニャーニャー（鳴（な）く）",
+              "html": "ニャーニャー（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）"
+            },
+            {
+              "text": "(mèo kêu) meo meo",
+              "html": "(mèo kêu) meo meo"
+            }
+          ],
+          "term": "ニャーニャー（鳴（な）く）",
+          "termHtml": "ニャーニャー（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）",
+          "meaning": "(mèo kêu) meo meo",
+          "meaningHtml": "(mèo kêu) meo meo"
+        },
+        {
+          "cells": [
+            {
+              "text": "カーカー（鳴（な）く）",
+              "html": "カーカー（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）"
+            },
+            {
+              "text": "(quạ kêu) uạc uạc",
+              "html": "(quạ kêu) uạc uạc"
+            }
+          ],
+          "term": "カーカー（鳴（な）く）",
+          "termHtml": "カーカー（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）",
+          "meaning": "(quạ kêu) uạc uạc",
+          "meaningHtml": "(quạ kêu) uạc uạc"
+        },
+        {
+          "cells": [
+            {
+              "text": "げらげら（笑（わら）う）",
+              "html": "げらげら（<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>う）"
+            },
+            {
+              "text": "(cười) khúc khích",
+              "html": "(cười) khúc khích"
+            }
+          ],
+          "term": "げらげら（笑（わら）う）",
+          "termHtml": "げらげら（<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>う）",
+          "meaning": "(cười) khúc khích",
+          "meaningHtml": "(cười) khúc khích"
+        },
+        {
+          "cells": [
+            {
+              "text": "しくしく（泣（な）く）",
+              "html": "しくしく（<ruby>泣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）"
+            },
+            {
+              "text": "(khóc) thút thít",
+              "html": "(khóc) thút thít"
+            }
+          ],
+          "term": "しくしく（泣（な）く）",
+          "termHtml": "しくしく（<ruby>泣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）",
+          "meaning": "(khóc) thút thít",
+          "meaningHtml": "(khóc) thút thít"
+        },
+        {
+          "cells": [
+            {
+              "text": "きょろきょろ（見（み）る）",
+              "html": "きょろきょろ（<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>る）"
+            },
+            {
+              "text": "(nhìn) mắt đảo lia lịa, nhìn quanh quẩn",
+              "html": "(nhìn) mắt đảo lia lịa, nhìn quanh quẩn"
+            }
+          ],
+          "term": "きょろきょろ（見（み）る）",
+          "termHtml": "きょろきょろ（<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>る）",
+          "meaning": "(nhìn) mắt đảo lia lịa, nhìn quanh quẩn",
+          "meaningHtml": "(nhìn) mắt đảo lia lịa, nhìn quanh quẩn"
+        },
+        {
+          "cells": [
+            {
+              "text": "ぱくぱく（食（た）べる）",
+              "html": "ぱくぱく（<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる）"
+            },
+            {
+              "text": "(ăn) ngon lành",
+              "html": "(ăn) ngon lành"
+            }
+          ],
+          "term": "ぱくぱく（食（た）べる）",
+          "termHtml": "ぱくぱく（<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる）",
+          "meaning": "(ăn) ngon lành",
+          "meaningHtml": "(ăn) ngon lành"
+        },
+        {
+          "cells": [
+            {
+              "text": "ぐうぐう（寝（ね）る）",
+              "html": "ぐうぐう（<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る）"
+            },
+            {
+              "text": "(ngủ) khò khò",
+              "html": "(ngủ) khò khò"
+            }
+          ],
+          "term": "ぐうぐう（寝（ね）る）",
+          "termHtml": "ぐうぐう（<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る）",
+          "meaning": "(ngủ) khò khò",
+          "meaningHtml": "(ngủ) khò khò"
+        },
+        {
+          "cells": [
+            {
+              "text": "すらすら（読（よ）む）",
+              "html": "すらすら（<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>む）"
+            },
+            {
+              "text": "(đọc) trôi chảy",
+              "html": "(đọc) trôi chảy"
+            }
+          ],
+          "term": "すらすら（読（よ）む）",
+          "termHtml": "すらすら（<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>む）",
+          "meaning": "(đọc) trôi chảy",
+          "meaningHtml": "(đọc) trôi chảy"
+        },
+        {
+          "cells": [
+            {
+              "text": "ざらざら（している）",
+              "html": "ざらざら（している）"
+            },
+            {
+              "text": "(cảm giác) ram ráp",
+              "html": "(cảm giác) ram ráp"
+            }
+          ],
+          "term": "ざらざら（している）",
+          "termHtml": "ざらざら（している）",
+          "meaning": "(cảm giác) ram ráp",
+          "meaningHtml": "(cảm giác) ram ráp"
+        },
+        {
+          "cells": [
+            {
+              "text": "べたべた（している）",
+              "html": "べたべた（している）"
+            },
+            {
+              "text": "(cảm giác) bên bết, dính",
+              "html": "(cảm giác) bên bết, dính"
+            }
+          ],
+          "term": "べたべた（している）",
+          "termHtml": "べたべた（している）",
+          "meaning": "(cảm giác) bên bết, dính",
+          "meaningHtml": "(cảm giác) bên bết, dính"
+        },
+        {
+          "cells": [
+            {
+              "text": "つるつる（している）",
+              "html": "つるつる（している）"
+            },
+            {
+              "text": "(cảm giác) nhầy nhẫy, tuồn tuột, trơn",
+              "html": "(cảm giác) nhầy nhẫy, tuồn tuột, trơn"
+            }
+          ],
+          "term": "つるつる（している）",
+          "termHtml": "つるつる（している）",
+          "meaning": "(cảm giác) nhầy nhẫy, tuồn tuột, trơn",
+          "meaningHtml": "(cảm giác) nhầy nhẫy, tuồn tuột, trơn"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">ザーザー（<ruby>降<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>る）</td> <td>(mưa) ra rả, lộp bộp</td> </tr><tr> <td width=\"40%\">ピューピュー（<ruby>吹<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>く）</td> <td>(gió thổi) vù vù</td> </tr><tr> <td width=\"40%\">ゴロゴロ（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>る）</td> <td>(sấm kêu) ầm ầm, ì ùng</td> </tr><tr> <td width=\"40%\">ワンワン（ほえる）</td> <td>(chó sủa) gâu gâu</td> </tr><tr> <td width=\"40%\">ニャーニャー（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）</td> <td>(mèo kêu) meo meo</td> </tr><tr> <td width=\"40%\">カーカー（<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）</td> <td>(quạ kêu) uạc uạc</td> </tr><tr> <td width=\"40%\">げらげら（<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>う）</td> <td>(cười) khúc khích</td> </tr><tr> <td width=\"40%\">しくしく（<ruby>泣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>く）</td> <td>(khóc) thút thít</td> </tr><tr> <td width=\"40%\">きょろきょろ（<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>る）</td> <td>(nhìn) mắt đảo lia lịa, nhìn quanh quẩn</td> </tr><tr> <td width=\"40%\">ぱくぱく（<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる）</td> <td>(ăn) ngon lành</td> </tr><tr> <td width=\"40%\">ぐうぐう（<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る）</td> <td>(ngủ) khò khò</td> </tr><tr> <td width=\"40%\">すらすら（<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>む）</td> <td>(đọc) trôi chảy</td> </tr><tr> <td width=\"40%\">ざらざら（している）</td> <td>(cảm giác) ram ráp</td> </tr><tr> <td width=\"40%\">べたべた（している）</td> <td>(cảm giác) bên bết, dính</td> </tr><tr> <td width=\"40%\">つるつる（している）</td> <td>(cảm giác) nhầy nhẫy, tuồn tuột, trơn</td> </tr></tbody></table> <img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai47.jpg\" style=\"width: 100%; \"> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

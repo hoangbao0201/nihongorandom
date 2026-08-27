@@ -1,0 +1,118 @@
+{
+  "lesson": 46,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "渡します",
+      "kanjiHtml": "渡します",
+      "sinoVietnamese": "ĐỘ",
+      "kana": "わたします",
+      "kanaHtml": "わたします"
+    },
+    {
+      "index": 2,
+      "kanji": "帰って来ます",
+      "kanjiHtml": "帰って来ます",
+      "sinoVietnamese": "QUY LAI",
+      "kana": "かえってきます",
+      "kanaHtml": "かえってきます"
+    },
+    {
+      "index": 3,
+      "kanji": "出ます [バスが～]",
+      "kanjiHtml": "出ます<br />[バスが～]",
+      "sinoVietnamese": "XUẤT",
+      "kana": "でます [バスが～]",
+      "kanaHtml": "でます<br /> [バスが～]"
+    },
+    {
+      "index": 4,
+      "kanji": "届きます [荷物が～]",
+      "kanjiHtml": "届きます<br />[荷物が～]",
+      "sinoVietnamese": "GIỚI HÀ VẬT",
+      "kana": "とどきます [にもつが～]",
+      "kanaHtml": "とどきます<br /> [にもつが～]"
+    },
+    {
+      "index": 5,
+      "kanji": "入学します [大学に～]",
+      "kanjiHtml": "入学します<br />[大学に～]",
+      "sinoVietnamese": "NHẬP HỌC ĐẠI HỌC",
+      "kana": "にゅうがくします [だいがくに～]",
+      "kanaHtml": "にゅうがくします<br /> [だいがくに～]"
+    },
+    {
+      "index": 6,
+      "kanji": "卒業します [大学を～]",
+      "kanjiHtml": "卒業します<br />[大学を～]",
+      "sinoVietnamese": "TỐT NGHIỆP ĐẠI HỌC",
+      "kana": "そつぎょうします [だいがくを～]",
+      "kanaHtml": "そつぎょうします<br /> [だいがくを～]"
+    },
+    {
+      "index": 7,
+      "kanji": "焼きます",
+      "kanjiHtml": "焼きます",
+      "sinoVietnamese": "THIÊU",
+      "kana": "やきます",
+      "kanaHtml": "やきます"
+    },
+    {
+      "index": 8,
+      "kanji": "焼けます",
+      "kanjiHtml": "焼けます",
+      "sinoVietnamese": "THIÊU",
+      "kana": "やけます [パンが～] [にくが～]",
+      "kanaHtml": "やけます<br /> [パンが～]<br /> [にくが～]"
+    },
+    {
+      "index": 9,
+      "kanji": "留守",
+      "kanjiHtml": "留守",
+      "sinoVietnamese": "LƯU THỦ",
+      "kana": "るす",
+      "kanaHtml": "るす"
+    },
+    {
+      "index": 10,
+      "kanji": "宅配便",
+      "kanjiHtml": "宅配便",
+      "sinoVietnamese": "TRẠCH PHỐI TIỆN",
+      "kana": "たくはいびん",
+      "kanaHtml": "たくはいびん"
+    },
+    {
+      "index": 11,
+      "kanji": "原因",
+      "kanjiHtml": "原因",
+      "sinoVietnamese": "NGUYÊN NHÂN",
+      "kana": "げんいん",
+      "kanaHtml": "げんいん"
+    },
+    {
+      "index": 12,
+      "kanji": "～の所",
+      "kanjiHtml": "～の所",
+      "sinoVietnamese": "SỞ",
+      "kana": "～のところ",
+      "kanaHtml": "～のところ"
+    },
+    {
+      "index": 13,
+      "kanji": "半年",
+      "kanjiHtml": "半年",
+      "sinoVietnamese": "BÁN NIÊN",
+      "kana": "はんとし",
+      "kanaHtml": "はんとし"
+    },
+    {
+      "index": 14,
+      "kanji": "たった今",
+      "kanjiHtml": "たった今",
+      "sinoVietnamese": "KIM",
+      "kana": "たったいま",
+      "kanaHtml": "たったいま"
+    }
+  ]
+}

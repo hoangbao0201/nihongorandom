@@ -1,0 +1,66 @@
+{
+  "lesson": 28,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca96c0951364352b62b7b88",
+      "index": 136,
+      "character": "運",
+      "sinoVietnameseWord": "Vận",
+      "mean": "Vận động",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l3/kanji/img/gym_running_people.png",
+      "reminiscentDescription": "<p>Qu&acirc;n đội vận chuyển lương thực bằng xe</p>",
+      "onReading": "ウン",
+      "kunReading": "はこ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 171px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">運びます&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">はこびます</td>\n<td style=\"width: 33.3333%; height: 21px;\">Vận chuyển</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">運転します</td>\n<td style=\"width: 33.3333%; height: 21px;\">うんてんします</td>\n<td style=\"width: 33.3333%; height: 21px;\">L&aacute;i xe</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 24px;\">運命</td>\n<td style=\"width: 33.3333%; height: 24px;\">うんめい</td>\n<td style=\"width: 33.3333%; height: 24px;\">Vận mệnh</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">運動します</td>\n<td style=\"width: 33.3333%; height: 21px;\">うんどうします</td>\n<td style=\"width: 33.3333%; height: 21px;\">Vận động</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca96ca851364352b62b7b8a",
+      "index": 137,
+      "character": "転",
+      "sinoVietnameseWord": "Chuyển",
+      "mean": "Vận Chuyển",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l3/kanji/img/car_man04_laugh.png",
+      "reminiscentDescription": "<p>Sử dụng xe để di chuyển đ&aacute;m m&acirc;y</p>",
+      "onReading": "テン",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 127px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">自転車</td>\n<td style=\"width: 33.3333%; height: 21px;\">じてんしゃ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Xe đạp</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">転びます</td>\n<td style=\"width: 33.3333%; height: 21px;\">ころびます</td>\n<td style=\"width: 33.3333%; height: 21px;\">Vấp ng&atilde;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">転校</td>\n<td style=\"width: 33.3333%; height: 21px;\">てんこう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Chuyển trường</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">転勤</td>\n<td style=\"width: 33.3333%; height: 21px;\">てんきん</td>\n<td style=\"width: 33.3333%; height: 21px;\">Chuyển việc</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "kunReading": "ころ"
+    },
+    {
+      "_id": "5ca96d4d51364352b62b7b8d",
+      "index": 138,
+      "character": "力",
+      "sinoVietnameseWord": "Lực",
+      "mean": "Sức lực",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l3/kanji/img/yaruki_moeru_man.png",
+      "reminiscentDescription": "<p>Đại Ka カ (ka trong bảng katakana) phải c&oacute; Lực 力</p>",
+      "onReading": "リョク",
+      "kunReading": "ちから",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 140px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">力</td>\n<td style=\"width: 33.3333%; height: 21px;\">ちから</td>\n<td style=\"width: 33.3333%; height: 21px;\">Sức lực</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">学力</td>\n<td style=\"width: 33.3333%; height: 21px;\">がくりょく&nbsp; &nbsp; &nbsp;&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">Học lực</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">努力</td>\n<td style=\"width: 33.3333%; height: 21px;\">どりょく&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">Nỗ lực</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">電力</td>\n<td style=\"width: 33.3333%; height: 21px;\">でんりょく</td>\n<td style=\"width: 33.3333%; height: 21px;\">Điện lực</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 14px;\">\n<td style=\"width: 33.3333%; height: 14px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 14px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 14px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca96df951364352b62b7b8f",
+      "index": 139,
+      "character": "色",
+      "sinoVietnameseWord": "Sắc",
+      "mean": "Màu sắc",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l3/kanji/img/color_pencil_2055.png",
+      "reminiscentDescription": "<p>Ra SẮC Lệnh Th&uacute;c đẩy Lực lượng</p>",
+      "onReading": "シキ、ショク",
+      "kunReading": "いろ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">色</td>\n<td style=\"width: 33.3333%; height: 22px;\">いろ</td>\n<td style=\"width: 33.3333%; height: 22px;\">M&agrave;u sắc</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 33.3333%; height: 15px;\">水色</td>\n<td style=\"width: 33.3333%; height: 15px;\">みずいろ&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>\n<td style=\"width: 33.3333%; height: 15px;\">M&agrave;u nước</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">景色</td>\n<td style=\"width: 33.3333%; height: 22px;\">けしき&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">Phong cảnh</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">特色</td>\n<td style=\"width: 33.3333%; height: 22px;\">とくしょく</td>\n<td style=\"width: 33.3333%; height: 22px;\">Đặc sắc</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca96ebd51364352b62b7b91",
+      "index": 140,
+      "character": "具",
+      "sinoVietnameseWord": "Cụ",
+      "mean": "Dụng cụ",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l3/kanji/img/school_01-768x768.png",
+      "reminiscentDescription": "<p>Chặt đ&ocirc;i ch&acirc;n của bảo bối để l&agrave;m c&ocirc;ng cụ</p>",
+      "onReading": "グ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 168px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">家具</td>\n<td style=\"width: 33.3333%; height: 21px;\">かぐ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Dụng cụ gia đ&igrave;nh</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">道具&nbsp; &nbsp;&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">どうぐ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Dụng cụ</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">具合</td>\n<td style=\"width: 33.3333%; height: 21px;\">ぐあい</td>\n<td style=\"width: 33.3333%; height: 21px;\">T&igrave;nh trạng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

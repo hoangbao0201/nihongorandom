@@ -1,0 +1,134 @@
+{
+  "lesson": 27,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "飼います",
+      "kanjiHtml": "飼います",
+      "sinoVietnamese": "TỰ",
+      "kana": "かいます",
+      "kanaHtml": "かいます"
+    },
+    {
+      "index": 2,
+      "kanji": "走ります [道を～]",
+      "kanjiHtml": "走ります<br />[道を～]",
+      "sinoVietnamese": "TẨU ĐẠO",
+      "kana": "はしります [みちを～]",
+      "kanaHtml": "はしります<br /> [みちを～]"
+    },
+    {
+      "index": 3,
+      "kanji": "見えます [山が～]",
+      "kanjiHtml": "見えます<br />[山が～]",
+      "sinoVietnamese": "KIẾN SƠN",
+      "kana": "みえます [やまが～]",
+      "kanaHtml": "みえます<br /> [やまが～]"
+    },
+    {
+      "index": 4,
+      "kanji": "聞こえます [音が～]",
+      "kanjiHtml": "聞こえます<br />[音が～]",
+      "sinoVietnamese": "VĂN ÂM",
+      "kana": "きこえます [おとが～]",
+      "kanaHtml": "きこえます<br /> [おとが～]"
+    },
+    {
+      "index": 5,
+      "kanji": "できます [道が～]",
+      "kanjiHtml": "できます<br />[道が～]",
+      "sinoVietnamese": "ĐẠO",
+      "kana": "できます [みちが～]",
+      "kanaHtml": "できます<br /> [みちが～]"
+    },
+    {
+      "index": 6,
+      "kanji": "開きます [教室を～]",
+      "kanjiHtml": "開きます<br />[教室を～]",
+      "sinoVietnamese": "KHAI GIÁO THẤT",
+      "kana": "ひらきます [きょうしつを～]",
+      "kanaHtml": "ひらきます<br /> [きょうしつを～]"
+    },
+    {
+      "index": 7,
+      "kanji": "心配[な]",
+      "kanjiHtml": "心配[な]",
+      "sinoVietnamese": "TÂM PHỐI",
+      "kana": "しんぱい[な]",
+      "kanaHtml": "しんぱい[な]"
+    },
+    {
+      "index": 8,
+      "kanji": "鳥",
+      "kanjiHtml": "鳥",
+      "sinoVietnamese": "ĐIẾU",
+      "kana": "とり",
+      "kanaHtml": "とり"
+    },
+    {
+      "index": 9,
+      "kanji": "声",
+      "kanjiHtml": "声",
+      "sinoVietnamese": "THANH",
+      "kana": "こえ",
+      "kanaHtml": "こえ"
+    },
+    {
+      "index": 10,
+      "kanji": "波",
+      "kanjiHtml": "波",
+      "sinoVietnamese": "BA",
+      "kana": "なみ",
+      "kanaHtml": "なみ"
+    },
+    {
+      "index": 11,
+      "kanji": "花火",
+      "kanjiHtml": "花火",
+      "sinoVietnamese": "HOA HỎA",
+      "kana": "はなび",
+      "kanaHtml": "はなび"
+    },
+    {
+      "index": 12,
+      "kanji": "道具",
+      "kanjiHtml": "道具",
+      "sinoVietnamese": "ĐẠO CỤ",
+      "kana": "どうぐ",
+      "kanaHtml": "どうぐ"
+    },
+    {
+      "index": 13,
+      "kanji": "家",
+      "kanjiHtml": "家",
+      "sinoVietnamese": "GIA",
+      "kana": "いえ",
+      "kanaHtml": "いえ"
+    },
+    {
+      "index": 14,
+      "kanji": "～教室",
+      "kanjiHtml": "～教室",
+      "sinoVietnamese": "GIÁO THẤT",
+      "kana": "～きょうしつ",
+      "kanaHtml": "～きょうしつ"
+    },
+    {
+      "index": 15,
+      "kanji": "方",
+      "kanjiHtml": "方",
+      "sinoVietnamese": "PHƯƠNG",
+      "kana": "かた",
+      "kanaHtml": "かた"
+    },
+    {
+      "index": 16,
+      "kanji": "～後",
+      "kanjiHtml": "～後",
+      "sinoVietnamese": "HẬU",
+      "kana": "～ご",
+      "kanaHtml": "～ご"
+    }
+  ]
+}
