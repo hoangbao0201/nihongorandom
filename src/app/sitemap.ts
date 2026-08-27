@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { loadN4LessonMenu, N4_LESSON_NUMBERS } from "@/lib/n4Lesson";
 import { loadN5LessonMenu, N5_LESSON_COUNT } from "@/lib/n5Lesson";
 import { getSiteUrl } from "@/lib/site";
 
@@ -17,7 +18,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/n4/lessons`,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/n5/kanji`,
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/n4/kanji`,
       changeFrequency: "monthly",
       priority: 0.8,
     },
@@ -38,6 +49,27 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     for (const part of menu.data) {
       entries.push({
         url: `${baseUrl}/n5/lessons/${lesson}/${part.id}`,
+        changeFrequency: "monthly",
+        priority: 0.6,
+      });
+    }
+  }
+
+  for (const lesson of N4_LESSON_NUMBERS) {
+    const menu = await loadN4LessonMenu(lesson);
+    if (!menu?.data?.length) {
+      continue;
+    }
+
+    entries.push({
+      url: `${baseUrl}/n4/lessons/${lesson}`,
+      changeFrequency: "monthly",
+      priority: 0.7,
+    });
+
+    for (const part of menu.data) {
+      entries.push({
+        url: `${baseUrl}/n4/lessons/${lesson}/${part.id}`,
         changeFrequency: "monthly",
         priority: 0.6,
       });

@@ -1,0 +1,820 @@
+{
+  "lesson": 30,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひろしまけんふくやまし</b></div> <div class=\"kanji\">広島県福山市</div> <div class=\"nghia_viet\">thành phố Fukuyama, tỉnh Hiroshima</div> <div class=\"nghia_anh\">Fukuyama City in Hiroshima prefecture</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しらせます</b></div> <div class=\"kanji\">知らせます</div> <div class=\"nghia_viet\">thông báo</div> <div class=\"nghia_anh\">inform</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おきどうけい</b></div> <div class=\"kanji\">置き時計</div> <div class=\"nghia_viet\">đồng hồ để bàn</div> <div class=\"nghia_anh\">table clock</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>そのほかの</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ngoài ra khác</div> <div class=\"nghia_anh\">other </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うるさい</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ồn ào, ầm ĩ</div> <div class=\"nghia_anh\">noisy</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きまった</b></div> <div class=\"kanji\">決まった</div> <div class=\"nghia_viet\">đã định, nhất định</div> <div class=\"nghia_anh\">regular</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>なります</b></div> <div class=\"kanji\">鳴ます</div> <div class=\"nghia_viet\">kêu, reo</div> <div class=\"nghia_anh\">ring</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ほとんど</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">hầu hết</div> <div class=\"nghia_anh\">almost all</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>[ねじを]まきます</b></div> <div class=\"kanji\">[ねじを］巻きます</div> <div class=\"nghia_viet\">lên, vặn (dây cót)</div> <div class=\"nghia_anh\">wind</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ねじ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">dây cót</div> <div class=\"nghia_anh\">spring</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～じゅう</b></div> <div class=\"kanji\">～中</div> <div class=\"nghia_viet\">suốt ~, cả ~</div> <div class=\"nghia_anh\">all ~ long</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いちどに</b></div> <div class=\"kanji\">一度に</div> <div class=\"nghia_viet\">một lúc</div> <div class=\"nghia_anh\">at the same time</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>すこしずつ</b></div> <div class=\"kanji\">少しずつ</div> <div class=\"nghia_viet\">một tí một</div> <div class=\"nghia_anh\">slightly</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ちがいます</b></div> <div class=\"kanji\">違います</div> <div class=\"nghia_viet\">khác</div> <div class=\"nghia_anh\">be different</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>そんなに</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">đến thế</div> <div class=\"nghia_anh\">that (many, ect.)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こっとうや</b></div> <div class=\"kanji\">骨董屋</div> <div class=\"nghia_viet\">cửa hàng đồ cổ</div> <div class=\"nghia_anh\">antique shop</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>みつけます</b></div> <div class=\"kanji\">見つけます</div> <div class=\"nghia_viet\">tìm thấy</div> <div class=\"nghia_anh\">find</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はなれ</b></div> <div class=\"kanji\">離れ</div> <div class=\"nghia_viet\">bỏ không</div> <div class=\"nghia_anh\">detached room</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いっぱい</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">đầy, nhiều</div> <div class=\"nghia_anh\">full</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>つみます</b></div> <div class=\"kanji\">積みます</div> <div class=\"nghia_viet\">để chồng chất, tích trữ</div> <div class=\"nghia_anh\">pile</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>なれます</b></div> <div class=\"kanji\">慣れます</div> <div class=\"nghia_viet\">quen</div> <div class=\"nghia_anh\">get used to</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おなじ</b></div> <div class=\"kanji\">同じ</div> <div class=\"nghia_viet\">giống</div> <div class=\"nghia_anh\">same</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はくぶつかん</b></div> <div class=\"kanji\">博物館</div> <div class=\"nghia_viet\">bảo tàng</div> <div class=\"nghia_anh\">museum</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>このままにします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">để nguyên như này</div> <div class=\"nghia_anh\">leave them as they are</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ただしい</b></div> <div class=\"kanji\">正しい</div> <div class=\"nghia_viet\">đúng</div> <div class=\"nghia_anh\">correct</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はこびます</b></div> <div class=\"kanji\">運びます</div> <div class=\"nghia_viet\">chở, mang</div> <div class=\"nghia_anh\">carry</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>でんごんメモ</b></div> <div class=\"kanji\">伝言メモ</div> <div class=\"nghia_viet\">thư nhắn</div> <div class=\"nghia_anh\">message memo</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>してん</b></div> <div class=\"kanji\">支店</div> <div class=\"nghia_viet\">chi nhánh</div> <div class=\"nghia_anh\">branch office</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しらせます</b></div> <div class=\"kanji\">知らせます</div> <div class=\"nghia_viet\">thông báo</div> <div class=\"nghia_anh\">inform</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おさきにしつれいします。</b></div> <div class=\"kanji\">お先に失礼します。</div> <div class=\"nghia_viet\">Tôi xin phép về trước ạ!</div> <div class=\"nghia_anh\">Excuse me for leaving before you.</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ゴメン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">xin lỗi </div> <div class=\"nghia_anh\">sorry</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>サラダ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">sa-lát</div> <div class=\"nghia_anh\">salad</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とどきます</b></div> <div class=\"kanji\">届きます</div> <div class=\"nghia_viet\">được gửi đến</div> <div class=\"nghia_anh\">arrive</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うかがいますか</b></div> <div class=\"kanji\">伺いますか</div> <div class=\"nghia_viet\">đến (khiêm nhường ngữ của きます）</div> <div class=\"nghia_anh\">come (humble equivalent of きます)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ぜったいに～ない</b></div> <div class=\"kanji\">絶対に～ない</div> <div class=\"nghia_viet\">tuyệt đối không ~</div> <div class=\"nghia_anh\">never ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かせいふ</b></div> <div class=\"kanji\">家政婦</div> <div class=\"nghia_viet\">người giúp việc</div> <div class=\"nghia_anh\">housemaid</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でいちばん</b></h3> <p></p> <ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>がなかったら、<ruby>不便<rp>（</rp><rt>ふべん</rt><rp>）</rp></ruby>ですが、たくさんあっても、<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>です。 <ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby><ruby>県<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby>福山<rp>（</rp><rt>ふくやま</rt><rp>）</rp></ruby><ruby>市<rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんのうちには<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>で<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らせる<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が５６０あります。 <ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>に<ruby>掛<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ける<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が３１０、<ruby>置時計<rp>（</rp><rt>おきどけい</rt><rp>）</rp></ruby>が２１０、そのほかの<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が４０です。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で<ruby>一番時計<rp>（</rp><rt>いちばんとけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>がうるさいうちです。 ５６０の<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>まった<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>になると、<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>るのです。 <p></p> ほとんど<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>で、そのままにしておくと、<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まってしまいます。 <ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>ねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>かなければなりません。 <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんは1<ruby>日中時計<rp>（</rp><rt>にちじゅうとけい</rt><rp>）</rp></ruby>のねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>いていますから、<ruby>右手<rp>（</rp><rt>みぎて</rt><rp>）</rp></ruby>がいつも<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>っています。 もし<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>に５６０の<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>なったら、<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>も<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くなってしまいますね。 でも、みんな<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですから、<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>しずつ<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>う<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>になります。 ですから、<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんの<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>は<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くならないのです。 <p></p> <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんにちょっと<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。 <p></p>— どうしてそんなにたくさん<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているんですか。 <p></p>30<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>まえに<ruby>骨董屋<rp>（</rp><rt>こっとうや</rt><rp>）</rp></ruby>で<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つけた<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>修理<rp>（</rp><rt>しゅうり</rt><rp>）</rp></ruby>してから、<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きになりました。 <ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>れた<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>直<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>すと、<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きますね。 それが<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいんです。 <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>も<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると、<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ってしまいます。 もう<ruby>離<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>れ<ruby>四<rp>（</rp><rt>よっ</rt><rp>）</rp></ruby>つの<ruby>部屋<rp>（</rp><rt>へや</rt><rp>）</rp></ruby>がいっぱいで、<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れにも<ruby>積<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>んであります。 <p></p>— <ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>はよく<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>られますか。 <ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>がうるさくないです。 <p></p><ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>ですから、すぐ<ruby>慣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>れましたよ。 <ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>と<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じです。 <p></p>— <ruby>将来<rp>（</rp><rt>しょうらい</rt><rp>）</rp></ruby>、<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>博物館<rp>（</rp><rt>はくぶつかん</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りたいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っていますか。 <p></p>ええ。でも、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>はお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がありませんから…。 しばらくこのままにしておきます。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> 1) <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんはどうして<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているのです。 <p></p> ①<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>があると、<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>だから。 <p></p> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>修理<rp>（</rp><rt>しゅうり</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きだから。 <p></p> ➂<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きながら<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>たいから。 <p></p> 2) <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんはどうして<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>が<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いのですか。 <p></p> ①<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>直<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>すから。 <p></p> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>のねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>いているから <p></p> ➂<ruby>骨董屋<rp>（</rp><rt>こっとうや</rt><rp>）</rp></ruby>からうちまで<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶから。 <p></p> 3) <ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>っても、どうして<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>が<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くならないのですか。 <p></p> ①<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れに<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてあるから。 <p></p> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>は<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>だから。 <p></p> ➂<ruby>鳴<rp>（</rp><rt>なり</rt><rp>）</rp></ruby>る<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じではないから。 <p></p>II 1. あなたも<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めていますか。 <p></p> それは<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。どうして<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているのですか。 <p></p> 2. おもしろいものを<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っていますか。 <p></p> <ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でいちばん</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Nhất Nhật Bản.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>がなかったら、<ruby>不便<rp>（</rp><rt>ふべん</rt><rp>）</rp></ruby>ですが、たくさんあっても、<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu như không có đồng hồ thì rất bất tiện, mà có nhiều thì cũng rất mệt mỏi.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby><ruby>県<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby>福山<rp>（</rp><rt>ふくやま</rt><rp>）</rp></ruby><ruby>市<rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんのうちには<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>で<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らせる<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が５６０あります。</div><div class=\"kqdich\"><div class=\"nddich\">Ở nhà của ông Akashige ở thành phố Fukuyama tỉnh Hiroshima có 560 cái đồng hồ báo giờ bằng âm thanh.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>に<ruby>掛<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ける<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が３１０、<ruby>置時計<rp>（</rp><rt>おきどけい</rt><rp>）</rp></ruby>が２１０、そのほかの<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が４０です。</div><div class=\"kqdich\"><div class=\"nddich\">Có 310 cái đồng hồ treo tường, 210 đồng hồ để bàn và 40 cái đồng hồ khác.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で<ruby>一番時計<rp>（</rp><rt>いちばんとけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>がうるさいうちです。</div><div class=\"kqdich\"><div class=\"nddich\">Là căn nhà có âm thanh đồng hồ ồn nhất Nhật Bản.</div></div></div> <div class=\"tudich\"><div class=\"candich\">５６０の<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>まった<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>になると、<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>るのです。</div><div class=\"kqdich\"><div class=\"nddich\">560 cái đồng hồ cứ đến giờ là reo lên.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">ほとんど<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>で、そのままにしておくと、<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まってしまいます。</div><div class=\"kqdich\"><div class=\"nddich\">Hầu hết là đồng hồ cũ, nên cứ để nguyên như thế thì nó sẽ dừng lại.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>ねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>かなければなりません。</div><div class=\"kqdich\"><div class=\"nddich\">Phải lên dây cót cho đồng hồ mỗi ngày.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんは1<ruby>日中時計<rp>（</rp><rt>にちじゅうとけい</rt><rp>）</rp></ruby>のねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>いていますから、<ruby>右手<rp>（</rp><rt>みぎて</rt><rp>）</rp></ruby>がいつも<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>っています。</div><div class=\"kqdich\"><div class=\"nddich\">Ông Akashige nói rằng thường đau tay phải do lên dây cót đồng hồ suốt ngày.</div></div></div> <div class=\"tudich\"><div class=\"candich\">もし<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>に５６０の<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>なったら、<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>も<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くなってしまいますね。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu như toàn bộ 560 cái đồng hồ reo một lần thì sẽ đau tai luôn nhỉ.</div></div></div> <div class=\"tudich\"><div class=\"candich\">でも、みんな<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですから、<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>しずつ<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>う<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>になります。</div><div class=\"kqdich\"><div class=\"nddich\">Nhưng mà, tất cả đều là đồng hồ cũ nên sẽ reo vào thời gian khác nhau từng chút một.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ですから、<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんの<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>は<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くならないのです。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy, tai của ông Akashige không bị đau.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんにちょっと<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Hỏi ông Akashige một chút. </div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\">どうしてそんなにたくさん<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao ông lại sưu tập nhiều đồng hồ như thế?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">30<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>まえに<ruby>骨董屋<rp>（</rp><rt>こっとうや</rt><rp>）</rp></ruby>で<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つけた<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>修理<rp>（</rp><rt>しゅうり</rt><rp>）</rp></ruby>してから、<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きになりました。</div><div class=\"kqdich\"><div class=\"nddich\">30 năm trước, sau khi sửa chữa chiếc đồng hồ tìm thấy trong cửa hàng đồ cổ, tôi đã trở nên thích đồng hồ.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>れた<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>直<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>すと、<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きますね。</div><div class=\"kqdich\"><div class=\"nddich\">Sửa chữa đồng hồ hỏng nó sẽ hoạt động nhỉ.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それが<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいんです。</div><div class=\"kqdich\"><div class=\"nddich\">Việc đó thật là vui.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>も<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると、<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ってしまいます。</div><div class=\"kqdich\"><div class=\"nddich\">Bây giờ cũng vậy, khi nhìn thấy những chiếc đồng hồ cổ, tô sẽ mua nó.</div></div></div> <div class=\"tudich\"><div class=\"candich\">もう<ruby>離<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>れ<ruby>四<rp>（</rp><rt>よっ</rt><rp>）</rp></ruby>つの<ruby>部屋<rp>（</rp><rt>へや</rt><rp>）</rp></ruby>がいっぱいで、<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れにも<ruby>積<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>んであります。</div><div class=\"kqdich\"><div class=\"nddich\">Vì trong cả 4 phòng riêng đều đã đầy ắp, ở tủ âm tường cũng chất đầy.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\"><ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>はよく<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>られますか。</div><div class=\"kqdich\"><div class=\"nddich\">Buổi tối ông có ngủ ngon không ?</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>がうるさくないです。</div><div class=\"kqdich\"><div class=\"nddich\">Âm thanh của đồng hồ có phiền không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"><ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>ですから、すぐ<ruby>慣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>れましたよ。</div><div class=\"kqdich\"><div class=\"nddich\">Vì tôi thích âm thanh của đồng hồ nên tôi đã quen liền ngay ấy. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>と<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じです。</div><div class=\"kqdich\"><div class=\"nddich\">Giống như âm nhạc.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\"><ruby>将来<rp>（</rp><rt>しょうらい</rt><rp>）</rp></ruby>、<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>博物館<rp>（</rp><rt>はくぶつかん</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りたいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っていますか。</div><div class=\"kqdich\"><div class=\"nddich\">Trong tương lai, ông có muốn mở viện bảo tàng đồng hồ không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">ええ。でも、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>はお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がありませんから…。</div><div class=\"kqdich\"><div class=\"nddich\">Có, nhưng mà bây giờ tôi không có tiền nên… </div></div></div> <div class=\"tudich\"><div class=\"candich\">しばらくこのままにしておきます。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi sẽ giữ nguyên như hiện tại một thời gian.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy chọn câu trả lời đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1) <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんはどうして<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているのです。</div><div class=\"kqdich\"><div class=\"nddich\">Vì sao ông Akashige sưu tập đồng hồ?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> ①<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>があると、<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>だから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì khi có đồng hồ sẽ tiện lợi.</div></div></div> <p></p><b><div class=\"tudich\"><div class=\"candich\"> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>修理<rp>（</rp><rt>しゅうり</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きだから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì thích sửa chữa đồng hồ.</div></div></div></b> <p></p><div class=\"tudich\"><div class=\"candich\"> ➂<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きながら<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>たいから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì muốn vừa nghe âm thanh đồng hồ vừa ngủ.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2) <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんはどうして<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>が<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いのですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao ông Akashige đau tay?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> ①<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>直<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>すから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì sửa chữa đồng hồ.</div></div></div> <p></p><b><div class=\"tudich\"><div class=\"candich\"> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>のねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>いているから</div><div class=\"kqdich\"><div class=\"nddich\">Vì lên dây cót đồng hồ.</div></div></div></b> <p></p><div class=\"tudich\"><div class=\"candich\"> ➂<ruby>骨董屋<rp>（</rp><rt>こっとうや</rt><rp>）</rp></ruby>からうちまで<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vận chuyển đồng từ cửa hàng đồ cổ về nhà.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3) <ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>っても、どうして<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>が<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くならないのですか。</div><div class=\"kqdich\"><div class=\"nddich\">Cho dù đồng hồ reo nhưng vì sao tai không đau?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> ①<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れに<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてあるから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì nằm ở trong tủ âm tường.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>は<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>だから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì âm thanh của đồng hồ là âm nhạc.</div></div></div> <p></p><b><div class=\"tudich\"><div class=\"candich\"> ➂<ruby>鳴<rp>（</rp><rt>なり</rt><rp>）</rp></ruby>る<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じではないから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì thời gian reo không giống nhau</div></div></div></b> <p></p><div class=\"tudich\"><div class=\"candich\">II 1. あなたも<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めていますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn có sưu tập cái gì không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> それは<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。どうして<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているのですか。</div><div class=\"kqdich\"><div class=\"nddich\">Đó là cái gì? Tại sao sưu tập?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2. おもしろいものを<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っていますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn có biết người sưu tập đồ vật thú vị không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> <ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。</div><div class=\"kqdich\"><div class=\"nddich\">Xin hãy giới thiệu.</div></div></div> </div> </div><!--END--> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "日本（にほん）でいちばん",
+          "textHtml": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でいちばん</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>がなかったら、<ruby>不便<rp>（</rp><rt>ふべん</rt><rp>）</rp></ruby>ですが、たくさんあっても、<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>です。 <ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby><ruby>県<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby>福山<rp>（</rp><rt>ふくやま</rt><rp>）</rp></ruby><ruby>市<rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんのうちには<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>で<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らせる<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が５６０あります。 <ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>に<ruby>掛<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ける<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が３１０、<ruby>置時計<rp>（</rp><rt>おきどけい</rt><rp>）</rp></ruby>が２１０、そのほかの<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が４０です。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で<ruby>一番時計<rp>（</rp><rt>いちばんとけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>がうるさいうちです。 ５６０の<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>まった<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>になると、<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>るのです。 <p></p> ほとんど<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>で、そのままにしておくと、<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まってしまいます。 <ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>ねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>かなければなりません。 <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんは1<ruby>日中時計<rp>（</rp><rt>にちじゅうとけい</rt><rp>）</rp></ruby>のねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>いていますから、<ruby>右手<rp>（</rp><rt>みぎて</rt><rp>）</rp></ruby>がいつも<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>っています。 もし<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>に５６０の<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>なったら、<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>も<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くなってしまいますね。 でも、みんな<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですから、<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>しずつ<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>う<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>になります。 ですから、<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんの<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>は<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くならないのです。 <p></p> <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんにちょっと<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。 <p></p>— どうしてそんなにたくさん<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているんですか。 <p></p>30<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>まえに<ruby>骨董屋<rp>（</rp><rt>こっとうや</rt><rp>）</rp></ruby>で<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つけた<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>修理<rp>（</rp><rt>しゅうり</rt><rp>）</rp></ruby>してから、<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きになりました。 <ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>れた<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>直<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>すと、<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きますね。 それが<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいんです。 <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>も<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると、<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ってしまいます。 もう<ruby>離<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>れ<ruby>四<rp>（</rp><rt>よっ</rt><rp>）</rp></ruby>つの<ruby>部屋<rp>（</rp><rt>へや</rt><rp>）</rp></ruby>がいっぱいで、<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れにも<ruby>積<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>んであります。 <p></p>— <ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>はよく<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>られますか。 <ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>がうるさくないです。 <p></p><ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>ですから、すぐ<ruby>慣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>れましたよ。 <ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>と<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じです。 <p></p>— <ruby>将来<rp>（</rp><rt>しょうらい</rt><rp>）</rp></ruby>、<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>博物館<rp>（</rp><rt>はくぶつかん</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りたいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っていますか。 <p></p>ええ。でも、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>はお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がありませんから…。 しばらくこのままにしておきます。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> 1) <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんはどうして<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているのです。 <p></p> ①<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>があると、<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>だから。 <p></p> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>修理<rp>（</rp><rt>しゅうり</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きだから。 <p></p> ➂<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きながら<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>たいから。 <p></p> 2) <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんはどうして<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>が<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いのですか。 <p></p> ①<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>直<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>すから。 <p></p> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>のねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>いているから <p></p> ➂<ruby>骨董屋<rp>（</rp><rt>こっとうや</rt><rp>）</rp></ruby>からうちまで<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶから。 <p></p> 3) <ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>っても、どうして<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>が<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くならないのですか。 <p></p> ①<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れに<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてあるから。 <p></p> ➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>は<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>だから。 <p></p> ➂<ruby>鳴<rp>（</rp><rt>なり</rt><rp>）</rp></ruby>る<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じではないから。 <p></p>II 1. あなたも<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めていますか。 <p></p> それは<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。どうして<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているのですか。 <p></p> 2. おもしろいものを<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っていますか。 <p></p> <ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でいちばん</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Nhất Nhật Bản.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "日本（にほん）でいちばん",
+              "textHtml": "<b><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でいちばん</b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Nhất Nhật Bản."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "時計（とけい）がなかったら、不便（ふべん）ですが、たくさんあっても、大変（たいへん）です。",
+          "japaneseHtml": "<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>がなかったら、<ruby>不便<rp>（</rp><rt>ふべん</rt><rp>）</rp></ruby>ですが、たくさんあっても、<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "Nếu như không có đồng hồ thì rất bất tiện, mà có nhiều thì cũng rất mệt mỏi.",
+          "vietnameseHtml": "Nếu như không có đồng hồ thì rất bất tiện, mà có nhiều thì cũng rất mệt mỏi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "広島（ひろしま）県（けん）福山（ふくやま）市（し）の赤繁（あかしげ）さんのうちには時間（じかん）を音（おと）で知（し）らせる時計（とけい）が５６０あります。",
+          "japaneseHtml": "<ruby>広島<rp>（</rp><rt>ひろしま</rt><rp>）</rp></ruby><ruby>県<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby>福山<rp>（</rp><rt>ふくやま</rt><rp>）</rp></ruby><ruby>市<rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんのうちには<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>を<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>で<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らせる<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が５６０あります。",
+          "vietnamese": "Ở nhà của ông Akashige ở thành phố Fukuyama tỉnh Hiroshima có 560 cái đồng hồ báo giờ bằng âm thanh.",
+          "vietnameseHtml": "Ở nhà của ông Akashige ở thành phố Fukuyama tỉnh Hiroshima có 560 cái đồng hồ báo giờ bằng âm thanh."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "壁（かべ）に掛（か）ける時計（とけい）が３１０、置時計（おきどけい）が２１０、そのほかの時計（とけい）が４０です。",
+          "japaneseHtml": "<ruby>壁<rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>に<ruby>掛<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ける<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が３１０、<ruby>置時計<rp>（</rp><rt>おきどけい</rt><rp>）</rp></ruby>が２１０、そのほかの<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が４０です。",
+          "vietnamese": "Có 310 cái đồng hồ treo tường, 210 đồng hồ để bàn và 40 cái đồng hồ khác.",
+          "vietnameseHtml": "Có 310 cái đồng hồ treo tường, 210 đồng hồ để bàn và 40 cái đồng hồ khác."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）で一番時計（いちばんとけい）の音（おと）がうるさいうちです。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で<ruby>一番時計<rp>（</rp><rt>いちばんとけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>がうるさいうちです。",
+          "vietnamese": "Là căn nhà có âm thanh đồng hồ ồn nhất Nhật Bản.",
+          "vietnameseHtml": "Là căn nhà có âm thanh đồng hồ ồn nhất Nhật Bản."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "５６０の時計（とけい）が決（き）まった時間（じかん）になると、鳴（な）るのです。",
+          "japaneseHtml": "５６０の<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>まった<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>になると、<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>るのです。",
+          "vietnamese": "560 cái đồng hồ cứ đến giờ là reo lên.",
+          "vietnameseHtml": "560 cái đồng hồ cứ đến giờ là reo lên."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ほとんど古（ふる）い時計（とけい）で、そのままにしておくと、止（と）まってしまいます。",
+          "japaneseHtml": "ほとんど<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>で、そのままにしておくと、<ruby>止<rp>（</rp><rt>と</rt><rp>）</rp></ruby>まってしまいます。",
+          "vietnamese": "Hầu hết là đồng hồ cũ, nên cứ để nguyên như thế thì nó sẽ dừng lại.",
+          "vietnameseHtml": "Hầu hết là đồng hồ cũ, nên cứ để nguyên như thế thì nó sẽ dừng lại."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "毎日（まいにち）ねじを巻（ま）かなければなりません。",
+          "japaneseHtml": "<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>ねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>かなければなりません。",
+          "vietnamese": "Phải lên dây cót cho đồng hồ mỗi ngày.",
+          "vietnameseHtml": "Phải lên dây cót cho đồng hồ mỗi ngày."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "赤繁（あかしげ）さんは1日中時計（にちじゅうとけい）のねじを巻（ま）いていますから、右手（みぎて）がいつも痛（いた）いと言（い）っています。",
+          "japaneseHtml": "<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんは1<ruby>日中時計<rp>（</rp><rt>にちじゅうとけい</rt><rp>）</rp></ruby>のねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>いていますから、<ruby>右手<rp>（</rp><rt>みぎて</rt><rp>）</rp></ruby>がいつも<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>っています。",
+          "vietnamese": "Ông Akashige nói rằng thường đau tay phải do lên dây cót đồng hồ suốt ngày.",
+          "vietnameseHtml": "Ông Akashige nói rằng thường đau tay phải do lên dây cót đồng hồ suốt ngày."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "もし一度（いちど）に５６０の時計（とけい）が全部（ぜんぶ）なったら、耳（みみ）も痛（いた）くなってしまいますね。",
+          "japaneseHtml": "もし<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>に５６０の<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby>なったら、<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>も<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くなってしまいますね。",
+          "vietnamese": "Nếu như toàn bộ 560 cái đồng hồ reo một lần thì sẽ đau tai luôn nhỉ.",
+          "vietnameseHtml": "Nếu như toàn bộ 560 cái đồng hồ reo một lần thì sẽ đau tai luôn nhỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "でも、みんな古（ふる）い時計（とけい）ですから、少（すこ）しずつ違（ちが）う時間（じかん）になります。",
+          "japaneseHtml": "でも、みんな<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>ですから、<ruby>少<rp>（</rp><rt>すこ</rt><rp>）</rp></ruby>しずつ<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>う<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>になります。",
+          "vietnamese": "Nhưng mà, tất cả đều là đồng hồ cũ nên sẽ reo vào thời gian khác nhau từng chút một.",
+          "vietnameseHtml": "Nhưng mà, tất cả đều là đồng hồ cũ nên sẽ reo vào thời gian khác nhau từng chút một."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ですから、赤繁（あかしげ）さんの耳（みみ）は痛（いた）くならないのです。",
+          "japaneseHtml": "ですから、<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんの<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>は<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くならないのです。",
+          "vietnamese": "Vì vậy, tai của ông Akashige không bị đau.",
+          "vietnameseHtml": "Vì vậy, tai của ông Akashige không bị đau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "赤繁（あかしげ）さんにちょっと聞（き）きました。",
+          "japaneseHtml": "<ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんにちょっと<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "Hỏi ông Akashige một chút.",
+          "vietnameseHtml": "Hỏi ông Akashige một chút."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どうしてそんなにたくさん時計（とけい）を集（あつ）めているんですか。",
+          "japaneseHtml": "どうしてそんなにたくさん<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているんですか。",
+          "vietnamese": "Tại sao ông lại sưu tập nhiều đồng hồ như thế?",
+          "vietnameseHtml": "Tại sao ông lại sưu tập nhiều đồng hồ như thế?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "30年（ねん）まえに骨董屋（こっとうや）で見（み）つけた時計（とけい）を修理（しゅうり）してから、時計（とけい）が好（す）きになりました。",
+          "japaneseHtml": "30<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>まえに<ruby>骨董屋<rp>（</rp><rt>こっとうや</rt><rp>）</rp></ruby>で<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つけた<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>修理<rp>（</rp><rt>しゅうり</rt><rp>）</rp></ruby>してから、<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きになりました。",
+          "vietnamese": "30 năm trước, sau khi sửa chữa chiếc đồng hồ tìm thấy trong cửa hàng đồ cổ, tôi đã trở nên thích đồng hồ.",
+          "vietnameseHtml": "30 năm trước, sau khi sửa chữa chiếc đồng hồ tìm thấy trong cửa hàng đồ cổ, tôi đã trở nên thích đồng hồ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "壊（こわ）れた時計（とけい）を直（なお）すと、動（うご）きますね。",
+          "japaneseHtml": "<ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>れた<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>直<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>すと、<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きますね。",
+          "vietnamese": "Sửa chữa đồng hồ hỏng nó sẽ hoạt động nhỉ.",
+          "vietnameseHtml": "Sửa chữa đồng hồ hỏng nó sẽ hoạt động nhỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それが楽（たの）しいんです。",
+          "japaneseHtml": "それが<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しいんです。",
+          "vietnamese": "Việc đó thật là vui.",
+          "vietnameseHtml": "Việc đó thật là vui."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今（いま）も古（ふる）い時計（とけい）を見（み）ると、買（か）ってしまいます。",
+          "japaneseHtml": "<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>も<ruby>古<rp>（</rp><rt>ふる</rt><rp>）</rp></ruby>い<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると、<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ってしまいます。",
+          "vietnamese": "Bây giờ cũng vậy, khi nhìn thấy những chiếc đồng hồ cổ, tô sẽ mua nó.",
+          "vietnameseHtml": "Bây giờ cũng vậy, khi nhìn thấy những chiếc đồng hồ cổ, tô sẽ mua nó."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "もう離（はな）れ四（よっ）つの部屋（へや）がいっぱいで、押（お）し入（い）れにも積（つ）んであります。",
+          "japaneseHtml": "もう<ruby>離<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>れ<ruby>四<rp>（</rp><rt>よっ</rt><rp>）</rp></ruby>つの<ruby>部屋<rp>（</rp><rt>へや</rt><rp>）</rp></ruby>がいっぱいで、<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れにも<ruby>積<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>んであります。",
+          "vietnamese": "Vì trong cả 4 phòng riêng đều đã đầy ắp, ở tủ âm tường cũng chất đầy.",
+          "vietnameseHtml": "Vì trong cả 4 phòng riêng đều đã đầy ắp, ở tủ âm tường cũng chất đầy."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "夜（よる）はよく寝（ね）られますか。",
+          "japaneseHtml": "<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>はよく<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>られますか。",
+          "vietnamese": "Buổi tối ông có ngủ ngon không ?",
+          "vietnameseHtml": "Buổi tối ông có ngủ ngon không ?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "時計（とけい）の音（おと）がうるさくないです。",
+          "japaneseHtml": "<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>がうるさくないです。",
+          "vietnamese": "Âm thanh của đồng hồ có phiền không?",
+          "vietnameseHtml": "Âm thanh của đồng hồ có phiền không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "好（す）きな時計（とけい）の音（おと）ですから、すぐ慣（な）れましたよ。",
+          "japaneseHtml": "<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>ですから、すぐ<ruby>慣<rp>（</rp><rt>な</rt><rp>）</rp></ruby>れましたよ。",
+          "vietnamese": "Vì tôi thích âm thanh của đồng hồ nên tôi đã quen liền ngay ấy.",
+          "vietnameseHtml": "Vì tôi thích âm thanh của đồng hồ nên tôi đã quen liền ngay ấy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "音楽（おんがく）と同（おな）じです。",
+          "japaneseHtml": "<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>と<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じです。",
+          "vietnamese": "Giống như âm nhạc.",
+          "vietnameseHtml": "Giống như âm nhạc."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "将来（しょうらい）、時計（とけい）の博物館（はくぶつかん）を作（つく）りたいと思（おも）っていますか。",
+          "japaneseHtml": "<ruby>将来<rp>（</rp><rt>しょうらい</rt><rp>）</rp></ruby>、<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>博物館<rp>（</rp><rt>はくぶつかん</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りたいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っていますか。",
+          "vietnamese": "Trong tương lai, ông có muốn mở viện bảo tàng đồng hồ không?",
+          "vietnameseHtml": "Trong tương lai, ông có muốn mở viện bảo tàng đồng hồ không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ええ。でも、今（いま）はお金（かね）がありませんから…。",
+          "japaneseHtml": "ええ。でも、<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>はお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がありませんから…。",
+          "vietnamese": "Có, nhưng mà bây giờ tôi không có tiền nên…",
+          "vietnameseHtml": "Có, nhưng mà bây giờ tôi không có tiền nên…"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しばらくこのままにしておきます。",
+          "japaneseHtml": "しばらくこのままにしておきます。",
+          "vietnamese": "Tôi sẽ giữ nguyên như hiện tại một thời gian.",
+          "vietnameseHtml": "Tôi sẽ giữ nguyên như hiện tại một thời gian."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 正（ただ）しい答（こた）えを選（えら）んでください。",
+          "japaneseHtml": "I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>答<rp>（</rp><rt>こた</rt><rp>）</rp></ruby>えを<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。",
+          "vietnamese": "Hãy chọn câu trả lời đúng.",
+          "vietnameseHtml": "Hãy chọn câu trả lời đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1) 赤繁（あかしげ）さんはどうして時計（とけい）を集（あつ）めているのです。",
+          "japaneseHtml": "1) <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんはどうして<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているのです。",
+          "vietnamese": "Vì sao ông Akashige sưu tập đồng hồ?",
+          "vietnameseHtml": "Vì sao ông Akashige sưu tập đồng hồ?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "①時計（とけい）があると、便利（べんり）だから。",
+          "japaneseHtml": "①<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>があると、<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>だから。",
+          "vietnamese": "Vì khi có đồng hồ sẽ tiện lợi.",
+          "vietnameseHtml": "Vì khi có đồng hồ sẽ tiện lợi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "➁時計（とけい）の修理（しゅうり）が好（す）きだから。",
+          "japaneseHtml": "➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>修理<rp>（</rp><rt>しゅうり</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きだから。",
+          "vietnamese": "Vì thích sửa chữa đồng hồ.",
+          "vietnameseHtml": "Vì thích sửa chữa đồng hồ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "➂時計（とけい）の音（おと）を聞（き）きながら寝（ね）たいから。",
+          "japaneseHtml": "➂<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きながら<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>たいから。",
+          "vietnamese": "Vì muốn vừa nghe âm thanh đồng hồ vừa ngủ.",
+          "vietnameseHtml": "Vì muốn vừa nghe âm thanh đồng hồ vừa ngủ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2) 赤繁（あかしげ）さんはどうして手（て）が痛（いた）いのですか。",
+          "japaneseHtml": "2) <ruby>赤繁<rp>（</rp><rt>あかしげ</rt><rp>）</rp></ruby>さんはどうして<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>が<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>いのですか。",
+          "vietnamese": "Tại sao ông Akashige đau tay?",
+          "vietnameseHtml": "Tại sao ông Akashige đau tay?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "①時計（とけい）を直（なお）すから。",
+          "japaneseHtml": "①<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>直<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>すから。",
+          "vietnamese": "Vì sửa chữa đồng hồ.",
+          "vietnameseHtml": "Vì sửa chữa đồng hồ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "➁時計（とけい）のねじを巻（ま）いているから",
+          "japaneseHtml": "➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>のねじを<ruby>巻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>いているから",
+          "vietnamese": "Vì lên dây cót đồng hồ.",
+          "vietnameseHtml": "Vì lên dây cót đồng hồ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "➂骨董屋（こっとうや）からうちまで時計（とけい）を運（はこ）ぶから。",
+          "japaneseHtml": "➂<ruby>骨董屋<rp>（</rp><rt>こっとうや</rt><rp>）</rp></ruby>からうちまで<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>を<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶから。",
+          "vietnamese": "Vì vận chuyển đồng từ cửa hàng đồ cổ về nhà.",
+          "vietnameseHtml": "Vì vận chuyển đồng từ cửa hàng đồ cổ về nhà."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3) 時計（とけい）が鳴（な）っても、どうして耳（みみ）が痛（いた）くならないのですか。",
+          "japaneseHtml": "3) <ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>が<ruby>鳴<rp>（</rp><rt>な</rt><rp>）</rp></ruby>っても、どうして<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>が<ruby>痛<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>くならないのですか。",
+          "vietnamese": "Cho dù đồng hồ reo nhưng vì sao tai không đau?",
+          "vietnameseHtml": "Cho dù đồng hồ reo nhưng vì sao tai không đau?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "①押（お）し入（い）れに入（い）れてあるから。",
+          "japaneseHtml": "①<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>し<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れに<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてあるから。",
+          "vietnamese": "Vì nằm ở trong tủ âm tường.",
+          "vietnameseHtml": "Vì nằm ở trong tủ âm tường."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "➁時計（とけい）の音（おと）は音楽（おんがく）だから。",
+          "japaneseHtml": "➁<ruby>時計<rp>（</rp><rt>とけい</rt><rp>）</rp></ruby>の<ruby>音<rp>（</rp><rt>おと</rt><rp>）</rp></ruby>は<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>だから。",
+          "vietnamese": "Vì âm thanh của đồng hồ là âm nhạc.",
+          "vietnameseHtml": "Vì âm thanh của đồng hồ là âm nhạc."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "➂鳴（なり）る時間（じかん）が同（おな）じではないから。",
+          "japaneseHtml": "➂<ruby>鳴<rp>（</rp><rt>なり</rt><rp>）</rp></ruby>る<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>が<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じではないから。",
+          "vietnamese": "Vì thời gian reo không giống nhau",
+          "vietnameseHtml": "Vì thời gian reo không giống nhau"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II 1. あなたも何（なに）か集（あつ）めていますか。",
+          "japaneseHtml": "II 1. あなたも<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めていますか。",
+          "vietnamese": "Bạn có sưu tập cái gì không?",
+          "vietnameseHtml": "Bạn có sưu tập cái gì không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それは何（なん）ですか。どうして集（あつ）めているのですか。",
+          "japaneseHtml": "それは<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby>ですか。どうして<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めているのですか。",
+          "vietnamese": "Đó là cái gì? Tại sao sưu tập?",
+          "vietnameseHtml": "Đó là cái gì? Tại sao sưu tập?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. おもしろいものを集（あつ）めている人（ひと）を知（し）っていますか。",
+          "japaneseHtml": "2. おもしろいものを<ruby>集<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>めている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っていますか。",
+          "vietnamese": "Bạn có biết người sưu tập đồ vật thú vị không?",
+          "vietnameseHtml": "Bạn có biết người sưu tập đồ vật thú vị không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "紹介（しょうかい）してください。",
+          "japaneseHtml": "<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。",
+          "vietnamese": "Xin hãy giới thiệu.",
+          "vietnameseHtml": "Xin hãy giới thiệu."
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Bổ sung",
+      "titleHtml": "Bổ sung",
+      "contentHtml": "<p>１）</p><img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_1.jpg\" width=\"400px\"> <p>２）</p><img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_2.jpg\" width=\"400px\"> <p>３）</p><img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_3.jpg\" width=\"400px\"> <p>４）</p><img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_4.jpg\" width=\"400px\"> <p>５）</p><img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_5.jpg\" width=\"400px\"> <p>１）～５）はだれがだれに<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いた<ruby>伝言<rp>(</rp><rt>でんごん</rt><rp>)</rp></ruby>メモですか。</p> <p>１（ ） ２（ ） ３（ ） ４（ ） ５（ ） </p> <p>a. <ruby>社員<rp>(</rp><rt>しゃいん</rt><rp>)</rp></ruby> → <ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby></p> <p>b. <ruby>息子<rp>(</rp><rt>むすこ</rt><rp>)</rp></ruby> → お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さん</p> <p>c. <ruby>家政婦<rp>(</rp><rt>かせいふ</rt><rp>)</rp></ruby> → <ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></p> <p>d. お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さん → <ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ども</p> <p>e. <ruby>夫<rp>(</rp><rt>おっと</rt><rp>)</rp></ruby> → <ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby></p> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div> <div class=\"slide-content sl2\"> <p>１（ d ） ２（ a ） ３（ e ） ４（ c ） ５（ b ） </p> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "html",
+          "contentHtml": "<p>１）</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai30/doc30_1.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_1.jpg\" width=\"400px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>２）</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai30/doc30_2.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_2.jpg\" width=\"400px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>３）</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai30/doc30_3.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_3.jpg\" width=\"400px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>４）</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai30/doc30_4.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_4.jpg\" width=\"400px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>５）</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai30/doc30_5.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai30/doc30_5.jpg\" width=\"400px\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>１）～５）はだれがだれに<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いた<ruby>伝言<rp>(</rp><rt>でんごん</rt><rp>)</rp></ruby>メモですか。</p> <p>１（ ） ２（ ） ３（ ） ４（ ） ５（ ） </p> <p>a. <ruby>社員<rp>(</rp><rt>しゃいん</rt><rp>)</rp></ruby> → <ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby></p> <p>b. <ruby>息子<rp>(</rp><rt>むすこ</rt><rp>)</rp></ruby> → お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さん</p> <p>c. <ruby>家政婦<rp>(</rp><rt>かせいふ</rt><rp>)</rp></ruby> → <ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></p> <p>d. お<ruby>母<rp>(</rp><rt>かあ</rt><rp>)</rp></ruby>さん → <ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ども</p> <p>e. <ruby>夫<rp>(</rp><rt>おっと</rt><rp>)</rp></ruby> → <ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby></p> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div> <div class=\"slide-content sl2\"> <p>１（ d ） ２（ a ） ３（ e ） ４（ c ） ５（ b ） </p> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+        }
+      ]
+    }
+  ]
+}

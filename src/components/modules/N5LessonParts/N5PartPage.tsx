@@ -7,6 +7,8 @@ interface N5PartPageProps {
   partId: N5PartId;
   partLabel: string;
   data: IN5PartData;
+  levelCode?: "N5" | "N4";
+  basePath?: string;
 }
 
 export default function N5PartPage({
@@ -14,12 +16,14 @@ export default function N5PartPage({
   partId,
   partLabel,
   data,
+  levelCode = "N5",
+  basePath = "/n5/lessons",
 }: N5PartPageProps) {
   return (
     <LessonPageShell
       title={partLabel}
-      subtitle={`Bài ${lessonNumber} - Minna no Nihongo N5`}
-      backHref={`/n5/lessons/${lessonNumber}`}
+      subtitle={`Bài ${lessonNumber} - Minna no Nihongo ${levelCode}`}
+      backHref={`${basePath}/${lessonNumber}`}
       backLabel={`Về bài ${lessonNumber}`}
     >
       <N5PartRenderer partId={partId} data={data} />

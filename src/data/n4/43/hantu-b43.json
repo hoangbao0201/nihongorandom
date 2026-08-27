@@ -1,0 +1,102 @@
+{
+  "lesson": 43,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "増えます [輸出が～]",
+      "kanjiHtml": "増えます<br />[輸出が～]",
+      "sinoVietnamese": "TĂNG THÂU XUẤT",
+      "kana": "ふえます [ゆしゅつが～]",
+      "kanaHtml": "ふえます<br />[ゆしゅつが～]"
+    },
+    {
+      "index": 2,
+      "kanji": "減ります [輸出が～]",
+      "kanjiHtml": "減ります<br />[輸出が～]",
+      "sinoVietnamese": "GIẢM THÂU XUẤT",
+      "kana": "へります [ゆしゅつが～]",
+      "kanaHtml": "へります<br />[ゆしゅつが～]"
+    },
+    {
+      "index": 3,
+      "kanji": "上がります [値段が～]",
+      "kanjiHtml": "上がります<br />[値段が～]",
+      "sinoVietnamese": "THƯỢNG TRỊ ĐOẠN",
+      "kana": "あがります [ねだんが～]",
+      "kanaHtml": "あがります<br />[ねだんが～]"
+    },
+    {
+      "index": 4,
+      "kanji": "下がります [値段が～]",
+      "kanjiHtml": "下がります<br />[値段が～]",
+      "sinoVietnamese": "HẠ TRỊ ĐOẠN",
+      "kana": "さがります [ねだんが～]",
+      "kanaHtml": "さがります<br />[ねだんが～]"
+    },
+    {
+      "index": 5,
+      "kanji": "切れます [ひもが～]",
+      "kanjiHtml": "切れます<br />[ひもが～]",
+      "sinoVietnamese": "THIẾT",
+      "kana": "きれます [ひもが～]",
+      "kanaHtml": "きれます<br />[ひもが～]"
+    },
+    {
+      "index": 6,
+      "kanji": "落ちます [荷物が～]",
+      "kanjiHtml": "落ちます<br />[荷物が～]",
+      "sinoVietnamese": "LẠC HÀ VẬT",
+      "kana": "おちます [にもつが～]",
+      "kanaHtml": "おちます<br />[にもつが～]"
+    },
+    {
+      "index": 7,
+      "kanji": "変[な]",
+      "kanjiHtml": "変[な]",
+      "sinoVietnamese": "BIẾN",
+      "kana": "へん[な]",
+      "kanaHtml": "へん[な]"
+    },
+    {
+      "index": 8,
+      "kanji": "幸せ[な]",
+      "kanjiHtml": "幸せ[な]",
+      "sinoVietnamese": "HẠNH",
+      "kana": "しあわせ[な]",
+      "kanaHtml": "しあわせ[な]"
+    },
+    {
+      "index": 9,
+      "kanji": "楽[な]",
+      "kanjiHtml": "楽[な]",
+      "sinoVietnamese": "LẠC/NHẠC",
+      "kana": "らく[な]",
+      "kanaHtml": "らく[な]"
+    },
+    {
+      "index": 10,
+      "kanji": "優しい",
+      "kanjiHtml": "優しい",
+      "sinoVietnamese": "ƯU",
+      "kana": "やさしい",
+      "kanaHtml": "やさしい"
+    },
+    {
+      "index": 11,
+      "kanji": "火",
+      "kanjiHtml": "火",
+      "sinoVietnamese": "HỎA",
+      "kana": "ひ",
+      "kanaHtml": "ひ"
+    },
+    {
+      "index": 12,
+      "kanji": "今にも",
+      "kanjiHtml": "今にも",
+      "sinoVietnamese": "KIM",
+      "kana": "いまにも",
+      "kanaHtml": "いまにも"
+    }
+  ]
+}

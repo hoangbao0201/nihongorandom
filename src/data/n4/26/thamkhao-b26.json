@@ -1,0 +1,338 @@
+{
+  "lesson": 26,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "ごみの出（だ）し方（かた） Cách đổ rác",
+      "titleHtml": "ごみの<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>し<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby> Cách đổ rác",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "ごみ収集（しゅうしゅう）日（び）のお知（し）らせ",
+              "html": "ごみ<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>のお<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らせ"
+            },
+            {
+              "text": "thông báo về ngày thu gom rác",
+              "html": "thông báo về ngày thu gom rác"
+            }
+          ],
+          "term": "ごみ収集（しゅうしゅう）日（び）のお知（し）らせ",
+          "termHtml": "ごみ<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>のお<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らせ",
+          "meaning": "thông báo về ngày thu gom rác",
+          "meaningHtml": "thông báo về ngày thu gom rác"
+        },
+        {
+          "cells": [
+            {
+              "text": "可燃（かねん）ごみ（燃（も）えるごみ）",
+              "html": "<ruby>可燃<rp>（</rp><rt>かねん</rt><rp>）</rp></ruby>ごみ（<ruby>燃<rp>（</rp><rt>も</rt><rp>）</rp></ruby>えるごみ）"
+            },
+            {
+              "text": "Rác cháy được",
+              "html": "Rác cháy được"
+            }
+          ],
+          "term": "可燃（かねん）ごみ（燃（も）えるごみ）",
+          "termHtml": "<ruby>可燃<rp>（</rp><rt>かねん</rt><rp>）</rp></ruby>ごみ（<ruby>燃<rp>（</rp><rt>も</rt><rp>）</rp></ruby>えるごみ）",
+          "meaning": "Rác cháy được",
+          "meaningHtml": "Rác cháy được"
+        },
+        {
+          "cells": [
+            {
+              "text": "紙（かみ）くず",
+              "html": "<ruby>紙<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>くず"
+            },
+            {
+              "text": "giấy vụn",
+              "html": "giấy vụn"
+            }
+          ],
+          "term": "紙（かみ）くず",
+          "termHtml": "<ruby>紙<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>くず",
+          "meaning": "giấy vụn",
+          "meaningHtml": "giấy vụn"
+        },
+        {
+          "cells": [
+            {
+              "text": "生（なま）ごみ",
+              "html": "<ruby>生<rp>（</rp><rt>なま</rt><rp>）</rp></ruby>ごみ"
+            },
+            {
+              "text": "rác rưởi",
+              "html": "rác rưởi"
+            }
+          ],
+          "term": "生（なま）ごみ",
+          "termHtml": "<ruby>生<rp>（</rp><rt>なま</rt><rp>）</rp></ruby>ごみ",
+          "meaning": "rác rưởi",
+          "meaningHtml": "rác rưởi"
+        },
+        {
+          "cells": [
+            {
+              "text": "収集（しゅうしゅう）日（び）：月（げつ）・水（すい）・金曜日（きんようび）",
+              "html": "<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>月<rp>（</rp><rt>げつ</rt><rp>）</rp></ruby>・<ruby>水<rp>（</rp><rt>すい</rt><rp>）</rp></ruby>・<ruby>金曜日<rp>（</rp><rt>きんようび</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày thu gom: thứ hai, tư, sáu",
+              "html": "Ngày thu gom: thứ hai, tư, sáu"
+            }
+          ],
+          "term": "収集（しゅうしゅう）日（び）：月（げつ）・水（すい）・金曜日（きんようび）",
+          "termHtml": "<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>月<rp>（</rp><rt>げつ</rt><rp>）</rp></ruby>・<ruby>水<rp>（</rp><rt>すい</rt><rp>）</rp></ruby>・<ruby>金曜日<rp>（</rp><rt>きんようび</rt><rp>）</rp></ruby>",
+          "meaning": "Ngày thu gom: thứ hai, tư, sáu",
+          "meaningHtml": "Ngày thu gom: thứ hai, tư, sáu"
+        },
+        {
+          "cells": [
+            {
+              "text": "不燃（ふねん）ごみ（燃（も）えないごみ）",
+              "html": "<ruby>不燃<rp>（</rp><rt>ふねん</rt><rp>）</rp></ruby>ごみ（<ruby>燃<rp>（</rp><rt>も</rt><rp>）</rp></ruby>えないごみ）"
+            },
+            {
+              "text": "Rác không cháy được",
+              "html": "Rác không cháy được"
+            }
+          ],
+          "term": "不燃（ふねん）ごみ（燃（も）えないごみ）",
+          "termHtml": "<ruby>不燃<rp>（</rp><rt>ふねん</rt><rp>）</rp></ruby>ごみ（<ruby>燃<rp>（</rp><rt>も</rt><rp>）</rp></ruby>えないごみ）",
+          "meaning": "Rác không cháy được",
+          "meaningHtml": "Rác không cháy được"
+        },
+        {
+          "cells": [
+            {
+              "text": "ガラス製品（せいひん）",
+              "html": "ガラス<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đồ làm bằng thủy tinh",
+              "html": "đồ làm bằng thủy tinh"
+            }
+          ],
+          "term": "ガラス製品（せいひん）",
+          "termHtml": "ガラス<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>",
+          "meaning": "đồ làm bằng thủy tinh",
+          "meaningHtml": "đồ làm bằng thủy tinh"
+        },
+        {
+          "cells": [
+            {
+              "text": "プラスチック製品（せいひん）",
+              "html": "プラスチック<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đồ làm bằng nhựa",
+              "html": "đồ làm bằng nhựa"
+            }
+          ],
+          "term": "プラスチック製品（せいひん）",
+          "termHtml": "プラスチック<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>",
+          "meaning": "đồ làm bằng nhựa",
+          "meaningHtml": "đồ làm bằng nhựa"
+        },
+        {
+          "cells": [
+            {
+              "text": "金属製（きんぞくせい）台所（だいどころ）用品（ようひん）",
+              "html": "<ruby>金属製<rp>（</rp><rt>きんぞくせい</rt><rp>）</rp></ruby><ruby>台所<rp>（</rp><rt>だいどころ</rt><rp>）</rp></ruby><ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "dụng cụ bếp bằng kim loại",
+              "html": "dụng cụ bếp bằng kim loại"
+            }
+          ],
+          "term": "金属製（きんぞくせい）台所（だいどころ）用品（ようひん）",
+          "termHtml": "<ruby>金属製<rp>（</rp><rt>きんぞくせい</rt><rp>）</rp></ruby><ruby>台所<rp>（</rp><rt>だいどころ</rt><rp>）</rp></ruby><ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby>",
+          "meaning": "dụng cụ bếp bằng kim loại",
+          "meaningHtml": "dụng cụ bếp bằng kim loại"
+        },
+        {
+          "cells": [
+            {
+              "text": "収集（しゅうしゅう）日（び）：木曜日（もくようび）",
+              "html": "<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>木曜日<rp>（</rp><rt>もくようび</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày thu gom: thứ năm",
+              "html": "Ngày thu gom: thứ năm"
+            }
+          ],
+          "term": "収集（しゅうしゅう）日（び）：木曜日（もくようび）",
+          "termHtml": "<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>木曜日<rp>（</rp><rt>もくようび</rt><rp>）</rp></ruby>",
+          "meaning": "Ngày thu gom: thứ năm",
+          "meaningHtml": "Ngày thu gom: thứ năm"
+        },
+        {
+          "cells": [
+            {
+              "text": "粗大（そだい）ごみ",
+              "html": "<ruby>粗大<rp>（</rp><rt>そだい</rt><rp>）</rp></ruby>ごみ"
+            },
+            {
+              "text": "rác khổ lớn",
+              "html": "rác khổ lớn"
+            }
+          ],
+          "term": "粗大（そだい）ごみ",
+          "termHtml": "<ruby>粗大<rp>（</rp><rt>そだい</rt><rp>）</rp></ruby>ごみ",
+          "meaning": "rác khổ lớn",
+          "meaningHtml": "rác khổ lớn"
+        },
+        {
+          "cells": [
+            {
+              "text": "家具（かぐ）",
+              "html": "<ruby>家具<rp>（</rp><rt>かぐ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đồ dùng nội thất",
+              "html": "đồ dùng nội thất"
+            }
+          ],
+          "term": "家具（かぐ）",
+          "termHtml": "<ruby>家具<rp>（</rp><rt>かぐ</rt><rp>）</rp></ruby>",
+          "meaning": "đồ dùng nội thất",
+          "meaningHtml": "đồ dùng nội thất"
+        },
+        {
+          "cells": [
+            {
+              "text": "家庭（かてい）電化（でんか）製品（せいひん）",
+              "html": "<ruby>家庭<rp>（</rp><rt>かてい</rt><rp>）</rp></ruby><ruby>電化<rp>（</rp><rt>でんか</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đồ điện gia dụng",
+              "html": "đồ điện gia dụng"
+            }
+          ],
+          "term": "家庭（かてい）電化（でんか）製品（せいひん）",
+          "termHtml": "<ruby>家庭<rp>（</rp><rt>かてい</rt><rp>）</rp></ruby><ruby>電化<rp>（</rp><rt>でんか</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby>",
+          "meaning": "đồ điện gia dụng",
+          "meaningHtml": "đồ điện gia dụng"
+        },
+        {
+          "cells": [
+            {
+              "text": "自転車（じてんしゃ）",
+              "html": "<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "xe đạp",
+              "html": "xe đạp"
+            }
+          ],
+          "term": "自転車（じてんしゃ）",
+          "termHtml": "<ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby>",
+          "meaning": "xe đạp",
+          "meaningHtml": "xe đạp"
+        },
+        {
+          "cells": [
+            {
+              "text": "収集（しゅうしゅう）日（び）：第（だい）3火曜日（かようび）",
+              "html": "<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>3<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày thu gom: ngày thứ ba thứ 3 của tháng",
+              "html": "Ngày thu gom: ngày thứ ba thứ 3 của tháng"
+            }
+          ],
+          "term": "収集（しゅうしゅう）日（び）：第（だい）3火曜日（かようび）",
+          "termHtml": "<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>3<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>",
+          "meaning": "Ngày thu gom: ngày thứ ba thứ 3 của tháng",
+          "meaningHtml": "Ngày thu gom: ngày thứ ba thứ 3 của tháng"
+        },
+        {
+          "cells": [
+            {
+              "text": "資源（しげん）ごみ",
+              "html": "<ruby>資源<rp>（</rp><rt>しげん</rt><rp>）</rp></ruby>ごみ"
+            },
+            {
+              "text": "Rác tái chế",
+              "html": "Rác tái chế"
+            }
+          ],
+          "term": "資源（しげん）ごみ",
+          "termHtml": "<ruby>資源<rp>（</rp><rt>しげん</rt><rp>）</rp></ruby>ごみ",
+          "meaning": "Rác tái chế",
+          "meaningHtml": "Rác tái chế"
+        },
+        {
+          "cells": [
+            {
+              "text": "空（あ）き缶（かん）",
+              "html": "<ruby>空<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>き<ruby>缶<rp>（</rp><rt>かん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "vỏ đồ hộp, lon kim loại",
+              "html": "vỏ đồ hộp, lon kim loại"
+            }
+          ],
+          "term": "空（あ）き缶（かん）",
+          "termHtml": "<ruby>空<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>き<ruby>缶<rp>（</rp><rt>かん</rt><rp>）</rp></ruby>",
+          "meaning": "vỏ đồ hộp, lon kim loại",
+          "meaningHtml": "vỏ đồ hộp, lon kim loại"
+        },
+        {
+          "cells": [
+            {
+              "text": "空（あ）きびん",
+              "html": "<ruby>空<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>きびん"
+            },
+            {
+              "text": "chai lọ",
+              "html": "chai lọ"
+            }
+          ],
+          "term": "空（あ）きびん",
+          "termHtml": "<ruby>空<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>きびん",
+          "meaning": "chai lọ",
+          "meaningHtml": "chai lọ"
+        },
+        {
+          "cells": [
+            {
+              "text": "古新聞（ふるしんぶん）",
+              "html": "<ruby>古新聞<rp>（</rp><rt>ふるしんぶん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "báo cũ",
+              "html": "báo cũ"
+            }
+          ],
+          "term": "古新聞（ふるしんぶん）",
+          "termHtml": "<ruby>古新聞<rp>（</rp><rt>ふるしんぶん</rt><rp>）</rp></ruby>",
+          "meaning": "báo cũ",
+          "meaningHtml": "báo cũ"
+        },
+        {
+          "cells": [
+            {
+              "text": "収集（しゅうしゅう）日（び）：第（だい）2、第（だい）4火曜日（かようび）",
+              "html": "<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>2、<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>4<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày thu gom: ngày thứ ba thứ 2 và 4 của tháng",
+              "html": "Ngày thu gom: ngày thứ ba thứ 2 và 4 của tháng"
+            }
+          ],
+          "term": "収集（しゅうしゅう）日（び）：第（だい）2、第（だい）4火曜日（かようび）",
+          "termHtml": "<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>2、<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>4<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby>",
+          "meaning": "Ngày thu gom: ngày thứ ba thứ 2 và 4 của tháng",
+          "meaningHtml": "Ngày thu gom: ngày thứ ba thứ 2 và 4 của tháng"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">ごみ<ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>のお<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らせ</td> <td>thông báo về ngày thu gom rác</td> </tr><tr> <td width=\"40%\"><ruby>可燃<rp>（</rp><rt>かねん</rt><rp>）</rp></ruby>ごみ（<ruby>燃<rp>（</rp><rt>も</rt><rp>）</rp></ruby>えるごみ）</td> <td>Rác cháy được</td> </tr><tr> <td width=\"40%\"><ruby>紙<rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>くず</td> <td>giấy vụn</td> </tr><tr> <td width=\"40%\"><ruby>生<rp>（</rp><rt>なま</rt><rp>）</rp></ruby>ごみ</td> <td>rác rưởi</td> </tr><tr> <td width=\"40%\"><ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>月<rp>（</rp><rt>げつ</rt><rp>）</rp></ruby>・<ruby>水<rp>（</rp><rt>すい</rt><rp>）</rp></ruby>・<ruby>金曜日<rp>（</rp><rt>きんようび</rt><rp>）</rp></ruby></td> <td>Ngày thu gom: thứ hai, tư, sáu</td> </tr><tr> <td width=\"40%\"><ruby>不燃<rp>（</rp><rt>ふねん</rt><rp>）</rp></ruby>ごみ（<ruby>燃<rp>（</rp><rt>も</rt><rp>）</rp></ruby>えないごみ）</td> <td>Rác không cháy được</td> </tr><tr> <td width=\"40%\">ガラス<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby></td> <td>đồ làm bằng thủy tinh</td> </tr><tr> <td width=\"40%\">プラスチック<ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby></td> <td>đồ làm bằng nhựa</td> </tr><tr> <td width=\"40%\"><ruby>金属製<rp>（</rp><rt>きんぞくせい</rt><rp>）</rp></ruby><ruby>台所<rp>（</rp><rt>だいどころ</rt><rp>）</rp></ruby><ruby>用品<rp>（</rp><rt>ようひん</rt><rp>）</rp></ruby></td> <td>dụng cụ bếp bằng kim loại</td> </tr><tr> <td width=\"40%\"><ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>木曜日<rp>（</rp><rt>もくようび</rt><rp>）</rp></ruby></td> <td>Ngày thu gom: thứ năm</td> </tr><tr> <td width=\"40%\"><ruby>粗大<rp>（</rp><rt>そだい</rt><rp>）</rp></ruby>ごみ</td> <td>rác khổ lớn</td> </tr><tr> <td width=\"40%\"><ruby>家具<rp>（</rp><rt>かぐ</rt><rp>）</rp></ruby></td> <td>đồ dùng nội thất</td> </tr><tr> <td width=\"40%\"><ruby>家庭<rp>（</rp><rt>かてい</rt><rp>）</rp></ruby><ruby>電化<rp>（</rp><rt>でんか</rt><rp>）</rp></ruby><ruby>製品<rp>（</rp><rt>せいひん</rt><rp>）</rp></ruby></td> <td>đồ điện gia dụng</td> </tr><tr> <td width=\"40%\"><ruby>自転車<rp>（</rp><rt>じてんしゃ</rt><rp>）</rp></ruby></td> <td>xe đạp</td> </tr><tr> <td width=\"40%\"><ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>3<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby></td> <td>Ngày thu gom: ngày thứ ba thứ 3 của tháng</td> </tr><tr> <td width=\"40%\"><ruby>資源<rp>（</rp><rt>しげん</rt><rp>）</rp></ruby>ごみ</td> <td>Rác tái chế</td> </tr><tr> <td width=\"40%\"><ruby>空<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>き<ruby>缶<rp>（</rp><rt>かん</rt><rp>）</rp></ruby></td> <td>vỏ đồ hộp, lon kim loại</td> </tr><tr> <td width=\"40%\"><ruby>空<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>きびん</td> <td>chai lọ</td> </tr><tr> <td width=\"40%\"><ruby>古新聞<rp>（</rp><rt>ふるしんぶん</rt><rp>）</rp></ruby></td> <td>báo cũ</td> </tr><tr> <td width=\"40%\"><ruby>収集<rp>（</rp><rt>しゅうしゅう</rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>び</rt><rp>）</rp></ruby>：<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>2、<ruby>第<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>4<ruby>火曜日<rp>（</rp><rt>かようび</rt><rp>）</rp></ruby></td> <td>Ngày thu gom: ngày thứ ba thứ 2 và 4 của tháng</td> </tr></tbody></table> <img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai26.jpg\" style=\"width: 100%; \"> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

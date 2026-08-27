@@ -8,26 +8,30 @@ import {
 interface N5LessonDetailPageProps {
   lessonNumber: number;
   parts: IN5LessonPart[];
+  levelCode?: "N5" | "N4";
+  basePath?: string;
 }
 
 export default function N5LessonDetailPage({
   lessonNumber,
   parts,
+  levelCode = "N5",
+  basePath = "/n5/lessons",
 }: N5LessonDetailPageProps) {
   return (
     <LessonPageShell
       title={`Bài ${lessonNumber}`}
-      subtitle={`${parts.length} phần - Minna no Nihongo N5`}
-      backHref="/n5/lessons"
+      subtitle={`${parts.length} phần - Minna no Nihongo ${levelCode}`}
+      backHref={basePath}
       backLabel="Danh sách bài học"
     >
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {parts.map((part, index) => (
-            <Link
-              key={part.id}
-              href={`/n5/lessons/${lessonNumber}/${part.id}`}
-              className="glass-panel group rounded-lg p-5 transition-all duration-200 hover:border-[var(--accent)]/40 hover:shadow-[0_8px_32px_rgba(249,67,0,0.12)]"
-            >
+          <Link
+            key={part.id}
+            href={`${basePath}/${lessonNumber}/${part.id}`}
+            className="glass-panel group rounded-lg p-5 transition-all duration-200 hover:border-[var(--accent)]/40 hover:shadow-[0_8px_32px_rgba(249,67,0,0.12)]"
+          >
             <p className="text-xs font-semibold uppercase tracking-wider text-[var(--accent-soft)]">
               Phần {index + 1}
             </p>

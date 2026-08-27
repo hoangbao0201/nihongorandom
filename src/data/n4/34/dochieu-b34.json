@@ -1,0 +1,535 @@
+{
+  "lesson": 34,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あいさつします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">chào hỏi</div> <div class=\"nghia_anh\">greet</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あたまをさげます</b></div> <div class=\"kanji\">頭を下げます</div> <div class=\"nghia_viet\">cúi đầu</div> <div class=\"nghia_anh\">bow</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あくしゅ</b></div> <div class=\"kanji\">握手して</div> <div class=\"nghia_viet\">bắt tay</div> <div class=\"nghia_anh\">shaking hands</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>また</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ngoài ra, lại nữa</div> <div class=\"nghia_anh\">also, and</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひとさしゆび</b></div> <div class=\"kanji\">人差し指</div> <div class=\"nghia_viet\">ngón trỏ</div> <div class=\"nghia_anh\">forefinger</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さします</b></div> <div class=\"kanji\">指します</div> <div class=\"nghia_viet\">chỉ</div> <div class=\"nghia_anh\">point</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ジェスチャー</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">điệu bộ</div> <div class=\"nghia_anh\">gesture</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たてます</b></div> <div class=\"kanji\">立てます</div> <div class=\"nghia_viet\">đưa, dựng</div> <div class=\"nghia_anh\">raise</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あげます</b></div> <div class=\"kanji\">上げます</div> <div class=\"nghia_viet\">nâng lên</div> <div class=\"nghia_anh\">raise</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さげます</b></div> <div class=\"kanji\">下げます</div> <div class=\"nghia_viet\">hạ xuống</div> <div class=\"nghia_anh\">lower</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふります</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">vẫy</div> <div class=\"nghia_anh\">wave</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>てのひら</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">lòng bàn tay</div> <div class=\"nghia_anh\">palm</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>むけます</b></div> <div class=\"kanji\">向けます</div> <div class=\"nghia_viet\">hướng</div> <div class=\"nghia_anh\">turn</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あいて</b></div> <div class=\"kanji\">相手</div> <div class=\"nghia_viet\">đối phương</div> <div class=\"nghia_anh\">the person you are talking to </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じっと</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">chằm chằm</div> <div class=\"nghia_anh\">fixedly</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しつれい「な」</b></div> <div class=\"kanji\">失礼「な」</div> <div class=\"nghia_viet\">mất lịch sự</div> <div class=\"nghia_anh\">impolite</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>このほかに</b></div> <div class=\"kanji\">この他に</div> <div class=\"nghia_viet\">ngoài ra</div> <div class=\"nghia_anh\">other than these</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>わらいます</b></div> <div class=\"kanji\">笑います</div> <div class=\"nghia_viet\">cười</div> <div class=\"nghia_anh\">laugh </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かくします</b></div> <div class=\"kanji\">隠します</div> <div class=\"nghia_viet\">che, dấu</div> <div class=\"nghia_anh\">hide</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>むかし</b></div> <div class=\"kanji\">昔</div> <div class=\"nghia_viet\">ngày xưa, thời trước</div> <div class=\"nghia_anh\">old days, ancient times</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しゅうかん</b></div> <div class=\"kanji\">習慣</div> <div class=\"nghia_viet\">tập quán, thói quen</div> <div class=\"nghia_anh\">habit</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こ</b></div> <div class=\"kanji\">子</div> <div class=\"nghia_viet\">bé, bé con</div> <div class=\"nghia_anh\">child</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しかし</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nhưng</div> <div class=\"nghia_anh\">but</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とうなんアジア</b></div> <div class=\"kanji\">東南アジア</div> <div class=\"nghia_viet\">Đông Nam Á</div> <div class=\"nghia_anh\">Southeast Aisa</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>では？</b></h3> <p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではあいさつするとき、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げます。 <ruby>握手<rp>（</rp><rt>あくしゅ</rt><rp>）</rp></ruby>をしたり<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ったりするあいさつはありません。 また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は「<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>人差<rp>（</rp><rt>ひとさ</rt><rp>）</rp></ruby>し<ruby>指<rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby>で<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>の<ruby>鼻<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>を<ruby>指<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>します。 <p></p> <ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うジェスチャーはいろいろあります。 <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>や<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby>を<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くとき、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てて<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げたリ<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げたりします。 これは「ちょっとすみません」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。 また、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>で<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>に<ruby>何回<rp>（</rp><rt>なんかい</rt><rp>）</rp></ruby>も<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>ります。 これは「さようなら」のジェスチャーではありません。 「わかりません」「できません」などの<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。 <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>のや<ruby>犬<rp>（</rp><rt>いぬ</rt><rp>）</rp></ruby>などを<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ぶとき、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>のひらを<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>に<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>けて<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>ります。 <p></p> また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>人差<rp>（</rp><rt>ひとさ</rt><rp>）</rp></ruby>し<ruby>指<rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby>を<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てて「シーツ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>います。 これは「<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>すな！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。 みんなの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>で<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>す<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、ポケットに<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れて<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>してはいけません。 また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>相手<rp>（</rp><rt>あいて</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>をあまり<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ないで<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>します。 じっと<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると<ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>なのです。 <p></p> このほかに<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>うとき、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>を<ruby>隠<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>す<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がいます。 <ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>、<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてはいけませんでした。 それで<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>もその<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>の<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>りにしているのです。 <p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さい<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもに「いい<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>だね」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>，<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ります。 しかし、タイなどの<ruby>東南<rp>（</rp><rt>とうなん</rt><rp>）</rp></ruby>アジアの<ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>では<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ってはいけません。 <ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>のガイドブックにはタイへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったら、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>るなと<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあります。 <p></p> <ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>にはいろいろなジェスチャーがあります。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1）～３）のとき、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はどんなジェスチャーをしますか。 <p></p> a～cから<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> １） <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がたくさんいるところで<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんを<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>びました。<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんは「えつ、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>？」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いながら、こちらを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。 <p></p> ２） <ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>で<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>んでいます。<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に「こっちへ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 <p></p> ３） <ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>で<ruby>外国人<rp>（</rp><rt>がいこくじん</rt><rp>）</rp></ruby>が<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>に<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。その<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は「<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>、わからない！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai34/doc34.png\" alt=\"minna 25 bai doc hieu Bai 34\"> <p></p>II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>のジェスチャーを<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>では？</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Ở đất nước của bạn thì thế nào?</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではあいさつするとき、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げます。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Nhật khi chào hỏi thì cúi đầu.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>握手<rp>（</rp><rt>あくしゅ</rt><rp>）</rp></ruby>をしたり<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ったりするあいさつはありません。</div><div class=\"kqdich\"><div class=\"nddich\">Không có việc chào hỏi bắt tay hay động chạm cơ thể.</div></div></div> <div class=\"tudich\"><div class=\"candich\">また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は「<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>人差<rp>（</rp><rt>ひとさ</rt><rp>）</rp></ruby>し<ruby>指<rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby>で<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>の<ruby>鼻<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>を<ruby>指<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>します。</div><div class=\"kqdich\"><div class=\"nddich\">Người Nhật khi nói về mình sẽ dùng ngón trỏ chỉ vào mũi của mình.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うジェスチャーはいろいろあります。</div><div class=\"kqdich\"><div class=\"nddich\">Có rất nhiều cử chỉ được sử dụng bằng tay. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>や<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby>を<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くとき、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てて<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げたリ<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げたりします。</div><div class=\"kqdich\"><div class=\"nddich\">Khi đi bộ phía trước người khác hay đi bộ ở giữa những người đi đường, thì sẽ đưa tay lên rồi nâng lên hạ xuống. </div></div></div> <div class=\"tudich\"><div class=\"candich\">これは「ちょっとすみません」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Cái này có nghĩa là “Cho tôi xin lỗi một chút”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">また、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>で<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>に<ruby>何回<rp>（</rp><rt>なんかい</rt><rp>）</rp></ruby>も<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>ります。</div><div class=\"kqdich\"><div class=\"nddich\">Thêm nữa, vẫy tay qua lại nhiều lần ngang trước mặt. </div></div></div> <div class=\"tudich\"><div class=\"candich\">これは「さようなら」のジェスチャーではありません。</div><div class=\"kqdich\"><div class=\"nddich\">Điều này không phải là cử chỉ của chào tạm biệt.</div></div></div> <div class=\"tudich\"><div class=\"candich\">「わかりません」「できません」などの<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Nó có nghĩa là “Tôi không biết” ”Tôi không thể”.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>のや<ruby>犬<rp>（</rp><rt>いぬ</rt><rp>）</rp></ruby>などを<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ぶとき、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>のひらを<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>に<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>けて<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>ります。</div><div class=\"kqdich\"><div class=\"nddich\">Khi gọi ai đó hay gọi con cún, người Nhật sẽ để lòng bàn tay hướng xuống dưới dồi vẫy tay.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>人差<rp>（</rp><rt>ひとさ</rt><rp>）</rp></ruby>し<ruby>指<rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby>を<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てて「シーツ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>います。</div><div class=\"kqdich\"><div class=\"nddich\">Và khi người Nhật giơ ngón tay lên trước miệng và nói ”Shiii”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">これは「<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>すな！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Có nghĩa là đừng nói chuyện.</div></div></div> <div class=\"tudich\"><div class=\"candich\">みんなの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>で<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>す<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、ポケットに<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れて<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>してはいけません。</div><div class=\"kqdich\"><div class=\"nddich\">Khi nói chuyện trước mọi người thì không được phép nói chuyện mà cho tay vào túi.</div></div></div> <div class=\"tudich\"><div class=\"candich\">また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>相手<rp>（</rp><rt>あいて</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>をあまり<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ないで<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>します。</div><div class=\"kqdich\"><div class=\"nddich\">Hơn nữa, người Nhật nói chuyện thì không nhìn vào mắt của đối phương nhiều quá.</div></div></div> <div class=\"tudich\"><div class=\"candich\">じっと<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると<ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>なのです。</div><div class=\"kqdich\"><div class=\"nddich\">Khi nhìn chăm chú sẽ thất lễ.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">このほかに<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>うとき、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>を<ruby>隠<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>す<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がいます。</div><div class=\"kqdich\"><div class=\"nddich\">Trường hợp khác, có những người phụ nữ khi cười sẽ để tay che miệng.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>、<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてはいけませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Ngày xưa, người phụ nữ bị cấm không được cho người khác nhìn thấy răng của mình.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それで<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>もその<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>の<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>りにしているのです。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy, cho đến bây giờ vẫn làm theo phong tục đó.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さい<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもに「いい<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>だね」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>，<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ります。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Nhật, khi nói với những đứa trẻ nhỏ là “Ngoan lắm”, thì họ sẽ xoa đầu.</div></div></div> <div class=\"tudich\"><div class=\"candich\">しかし、タイなどの<ruby>東南<rp>（</rp><rt>とうなん</rt><rp>）</rp></ruby>アジアの<ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>では<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ってはいけません。</div><div class=\"kqdich\"><div class=\"nddich\">Tuy nhiên, đối với những nước Đông Nam Á như Thái Lan thì không cho phép xoa đầu.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>のガイドブックにはタイへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったら、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>るなと<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあります。</div><div class=\"kqdich\"><div class=\"nddich\">Trong sách hướng dẫn du lịch có viết là khi đến Thái Lan, không được xoa vào đầu của người khác.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>にはいろいろなジェスチャーがあります。</div><div class=\"kqdich\"><div class=\"nddich\">Trên thế giới có rất nhiều cử chỉ khác nhau.</div></div></div> <p><br /></p> <p></p><div class=\"tudich\"><div class=\"candich\">I 1）～３）のとき、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はどんなジェスチャーをしますか。</div><div class=\"kqdich\"><div class=\"nddich\">Người nhật làm cử chỉ nào khi muốn truyền tải thông tin từ 1) đến 3).</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">a～cから<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy chọn từ a đến c.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> １）（<b>b</b>）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がたくさんいるところで<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんを<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>びました。<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんは「えつ、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>？」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いながら、こちらを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。</div><div class=\"kqdich\"><div class=\"nddich\">Gọi anh Matsumoto ở nơi nhiều người. Matsumoto vừa nói “Hả, tôi à?” vừa nhìn về phía mình.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> ２）（<b>c</b>）<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>で<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>んでいます。<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に「こっちへ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Bé trai chơi trong công viên. Đã nói với người bạn rằng: ”Hãy đến đây”</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> ３）（<b>a</b>）<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>で<ruby>外国人<rp>（</rp><rt>がいこくじん</rt><rp>）</rp></ruby>が<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>に<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。その<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は「<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>、わからない！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Ở con phố, người nước ngoài đã hỏi đường người Nhật. Người Nhật đó đã nói là: ”Tôi không hiểu tiếng anh!”.</div></div></div> <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai34/doc34.png\" alt=\"minna 25 bai doc hieu Bai 34\"> <p></p><div class=\"tudich\"><div class=\"candich\">II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>のジェスチャーを<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy giới thiệu cử chỉ ở nước bạn.</div></div></div> </div> </div><!--END--> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "あなたの国（くに）では？",
+          "textHtml": "<b>あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>では？</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではあいさつするとき、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げます。 <ruby>握手<rp>（</rp><rt>あくしゅ</rt><rp>）</rp></ruby>をしたり<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ったりするあいさつはありません。 また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は「<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>人差<rp>（</rp><rt>ひとさ</rt><rp>）</rp></ruby>し<ruby>指<rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby>で<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>の<ruby>鼻<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>を<ruby>指<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>します。 <p></p> <ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うジェスチャーはいろいろあります。 <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>や<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby>を<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くとき、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てて<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げたリ<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げたりします。 これは「ちょっとすみません」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。 また、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>で<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>に<ruby>何回<rp>（</rp><rt>なんかい</rt><rp>）</rp></ruby>も<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>ります。 これは「さようなら」のジェスチャーではありません。 「わかりません」「できません」などの<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。 <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>のや<ruby>犬<rp>（</rp><rt>いぬ</rt><rp>）</rp></ruby>などを<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ぶとき、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>のひらを<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>に<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>けて<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>ります。 <p></p> また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>人差<rp>（</rp><rt>ひとさ</rt><rp>）</rp></ruby>し<ruby>指<rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby>を<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てて「シーツ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>います。 これは「<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>すな！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。 みんなの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>で<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>す<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、ポケットに<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れて<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>してはいけません。 また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>相手<rp>（</rp><rt>あいて</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>をあまり<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ないで<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>します。 じっと<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると<ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>なのです。 <p></p> このほかに<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>うとき、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>を<ruby>隠<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>す<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がいます。 <ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>、<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてはいけませんでした。 それで<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>もその<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>の<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>りにしているのです。 <p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さい<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもに「いい<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>だね」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>，<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ります。 しかし、タイなどの<ruby>東南<rp>（</rp><rt>とうなん</rt><rp>）</rp></ruby>アジアの<ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>では<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ってはいけません。 <ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>のガイドブックにはタイへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったら、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>るなと<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあります。 <p></p> <ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>にはいろいろなジェスチャーがあります。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1）～３）のとき、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はどんなジェスチャーをしますか。 <p></p> a～cから<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。 <p></p> １） <ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がたくさんいるところで<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんを<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>びました。<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんは「えつ、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>？」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いながら、こちらを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。 <p></p> ２） <ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>で<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>んでいます。<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に「こっちへ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 <p></p> ３） <ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>で<ruby>外国人<rp>（</rp><rt>がいこくじん</rt><rp>）</rp></ruby>が<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>に<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。その<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は「<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>、わからない！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 <p></p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai34/doc34.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai34/doc34.png\" alt=\"minna 25 bai doc hieu Bai 34\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>のジェスチャーを<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>では？</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Ở đất nước của bạn thì thế nào?",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "あなたの国（くに）では？",
+              "textHtml": "<b>あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>では？</b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Ở đất nước của bạn thì thế nào?"
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）ではあいさつするとき、頭（あたま）を下（さ）げます。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではあいさつするとき、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げます。",
+          "vietnamese": "Ở Nhật khi chào hỏi thì cúi đầu.",
+          "vietnameseHtml": "Ở Nhật khi chào hỏi thì cúi đầu."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "握手（あくしゅ）をしたり体（からだ）に触（さわ）ったりするあいさつはありません。",
+          "japaneseHtml": "<ruby>握手<rp>（</rp><rt>あくしゅ</rt><rp>）</rp></ruby>をしたり<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ったりするあいさつはありません。",
+          "vietnamese": "Không có việc chào hỏi bắt tay hay động chạm cơ thể.",
+          "vietnameseHtml": "Không có việc chào hỏi bắt tay hay động chạm cơ thể."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "また、日本人（にほんじん）は「私（わたし）」と言（い）う時（とき）、人差（ひとさ）し指（ゆび）で自分（じぶん）の鼻（はな）を指（さ）します。",
+          "japaneseHtml": "また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は「<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>人差<rp>（</rp><rt>ひとさ</rt><rp>）</rp></ruby>し<ruby>指<rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby>で<ruby>自分<rp>（</rp><rt>じぶん</rt><rp>）</rp></ruby>の<ruby>鼻<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>を<ruby>指<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>します。",
+          "vietnamese": "Người Nhật khi nói về mình sẽ dùng ngón trỏ chỉ vào mũi của mình.",
+          "vietnameseHtml": "Người Nhật khi nói về mình sẽ dùng ngón trỏ chỉ vào mũi của mình."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "手（て）を使（つか）うジェスチャーはいろいろあります。",
+          "japaneseHtml": "<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うジェスチャーはいろいろあります。",
+          "vietnamese": "Có rất nhiều cử chỉ được sử dụng bằng tay.",
+          "vietnameseHtml": "Có rất nhiều cử chỉ được sử dụng bằng tay."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "人（ひと）の前（まえ）や間（あいだ）を歩（ある）くとき、手（て）を立（た）てて上（あ）げたリ下（さ）げたりします。",
+          "japaneseHtml": "<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>や<ruby>間<rp>（</rp><rt>あいだ</rt><rp>）</rp></ruby>を<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くとき、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てて<ruby>上<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げたリ<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げたりします。",
+          "vietnamese": "Khi đi bộ phía trước người khác hay đi bộ ở giữa những người đi đường, thì sẽ đưa tay lên rồi nâng lên hạ xuống.",
+          "vietnameseHtml": "Khi đi bộ phía trước người khác hay đi bộ ở giữa những người đi đường, thì sẽ đưa tay lên rồi nâng lên hạ xuống."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "これは「ちょっとすみません」と言（い）う意味（いみ）です。",
+          "japaneseHtml": "これは「ちょっとすみません」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "Cái này có nghĩa là “Cho tôi xin lỗi một chút”.",
+          "vietnameseHtml": "Cái này có nghĩa là “Cho tôi xin lỗi một chút”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "また、手（て）を顔（かお）の前（まえ）で横（よこ）に何回（なんかい）も振（ふ）ります。",
+          "japaneseHtml": "また、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>で<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>に<ruby>何回<rp>（</rp><rt>なんかい</rt><rp>）</rp></ruby>も<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>ります。",
+          "vietnamese": "Thêm nữa, vẫy tay qua lại nhiều lần ngang trước mặt.",
+          "vietnameseHtml": "Thêm nữa, vẫy tay qua lại nhiều lần ngang trước mặt."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "これは「さようなら」のジェスチャーではありません。",
+          "japaneseHtml": "これは「さようなら」のジェスチャーではありません。",
+          "vietnamese": "Điều này không phải là cử chỉ của chào tạm biệt.",
+          "vietnameseHtml": "Điều này không phải là cử chỉ của chào tạm biệt."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「わかりません」「できません」などの意味（いみ）です。",
+          "japaneseHtml": "「わかりません」「できません」などの<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "Nó có nghĩa là “Tôi không biết” ”Tôi không thể”.",
+          "vietnameseHtml": "Nó có nghĩa là “Tôi không biết” ”Tôi không thể”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "人（ひと）のや犬（いぬ）などを呼（よ）ぶとき、日本人（にほんじん）は手（て）のひらを下（した）に向（む）けて振（ふ）ります。",
+          "japaneseHtml": "<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>のや<ruby>犬<rp>（</rp><rt>いぬ</rt><rp>）</rp></ruby>などを<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ぶとき、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>のひらを<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>に<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>けて<ruby>振<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>ります。",
+          "vietnamese": "Khi gọi ai đó hay gọi con cún, người Nhật sẽ để lòng bàn tay hướng xuống dưới dồi vẫy tay.",
+          "vietnameseHtml": "Khi gọi ai đó hay gọi con cún, người Nhật sẽ để lòng bàn tay hướng xuống dưới dồi vẫy tay."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "また、日本人（にほんじん）は口（くち）の前（まえ）に人差（ひとさ）し指（ゆび）を立（た）てて「シーツ」と言（い）います。",
+          "japaneseHtml": "また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>人差<rp>（</rp><rt>ひとさ</rt><rp>）</rp></ruby>し<ruby>指<rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby>を<ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>てて「シーツ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>います。",
+          "vietnamese": "Và khi người Nhật giơ ngón tay lên trước miệng và nói ”Shiii”.",
+          "vietnameseHtml": "Và khi người Nhật giơ ngón tay lên trước miệng và nói ”Shiii”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "これは「話（はな）すな！」と言（い）う意味（いみ）です。",
+          "japaneseHtml": "これは「<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>すな！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>意味<rp>（</rp><rt>いみ</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "Có nghĩa là đừng nói chuyện.",
+          "vietnameseHtml": "Có nghĩa là đừng nói chuyện."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "みんなの前（まえ）で話（はな）す時（とき）は、ポケットに手（て）を入（い）れて話（はな）してはいけません。",
+          "japaneseHtml": "みんなの<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>で<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>す<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、ポケットに<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>を<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れて<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>してはいけません。",
+          "vietnamese": "Khi nói chuyện trước mọi người thì không được phép nói chuyện mà cho tay vào túi.",
+          "vietnameseHtml": "Khi nói chuyện trước mọi người thì không được phép nói chuyện mà cho tay vào túi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "また、日本人（にほんじん）は相手（あいて）の目（め）をあまり見（み）ないで話（はな）します。",
+          "japaneseHtml": "また、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は<ruby>相手<rp>（</rp><rt>あいて</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>をあまり<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ないで<ruby>話<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>します。",
+          "vietnamese": "Hơn nữa, người Nhật nói chuyện thì không nhìn vào mắt của đối phương nhiều quá.",
+          "vietnameseHtml": "Hơn nữa, người Nhật nói chuyện thì không nhìn vào mắt của đối phương nhiều quá."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "じっと見（み）ると失礼（しつれい）なのです。",
+          "japaneseHtml": "じっと<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ると<ruby>失礼<rp>（</rp><rt>しつれい</rt><rp>）</rp></ruby>なのです。",
+          "vietnamese": "Khi nhìn chăm chú sẽ thất lễ.",
+          "vietnameseHtml": "Khi nhìn chăm chú sẽ thất lễ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "このほかに笑（わら）うとき、手（て）で口（くち）を隠（かく）す女（おんな）の人（ひと）がいます。",
+          "japaneseHtml": "このほかに<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>うとき、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>を<ruby>隠<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>す<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がいます。",
+          "vietnamese": "Trường hợp khác, có những người phụ nữ khi cười sẽ để tay che miệng.",
+          "vietnameseHtml": "Trường hợp khác, có những người phụ nữ khi cười sẽ để tay che miệng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "昔（むかし）、女（おんな）の人（ひと）は他（ほか）の人（ひと）に歯（は）を見（み）せてはいけませんでした。",
+          "japaneseHtml": "<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>、<ruby>女<rp>（</rp><rt>おんな</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>歯<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せてはいけませんでした。",
+          "vietnamese": "Ngày xưa, người phụ nữ bị cấm không được cho người khác nhìn thấy răng của mình.",
+          "vietnameseHtml": "Ngày xưa, người phụ nữ bị cấm không được cho người khác nhìn thấy răng của mình."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで今（いま）もその習慣（しゅうかん）の通（とお）りにしているのです。",
+          "japaneseHtml": "それで<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>もその<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>の<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>りにしているのです。",
+          "vietnamese": "Vì vậy, cho đến bây giờ vẫn làm theo phong tục đó.",
+          "vietnameseHtml": "Vì vậy, cho đến bây giờ vẫn làm theo phong tục đó."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）では小（ちい）さい子（こ）どもに「いい子（こ）だね」と言（い）う時（とき），頭（あたま）に触（さわ）ります。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さい<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもに「いい<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>だね」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>う<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>，<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ります。",
+          "vietnamese": "Ở Nhật, khi nói với những đứa trẻ nhỏ là “Ngoan lắm”, thì họ sẽ xoa đầu.",
+          "vietnameseHtml": "Ở Nhật, khi nói với những đứa trẻ nhỏ là “Ngoan lắm”, thì họ sẽ xoa đầu."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しかし、タイなどの東南（とうなん）アジアの国（こく）では頭（あたま）に触（さわ）ってはいけません。",
+          "japaneseHtml": "しかし、タイなどの<ruby>東南<rp>（</rp><rt>とうなん</rt><rp>）</rp></ruby>アジアの<ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>では<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>ってはいけません。",
+          "vietnamese": "Tuy nhiên, đối với những nước Đông Nam Á như Thái Lan thì không cho phép xoa đầu.",
+          "vietnameseHtml": "Tuy nhiên, đối với những nước Đông Nam Á như Thái Lan thì không cho phép xoa đầu."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "旅行（りょこう）のガイドブックにはタイへ行（い）ったら、人（ひと）の頭（あたま）に触（さわ）るなと書（か）いてあります。",
+          "japaneseHtml": "<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>のガイドブックにはタイへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったら、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>に<ruby>触<rp>（</rp><rt>さわ</rt><rp>）</rp></ruby>るなと<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてあります。",
+          "vietnamese": "Trong sách hướng dẫn du lịch có viết là khi đến Thái Lan, không được xoa vào đầu của người khác.",
+          "vietnameseHtml": "Trong sách hướng dẫn du lịch có viết là khi đến Thái Lan, không được xoa vào đầu của người khác."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "世界（せかい）にはいろいろなジェスチャーがあります。",
+          "japaneseHtml": "<ruby>世界<rp>（</rp><rt>せかい</rt><rp>）</rp></ruby>にはいろいろなジェスチャーがあります。",
+          "vietnamese": "Trên thế giới có rất nhiều cử chỉ khác nhau.",
+          "vietnameseHtml": "Trên thế giới có rất nhiều cử chỉ khác nhau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1）～３）のとき、日本人（にほんじん）はどんなジェスチャーをしますか。",
+          "japaneseHtml": "I 1）～３）のとき、<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はどんなジェスチャーをしますか。",
+          "vietnamese": "Người nhật làm cử chỉ nào khi muốn truyền tải thông tin từ 1) đến 3).",
+          "vietnameseHtml": "Người nhật làm cử chỉ nào khi muốn truyền tải thông tin từ 1) đến 3)."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "a～cから選（えら）んでください。",
+          "japaneseHtml": "a～cから<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>んでください。",
+          "vietnamese": "Hãy chọn từ a đến c.",
+          "vietnameseHtml": "Hãy chọn từ a đến c."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１）（b）人（ひと）がたくさんいるところで松本（まつもと）さんを呼（よ）びました。松本（まつもと）さんは「えつ、私（わたし）？」と言（い）いながら、こちらを見（み）ました。",
+          "japaneseHtml": "１）（<b>b</b>）<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がたくさんいるところで<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんを<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>びました。<ruby>松本<rp>（</rp><rt>まつもと</rt><rp>）</rp></ruby>さんは「えつ、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>？」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いながら、こちらを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ました。",
+          "vietnamese": "Gọi anh Matsumoto ở nơi nhiều người. Matsumoto vừa nói “Hả, tôi à?” vừa nhìn về phía mình.",
+          "vietnameseHtml": "Gọi anh Matsumoto ở nơi nhiều người. Matsumoto vừa nói “Hả, tôi à?” vừa nhìn về phía mình."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２）（c）公園（こうえん）で男（おとこ）の人（ひと）が遊（あそ）んでいます。友達（ともだち）に「こっちへ来（き）て！」と言（い）いました。",
+          "japaneseHtml": "２）（<b>c</b>）<ruby>公園<rp>（</rp><rt>こうえん</rt><rp>）</rp></ruby>で<ruby>男<rp>（</rp><rt>おとこ</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>遊<rp>（</rp><rt>あそ</rt><rp>）</rp></ruby>んでいます。<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に「こっちへ<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Bé trai chơi trong công viên. Đã nói với người bạn rằng: ”Hãy đến đây”",
+          "vietnameseHtml": "Bé trai chơi trong công viên. Đã nói với người bạn rằng: ”Hãy đến đây”"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "３）（a）町（まち）で外国人（がいこくじん）が日本人（にほんじん）に町（まち）を聞（き）きました。その日本人（にほんじん）は「英語（えいご）、わからない！」と言（い）いました。",
+          "japaneseHtml": "３）（<b>a</b>）<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>で<ruby>外国人<rp>（</rp><rt>がいこくじん</rt><rp>）</rp></ruby>が<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>に<ruby>町<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。その<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>は「<ruby>英語<rp>（</rp><rt>えいご</rt><rp>）</rp></ruby>、わからない！」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Ở con phố, người nước ngoài đã hỏi đường người Nhật. Người Nhật đó đã nói là: ”Tôi không hiểu tiếng anh!”.",
+          "vietnameseHtml": "Ở con phố, người nước ngoài đã hỏi đường người Nhật. Người Nhật đó đã nói là: ”Tôi không hiểu tiếng anh!”."
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai34/doc34.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai34/doc34.png\" alt=\"minna 25 bai doc hieu Bai 34\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II あなたの国（くに）のジェスチャーを紹介（しょうかい）してください。",
+          "japaneseHtml": "II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>のジェスチャーを<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。",
+          "vietnamese": "Hãy giới thiệu cử chỉ ở nước bạn.",
+          "vietnameseHtml": "Hãy giới thiệu cử chỉ ở nước bạn."
+        }
+      ]
+    }
+  ]
+}

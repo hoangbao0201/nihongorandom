@@ -1,0 +1,54 @@
+{
+  "lesson": 36,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca9a20751364352b62b7bfd",
+      "index": 176,
+      "character": "便",
+      "sinoVietnameseWord": "Tiện",
+      "mean": "Tiện lợi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l13/kanji/img/ai_smart_speaker.png",
+      "reminiscentDescription": "<p>nếu con NGƯỜI c&oacute; đ&ocirc;i C&Aacute;NH th&igrave; TIỆN lợi qu&aacute;...</p>",
+      "onReading": "ベン、ビン",
+      "kunReading": "たよ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">不便</td>\n<td style=\"width: 33.3333%; height: 21px;\">ふべん</td>\n<td style=\"width: 33.3333%; height: 21px;\">Bất tiện</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">郵便局</td>\n<td style=\"width: 33.3333%; height: 21px;\">ゆうびんきょく</td>\n<td style=\"width: 33.3333%; height: 21px;\">Bưu điện</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">船便</td>\n<td style=\"width: 33.3333%; height: 21px;\">ふなびん</td>\n<td style=\"width: 33.3333%; height: 21px;\">Gửi đường biển</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9a2fb51364352b62b7bff",
+      "index": 177,
+      "character": "利",
+      "sinoVietnameseWord": "Lợi",
+      "mean": "Lợi ích",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l13/kanji/img/group_people_smartphone_no_dog.png",
+      "reminiscentDescription": "<p>Cắt l&uacute;a( ho&agrave;) bằng Đao th&igrave; rất tiện Lợi!</p>",
+      "onReading": "リ",
+      "kunReading": "き",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">便利</td>\n<td style=\"width: 33.3333%; height: 21px;\">べんり</td>\n<td style=\"width: 33.3333%; height: 21px;\">Tiện lợi</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">利用します</td>\n<td style=\"width: 33.3333%; height: 21px;\">りようします</td>\n<td style=\"width: 33.3333%; height: 21px;\">Sử dụng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">利口</td>\n<td style=\"width: 33.3333%; height: 21px;\">りこう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Lanh lợi</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">左利き</td>\n<td style=\"width: 33.3333%; height: 21px;\">ひだりきき</td>\n<td style=\"width: 33.3333%; height: 21px;\">Thuận tay tr&aacute;i</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9a3ae51364352b62b7c02",
+      "index": 178,
+      "character": "泳",
+      "sinoVietnameseWord": "Vịnh",
+      "mean": "Bơi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l13/kanji/img/suiei_crawl_people.png",
+      "reminiscentDescription": "",
+      "onReading": "エイ",
+      "kunReading": "およ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">泳ぎます</td>\n<td style=\"width: 33.3333%; height: 21px;\">およぎます</td>\n<td style=\"width: 33.3333%; height: 21px;\">Bơi</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">水泳</td>\n<td style=\"width: 33.3333%; height: 21px;\">すいえい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Bơi lội</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9a45651364352b62b7c04",
+      "index": 179,
+      "character": "活",
+      "sinoVietnameseWord": "Hoạt",
+      "mean": "Sinh Hoạt",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l13/kanji/img/syokuji_family_tanoshisou.png",
+      "reminiscentDescription": "<p>Ngh&igrave;n c&aacute;i miệng linh hoạt n&oacute;i nhiều bắn cả nước bọt</p>",
+      "onReading": "カツ、カッ",
+      "kunReading": "",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">生活</td>\n<td style=\"width: 33.3333%; height: 21px;\">せいかつ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Sinh hoạt</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">活動</td>\n<td style=\"width: 33.3333%; height: 21px;\">かつどう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Hoạt động</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">活発</td>\n<td style=\"width: 33.3333%; height: 21px;\">かっぱつ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Hoạt b&aacute;t</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">食生活</td>\n<td style=\"width: 33.3333%; height: 21px;\">しょくせいかつ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Th&oacute;i quen ăn uống</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

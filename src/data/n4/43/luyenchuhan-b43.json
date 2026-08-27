@@ -1,0 +1,66 @@
+{
+  "lesson": 43,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca9c03151364352b62b7c7a",
+      "index": 211,
+      "character": "回",
+      "sinoVietnameseWord": "Hồi",
+      "mean": "Luân hồi",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l21/kanji/img/rat_mawashiguruma.png",
+      "reminiscentDescription": "<p>2 v&ograve;ng lu&acirc;n Hồi</p>",
+      "onReading": "カイ、エ",
+      "kunReading": "まわ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 88px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">回る</td>\n<td style=\"width: 33.3333%; height: 22px;\">まわる</td>\n<td style=\"width: 33.3333%; height: 22px;\">Xoay, quay v&ograve;ng</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">今回</td>\n<td style=\"width: 33.3333%; height: 22px;\">こんかい</td>\n<td style=\"width: 33.3333%; height: 22px;\">Lần n&agrave;y</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">何回</td>\n<td style=\"width: 33.3333%; height: 22px;\">なんかい</td>\n<td style=\"width: 33.3333%; height: 22px;\">Mấy lần</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9c0eb51364352b62b7c7e",
+      "index": 212,
+      "character": "起",
+      "sinoVietnameseWord": "Khởi",
+      "mean": "Khởi động",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l21/kanji/img/bed_boy_wake.png",
+      "reminiscentDescription": "<p>Tự m&igrave;nh CHẠY tr&ecirc;n đ&ocirc;i ch&acirc;n của ch&iacute;nh m&igrave;nh để KHỞI nghiệp&nbsp;</p>",
+      "onReading": "キ",
+      "kunReading": "お",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 168px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">起きます</td>\n<td style=\"width: 33.2422%; height: 21px;\">おきます</td>\n<td style=\"width: 33.3333%; height: 21px;\">Thức dậy</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">起こします</td>\n<td style=\"width: 33.2422%; height: 21px;\">おこします</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đ&aacute;nh thức</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">起床</td>\n<td style=\"width: 33.2422%; height: 21px;\">きしょう</td>\n<td style=\"width: 33.3333%; height: 21px;\">B&aacute;o thức, thức dậy</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">起業</td>\n<td style=\"width: 33.2422%; height: 21px;\">きぎょう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Khởi nghiệp</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.2422%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.2422%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.2422%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.4244%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.2422%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9c16a51364352b62b7c82",
+      "index": 213,
+      "character": "頭",
+      "sinoVietnameseWord": "Đầu",
+      "mean": "Đầu",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l21/kanji/img/kosodate_nadenade_naderu_boy.png",
+      "reminiscentDescription": "<p>Đầu (頭)&oacute;c b&atilde; đậu (豆) n&ecirc;n viết l&ecirc;n giấy (頁) cho nhớ</p>",
+      "onReading": "ズ、トウ、ド、ト",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 88px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">頭</td>\n<td style=\"width: 33.3333%; height: 22px;\">あたま</td>\n<td style=\"width: 33.3333%; height: 22px;\">Đầu</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">頭痛</td>\n<td style=\"width: 33.3333%; height: 22px;\">ずつう</td>\n<td style=\"width: 33.3333%; height: 22px;\">Đau đầu</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">頭文字</td>\n<td style=\"width: 33.3333%; height: 22px;\">かしらもじ</td>\n<td style=\"width: 33.3333%; height: 22px;\">K&yacute; hiệu, viết tắt</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">頭脳</td>\n<td style=\"width: 33.3333%; height: 22px;\">ずのう</td>\n<td style=\"width: 33.3333%; height: 22px;\">N&atilde;o bộ</td>\n</tr>\n</tbody>\n</table>",
+      "kunReading": "あたま、かしら"
+    },
+    {
+      "_id": "5ca9c24a51364352b62b7c85",
+      "index": 214,
+      "character": "短",
+      "sinoVietnameseWord": "Tự",
+      "mean": "Chữ , kí tự",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l21/kanji/img/seichou_seifuku_girl.png",
+      "reminiscentDescription": "<p>mũi T&Ecirc;N NGẮN bằng hạt ĐẬU</p>",
+      "onReading": "タン",
+      "kunReading": "みじか",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 168px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">短い</td>\n<td style=\"width: 33.3333%; height: 21px;\">みじかお</td>\n<td style=\"width: 33.3333%; height: 21px;\">Ngắn</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">短所</td>\n<td style=\"width: 33.3333%; height: 21px;\">たんしょ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Điểm yếu</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">短期</td>\n<td style=\"width: 33.3333%; height: 21px;\">たんき</td>\n<td style=\"width: 33.3333%; height: 21px;\">Thời gian ngắn</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9c2fa51364352b62b7c88",
+      "index": 215,
+      "character": "低",
+      "sinoVietnameseWord": "Đê",
+      "mean": "Thấp",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l21/kanji/img/hurdle_hikui_man.png",
+      "reminiscentDescription": "<p>t&ecirc;n họ 氏 của 1 一 người 人 lu&ocirc;n được k&yacute; t&ecirc;n dưới mức thấp nhất 低い của văn bản</p>",
+      "onReading": "テイ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 130px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">低い</td>\n<td style=\"width: 33.3333%; height: 21px;\">ひくい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Thấp</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">最低</td>\n<td style=\"width: 33.3333%; height: 21px;\">さいてい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Thấp nhất</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">低下</td>\n<td style=\"width: 33.3333%; height: 21px;\">ていか</td>\n<td style=\"width: 33.3333%; height: 21px;\">Suy giảm</td>\n</tr>\n<tr style=\"height: 24px;\">\n<td style=\"width: 33.3333%; height: 24px;\">低温</td>\n<td style=\"width: 33.3333%; height: 24px;\">ていおん</td>\n<td style=\"width: 33.3333%; height: 24px;\">Nhiệt độ thấp</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "kunReading": "ひく"
+    }
+  ]
+}

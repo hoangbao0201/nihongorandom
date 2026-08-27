@@ -1,0 +1,790 @@
+{
+  "lesson": 26,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>（うちゅう） ステーション</b></div> <div class=\"kanji\">（宇宙）ステーション</div> <div class=\"nghia_viet\">trạm (vũ trụ)</div> <div class=\"nghia_anh\">(space) station</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーキロ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">- ki-lô-mét</div> <div class=\"nghia_anh\">- kikometer</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とびます</b></div> <div class=\"kanji\">飛びます</div> <div class=\"nghia_viet\">bay</div> <div class=\"nghia_anh\">fly</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まわります</b></div> <div class=\"kanji\">回ります</div> <div class=\"nghia_viet\">quay quanh</div> <div class=\"nghia_anh\">go round</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>グリニッジひょうじゅんじ</b></div> <div class=\"kanji\">グリニッジ標準時</div> <div class=\"nghia_viet\">giờ GMT</div> <div class=\"nghia_anh\">Greenwich mean time</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うちゅう</b></div> <div class=\"kanji\">宇宙</div> <div class=\"nghia_viet\">vũ trụ</div> <div class=\"nghia_anh\">space, universe</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じゅうりょく</b></div> <div class=\"kanji\">重力</div> <div class=\"nghia_viet\">trọng lực</div> <div class=\"nghia_anh\">gravity</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふつうの</b></div> <div class=\"kanji\">普通の</div> <div class=\"nghia_viet\">bình thường</div> <div class=\"nghia_anh\">ordinary</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>4, 5にち</b></div> <div class=\"kanji\">4、5日</div> <div class=\"nghia_viet\">4, 5 ngày</div> <div class=\"nghia_anh\">four or five days</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はこびます</b></div> <div class=\"kanji\">運びます</div> <div class=\"nghia_viet\">chở, mang</div> <div class=\"nghia_anh\">carry, transport</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おしっこ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nước tiểu</div> <div class=\"nghia_anh\">pee, urine</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>リサイクル</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">tái chế</div> <div class=\"nghia_anh\">recycle</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かわりに</b></div> <div class=\"kanji\">代わりに</div> <div class=\"nghia_viet\">thay vào đó</div> <div class=\"nghia_anh\">instead</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふきます</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">lau</div> <div class=\"nghia_anh\">wipe</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーセンチ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">- cm</div> <div class=\"nghia_anh\">- cetimeter</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しかし</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nhưng</div> <div class=\"nghia_anh\">but</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まえ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">trước</div> <div class=\"nghia_anh\">before</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おなじ</b></div> <div class=\"kanji\">同じ</div> <div class=\"nghia_viet\">giống</div> <div class=\"nghia_anh\">same</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ただしい</b></div> <div class=\"kanji\">正しい</div> <div class=\"nghia_viet\">đúng </div> <div class=\"nghia_anh\">correct</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>クイズ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">câu đố</div> <div class=\"nghia_anh\">quiz</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>（うちゅう）ステーション</b></div> <div class=\"kanji\">（宇宙）ステーション</div> <div class=\"nghia_viet\">trạm (vũ trụ)</div> <div class=\"nghia_anh\">(space) station</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まわります</b></div> <div class=\"kanji\">回ります</div> <div class=\"nghia_viet\">quay quanh</div> <div class=\"nghia_anh\">go round</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じそく</b></div> <div class=\"kanji\">時速</div> <div class=\"nghia_viet\">vận tốc</div> <div class=\"nghia_anh\">speed per hour</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーキロ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">- ki-lô-mét, - kilogram</div> <div class=\"nghia_anh\">- kilometer, - kilogram</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とびます</b></div> <div class=\"kanji\">飛びます</div> <div class=\"nghia_viet\">bay</div> <div class=\"nghia_anh\">fly</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おおきさ</b></div> <div class=\"kanji\">大きさ</div> <div class=\"nghia_viet\">kích cỡ, độ lớn</div> <div class=\"nghia_anh\">size, scale</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひろさ</b></div> <div class=\"kanji\">広さ</div> <div class=\"nghia_viet\">độ rộng, diện tích</div> <div class=\"nghia_anh\">size, area</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>サッカーじょう</b></div> <div class=\"kanji\">サッカー場</div> <div class=\"nghia_viet\">sân bóng đá</div> <div class=\"nghia_anh\">soccer ground</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ジャンボジェットき</b></div> <div class=\"kanji\">ジャンボジェット幾</div> <div class=\"nghia_viet\">máy bay jumbo jet</div> <div class=\"nghia_anh\">jumbo jet</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>コップ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">cốc </div> <div class=\"nghia_anh\">glass, cup</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーはい（ーぱい、ーばい）</b></div> <div class=\"kanji\">ー杯</div> <div class=\"nghia_viet\">- cốc, bát (lượng từ đếm cốc, bát, li, chén…)</div> <div class=\"nghia_anh\">- glass or cup of (counter for - gelas full cups, glasses, etc.)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>はこびます</b></div> <div class=\"kanji\">運びます</div> <div class=\"nghia_viet\">chở, mang</div> <div class=\"nghia_anh\">carry, transport</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>くうき</b></div> <div class=\"kanji\">空気</div> <div class=\"nghia_viet\">không khí</div> <div class=\"nghia_anh\">air</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>くうちゅう</b></div> <div class=\"kanji\">空中</div> <div class=\"nghia_viet\">không trung</div> <div class=\"nghia_anh\">the air</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うきます</b></div> <div class=\"kanji\">浮きます</div> <div class=\"nghia_viet\">nổi</div> <div class=\"nghia_anh\">float</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まるい</b></div> <div class=\"kanji\">丸い</div> <div class=\"nghia_viet\">tròn</div> <div class=\"nghia_anh\">round</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きこえます</b></div> <div class=\"kanji\">聞こえます</div> <div class=\"nghia_viet\">nghe thấy</div> <div class=\"nghia_anh\">can be heard</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うちゅうひこうし</b></div> <div class=\"kanji\">宇宙飛行士</div> <div class=\"nghia_viet\">nhà du hành vũ trụ</div> <div class=\"nghia_anh\">astronaut</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>はどうですか</b></h3> <p></p>— <ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションはどこにあるんですか。 <p></p><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から４００キロ<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>を<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>んでいます。 <p></p>— えっ？ステーションが<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>んでいるんですか。 <p></p>はい、９０<ruby>分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>で1<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>っています。 <ruby>1日<rp>（</rp><rt>いちにち</rt><rp>）</rp></ruby>16<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>と<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>が<ruby>来<rp>（</rp><rt>く</rt><rp>）</rp></ruby>るんですよ。 <p></p>— じゃ、<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>や<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>はどうやってわかるんですか。 <p></p>グリニッジ<ruby>標準時<rp>（</rp><rt>ひょうじゅんじ</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っています。 <p></p>— どうして<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>ではいつも「<ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>いで」いるんですか。 <p></p><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>は<ruby>重力<rp>（</rp><rt>じゅうりょく</rt><rp>）</rp></ruby>がありませんから、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くことができないんです。 <p></p>— いつも<ruby>宇宙服<rp>（</rp><rt>うちゅうふく</rt><rp>）</rp></ruby>を<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ているんですか。 <p></p>いいえ。<ruby>宇宙服<rp>（</rp><rt>うちゅうふく</rt><rp>）</rp></ruby>はステーションの<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>て<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をするとき、<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます。 ステーションの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>では<ruby>普通<rp>（</rp><rt>ふつう</rt><rp>）</rp></ruby>の<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>を<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ています。 <p></p>— <ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>は<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>するんですか。 <p></p>いいえ。<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>が<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>ですから、<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>しません。 ４、5<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby><ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て、<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てます。 <p></p>— <ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>も<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んでいるんですか。 <p></p>はい、でも、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>は<ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いですから、たくさん<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶことができません。 ですから、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちのおしっこから<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>っています。 <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むこともできるんですよ。 <p></p>— リサイクルですね。 じゃ、おふろは？ <p></p>ありません。 もちろんシャワーもありません。 <ruby>代<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>をふきます。 <p></p>— <ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>で<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んだんですが、<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>すると、<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなるんですか。 <p></p>ええ、<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では、1～7センチ<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなります。 しかし、<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったら、まえと<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じになります。 <p></p>— 10<ruby>年宇宙<rp>（</rp><rt>ねんうちゅう</rt><rp>）</rp></ruby>にいたら、どうなるんですか。 <p></p>まだ、わかりません。 <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>しています。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないもの☓を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では<ruby>暗<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>くなったら<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>明<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>るくなったら<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる。 <p></p> 2)（ ） ステーションではおふろに<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ったり、<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>したりすることができない。 <p></p> 3)（ ） ステーションで<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>は<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んでいる。 <p></p> 4)（ ） <ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>から<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ると、<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなる。 <p></p>II 1．どうして<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>で<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p> 2．<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>に１０<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>いたら、どうなると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>はどうですか</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Cuộc sống ở trạm vũ trụ như thế nào?</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\"><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションはどこにあるんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Trạm vũ trụ có ở đâu nhỉ?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から４００キロ<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>を<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>んでいます。</div><div class=\"kqdich\"><div class=\"nddich\">Bay từ trái đất lên trên khoảng 400 kilomet.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\">えっ？ステーションが<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>んでいるんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Trạm vũ trụ có bay được không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">はい、９０<ruby>分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>で1<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>っています。</div><div class=\"kqdich\"><div class=\"nddich\">Đúng vậy, nó xoay quanh trái đất mất 90 phút 1 lần. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>1日<rp>（</rp><rt>いちにち</rt><rp>）</rp></ruby>16<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>と<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>が<ruby>来<rp>（</rp><rt>く</rt><rp>）</rp></ruby>るんですよ。</div><div class=\"kqdich\"><div class=\"nddich\">Bình minh và hoàng hôn đến 16 lần 1 ngày</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\">じゃ、<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>や<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>はどうやってわかるんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Vậy thời gian ngủ và thời gian thức dậy chúng sẽ hiểu như thế nào?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">グリニッジ<ruby>標準時<rp>（</rp><rt>ひょうじゅんじ</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っています。</div><div class=\"kqdich\"><div class=\"nddich\">Họ sử dụng giờ GMT .</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\">どうして<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>ではいつも「<ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>いで」いるんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao trên trạm vũ trụ chúng ta luôn “bơi”?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>は<ruby>重力<rp>（</rp><rt>じゅうりょく</rt><rp>）</rp></ruby>がありませんから、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くことができないんです。</div><div class=\"kqdich\"><div class=\"nddich\">Bởi vì vũ trụ không có trọng lực nên chúng ta không thể đi bộ được.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\">いつも<ruby>宇宙服<rp>（</rp><rt>うちゅうふく</rt><rp>）</rp></ruby>を<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ているんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Vậy thì phải luôn mặc trang phục phi hành gia phải không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">いいえ。<ruby>宇宙服<rp>（</rp><rt>うちゅうふく</rt><rp>）</rp></ruby>はステーションの<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>て<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をするとき、<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます。</div><div class=\"kqdich\"><div class=\"nddich\">Không phải, trang phục phi hành gia thì mặc khi ra phía bên ngoài trạm vũ trụ làm việc.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ステーションの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>では<ruby>普通<rp>（</rp><rt>ふつう</rt><rp>）</rp></ruby>の<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>を<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ています。</div><div class=\"kqdich\"><div class=\"nddich\">Khi ở trong trạm vũ trụ thì mặc áo quần bình thường.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\"><ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>は<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>するんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Áo quần thì có giặt không vậy?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">いいえ。<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>が<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>ですから、<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>しません。</div><div class=\"kqdich\"><div class=\"nddich\">Không. Bởi vì ở vũ trụ nước rất quan trọng nên không giặt. </div></div></div> <div class=\"tudich\"><div class=\"candich\">４、5<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby><ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て、<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てます。</div><div class=\"kqdich\"><div class=\"nddich\">Mặc 4, 5 ngày rồi vứt đi.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\"><ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>も<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んでいるんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Nước cũng vận chuyển từ trái đất lên phải không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">はい、でも、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>は<ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いですから、たくさん<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶことができません。</div><div class=\"kqdich\"><div class=\"nddich\">Vâng, nhưng vì nước nặng nên không thể vận chuyển nhiều.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ですから、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちのおしっこから<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>っています。</div><div class=\"kqdich\"><div class=\"nddich\">Vì thế, chúng tôi tạo ra nước từ nước tiểu của của chúng tôi. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むこともできるんですよ。</div><div class=\"kqdich\"><div class=\"nddich\">Có thể uống được ấy.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\">リサイクルですね。</div><div class=\"kqdich\"><div class=\"nddich\">Tái chế nhỉ.</div></div></div> <div class=\"tudich\"><div class=\"candich\">じゃ、おふろは？</div><div class=\"kqdich\"><div class=\"nddich\">Vậy tắm bồn thì thế nào?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">ありません。</div><div class=\"kqdich\"><div class=\"nddich\">Nhà tắm thì không có. </div></div></div> <div class=\"tudich\"><div class=\"candich\">もちろんシャワーもありません。</div><div class=\"kqdich\"><div class=\"nddich\">Tất nhiên vòi sen cũng không có. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>代<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>をふきます。</div><div class=\"kqdich\"><div class=\"nddich\">Thay vào đó, sẽ lau cơ thể.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\"><ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>で<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んだんですが、<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>すると、<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなるんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã đọc ở tạp chí, khi sống ở vũ trụ sẽ cao lên phải không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">ええ、<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では、1～7センチ<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなります。</div><div class=\"kqdich\"><div class=\"nddich\">Vâng, sống ở vũ trụ sẽ cao lên 1 đến 7 cm. </div></div></div> <div class=\"tudich\"><div class=\"candich\">しかし、<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったら、まえと<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じになります。</div><div class=\"kqdich\"><div class=\"nddich\">Tuy nhiên, khi trở về trái đất chiều cao sẽ trở lại như ban đầu.</div></div></div> <p></p>— <div class=\"tudich\"><div class=\"candich\">10<ruby>年宇宙<rp>（</rp><rt>ねんうちゅう</rt><rp>）</rp></ruby>にいたら、どうなるんですか。</div><div class=\"kqdich\"><div class=\"nddich\">Vậy nếu sống ở vũ trụ 10 năm sẽ như thế nào nhỉ?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">まだ、わかりません。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi vẫn chưa biết.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>しています。</div><div class=\"kqdich\"><div class=\"nddich\">Bây giờ chúng tôi đang nghiên cứu.</div></div></div> <p></p> <p></p><div class=\"tudich\"><div class=\"candich\">I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないもの☓を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy đánh 〇 vào câu đúng, ☓ vào câu không đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>Ｘ</b>）<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では<ruby>暗<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>くなったら<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>明<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>るくなったら<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる。</div><div class=\"kqdich\"><div class=\"nddich\">Ở vũ trụ khi trời tối thì ngủ, trời sáng thì thức dậy.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>〇</b>） ステーションではおふろに<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ったり、<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>したりすることができない。</div><div class=\"kqdich\"><div class=\"nddich\">Ở trạm vũ trụ không thể tắm, không thể giặt giũ.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>Ｘ</b>）ステーションで<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>は<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んでいる。</div><div class=\"kqdich\"><div class=\"nddich\">Nước sử dụng ở trạm vũ trụ tất cả được vận chuyển từ trái đất lên.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（<b>Ｘ</b>）<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>から<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ると、<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなる。</div><div class=\"kqdich\"><div class=\"nddich\">Từ vũ trụ trở về sẽ cao lên.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">II 1．どうして<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>で<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn nghĩ vì sao khi ở vũ trụ sẽ cao lên?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2．<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>に１０<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>いたら、どうなると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn nghĩ sẽ thế nào nếu ở vũ trụ 10 năm?</div></div></div> </div> </div><!--END--> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "宇宙（うちゅう）ステーションの生活（せいかつ）はどうですか",
+          "textHtml": "<b><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>はどうですか</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>— <ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションはどこにあるんですか。 <p></p><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から４００キロ<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>を<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>んでいます。 <p></p>— えっ？ステーションが<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>んでいるんですか。 <p></p>はい、９０<ruby>分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>で1<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>っています。 <ruby>1日<rp>（</rp><rt>いちにち</rt><rp>）</rp></ruby>16<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>と<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>が<ruby>来<rp>（</rp><rt>く</rt><rp>）</rp></ruby>るんですよ。 <p></p>— じゃ、<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>や<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>はどうやってわかるんですか。 <p></p>グリニッジ<ruby>標準時<rp>（</rp><rt>ひょうじゅんじ</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っています。 <p></p>— どうして<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>ではいつも「<ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>いで」いるんですか。 <p></p><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>は<ruby>重力<rp>（</rp><rt>じゅうりょく</rt><rp>）</rp></ruby>がありませんから、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くことができないんです。 <p></p>— いつも<ruby>宇宙服<rp>（</rp><rt>うちゅうふく</rt><rp>）</rp></ruby>を<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ているんですか。 <p></p>いいえ。<ruby>宇宙服<rp>（</rp><rt>うちゅうふく</rt><rp>）</rp></ruby>はステーションの<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>て<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をするとき、<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます。 ステーションの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>では<ruby>普通<rp>（</rp><rt>ふつう</rt><rp>）</rp></ruby>の<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>を<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ています。 <p></p>— <ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>は<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>するんですか。 <p></p>いいえ。<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>が<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>ですから、<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>しません。 ４、5<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby><ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て、<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てます。 <p></p>— <ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>も<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んでいるんですか。 <p></p>はい、でも、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>は<ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いですから、たくさん<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶことができません。 ですから、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちのおしっこから<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>っています。 <ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むこともできるんですよ。 <p></p>— リサイクルですね。 じゃ、おふろは？ <p></p>ありません。 もちろんシャワーもありません。 <ruby>代<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>をふきます。 <p></p>— <ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>で<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んだんですが、<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>すると、<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなるんですか。 <p></p>ええ、<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では、1～7センチ<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなります。 しかし、<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったら、まえと<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じになります。 <p></p>— 10<ruby>年宇宙<rp>（</rp><rt>ねんうちゅう</rt><rp>）</rp></ruby>にいたら、どうなるんですか。 <p></p>まだ、わかりません。 <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>しています。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないもの☓を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では<ruby>暗<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>くなったら<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>明<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>るくなったら<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる。 <p></p> 2)（ ） ステーションではおふろに<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ったり、<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>したりすることができない。 <p></p> 3)（ ） ステーションで<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>は<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んでいる。 <p></p> 4)（ ） <ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>から<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ると、<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなる。 <p></p>II 1．どうして<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>で<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p> 2．<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>に１０<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>いたら、どうなると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>はどうですか</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Cuộc sống ở trạm vũ trụ như thế nào?",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "宇宙（うちゅう）ステーションの生活（せいかつ）はどうですか",
+              "textHtml": "<b><ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>はどうですか</b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Cuộc sống ở trạm vũ trụ như thế nào?"
+            }
+          ]
+        },
+        {
+          "kind": "html",
+          "contentHtml": "</div> <p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "宇宙（うちゅう）ステーションはどこにあるんですか。",
+          "japaneseHtml": "<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションはどこにあるんですか。",
+          "vietnamese": "Trạm vũ trụ có ở đâu nhỉ?",
+          "vietnameseHtml": "Trạm vũ trụ có ở đâu nhỉ?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "地球（ちきゅう）から４００キロ上（うえ）を飛（と）んでいます。",
+          "japaneseHtml": "<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から４００キロ<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>を<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>んでいます。",
+          "vietnamese": "Bay từ trái đất lên trên khoảng 400 kilomet.",
+          "vietnameseHtml": "Bay từ trái đất lên trên khoảng 400 kilomet."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "えっ？ステーションが飛（と）んでいるんですか。",
+          "japaneseHtml": "えっ？ステーションが<ruby>飛<rp>（</rp><rt>と</rt><rp>）</rp></ruby>んでいるんですか。",
+          "vietnamese": "Trạm vũ trụ có bay được không?",
+          "vietnameseHtml": "Trạm vũ trụ có bay được không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "はい、９０分（ぷん）で1回（かい）地球（ちきゅう）を回（まわ）っています。",
+          "japaneseHtml": "はい、９０<ruby>分<rp>（</rp><rt>ぷん</rt><rp>）</rp></ruby>で1<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>を<ruby>回<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>っています。",
+          "vietnamese": "Đúng vậy, nó xoay quanh trái đất mất 90 phút 1 lần.",
+          "vietnameseHtml": "Đúng vậy, nó xoay quanh trái đất mất 90 phút 1 lần."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1日（いちにち）16回（かい）朝（あさ）と夜（よる）が来（く）るんですよ。",
+          "japaneseHtml": "<ruby>1日<rp>（</rp><rt>いちにち</rt><rp>）</rp></ruby>16<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>と<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby>が<ruby>来<rp>（</rp><rt>く</rt><rp>）</rp></ruby>るんですよ。",
+          "vietnamese": "Bình minh và hoàng hôn đến 16 lần 1 ngày",
+          "vietnameseHtml": "Bình minh và hoàng hôn đến 16 lần 1 ngày"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "じゃ、寝（ね）る時間（じかん）や起（お）きる時間（じかん）はどうやってわかるんですか。",
+          "japaneseHtml": "じゃ、<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>や<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる<ruby>時間<rp>（</rp><rt>じかん</rt><rp>）</rp></ruby>はどうやってわかるんですか。",
+          "vietnamese": "Vậy thời gian ngủ và thời gian thức dậy chúng sẽ hiểu như thế nào?",
+          "vietnameseHtml": "Vậy thời gian ngủ và thời gian thức dậy chúng sẽ hiểu như thế nào?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "グリニッジ標準時（ひょうじゅんじ）を使（つか）っています。",
+          "japaneseHtml": "グリニッジ<ruby>標準時<rp>（</rp><rt>ひょうじゅんじ</rt><rp>）</rp></ruby>を<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っています。",
+          "vietnamese": "Họ sử dụng giờ GMT .",
+          "vietnameseHtml": "Họ sử dụng giờ GMT ."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どうして宇宙（うちゅう）ステーションの中（なか）ではいつも「泳（およ）いで」いるんですか。",
+          "japaneseHtml": "どうして<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>ステーションの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>ではいつも「<ruby>泳<rp>（</rp><rt>およ</rt><rp>）</rp></ruby>いで」いるんですか。",
+          "vietnamese": "Tại sao trên trạm vũ trụ chúng ta luôn “bơi”?",
+          "vietnameseHtml": "Tại sao trên trạm vũ trụ chúng ta luôn “bơi”?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "宇宙（うちゅう）は重力（じゅうりょく）がありませんから、歩（ある）くことができないんです。",
+          "japaneseHtml": "<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>は<ruby>重力<rp>（</rp><rt>じゅうりょく</rt><rp>）</rp></ruby>がありませんから、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くことができないんです。",
+          "vietnamese": "Bởi vì vũ trụ không có trọng lực nên chúng ta không thể đi bộ được.",
+          "vietnameseHtml": "Bởi vì vũ trụ không có trọng lực nên chúng ta không thể đi bộ được."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "いつも宇宙服（うちゅうふく）を着（き）ているんですか。",
+          "japaneseHtml": "いつも<ruby>宇宙服<rp>（</rp><rt>うちゅうふく</rt><rp>）</rp></ruby>を<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ているんですか。",
+          "vietnamese": "Vậy thì phải luôn mặc trang phục phi hành gia phải không?",
+          "vietnameseHtml": "Vậy thì phải luôn mặc trang phục phi hành gia phải không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "いいえ。宇宙服（うちゅうふく）はステーションの外（そと）に出（で）て仕事（しごと）をするとき、着（き）ます。",
+          "japaneseHtml": "いいえ。<ruby>宇宙服<rp>（</rp><rt>うちゅうふく</rt><rp>）</rp></ruby>はステーションの<ruby>外<rp>（</rp><rt>そと</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>て<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>をするとき、<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ます。",
+          "vietnamese": "Không phải, trang phục phi hành gia thì mặc khi ra phía bên ngoài trạm vũ trụ làm việc.",
+          "vietnameseHtml": "Không phải, trang phục phi hành gia thì mặc khi ra phía bên ngoài trạm vũ trụ làm việc."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ステーションの中（なか）では普通（ふつう）の服（ふく）を着（き）ています。",
+          "japaneseHtml": "ステーションの<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>では<ruby>普通<rp>（</rp><rt>ふつう</rt><rp>）</rp></ruby>の<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>を<ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ています。",
+          "vietnamese": "Khi ở trong trạm vũ trụ thì mặc áo quần bình thường.",
+          "vietnameseHtml": "Khi ở trong trạm vũ trụ thì mặc áo quần bình thường."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "服（ふく）は洗濯（せんたく）するんですか。",
+          "japaneseHtml": "<ruby>服<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>は<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>するんですか。",
+          "vietnamese": "Áo quần thì có giặt không vậy?",
+          "vietnameseHtml": "Áo quần thì có giặt không vậy?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "いいえ。宇宙（うちゅう）では水（みず）が大切（たいせつ）ですから、洗濯（せんたく）しません。",
+          "japaneseHtml": "いいえ。<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>が<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>ですから、<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>しません。",
+          "vietnamese": "Không. Bởi vì ở vũ trụ nước rất quan trọng nên không giặt.",
+          "vietnameseHtml": "Không. Bởi vì ở vũ trụ nước rất quan trọng nên không giặt."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "４、5日（にち）着（き）て、捨（す）てます。",
+          "japaneseHtml": "４、5<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby><ruby>着<rp>（</rp><rt>き</rt><rp>）</rp></ruby>て、<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てます。",
+          "vietnamese": "Mặc 4, 5 ngày rồi vứt đi.",
+          "vietnameseHtml": "Mặc 4, 5 ngày rồi vứt đi."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "水（みず）も地球（ちきゅう）から運（はこ）んでいるんですか。",
+          "japaneseHtml": "<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>も<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んでいるんですか。",
+          "vietnamese": "Nước cũng vận chuyển từ trái đất lên phải không?",
+          "vietnameseHtml": "Nước cũng vận chuyển từ trái đất lên phải không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "はい、でも、水（みず）は重（おも）いですから、たくさん運（はこ）ぶことができません。",
+          "japaneseHtml": "はい、でも、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>は<ruby>重<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いですから、たくさん<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶことができません。",
+          "vietnamese": "Vâng, nhưng vì nước nặng nên không thể vận chuyển nhiều.",
+          "vietnameseHtml": "Vâng, nhưng vì nước nặng nên không thể vận chuyển nhiều."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ですから、私（わたし）たちのおしっこから水（みず）を作（つく）っています。",
+          "japaneseHtml": "ですから、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちのおしっこから<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>っています。",
+          "vietnamese": "Vì thế, chúng tôi tạo ra nước từ nước tiểu của của chúng tôi.",
+          "vietnameseHtml": "Vì thế, chúng tôi tạo ra nước từ nước tiểu của của chúng tôi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "飲（の）むこともできるんですよ。",
+          "japaneseHtml": "<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むこともできるんですよ。",
+          "vietnamese": "Có thể uống được ấy.",
+          "vietnameseHtml": "Có thể uống được ấy."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "リサイクルですね。",
+          "japaneseHtml": "リサイクルですね。",
+          "vietnamese": "Tái chế nhỉ.",
+          "vietnameseHtml": "Tái chế nhỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "じゃ、おふろは？",
+          "japaneseHtml": "じゃ、おふろは？",
+          "vietnamese": "Vậy tắm bồn thì thế nào?",
+          "vietnameseHtml": "Vậy tắm bồn thì thế nào?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ありません。",
+          "japaneseHtml": "ありません。",
+          "vietnamese": "Nhà tắm thì không có.",
+          "vietnameseHtml": "Nhà tắm thì không có."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "もちろんシャワーもありません。",
+          "japaneseHtml": "もちろんシャワーもありません。",
+          "vietnamese": "Tất nhiên vòi sen cũng không có.",
+          "vietnameseHtml": "Tất nhiên vòi sen cũng không có."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "代（か）わりに体（からだ）をふきます。",
+          "japaneseHtml": "<ruby>代<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>をふきます。",
+          "vietnamese": "Thay vào đó, sẽ lau cơ thể.",
+          "vietnameseHtml": "Thay vào đó, sẽ lau cơ thể."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "雑誌（ざっし）で読（よ）んだんですが、宇宙（うちゅう）で生活（せいかつ）すると、背（せ）が高（たか）くなるんですか。",
+          "japaneseHtml": "<ruby>雑誌<rp>（</rp><rt>ざっし</rt><rp>）</rp></ruby>で<ruby>読<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んだんですが、<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>すると、<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなるんですか。",
+          "vietnamese": "Tôi đã đọc ở tạp chí, khi sống ở vũ trụ sẽ cao lên phải không?",
+          "vietnameseHtml": "Tôi đã đọc ở tạp chí, khi sống ở vũ trụ sẽ cao lên phải không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ええ、宇宙（うちゅう）では、1～7センチ高（たか）くなります。",
+          "japaneseHtml": "ええ、<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では、1～7センチ<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなります。",
+          "vietnamese": "Vâng, sống ở vũ trụ sẽ cao lên 1 đến 7 cm.",
+          "vietnameseHtml": "Vâng, sống ở vũ trụ sẽ cao lên 1 đến 7 cm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しかし、地球（ちきゅう）へ帰（かえ）ったら、まえと同（おな）じになります。",
+          "japaneseHtml": "しかし、<ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ったら、まえと<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じになります。",
+          "vietnamese": "Tuy nhiên, khi trở về trái đất chiều cao sẽ trở lại như ban đầu.",
+          "vietnameseHtml": "Tuy nhiên, khi trở về trái đất chiều cao sẽ trở lại như ban đầu."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>—"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "10年宇宙（ねんうちゅう）にいたら、どうなるんですか。",
+          "japaneseHtml": "10<ruby>年宇宙<rp>（</rp><rt>ねんうちゅう</rt><rp>）</rp></ruby>にいたら、どうなるんですか。",
+          "vietnamese": "Vậy nếu sống ở vũ trụ 10 năm sẽ như thế nào nhỉ?",
+          "vietnameseHtml": "Vậy nếu sống ở vũ trụ 10 năm sẽ như thế nào nhỉ?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "まだ、わかりません。",
+          "japaneseHtml": "まだ、わかりません。",
+          "vietnamese": "Tôi vẫn chưa biết.",
+          "vietnameseHtml": "Tôi vẫn chưa biết."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今（いま）、研究（けんきゅう）しています。",
+          "japaneseHtml": "<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>研究<rp>（</rp><rt>けんきゅう</rt><rp>）</rp></ruby>しています。",
+          "vietnamese": "Bây giờ chúng tôi đang nghiên cứu.",
+          "vietnameseHtml": "Bây giờ chúng tôi đang nghiên cứu."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 正（ただ）しいものに〇、正（ただ）しくないもの☓を書（か）いてください。",
+          "japaneseHtml": "I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないもの☓を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy đánh 〇 vào câu đúng, ☓ vào câu không đúng.",
+          "vietnameseHtml": "Hãy đánh 〇 vào câu đúng, ☓ vào câu không đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（Ｘ）宇宙（うちゅう）では暗（くら）くなったら寝（ね）て、明（あか）るくなったら起（お）きる。",
+          "japaneseHtml": "1)（<b>Ｘ</b>）<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>では<ruby>暗<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>くなったら<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>て、<ruby>明<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>るくなったら<ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きる。",
+          "vietnamese": "Ở vũ trụ khi trời tối thì ngủ, trời sáng thì thức dậy.",
+          "vietnameseHtml": "Ở vũ trụ khi trời tối thì ngủ, trời sáng thì thức dậy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（〇） ステーションではおふろに入（はい）ったり、洗濯（せんたく）したりすることができない。",
+          "japaneseHtml": "2)（<b>〇</b>） ステーションではおふろに<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ったり、<ruby>洗濯<rp>（</rp><rt>せんたく</rt><rp>）</rp></ruby>したりすることができない。",
+          "vietnamese": "Ở trạm vũ trụ không thể tắm, không thể giặt giũ.",
+          "vietnameseHtml": "Ở trạm vũ trụ không thể tắm, không thể giặt giũ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（Ｘ）ステーションで使（つか）う水（みず）は全部（ぜんぶ）地球（ちきゅう）から運（はこ）んでいる。",
+          "japaneseHtml": "3)（<b>Ｘ</b>）ステーションで<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>う<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>は<ruby>全部<rp>（</rp><rt>ぜんぶ</rt><rp>）</rp></ruby><ruby>地球<rp>（</rp><rt>ちきゅう</rt><rp>）</rp></ruby>から<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んでいる。",
+          "vietnamese": "Nước sử dụng ở trạm vũ trụ tất cả được vận chuyển từ trái đất lên.",
+          "vietnameseHtml": "Nước sử dụng ở trạm vũ trụ tất cả được vận chuyển từ trái đất lên."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（Ｘ）宇宙（うちゅう）から帰（かえ）ると、背（せ）が高（たか）くなる。",
+          "japaneseHtml": "4)（<b>Ｘ</b>）<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>から<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ると、<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなる。",
+          "vietnamese": "Từ vũ trụ trở về sẽ cao lên.",
+          "vietnameseHtml": "Từ vũ trụ trở về sẽ cao lên."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II 1．どうして宇宙（うちゅう）で背（せ）が高（たか）くなると思（おも）いますか。",
+          "japaneseHtml": "II 1．どうして<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>で<ruby>背<rp>（</rp><rt>せ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くなると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。",
+          "vietnamese": "Bạn nghĩ vì sao khi ở vũ trụ sẽ cao lên?",
+          "vietnameseHtml": "Bạn nghĩ vì sao khi ở vũ trụ sẽ cao lên?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2．宇宙（うちゅう）に１０年（ねん）いたら、どうなると思（おも）いますか。",
+          "japaneseHtml": "2．<ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>に１０<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>いたら、どうなると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。",
+          "vietnamese": "Bạn nghĩ sẽ thế nào nếu ở vũ trụ 10 năm?",
+          "vietnameseHtml": "Bạn nghĩ sẽ thế nào nếu ở vũ trụ 10 năm?"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Bổ sung",
+      "titleHtml": "Bổ sung",
+      "contentHtml": "<div>クイズ <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby></div> <div><br></div> <div>1.<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>から<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションまでどのくらいかかりますか。</div> <div>①6か<ruby>月<rp>(</rp><rt>げつ</rt><rp>)</rp></ruby></div> <div>②6<ruby>日<rp>(</rp><rt>か</rt><rp>)</rp></ruby></div> <div>③6<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby></div> <div><br></div> <div>2.<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>を90<ruby>分<rp>(</rp><rt>ぷん</rt><rp>)</rp></ruby>で<ruby>回<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>る<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションは<ruby>時速<rp>(</rp><rt>じそく</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>キロで<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>んでいますか。</div> <div>① 28,000km/h</div> <div>② 2,800km/h</div> <div>③ 280km/h</div> <div><br></div> <div>3.<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションの<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きさ(<ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>さ)はどのくらいですか。</div> <div>①サッカー<ruby>場<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>ぐらい</div> <div>②<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>ディズニーランドぐらい<br></div> <div>③ジャンボジェット<ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ぐらい</div> <div><br></div> <div>4.コップ1<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>の<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>に<ruby>運<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>びます。 いくらかかりますか。</div> <div>①3~4<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div>②30~40<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div>③300~400<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div><br></div> <div>5. <ruby>宇宙服<rp>(</rp><rt>うちゅうふく</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>キロありますか。</div> <div>① 120kg</div> <div>② 12kg</div> <div>③ 1,200kg</div> <div><br></div> <div>6. <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションに<ruby>何人<rp>(</rp><rt>なんにん</rt><rp>)</rp></ruby><ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>むことができますか。</div> <div>①100<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div>②20<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div>③6<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div><br></div> <div>7. <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>には<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がありません。 <ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がなかったら、どうなりますか。</div> <div>①<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>や<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>が<ruby>空中<rp>(</rp><rt>くうちゅう</rt><rp>)</rp></ruby>に<ruby>浮<rp>(</rp><rt>う</rt><rp>)</rp></ruby>く</div> <div>②<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>顔<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>が<ruby>丸<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>くなる<br></div> <div>③<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえない</div> <div><br></div> <div>8. <ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>で、<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby><ruby>飛行士<rp>(</rp><rt>ひこうし</rt><rp>)</rp></ruby>はどの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですか。</div> <div>①ガリレオ</div> <div>②ガガーリン</div> <div>③アインシュタイン</div> <div><br></div> <div>9. <ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>で<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はどこの<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですか。</div> <div>①ロシア</div> <div>②ドイツ</div> <div>③アメリカ</div> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div> <div class=\"slide-content sl2\"> <div>クイズ <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby></div> Câu đố Vũ trụ <div><br></div> <div>1.<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>から<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションまでどのくらいかかりますか。</div> Mất bao lâu để đi từ trái đất đến trạm vũ trụ? <div>①6か<ruby>月<rp>(</rp><rt>げつ</rt><rp>)</rp></ruby></div> <div>②6<ruby>日<rp>(</rp><rt>か</rt><rp>)</rp></ruby></div> <div>③6<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby></div> <div><br></div> <div>2.<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>を90<ruby>分<rp>(</rp><rt>ぷん</rt><rp>)</rp></ruby>で<ruby>回<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>る<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションは<ruby>時速<rp>(</rp><rt>じそく</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>キロで<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>んでいますか。</div> Trạm vũ trụ quay quanh trái đất trong 90 phút, đi với vận tốc bao nhiêu? <div>① 28,000km/h</div> <div>② 2,800km/h</div> <div>③ 280km/h</div> <div><br></div> <div>3.<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションの<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きさ(<ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>さ)はどのくらいですか。</div> Độ lớn của trạm vũ trụ tầm như thế nào? <div>①サッカー<ruby>場<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>ぐらい</div> <div>②<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>ディズニーランドぐらい<br></div> <div>③ジャンボジェット<ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ぐらい</div> <div><br></div> <div>4.コップ1<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>の<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>に<ruby>運<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>びます。 いくらかかりますか。</div> Vận chuyển 1 cốc nước lên vũ trụ. Mất bao nhiêu tiền? <div>①3~4<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div>②30~40<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div>③300~400<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div><br></div> <div>5. <ruby>宇宙服<rp>(</rp><rt>うちゅうふく</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>キロありますか。</div> Bộ đồ vũ trụ nặng bao nhiêu kg? <div>① 120kg</div> <div>② 12kg</div> <div>③ 1,200kg</div> <div><br></div> <div>6. <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションに<ruby>何人<rp>(</rp><rt>なんにん</rt><rp>)</rp></ruby><ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>むことができますか。</div> Trạm vũ trụ có thể sống bao nhiêu người? <div>①100<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div>②20<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div>③6<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div><br></div> <div>7. <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>には<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がありません。 <ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がなかったら、どうなりますか。</div> Ở vũ trụ không có không khí. Nếu không có không khí thì sẽ như thế nào? <div>①<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>や<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>が<ruby>空中<rp>(</rp><rt>くうちゅう</rt><rp>)</rp></ruby>に<ruby>浮<rp>(</rp><rt>う</rt><rp>)</rp></ruby>く</div> <div>②<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>顔<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>が<ruby>丸<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>くなる<br></div> <div>③<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえない</div> <div><br></div> <div>8. <ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>で、<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby><ruby>飛行士<rp>(</rp><rt>ひこうし</rt><rp>)</rp></ruby>はどの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですか。</div> Ở những người dưới đây, người nào là phi hành gia? <div>①ガリレオ</div> <div>②ガガーリン</div> <div>③アインシュタイン</div> <div><br></div> <div>9. <ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>で<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はどこの<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですか。</div> Người đầu tiên trên thế giới lên mặt trăng là người nước nào? <div>①ロシア</div> <div>②ドイツ</div> <div>③アメリカ</div> <p>Đáp án: 1.③ 2.① 3.① 4.② 5.① 6.③ 7.③ 8.② 9.③ </p> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "html",
+          "contentHtml": "<div>クイズ <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby></div> <div><br></div> <div>1.<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>から<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションまでどのくらいかかりますか。</div> <div>①6か<ruby>月<rp>(</rp><rt>げつ</rt><rp>)</rp></ruby></div> <div>②6<ruby>日<rp>(</rp><rt>か</rt><rp>)</rp></ruby></div> <div>③6<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby></div> <div><br></div> <div>2.<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>を90<ruby>分<rp>(</rp><rt>ぷん</rt><rp>)</rp></ruby>で<ruby>回<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>る<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションは<ruby>時速<rp>(</rp><rt>じそく</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>キロで<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>んでいますか。</div> <div>① 28,000km/h</div> <div>② 2,800km/h</div> <div>③ 280km/h</div> <div><br></div> <div>3.<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションの<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きさ(<ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>さ)はどのくらいですか。</div> <div>①サッカー<ruby>場<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>ぐらい</div> <div>②<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>ディズニーランドぐらい<br></div> <div>③ジャンボジェット<ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ぐらい</div> <div><br></div> <div>4.コップ1<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>の<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>に<ruby>運<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>びます。 いくらかかりますか。</div> <div>①3~4<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div>②30~40<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div>③300~400<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div><br></div> <div>5. <ruby>宇宙服<rp>(</rp><rt>うちゅうふく</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>キロありますか。</div> <div>① 120kg</div> <div>② 12kg</div> <div>③ 1,200kg</div> <div><br></div> <div>6. <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションに<ruby>何人<rp>(</rp><rt>なんにん</rt><rp>)</rp></ruby><ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>むことができますか。</div> <div>①100<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div>②20<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div>③6<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div><br></div> <div>7. <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>には<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がありません。 <ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がなかったら、どうなりますか。</div> <div>①<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>や<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>が<ruby>空中<rp>(</rp><rt>くうちゅう</rt><rp>)</rp></ruby>に<ruby>浮<rp>(</rp><rt>う</rt><rp>)</rp></ruby>く</div> <div>②<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>顔<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>が<ruby>丸<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>くなる<br></div> <div>③<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえない</div> <div><br></div> <div>8. <ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>で、<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby><ruby>飛行士<rp>(</rp><rt>ひこうし</rt><rp>)</rp></ruby>はどの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですか。</div> <div>①ガリレオ</div> <div>②ガガーリン</div> <div>③アインシュタイン</div> <div><br></div> <div>9. <ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>で<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はどこの<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですか。</div> <div>①ロシア</div> <div>②ドイツ</div> <div>③アメリカ</div> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div> <div class=\"slide-content sl2\"> <div>クイズ <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby></div> Câu đố Vũ trụ <div><br></div> <div>1.<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>から<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションまでどのくらいかかりますか。</div> Mất bao lâu để đi từ trái đất đến trạm vũ trụ? <div>①6か<ruby>月<rp>(</rp><rt>げつ</rt><rp>)</rp></ruby></div> <div>②6<ruby>日<rp>(</rp><rt>か</rt><rp>)</rp></ruby></div> <div>③6<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby></div> <div><br></div> <div>2.<ruby>地球<rp>(</rp><rt>ちきゅう</rt><rp>)</rp></ruby>を90<ruby>分<rp>(</rp><rt>ぷん</rt><rp>)</rp></ruby>で<ruby>回<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>る<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションは<ruby>時速<rp>(</rp><rt>じそく</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>キロで<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>んでいますか。</div> Trạm vũ trụ quay quanh trái đất trong 90 phút, đi với vận tốc bao nhiêu? <div>① 28,000km/h</div> <div>② 2,800km/h</div> <div>③ 280km/h</div> <div><br></div> <div>3.<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションの<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きさ(<ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>さ)はどのくらいですか。</div> Độ lớn của trạm vũ trụ tầm như thế nào? <div>①サッカー<ruby>場<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>ぐらい</div> <div>②<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>ディズニーランドぐらい<br></div> <div>③ジャンボジェット<ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ぐらい</div> <div><br></div> <div>4.コップ1<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>の<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>に<ruby>運<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>びます。 いくらかかりますか。</div> Vận chuyển 1 cốc nước lên vũ trụ. Mất bao nhiêu tiền? <div>①3~4<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div>②30~40<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div>③300~400<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby></div> <div><br></div> <div>5. <ruby>宇宙服<rp>(</rp><rt>うちゅうふく</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>キロありますか。</div> Bộ đồ vũ trụ nặng bao nhiêu kg? <div>① 120kg</div> <div>② 12kg</div> <div>③ 1,200kg</div> <div><br></div> <div>6. <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>ステーションに<ruby>何人<rp>(</rp><rt>なんにん</rt><rp>)</rp></ruby><ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>むことができますか。</div> Trạm vũ trụ có thể sống bao nhiêu người? <div>①100<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div>②20<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div>③6<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby></div> <div><br></div> <div>7. <ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby>には<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がありません。 <ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby><ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がなかったら、どうなりますか。</div> Ở vũ trụ không có không khí. Nếu không có không khí thì sẽ như thế nào? <div>①<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>や<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>が<ruby>空中<rp>(</rp><rt>くうちゅう</rt><rp>)</rp></ruby>に<ruby>浮<rp>(</rp><rt>う</rt><rp>)</rp></ruby>く</div> <div>②<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>顔<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>が<ruby>丸<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>くなる<br></div> <div>③<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>が<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>こえない</div> <div><br></div> <div>8. <ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>で、<ruby>宇宙<rp>(</rp><rt>うちゅう</rt><rp>)</rp></ruby><ruby>飛行士<rp>(</rp><rt>ひこうし</rt><rp>)</rp></ruby>はどの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですか。</div> Ở những người dưới đây, người nào là phi hành gia? <div>①ガリレオ</div> <div>②ガガーリン</div> <div>③アインシュタイン</div> <div><br></div> <div>9. <ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>で<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はどこの<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですか。</div> Người đầu tiên trên thế giới lên mặt trăng là người nước nào? <div>①ロシア</div> <div>②ドイツ</div> <div>③アメリカ</div> <p>Đáp án: 1.③ 2.① 3.① 4.② 5.① 6.③ 7.③ 8.② 9.③ </p> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+        }
+      ]
+    }
+  ]
+}

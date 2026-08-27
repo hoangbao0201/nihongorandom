@@ -1,6 +1,7 @@
 "use client";
 
 import { Tab, TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import KanaStudyView from "@/components/modules/HomePage/KanaStudyView";
 import LessonQuizStudyView from "@/components/modules/HomePage/LessonQuizStudyView";
@@ -21,6 +22,21 @@ enum HomeTabEnum {
   number = "number",
   time = "time",
 }
+
+const LEVEL_OPTIONS = [
+  {
+    href: "/n5/lessons",
+    code: "N5",
+    title: "Minna sơ cấp 1",
+    detail: "Bài 1 – 25",
+  },
+  {
+    href: "/n4/lessons",
+    code: "N4",
+    title: "Minna sơ cấp 2",
+    detail: "Bài 26 – 50",
+  },
+] as const;
 
 const HOME_MODES = [
   { id: HomeModeEnum.read, label: "Phản xạ đọc" },
@@ -76,8 +92,41 @@ export default function HomePage() {
       <PageBackground />
 
       <main className="relative z-10 mx-auto flex min-h-[calc(100vh-3.5rem)] max-w-5xl flex-col px-4 py-6 sm:px-6 sm:py-8">
-        <div className="mb-5 text-center">
-          <p className="text-xs text-white/30">
+        <div className="mb-6 text-center">
+          <h1 className="text-xl font-bold tracking-tight text-white sm:text-2xl">
+            Nihongo Random
+          </h1>
+          <p className="mt-1 text-xs text-white/35">
+            Chọn cấp độ bài học Minna no Nihongo
+          </p>
+        </div>
+
+        <div className="mb-8 grid grid-cols-1 gap-3 sm:grid-cols-2">
+          {LEVEL_OPTIONS.map((level) => (
+            <Link
+              key={level.href}
+              href={level.href}
+              className="glass-panel group rounded-xl border border-white/8 p-5 transition-all duration-200 hover:border-[var(--accent)]/45 hover:shadow-[0_10px_36px_rgba(249,67,0,0.14)]"
+            >
+              <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[var(--accent-soft)]">
+                {level.code}
+              </p>
+              <p className="mt-2 text-lg font-bold text-white group-hover:text-[var(--accent-soft)]">
+                {level.title}
+              </p>
+              <p className="mt-1 text-sm text-white/45">{level.detail}</p>
+              <span className="mt-4 inline-flex text-sm text-white/50 transition-colors group-hover:text-[var(--accent-soft)]">
+                Vào bài học →
+              </span>
+            </Link>
+          ))}
+        </div>
+
+        <div className="mb-3 text-center">
+          <p className="text-xs font-semibold uppercase tracking-wide text-white/40">
+            Luyện phản xạ
+          </p>
+          <p className="mt-1 text-xs text-white/30">
             Số câu đã luyện tập: {countCorrect.toLocaleString("vi-VN")}
           </p>
         </div>

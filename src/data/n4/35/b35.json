@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": "tuvung",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-tu-vung.html",
+      "label": "Phần 1: Từ vựng"
+    },
+    {
+      "id": "nguphap",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-ngu-phap.html",
+      "label": "Phần 2: Ngữ pháp"
+    },
+    {
+      "id": "luyendoc",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-luyen-doc.html",
+      "label": "Phần 3: Luyện đọc"
+    },
+    {
+      "id": "hoithoai",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-hoi-thoai.html",
+      "label": "Phần 4: Hội thoại"
+    },
+    {
+      "id": "luyennghe",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-luyen-nghe.html",
+      "label": "Phần 5: Luyện nghe"
+    },
+    {
+      "id": "baitap",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-bai-tap.html",
+      "label": "Phần 6: Bài tập"
+    },
+    {
+      "id": "hantu",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-han-tu.html",
+      "label": "Phần 7: Hán tự"
+    },
+    {
+      "id": "luyenchuhan",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/luyen-chu-han-bai-35.html",
+      "label": "Phần 8: Kanji Renshu"
+    },
+    {
+      "id": "dochieu",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-25-bai-doc-hieu.html",
+      "label": "Phần 9: Đọc hiểu"
+    },
+    {
+      "id": "kiemtra",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-kiem-tra.html",
+      "label": "Phần 10: Kiểm tra"
+    },
+    {
+      "id": "thamkhao",
+      "href": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-tham-khao.html",
+      "label": "Phần 11: Tham khảo"
+    }
+  ]
+}

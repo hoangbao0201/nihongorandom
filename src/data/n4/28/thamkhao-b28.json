@@ -1,0 +1,290 @@
+{
+  "lesson": 28,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "うちを借（か）りる Thuê nhà",
+      "titleHtml": "うちを<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りる Thuê nhà",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "中央線（ちゅうおうせん）",
+              "html": "<ruby>中央線<rp>（</rp><rt>ちゅうおうせん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tuyến tàu, tuyến trung ương",
+              "html": "tuyến tàu, tuyến trung ương"
+            }
+          ],
+          "term": "中央線（ちゅうおうせん）",
+          "termHtml": "<ruby>中央線<rp>（</rp><rt>ちゅうおうせん</rt><rp>）</rp></ruby>",
+          "meaning": "tuyến tàu, tuyến trung ương",
+          "meaningHtml": "tuyến tàu, tuyến trung ương"
+        },
+        {
+          "cells": [
+            {
+              "text": "西荻窪駅（にしおぎくぼえき）",
+              "html": "<ruby>西荻窪駅<rp>（</rp><rt>にしおぎくぼえき</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ga gần nhất, ga nishiogikubo",
+              "html": "ga gần nhất, ga nishiogikubo"
+            }
+          ],
+          "term": "西荻窪駅（にしおぎくぼえき）",
+          "termHtml": "<ruby>西荻窪駅<rp>（</rp><rt>にしおぎくぼえき</rt><rp>）</rp></ruby>",
+          "meaning": "ga gần nhất, ga nishiogikubo",
+          "meaningHtml": "ga gần nhất, ga nishiogikubo"
+        },
+        {
+          "cells": [
+            {
+              "text": "歩（ほ）5分（ふん）",
+              "html": "<ruby>歩<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>5<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đi bộ mất 5 phút",
+              "html": "đi bộ mất 5 phút"
+            }
+          ],
+          "term": "歩（ほ）5分（ふん）",
+          "termHtml": "<ruby>歩<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>5<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>",
+          "meaning": "đi bộ mất 5 phút",
+          "meaningHtml": "đi bộ mất 5 phút"
+        },
+        {
+          "cells": [
+            {
+              "text": "マンション",
+              "html": "マンション"
+            },
+            {
+              "text": "nhà chung cư khung bê tông",
+              "html": "nhà chung cư khung bê tông"
+            }
+          ],
+          "term": "マンション",
+          "termHtml": "マンション",
+          "meaning": "nhà chung cư khung bê tông",
+          "meaningHtml": "nhà chung cư khung bê tông"
+        },
+        {
+          "cells": [
+            {
+              "text": "築（ちく）5年（ねん）",
+              "html": "<ruby>築<rp>（</rp><rt>ちく</rt><rp>）</rp></ruby>5<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "(nhà) xây được 3 năm tuổi (tính từ khi khánh thành)",
+              "html": "(nhà) xây được 3 năm tuổi (tính từ khi khánh thành)"
+            }
+          ],
+          "term": "築（ちく）5年（ねん）",
+          "termHtml": "<ruby>築<rp>（</rp><rt>ちく</rt><rp>）</rp></ruby>5<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>",
+          "meaning": "(nhà) xây được 3 năm tuổi (tính từ khi khánh thành)",
+          "meaningHtml": "(nhà) xây được 3 năm tuổi (tính từ khi khánh thành)"
+        },
+        {
+          "cells": [
+            {
+              "text": "家賃（やちん）（7万（まん）4千円（せんえん））",
+              "html": "<ruby>家賃<rp>（</rp><rt>やちん</rt><rp>）</rp></ruby>（7<ruby>万<rp>（</rp><rt>まん</rt><rp>）</rp></ruby>4<ruby>千円<rp>（</rp><rt>せんえん</rt><rp>）</rp></ruby>）"
+            },
+            {
+              "text": "tiền thuê nhà",
+              "html": "tiền thuê nhà"
+            }
+          ],
+          "term": "家賃（やちん）（7万（まん）4千円（せんえん））",
+          "termHtml": "<ruby>家賃<rp>（</rp><rt>やちん</rt><rp>）</rp></ruby>（7<ruby>万<rp>（</rp><rt>まん</rt><rp>）</rp></ruby>4<ruby>千円<rp>（</rp><rt>せんえん</rt><rp>）</rp></ruby>）",
+          "meaning": "tiền thuê nhà",
+          "meaningHtml": "tiền thuê nhà"
+        },
+        {
+          "cells": [
+            {
+              "text": "敷金（しききん）（2か月分（げつぶん））",
+              "html": "<ruby>敷金<rp>（</rp><rt>しききん</rt><rp>）</rp></ruby>（2か<ruby>月分<rp>（</rp><rt>げつぶん</rt><rp>）</rp></ruby>）"
+            },
+            {
+              "text": "tiền đặt cọc",
+              "html": "tiền đặt cọc"
+            }
+          ],
+          "term": "敷金（しききん）（2か月分（げつぶん））",
+          "termHtml": "<ruby>敷金<rp>（</rp><rt>しききん</rt><rp>）</rp></ruby>（2か<ruby>月分<rp>（</rp><rt>げつぶん</rt><rp>）</rp></ruby>）",
+          "meaning": "tiền đặt cọc",
+          "meaningHtml": "tiền đặt cọc"
+        },
+        {
+          "cells": [
+            {
+              "text": "礼金（れいきん）2か月分（げつぶん））",
+              "html": "<ruby>礼金<rp>（</rp><rt>れいきん</rt><rp>）</rp></ruby>2か<ruby>月分<rp>（</rp><rt>げつぶん</rt><rp>）</rp></ruby>）"
+            },
+            {
+              "text": "tiền lễ",
+              "html": "tiền lễ"
+            }
+          ],
+          "term": "礼金（れいきん）2か月分（げつぶん））",
+          "termHtml": "<ruby>礼金<rp>（</rp><rt>れいきん</rt><rp>）</rp></ruby>2か<ruby>月分<rp>（</rp><rt>げつぶん</rt><rp>）</rp></ruby>）",
+          "meaning": "tiền lễ",
+          "meaningHtml": "tiền lễ"
+        },
+        {
+          "cells": [
+            {
+              "text": "管理費（かんりひ）（6000円（えん））",
+              "html": "<ruby>管理費<rp>（</rp><rt>かんりひ</rt><rp>）</rp></ruby>（6000<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>）"
+            },
+            {
+              "text": "phí quản lí",
+              "html": "phí quản lí"
+            }
+          ],
+          "term": "管理費（かんりひ）（6000円（えん））",
+          "termHtml": "<ruby>管理費<rp>（</rp><rt>かんりひ</rt><rp>）</rp></ruby>（6000<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>）",
+          "meaning": "phí quản lí",
+          "meaningHtml": "phí quản lí"
+        },
+        {
+          "cells": [
+            {
+              "text": "南向（みなみむ）き",
+              "html": "<ruby>南向<rp>（</rp><rt>みなみむ</rt><rp>）</rp></ruby>き"
+            },
+            {
+              "text": "hướng nam",
+              "html": "hướng nam"
+            }
+          ],
+          "term": "南向（みなみむ）き",
+          "termHtml": "<ruby>南向<rp>（</rp><rt>みなみむ</rt><rp>）</rp></ruby>き",
+          "meaning": "hướng nam",
+          "meaningHtml": "hướng nam"
+        },
+        {
+          "cells": [
+            {
+              "text": "スーパーまで（400m）",
+              "html": "スーパーまで（400m）"
+            },
+            {
+              "text": "đến siêu thị 400m",
+              "html": "đến siêu thị 400m"
+            }
+          ],
+          "term": "スーパーまで（400m）",
+          "termHtml": "スーパーまで（400m）",
+          "meaning": "đến siêu thị 400m",
+          "meaningHtml": "đến siêu thị 400m"
+        },
+        {
+          "cells": [
+            {
+              "text": "10階建（かいだ）ての8階（かい）",
+              "html": "10<ruby>階建<rp>（</rp><rt>かいだ</rt><rp>）</rp></ruby>ての8<ruby>階<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "tầng thứ 8 của tòa nhà 10 tầng",
+              "html": "tầng thứ 8 của tòa nhà 10 tầng"
+            }
+          ],
+          "term": "10階建（かいだ）ての8階（かい）",
+          "termHtml": "10<ruby>階建<rp>（</rp><rt>かいだ</rt><rp>）</rp></ruby>ての8<ruby>階<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>",
+          "meaning": "tầng thứ 8 của tòa nhà 10 tầng",
+          "meaningHtml": "tầng thứ 8 của tòa nhà 10 tầng"
+        },
+        {
+          "cells": [
+            {
+              "text": "2LDK",
+              "html": "2LDK"
+            },
+            {
+              "text": "căn nhà gồm phòng khách, phòng ăn, bếp và 2 phòng",
+              "html": "căn nhà gồm phòng khách, phòng ăn, bếp và 2 phòng"
+            }
+          ],
+          "term": "2LDK",
+          "termHtml": "2LDK",
+          "meaning": "căn nhà gồm phòng khách, phòng ăn, bếp và 2 phòng",
+          "meaningHtml": "căn nhà gồm phòng khách, phòng ăn, bếp và 2 phòng"
+        },
+        {
+          "cells": [
+            {
+              "text": "6・6・LDK8",
+              "html": "6・6・LDK8"
+            },
+            {
+              "text": "6 chiếu (=6 畳)",
+              "html": "6 chiếu (=6 畳)"
+            }
+          ],
+          "term": "6・6・LDK8",
+          "termHtml": "6・6・LDK8",
+          "meaning": "6 chiếu (=6 畳)",
+          "meaningHtml": "6 chiếu (=6 畳)"
+        },
+        {
+          "cells": [
+            {
+              "text": "やすい不動産（ふどうさん）",
+              "html": "やすい<ruby>不動産<rp>（</rp><rt>ふどうさん</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "đại lý bất động sản",
+              "html": "đại lý bất động sản"
+            }
+          ],
+          "term": "やすい不動産（ふどうさん）",
+          "termHtml": "やすい<ruby>不動産<rp>（</rp><rt>ふどうさん</rt><rp>）</rp></ruby>",
+          "meaning": "đại lý bất động sản",
+          "meaningHtml": "đại lý bất động sản"
+        },
+        {
+          "cells": [
+            {
+              "text": "*アパート",
+              "html": "*アパート"
+            },
+            {
+              "text": "nhà 1 hoặc 2 tầng, khung gỗ",
+              "html": "nhà 1 hoặc 2 tầng, khung gỗ"
+            }
+          ],
+          "term": "*アパート",
+          "termHtml": "*アパート",
+          "meaning": "nhà 1 hoặc 2 tầng, khung gỗ",
+          "meaningHtml": "nhà 1 hoặc 2 tầng, khung gỗ"
+        },
+        {
+          "cells": [
+            {
+              "text": "一戸（いっこ）建（だ）て",
+              "html": "<ruby>一戸<rp>（</rp><rt>いっこ</rt><rp>）</rp></ruby><ruby>建<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>て"
+            },
+            {
+              "text": "nhà riêng",
+              "html": "nhà riêng"
+            }
+          ],
+          "term": "一戸（いっこ）建（だ）て",
+          "termHtml": "<ruby>一戸<rp>（</rp><rt>いっこ</rt><rp>）</rp></ruby><ruby>建<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>て",
+          "meaning": "nhà riêng",
+          "meaningHtml": "nhà riêng"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>中央線<rp>（</rp><rt>ちゅうおうせん</rt><rp>）</rp></ruby></td> <td>tuyến tàu, tuyến trung ương</td> </tr><tr> <td width=\"40%\"><ruby>西荻窪駅<rp>（</rp><rt>にしおぎくぼえき</rt><rp>）</rp></ruby></td> <td>ga gần nhất, ga nishiogikubo</td> </tr><tr> <td width=\"40%\"><ruby>歩<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby>5<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby></td> <td>đi bộ mất 5 phút</td> </tr><tr> <td width=\"40%\">マンション</td> <td>nhà chung cư khung bê tông</td> </tr><tr> <td width=\"40%\"><ruby>築<rp>（</rp><rt>ちく</rt><rp>）</rp></ruby>5<ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby></td> <td>(nhà) xây được 3 năm tuổi (tính từ khi khánh thành)</td> </tr><tr> <td width=\"40%\"><ruby>家賃<rp>（</rp><rt>やちん</rt><rp>）</rp></ruby>（7<ruby>万<rp>（</rp><rt>まん</rt><rp>）</rp></ruby>4<ruby>千円<rp>（</rp><rt>せんえん</rt><rp>）</rp></ruby>）</td> <td>tiền thuê nhà</td> </tr><tr> <td width=\"40%\"><ruby>敷金<rp>（</rp><rt>しききん</rt><rp>）</rp></ruby>（2か<ruby>月分<rp>（</rp><rt>げつぶん</rt><rp>）</rp></ruby>）</td> <td>tiền đặt cọc</td> </tr><tr> <td width=\"40%\"><ruby>礼金<rp>（</rp><rt>れいきん</rt><rp>）</rp></ruby>2か<ruby>月分<rp>（</rp><rt>げつぶん</rt><rp>）</rp></ruby>）</td> <td>tiền lễ</td> </tr><tr> <td width=\"40%\"><ruby>管理費<rp>（</rp><rt>かんりひ</rt><rp>）</rp></ruby>（6000<ruby>円<rp>（</rp><rt>えん</rt><rp>）</rp></ruby>）</td> <td>phí quản lí</td> </tr><tr> <td width=\"40%\"><ruby>南向<rp>（</rp><rt>みなみむ</rt><rp>）</rp></ruby>き</td> <td>hướng nam</td> </tr><tr> <td width=\"40%\">スーパーまで（400m）</td> <td>đến siêu thị 400m</td> </tr><tr> <td width=\"40%\">10<ruby>階建<rp>（</rp><rt>かいだ</rt><rp>）</rp></ruby>ての8<ruby>階<rp>（</rp><rt>かい</rt><rp>）</rp></ruby></td> <td>tầng thứ 8 của tòa nhà 10 tầng</td> </tr><tr> <td width=\"40%\">2LDK</td> <td>căn nhà gồm phòng khách, phòng ăn, bếp và 2 phòng</td> </tr><tr> <td width=\"40%\">6・6・LDK8</td> <td>6 chiếu (=6 畳)</td> </tr><tr> <td width=\"40%\">やすい<ruby>不動産<rp>（</rp><rt>ふどうさん</rt><rp>）</rp></ruby></td> <td>đại lý bất động sản</td> </tr><tr> <td width=\"40%\">*アパート</td> <td>nhà 1 hoặc 2 tầng, khung gỗ</td> </tr><tr> <td width=\"40%\"><ruby>一戸<rp>（</rp><rt>いっこ</rt><rp>）</rp></ruby><ruby>建<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>て</td> <td>nhà riêng</td> </tr></tbody></table> <img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai28.jpg\" style=\"width: 100%; \"> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

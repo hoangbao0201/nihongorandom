@@ -1,0 +1,126 @@
+{
+  "lesson": 36,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "[事故に～]",
+      "kanjiHtml": "[事故に～]",
+      "sinoVietnamese": "SỰ CỐ",
+      "kana": "あいます [じこに～]",
+      "kanaHtml": "あいます<br /> [じこに～]"
+    },
+    {
+      "index": 2,
+      "kanji": "貯金します",
+      "kanjiHtml": "貯金します",
+      "sinoVietnamese": "TRỮ KIM",
+      "kana": "ちょきんします",
+      "kanaHtml": "ちょきんします"
+    },
+    {
+      "index": 3,
+      "kanji": "過ぎます [７時を～]",
+      "kanjiHtml": "過ぎます<br />[７時を～]",
+      "sinoVietnamese": "QUÁ THÌ",
+      "kana": "すぎます [７じを～]",
+      "kanaHtml": "すぎます<br /> [７じを～]"
+    },
+    {
+      "index": 4,
+      "kanji": "慣れます [習慣に～]",
+      "kanjiHtml": "慣れます<br />[習慣に～]",
+      "sinoVietnamese": "QUÁN TẬP QUÁN",
+      "kana": "なれます [しゅうかんに～]",
+      "kanaHtml": "なれます<br /> [しゅうかんに～]"
+    },
+    {
+      "index": 5,
+      "kanji": "腐ります [食べ物が～]",
+      "kanjiHtml": "腐ります<br />[食べ物が～]",
+      "sinoVietnamese": "HỦ THỰC VẬT",
+      "kana": "くさります [たべものが～]",
+      "kanaHtml": "くさります<br /> [たべものが～]"
+    },
+    {
+      "index": 6,
+      "kanji": "剣道",
+      "kanjiHtml": "剣道",
+      "sinoVietnamese": "KIẾM ĐẠO",
+      "kana": "けんどう",
+      "kanaHtml": "けんどう"
+    },
+    {
+      "index": 7,
+      "kanji": "柔道",
+      "kanjiHtml": "柔道",
+      "sinoVietnamese": "NHU ĐẠO",
+      "kana": "じゅうどう",
+      "kanaHtml": "じゅうどう"
+    },
+    {
+      "index": 8,
+      "kanji": "宇宙",
+      "kanjiHtml": "宇宙",
+      "sinoVietnamese": "VŨ TRỤ",
+      "kana": "うちゅう",
+      "kanaHtml": "うちゅう"
+    },
+    {
+      "index": 9,
+      "kanji": "曲",
+      "kanjiHtml": "曲",
+      "sinoVietnamese": "KHÚC",
+      "kana": "きょく",
+      "kanaHtml": "きょく"
+    },
+    {
+      "index": 10,
+      "kanji": "毎週",
+      "kanjiHtml": "毎週",
+      "sinoVietnamese": "MỖI CHU",
+      "kana": "まいしゅう",
+      "kanaHtml": "まいしゅう"
+    },
+    {
+      "index": 11,
+      "kanji": "毎月",
+      "kanjiHtml": "毎月",
+      "sinoVietnamese": "MỖI NGUYỆT",
+      "kana": "まいつき",
+      "kanaHtml": "まいつき"
+    },
+    {
+      "index": 12,
+      "kanji": "毎年",
+      "kanjiHtml": "毎年",
+      "sinoVietnamese": "MỖI NIÊN",
+      "kana": "まいとし （まいねん）",
+      "kanaHtml": "まいとし<br /> （まいねん）"
+    },
+    {
+      "index": 13,
+      "kanji": "必ず",
+      "kanjiHtml": "必ず",
+      "sinoVietnamese": "TẤT",
+      "kana": "かならず",
+      "kanaHtml": "かならず"
+    },
+    {
+      "index": 14,
+      "kanji": "絶対に",
+      "kanjiHtml": "絶対に",
+      "sinoVietnamese": "TUYỆT ĐỐI",
+      "kana": "ぜったいに",
+      "kanaHtml": "ぜったいに"
+    },
+    {
+      "index": 15,
+      "kanji": "上手に",
+      "kanjiHtml": "上手に",
+      "sinoVietnamese": "THƯỢNG THỦ",
+      "kana": "じょうずに",
+      "kanaHtml": "じょうずに"
+    }
+  ]
+}

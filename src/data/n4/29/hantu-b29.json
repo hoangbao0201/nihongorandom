@@ -1,0 +1,206 @@
+{
+  "lesson": 29,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "開きます",
+      "kanjiHtml": "開きます",
+      "sinoVietnamese": "KHAI",
+      "kana": "あきます [ドアが～]",
+      "kanaHtml": "あきます<br /> [ドアが～]"
+    },
+    {
+      "index": 2,
+      "kanji": "閉まります",
+      "kanjiHtml": "閉まります",
+      "sinoVietnamese": "BẾ",
+      "kana": "しまります [ドアが～]",
+      "kanaHtml": "しまります<br /> [ドアが～]"
+    },
+    {
+      "index": 3,
+      "kanji": "つきます [電気が～]",
+      "kanjiHtml": "つきます<br />[電気が～]",
+      "sinoVietnamese": "ĐIỆN KHÍ",
+      "kana": "つきます [でんきが～]",
+      "kanaHtml": "つきます<br /> [でんきが～]"
+    },
+    {
+      "index": 4,
+      "kanji": "消えます [電気が～]",
+      "kanjiHtml": "消えます<br />[電気が～]",
+      "sinoVietnamese": "TIÊU ĐIỆN KHÍ",
+      "kana": "きえます [でんきが～]",
+      "kanaHtml": "きえます<br /> [でんきが～]"
+    },
+    {
+      "index": 5,
+      "kanji": "壊れます",
+      "kanjiHtml": "壊れます",
+      "sinoVietnamese": "HOẠI",
+      "kana": "こわれます [いすが～]",
+      "kanaHtml": "こわれます<br /> [いすが～]"
+    },
+    {
+      "index": 6,
+      "kanji": "割れます",
+      "kanjiHtml": "割れます",
+      "sinoVietnamese": "CÁT",
+      "kana": "われます [コップが～]",
+      "kanaHtml": "われます<br /> [コップが～]"
+    },
+    {
+      "index": 7,
+      "kanji": "折れます [木が～]",
+      "kanjiHtml": "折れます<br />[木が～]",
+      "sinoVietnamese": "TRIẾT MỘC",
+      "kana": "おれます [きが～]",
+      "kanaHtml": "おれます<br /> [きが～]"
+    },
+    {
+      "index": 8,
+      "kanji": "破れます [紙が～]",
+      "kanjiHtml": "破れます<br />[紙が～]",
+      "sinoVietnamese": "PHÁ CHỈ",
+      "kana": "やぶれます [かみが～]",
+      "kanaHtml": "やぶれます<br /> [かみが～]"
+    },
+    {
+      "index": 9,
+      "kanji": "汚れます [服が～]",
+      "kanjiHtml": "汚れます<br />[服が～]",
+      "sinoVietnamese": "Ô PHỤC",
+      "kana": "よごれます [ふくが～]",
+      "kanaHtml": "よごれます<br /> [ふくが～]"
+    },
+    {
+      "index": 10,
+      "kanji": "付きます",
+      "kanjiHtml": "付きます",
+      "sinoVietnamese": "PHÓ",
+      "kana": "つきます [ポケットが～]",
+      "kanaHtml": "つきます<br /> [ポケットが～]"
+    },
+    {
+      "index": 11,
+      "kanji": "外れます",
+      "kanjiHtml": "外れます",
+      "sinoVietnamese": "NGOẠI",
+      "kana": "はずれます [ボタンが～]",
+      "kanaHtml": "はずれます<br /> [ボタンが～]"
+    },
+    {
+      "index": 12,
+      "kanji": "止まります",
+      "kanjiHtml": "止まります",
+      "sinoVietnamese": "CHỈ",
+      "kana": "とまります [くるまが～]",
+      "kanaHtml": "とまります<br /> [くるまが～]"
+    },
+    {
+      "index": 13,
+      "kanji": "落とします",
+      "kanjiHtml": "落とします",
+      "sinoVietnamese": "LẠC",
+      "kana": "おとします",
+      "kanaHtml": "おとします"
+    },
+    {
+      "index": 14,
+      "kanji": "掛かります",
+      "kanjiHtml": "掛かります",
+      "sinoVietnamese": "QUẢI",
+      "kana": "かかります [かぎが～]",
+      "kanaHtml": "かかります<br /> [かぎが～]"
+    },
+    {
+      "index": 15,
+      "kanji": "取り替えます",
+      "kanjiHtml": "取り替えます",
+      "sinoVietnamese": "THỦ HOÁN",
+      "kana": "とりかえます",
+      "kanaHtml": "とりかえます"
+    },
+    {
+      "index": 16,
+      "kanji": "片づけます",
+      "kanjiHtml": "片づけます",
+      "sinoVietnamese": "PHIẾN",
+      "kana": "かたづけます",
+      "kanaHtml": "かたづけます"
+    },
+    {
+      "index": 17,
+      "kanji": "[お]皿",
+      "kanjiHtml": "[お]皿",
+      "sinoVietnamese": "MÃNH",
+      "kana": "[お]さら",
+      "kanaHtml": "[お]さら"
+    },
+    {
+      "index": 18,
+      "kanji": "袋",
+      "kanjiHtml": "袋",
+      "sinoVietnamese": "ĐẠI",
+      "kana": "ふくろ",
+      "kanaHtml": "ふくろ"
+    },
+    {
+      "index": 19,
+      "kanji": "書類",
+      "kanjiHtml": "書類",
+      "sinoVietnamese": "THƯ LOẠI",
+      "kana": "しょるい",
+      "kanaHtml": "しょるい"
+    },
+    {
+      "index": 20,
+      "kanji": "枝",
+      "kanjiHtml": "枝",
+      "sinoVietnamese": "CHI",
+      "kana": "えだ",
+      "kanaHtml": "えだ"
+    },
+    {
+      "index": 21,
+      "kanji": "駅員",
+      "kanjiHtml": "駅員",
+      "sinoVietnamese": "DỊCH VIÊN",
+      "kana": "えきいん",
+      "kanaHtml": "えきいん"
+    },
+    {
+      "index": 22,
+      "kanji": "交番",
+      "kanjiHtml": "交番",
+      "sinoVietnamese": "GIAO PHIÊN",
+      "kana": "こうばん",
+      "kanaHtml": "こうばん"
+    },
+    {
+      "index": 23,
+      "kanji": "返事",
+      "kanjiHtml": "返事",
+      "sinoVietnamese": "PHẢN SỰ",
+      "kana": "へんじ",
+      "kanaHtml": "へんじ"
+    },
+    {
+      "index": 24,
+      "kanji": "お先にどうぞ。",
+      "kanjiHtml": "お先にどうぞ。",
+      "sinoVietnamese": "TIÊN",
+      "kana": "おさきにどうぞ。",
+      "kanaHtml": "おさきにどうぞ。"
+    },
+    {
+      "index": 25,
+      "kanji": "源氏物語",
+      "kanjiHtml": "源氏物語",
+      "sinoVietnamese": "NGUYÊN THỊ VẬT NGỮ",
+      "kana": "げんじものがたり",
+      "kanaHtml": "げんじものがたり"
+    }
+  ]
+}

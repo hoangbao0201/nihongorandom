@@ -1,0 +1,38 @@
+{
+  "lesson": 30,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "1) 備そなえが 大たい切せつ Việc chuẩn bị là rất quan trọng",
+      "titleHtml": "1) <ruby>備<rt>そな</rt></ruby>えが <ruby>大<rt>たい</rt></ruby><ruby>切<rt>せつ</rt></ruby> <span class=\"en\" data-i18n=\"msc.30-tk.new.emergency.003\">Việc chuẩn bị là rất quan trọng</span>",
+      "introHtml": null,
+      "columns": [],
+      "rows": [],
+      "contentHtml": "<ol class=\"jp-list\"> <li> <div class=\"jp\"> <ruby>家<rt>か</rt></ruby><ruby>具<rt>ぐ</rt></ruby>が <ruby>倒<rt>たお</rt></ruby>れないようにしておく </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.004\">Cố định đồ đạc để chúng không bị đổ.</div> </li> <li> <div class=\"jp\"> <ruby>消<rt>しょう</rt></ruby><ruby>火<rt>か</rt></ruby><ruby>器<rt>き</rt></ruby>を <ruby>備<rt>そな</rt></ruby>える・ <ruby>水<rt>みず</rt></ruby>を <ruby>貯<rt>た</rt></ruby>えておく </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.005\"> Chuẩn bị sẵn bình chữa cháy và dự trữ nước dùng trong trường hợp khẩn cấp. </div> </li> <li> <div class=\"jp\"> <ruby>非<rt>ひ</rt></ruby><ruby>常<rt>じょう</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>を <ruby>用<rt>よう</rt></ruby><ruby>意<rt>い</rt></ruby>しておく </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.006\">Chuẩn bị sẵn túi đồ khẩn cấp.</div> </li> <li> <div class=\"jp\"> <ruby>地<rt>ち</rt></ruby><ruby>域<rt>いき</rt></ruby>の <ruby>避<rt>ひ</rt></ruby><ruby>難<rt>なん</rt></ruby><ruby>場<rt>ば</rt></ruby><ruby>所<rt>しょ</rt></ruby>を <ruby>確<rt>かく</rt></ruby><ruby>認<rt>にん</rt></ruby>しておく </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.007\"> Xác nhận trước địa điểm sơ tán trong khu vực của bạn. </div> </li> <li> <div class=\"jp\"> <ruby>家<rt>か</rt></ruby><ruby>族<rt>ぞく</rt></ruby>、 <ruby>知<rt>ち</rt></ruby><ruby>人<rt>じん</rt></ruby>、 <ruby>友<rt>ゆう</rt></ruby><ruby>人<rt>じん</rt></ruby>と、 もしもの<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>の <ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby><ruby>先<rt>さき</rt></ruby>を <ruby>決<rt>き</rt></ruby>めておく </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.008\"> Thống nhất trước cách liên lạc trong trường hợp khẩn cấp với gia đình, người quen và bạn bè. </div> </li> </ol>"
+    },
+    {
+      "title": "2) 万まん一いち 地じ震しんが 起おきた場ば合あい Khi động đất xảy ra",
+      "titleHtml": "2) <ruby>万<rt>まん</rt></ruby><ruby>一<rt>いち</rt></ruby> <ruby>地<rt>じ</rt></ruby><ruby>震<rt>しん</rt></ruby>が <ruby>起<rt>お</rt></ruby>きた<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby> <span class=\"en\" data-i18n=\"msc.30-tk.new.emergency.009\">Khi động đất xảy ra</span>",
+      "introHtml": null,
+      "columns": [],
+      "rows": [],
+      "contentHtml": "<ol class=\"jp-list\"> <li> <div class=\"jp\"> <ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>なテーブルの<ruby>下<rt>した</rt></ruby>にもぐる </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.010\">Chui xuống dưới một chiếc bàn chắc chắn.</div> </li> <li> <div class=\"jp\"> <ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いて <ruby>火<rt>ひ</rt></ruby>の<ruby>始<rt>し</rt></ruby><ruby>末<rt>まつ</rt></ruby> </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.011\">Bình tĩnh xử lý và dập tắt lửa nếu có.</div> </li> <li> <div class=\"jp\"> <ruby>戸<rt>と</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて <ruby>出<rt>で</rt></ruby><ruby>口<rt>ぐち</rt></ruby>の <ruby>確<rt>かく</rt></ruby><ruby>保<rt>ほ</rt></ruby> </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.012\">Mở cửa để bảo đảm lối thoát.</div> </li> <li> <div class=\"jp\"> <ruby>慌<rt>あわ</rt></ruby>てて <ruby>外<rt>そと</rt></ruby>に <ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>さない </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.013\">Không hoảng loạn và không vội chạy ra ngoài.</div> </li> </ol>"
+    },
+    {
+      "title": "3) 地じ震しんが 収おさまったら Sau khi động đất ngừng",
+      "titleHtml": "3) <ruby>地<rt>じ</rt></ruby><ruby>震<rt>しん</rt></ruby>が <ruby>収<rt>おさ</rt></ruby>まったら <span class=\"en\" data-i18n=\"msc.30-tk.new.emergency.014\">Sau khi động đất ngừng</span>",
+      "introHtml": null,
+      "columns": [],
+      "rows": [],
+      "contentHtml": "<div class=\"jp\"> <ruby>正<rt>ただ</rt></ruby>しい <ruby>情<rt>じょう</rt></ruby><ruby>報<rt>ほう</rt></ruby>を <ruby>聞<rt>き</rt></ruby>く （<ruby>山<rt>やま</rt></ruby><ruby>崩<rt>くず</rt></ruby>れ、 <ruby>崖<rt>がけ</rt></ruby><ruby>崩<rt>くず</rt></ruby>れ、 <ruby>津<rt>つ</rt></ruby><ruby>波<rt>なみ</rt></ruby>に <ruby>注<rt>ちゅう</rt></ruby><ruby>意<rt>い</rt></ruby>） </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.015\"> Nghe thông tin chính xác, chú ý sạt lở núi, sạt lở vách đá và sóng thần. </div>"
+    },
+    {
+      "title": "4) 避ひ難なんする場ば合あいは Khi đi sơ tán",
+      "titleHtml": "4) <ruby>避<rt>ひ</rt></ruby><ruby>難<rt>なん</rt></ruby>する<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>は <span class=\"en\" data-i18n=\"msc.30-tk.new.emergency.016\">Khi đi sơ tán</span>",
+      "introHtml": null,
+      "columns": [],
+      "rows": [],
+      "contentHtml": "<div class=\"jp\"> <ruby>車<rt>くるま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わず、 <ruby>必<rt>かなら</rt></ruby>ず <ruby>歩<rt>ある</rt></ruby>いて </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.017\">Không dùng ô tô để sơ tán; hãy luôn đi bộ.</div> </article> <article class=\"block\"> <h4> （2） <ruby>台<rt>たい</rt></ruby><ruby>風<rt>ふう</rt></ruby>の <ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby> <span class=\"en\" data-i18n=\"msc.30-tk.new.emergency.018\">Khi có bão</span> </h4> <ol class=\"jp-list\"> <li> <div class=\"jp\"> <ruby>気<rt>き</rt></ruby><ruby>象<rt>しょう</rt></ruby> <ruby>情<rt>じょう</rt></ruby><ruby>報<rt>ほう</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.019\">Nghe thông tin dự báo thời tiết.</div> </li> <li> <div class=\"jp\"> <ruby>家<rt>いえ</rt></ruby>の <ruby>周<rt>まわ</rt></ruby>りの <ruby>点<rt>てん</rt></ruby><ruby>検<rt>けん</rt></ruby> </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.020\">Kiểm tra xung quanh bên ngoài nhà.</div> </li> <li> <div class=\"jp\"> ラジオの <ruby>電<rt>でん</rt></ruby><ruby>池<rt>ち</rt></ruby>の <ruby>備<rt>そな</rt></ruby>えを </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.021\">Chuẩn bị sẵn pin cho radio.</div> </li> <li> <div class=\"jp\"> <ruby>水<rt>みず</rt></ruby>、 <ruby>緊<rt>きん</rt></ruby><ruby>急<rt>きゅう</rt></ruby> <ruby>食<rt>しょく</rt></ruby><ruby>品<rt>ひん</rt></ruby>の <ruby>準<rt>じゅん</rt></ruby><ruby>備<rt>び</rt></ruby> </div> <div class=\"en\" data-i18n=\"msc.30-tk.new.emergency.022\">Chuẩn bị sẵn nước và thực phẩm khẩn cấp.</div> </li> </ol> </article> <div class=\"img-grid-2x2\"> <img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai30_1.jpg\"> <img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai30_2.jpg\"> <img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai30_3.jpg\"> <img decoding=\"async\" src=\"/images/minnatuvungthamkhao/bai30_4.jpg\"> </div> </section><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

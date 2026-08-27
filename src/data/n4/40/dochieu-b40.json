@@ -1,0 +1,752 @@
+{
+  "lesson": 40,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じょうしき</b></div> <div class=\"kanji\">常識</div> <div class=\"nghia_viet\">thường thức</div> <div class=\"nghia_anh\">common knowledge</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>せいけつ</b></div> <div class=\"kanji\">清潔</div> <div class=\"nghia_viet\">sạch sẽ</div> <div class=\"nghia_anh\">clean</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さがります</b></div> <div class=\"kanji\">下がります</div> <div class=\"nghia_viet\">hạ, giảm</div> <div class=\"nghia_anh\">go down</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ぬるい</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">âm ấm (nhiệt độ nước)</div> <div class=\"nghia_anh\">lukewarn</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しんじます</b></div> <div class=\"kanji\">信じます</div> <div class=\"nghia_viet\">tin</div> <div class=\"nghia_anh\">believe</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かた</b></div> <div class=\"kanji\">肩</div> <div class=\"nghia_viet\">vai</div> <div class=\"nghia_anh\">shoulder</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あたためます</b></div> <div class=\"kanji\">温めます</div> <div class=\"nghia_viet\">làm nóng</div> <div class=\"nghia_anh\">warm</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ながく</b></div> <div class=\"kanji\">長く</div> <div class=\"nghia_viet\">lâu</div> <div class=\"nghia_anh\">long</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひどい</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nặng</div> <div class=\"nghia_anh\">terrible</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うなぎ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">lươn</div> <div class=\"nghia_anh\">eel</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うめぼし</b></div> <div class=\"kanji\">梅干し</div> <div class=\"nghia_viet\">mơ muối, ô mai</div> <div class=\"nghia_anh\">pickled apricot</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>すいか</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">dưa hấu</div> <div class=\"nghia_anh\">watermelon</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おなかをこわします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">đi ngoài</div> <div class=\"nghia_anh\">upset one's stomach</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いがくてきに</b></div> <div class=\"kanji\">医学的に</div> <div class=\"nghia_viet\">theo y học, về mặt y học</div> <div class=\"nghia_anh\">medically</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おおくの</b></div> <div class=\"kanji\">多くの</div> <div class=\"nghia_viet\">nhiều</div> <div class=\"nghia_anh\">many</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>そのまま</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">để nguyên, giữ nguyên</div> <div class=\"nghia_anh\">as it is </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>へん「な」</b></div> <div class=\"kanji\">変[な」</div> <div class=\"nghia_viet\">lạ, kì quặc, không bình thường</div> <div class=\"nghia_anh\">strange</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>さげます</b></div> <div class=\"kanji\">下げます</div> <div class=\"nghia_viet\">hạ thấp</div> <div class=\"nghia_anh\">lower</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ちょう</b></div> <div class=\"kanji\">腸</div> <div class=\"nghia_viet\">ruột</div> <div class=\"nghia_anh\">bowels</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うごきはじめます</b></div> <div class=\"kanji\">動き始めます</div> <div class=\"nghia_viet\">bắt đầu chuyển động</div> <div class=\"nghia_anh\">begin to move</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いえき</b></div> <div class=\"kanji\">胃液</div> <div class=\"nghia_viet\">dịch dạ dày</div> <div class=\"nghia_anh\">gastric juice</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>わらいます</b></div> <div class=\"kanji\">笑います</div> <div class=\"nghia_viet\">cười</div> <div class=\"nghia_anh\">laugh</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おおまたで</b></div> <div class=\"kanji\">大股で</div> <div class=\"nghia_viet\">bước rộng</div> <div class=\"nghia_anh\">with long strides</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きんにく</b></div> <div class=\"kanji\">筋肉</div> <div class=\"nghia_viet\">cơ, cơ bắp</div> <div class=\"nghia_anh\">muscle</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あしのうら</b></div> <div class=\"kanji\">足に裏</div> <div class=\"nghia_viet\">gan bàn chân</div> <div class=\"nghia_anh\">sole</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>マッサージします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">mát-xa</div> <div class=\"nghia_anh\">massage</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>チェック</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">kiểm tra</div> <div class=\"nghia_anh\">check</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しんぞう</b></div> <div class=\"kanji\">心臓</div> <div class=\"nghia_viet\">tim</div> <div class=\"nghia_anh\">heart</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>けっかん</b></div> <div class=\"kanji\">血管</div> <div class=\"nghia_viet\">mạch máu</div> <div class=\"nghia_anh\">blood vessel</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>てん</b></div> <div class=\"kanji\">点</div> <div class=\"nghia_viet\">điểm</div> <div class=\"nghia_anh\">point</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あぶら</b></div> <div class=\"kanji\">油</div> <div class=\"nghia_viet\">dầu, mỡ</div> <div class=\"nghia_anh\">oil</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>みゃくはく</b></div> <div class=\"kanji\">脈拍</div> <div class=\"nghia_viet\">mạch đập</div> <div class=\"nghia_anh\">pulse</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しおからい</b></div> <div class=\"kanji\">塩辛い</div> <div class=\"nghia_viet\">mặn</div> <div class=\"nghia_anh\">salty</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かけます</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">đắp</div> <div class=\"nghia_anh\">cover oneself</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まくら</b></div> <div class=\"kanji\">枕</div> <div class=\"nghia_viet\">gối</div> <div class=\"nghia_anh\">pillow</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>どきどきします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">hồi hộp </div> <div class=\"nghia_anh\">throb</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby></b></h3> <p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>のうちに<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、ブラジルのアナさんがホームステイしています。 アナさんが<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>を<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>いた<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby>は「シャワーを<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたり、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ったりしたらだめよ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 アナさんは「どうしていけないか、わかりません。<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は<ruby>清潔<rp>（</rp><rt>せいけつ</rt><rp>）</rp></ruby>が<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>だし、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>のうちでは<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>がるように、シャワーを<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたり、ぬるいお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったりします」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 それを<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちはびっくりしました。 <ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>があったり、<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>を<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>いたりしている<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないほうがいいと<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じていたからです。 <ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>で<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみましたが、<ruby>皆<rp>（</rp><rt>みんな</rt><rp>）</rp></ruby>「お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないほうがいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 どうしてそう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>うか、<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。 「<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>だと。<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>から、いつも<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われたよ。」 <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はどうしてそんな<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>ができたか、<ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べてみました。 <p></p> <ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>は<ruby>冬<rp>（</rp><rt>ふゆ</rt><rp>）</rp></ruby>とても<ruby>寒<rp>（</rp><rt>さむ</rt><rp>）</rp></ruby>かったので、<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>まで<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>める<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>ができました。 <ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちがいいですが、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>く<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ると、<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れます。 <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>い<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れると、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>がひどくなります。 それで、<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>や<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>がある<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ってはいけないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>うようになりました。 <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>は<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>も<ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かいし、シャワーもあるし、ほとんど<ruby>問題<rp>（</rp><rt>もんだい</rt><rp>）</rp></ruby>はありませんが、<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>のとおりにしている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いです。 <p></p> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>について<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>から<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われている<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>もあります。 「うなぎと<ruby>梅干<rp>（</rp><rt>うめぼ</rt><rp>）</rp></ruby>し」「すいかとてんぷら」などは<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると、おなかを<ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>すと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。 <ruby>医学的<rp>（</rp><rt>いがくてき</rt><rp>）</rp></ruby>に<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものはほとんどないのですが、<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>くの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がまだ<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じています。 <p></p> <ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっても、<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>をそのまま<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じているのは<ruby>変<rp>（</rp><rt>へん</rt><rp>）</rp></ruby>です。 ときどきその<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>が<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しかどうか、どうしてその<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>ができたか、<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみたほうがいいでしょう。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>や<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>い<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないのは<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>だ。 <p></p> 2)（ ） <ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>がある<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、ぬるいお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げようと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がいる。 <p></p> 3)（ ） うなぎと<ruby>梅干<rp>（</rp><rt>うめぼ</rt><rp>）</rp></ruby>しをいっしょに<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べても、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>にならない。 <p></p> 4)（ ） <ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっても、<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>はなかなか<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わらない。 <p></p>II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>と<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で、「<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>」が<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っているものがありますか。 <p></p> どうして<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っていると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Thường thức.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>のうちに<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、ブラジルのアナさんがホームステイしています。</div><div class=\"kqdich\"><div class=\"nddich\">Ở nhà tôi, hiện tại cô gái Anna đến từ Braxin đang ở Homestay.</div></div></div> <div class=\"tudich\"><div class=\"candich\">アナさんが<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>を<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>いた<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby>は「シャワーを<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたり、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ったりしたらだめよ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Khi Anna bị cảm, mẹ tôi đã nói rằng “Bị cảm nên không được tắm vòi sen hay tắm bồn đâu ấy”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">アナさんは「どうしていけないか、わかりません。<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は<ruby>清潔<rp>（</rp><rt>せいけつ</rt><rp>）</rp></ruby>が<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>だし、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>のうちでは<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>がるように、シャワーを<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたり、ぬるいお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったりします」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Anna nói rằng: “Tôi không hiểu tại sao lại không được. Khi bị bệnh thì sạch sẽ là điều quan trọng, sạch sẽ rất quan trọng, ở nhà tôi thì tắm òi sen hay tắm bồn nước ấm để hạ sốt”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それを<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちはびっくりしました。</div><div class=\"kqdich\"><div class=\"nddich\">Chúng tôi đều ngạc nhiêu khi nghe điều đó.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>があったり、<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>を<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>いたりしている<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないほうがいいと<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じていたからです。</div><div class=\"kqdich\"><div class=\"nddich\">Bởi vì chúng tôi đã tin tưởng rằng khi bị sốt hay bị cảm thì không nên tắm.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>で<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみましたが、<ruby>皆<rp>（</rp><rt>みんな</rt><rp>）</rp></ruby>「お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないほうがいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã thử hỏi bạn bè ở trường, mọi người đều nói rằng “Tôi nghĩ không nên tắm”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">どうしてそう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>うか、<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã hỏi rằng tại sao lại nghĩ như vậy.</div></div></div> <div class=\"tudich\"><div class=\"candich\">「<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>だと。<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>から、いつも<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われたよ。」</div><div class=\"kqdich\"><div class=\"nddich\">Và được trả lời rằng: “Thường thức ấy. Khi còn nhỏ tôi thường được nói như thế ấy”.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はどうしてそんな<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>ができたか、<ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べてみました。</div><div class=\"kqdich\"><div class=\"nddich\">Tôi đã tìm hiểu xem vì sao lại có thường thức như vậy.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>は<ruby>冬<rp>（</rp><rt>ふゆ</rt><rp>）</rp></ruby>とても<ruby>寒<rp>（</rp><rt>さむ</rt><rp>）</rp></ruby>かったので、<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>まで<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>める<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>ができました。</div><div class=\"kqdich\"><div class=\"nddich\">Ngày xưa, căn nhà ở Nhật Bản thì vào mùa đông sẽ rất lạnh, nên đã có tập quán làm ấm cơ thể bằng cách ngâm trong bồn nước nóng đến ngang vai.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちがいいですが、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>く<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ると、<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れます。</div><div class=\"kqdich\"><div class=\"nddich\">Bồn nuớc nóng sẽ làm tâm trạng tốt hơn, nhưng nếu ngâm mình quá lâu sẽ cảm thấy mệt mỏi.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>い<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れると、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>がひどくなります。</div><div class=\"kqdich\"><div class=\"nddich\">Khi tình trạng cơ thể không tốt, vào bồn tắm rồi mệt mỏi, thì bệnh sẽ trở nên nghiêm trọng hơn.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それで、<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>や<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>がある<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ってはいけないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>うようになりました。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy, người ta nghĩ rằng khi bị cảm hay bị sốt không được vào bồn tắm.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>は<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>も<ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かいし、シャワーもあるし、ほとんど<ruby>問題<rp>（</rp><rt>もんだい</rt><rp>）</rp></ruby>はありませんが、<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>のとおりにしている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いです。</div><div class=\"kqdich\"><div class=\"nddich\">Bây giờ thì ở trong căn nhà ấm áp, cũng có vòi sen, hầu như không có vấn đề gì, nhưng nhiều người vẫn giữ nguyên thường thức ngày xưa.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>について<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>から<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われている<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>もあります。</div><div class=\"kqdich\"><div class=\"nddich\">Cũng có thường thức từ ngày xưa về đồ ăn. </div></div></div> <div class=\"tudich\"><div class=\"candich\">「うなぎと<ruby>梅干<rp>（</rp><rt>うめぼ</rt><rp>）</rp></ruby>し」「すいかとてんぷら」などは<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると、おなかを<ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>すと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。</div><div class=\"kqdich\"><div class=\"nddich\">Họ cho rằng khi ăn cùng lúc “lươn với mơ muối”, “dưa hấn với Tempura” sẽ bị đau bụng.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>医学的<rp>（</rp><rt>いがくてき</rt><rp>）</rp></ruby>に<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものはほとんどないのですが、<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>くの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がまだ<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じています。</div><div class=\"kqdich\"><div class=\"nddich\">Hầu như không có điều đúng đắn theo y học, nhưng nhiều người vẫn tin.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっても、<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>をそのまま<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じているのは<ruby>変<rp>（</rp><rt>へん</rt><rp>）</rp></ruby>です。</div><div class=\"kqdich\"><div class=\"nddich\">Cho dù cuộc sống đã thay đổi, nhưng mà vẫn cứ tin vào những thương thức ngày xưa thì thật là lạ.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ときどきその<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>が<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しかどうか、どうしてその<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>ができたか、<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみたほうがいいでしょう。</div><div class=\"kqdich\"><div class=\"nddich\">Đôi khi cũng nên thử suy nghĩ vì sao thường thức đó có đúng không, vì sao lại có thường thức đó.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy đánh 〇 vào câu đúng, ✕ vào câu không đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>Ｘ</b>）<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>や<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>い<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないのは<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>だ。</div><div class=\"kqdich\"><div class=\"nddich\">Việc không tắm khi bị cảm hay khi bị sốt là thường thức trên toàn thế giới.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>〇</b>）<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>がある<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、ぬるいお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げようと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がいる。</div><div class=\"kqdich\"><div class=\"nddich\">Có người nghĩ rằng khi bị sốt thì vào bồn tắm nước ấm để hạ nhiệt cơ thể.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>〇</b>）うなぎと<ruby>梅干<rp>（</rp><rt>うめぼ</rt><rp>）</rp></ruby>しをいっしょに<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べても、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>にならない。</div><div class=\"kqdich\"><div class=\"nddich\">Cho dù ăn cùng lươn với mơ muối thì cũng không bị bệnh.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（<b>〇</b>）<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっても、<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>はなかなか<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わらない。</div><div class=\"kqdich\"><div class=\"nddich\">Cuộc sống thay đổi nhưng thường thức vẫn mãi không thay đổi.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>と<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で、「<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>」が<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っているものがありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Nhật và đất nước của bạn có sự khác nhau về “thường thức” không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> どうして<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っていると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn nghĩ vì sao khác nhau?</div></div></div> </div> </div><!--END--> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "常識（じょうしき）",
+          "textHtml": "<b><ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby></b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>のうちに<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、ブラジルのアナさんがホームステイしています。 アナさんが<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>を<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>いた<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby>は「シャワーを<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたり、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ったりしたらだめよ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 アナさんは「どうしていけないか、わかりません。<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は<ruby>清潔<rp>（</rp><rt>せいけつ</rt><rp>）</rp></ruby>が<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>だし、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>のうちでは<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>がるように、シャワーを<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたり、ぬるいお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったりします」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 それを<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちはびっくりしました。 <ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>があったり、<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>を<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>いたりしている<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないほうがいいと<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じていたからです。 <ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>で<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみましたが、<ruby>皆<rp>（</rp><rt>みんな</rt><rp>）</rp></ruby>「お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないほうがいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。 どうしてそう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>うか、<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。 「<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>だと。<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>から、いつも<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われたよ。」 <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はどうしてそんな<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>ができたか、<ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べてみました。 <p></p> <ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>は<ruby>冬<rp>（</rp><rt>ふゆ</rt><rp>）</rp></ruby>とても<ruby>寒<rp>（</rp><rt>さむ</rt><rp>）</rp></ruby>かったので、<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>まで<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>める<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>ができました。 <ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちがいいですが、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>く<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ると、<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れます。 <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>い<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れると、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>がひどくなります。 それで、<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>や<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>がある<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ってはいけないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>うようになりました。 <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>は<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>も<ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かいし、シャワーもあるし、ほとんど<ruby>問題<rp>（</rp><rt>もんだい</rt><rp>）</rp></ruby>はありませんが、<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>のとおりにしている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いです。 <p></p> <ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>について<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>から<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われている<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>もあります。 「うなぎと<ruby>梅干<rp>（</rp><rt>うめぼ</rt><rp>）</rp></ruby>し」「すいかとてんぷら」などは<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると、おなかを<ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>すと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。 <ruby>医学的<rp>（</rp><rt>いがくてき</rt><rp>）</rp></ruby>に<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものはほとんどないのですが、<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>くの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がまだ<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じています。 <p></p> <ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっても、<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>をそのまま<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じているのは<ruby>変<rp>（</rp><rt>へん</rt><rp>）</rp></ruby>です。 ときどきその<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>が<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しかどうか、どうしてその<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>ができたか、<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみたほうがいいでしょう。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>や<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>い<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないのは<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>だ。 <p></p> 2)（ ） <ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>がある<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、ぬるいお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げようと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がいる。 <p></p> 3)（ ） うなぎと<ruby>梅干<rp>（</rp><rt>うめぼ</rt><rp>）</rp></ruby>しをいっしょに<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べても、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>にならない。 <p></p> 4)（ ） <ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっても、<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>はなかなか<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わらない。 <p></p>II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>と<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で、「<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>」が<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っているものがありますか。 <p></p> どうして<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っていると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Thường thức.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "常識（じょうしき）",
+              "textHtml": "<b><ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby></b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Thường thức."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）のうちに今（いま）、ブラジルのアナさんがホームステイしています。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>のうちに<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、ブラジルのアナさんがホームステイしています。",
+          "vietnamese": "Ở nhà tôi, hiện tại cô gái Anna đến từ Braxin đang ở Homestay.",
+          "vietnameseHtml": "Ở nhà tôi, hiện tại cô gái Anna đến từ Braxin đang ở Homestay."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "アナさんが風邪（かぜ）を引（ひ）いた時（とき）、母（はは）は「シャワーを浴（あ）びたり、お風呂（ふろ）に入（はい）ったりしたらだめよ」と言（い）いました。",
+          "japaneseHtml": "アナさんが<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>を<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>いた<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby>母<rp>（</rp><rt>はは</rt><rp>）</rp></ruby>は「シャワーを<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたり、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ったりしたらだめよ」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Khi Anna bị cảm, mẹ tôi đã nói rằng “Bị cảm nên không được tắm vòi sen hay tắm bồn đâu ấy”.",
+          "vietnameseHtml": "Khi Anna bị cảm, mẹ tôi đã nói rằng “Bị cảm nên không được tắm vòi sen hay tắm bồn đâu ấy”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "アナさんは「どうしていけないか、わかりません。病気（びょうき）の時（とき）は清潔（せいけつ）が大切（たいせつ）だし、私（わたし）のうちでは熱（ねつ）が下（さ）がるように、シャワーを浴（あ）びたり、ぬるいお湯（ゆ）に入（い）ったりします」と言（い）いました。",
+          "japaneseHtml": "アナさんは「どうしていけないか、わかりません。<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は<ruby>清潔<rp>（</rp><rt>せいけつ</rt><rp>）</rp></ruby>が<ruby>大切<rp>（</rp><rt>たいせつ</rt><rp>）</rp></ruby>だし、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>のうちでは<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>がるように、シャワーを<ruby>浴<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>びたり、ぬるいお<ruby>湯<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったりします」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Anna nói rằng: “Tôi không hiểu tại sao lại không được. Khi bị bệnh thì sạch sẽ là điều quan trọng, sạch sẽ rất quan trọng, ở nhà tôi thì tắm òi sen hay tắm bồn nước ấm để hạ sốt”.",
+          "vietnameseHtml": "Anna nói rằng: “Tôi không hiểu tại sao lại không được. Khi bị bệnh thì sạch sẽ là điều quan trọng, sạch sẽ rất quan trọng, ở nhà tôi thì tắm òi sen hay tắm bồn nước ấm để hạ sốt”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それを聞（き）いて、私（わたし）たちはびっくりしました。",
+          "japaneseHtml": "それを<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちはびっくりしました。",
+          "vietnamese": "Chúng tôi đều ngạc nhiêu khi nghe điều đó.",
+          "vietnameseHtml": "Chúng tôi đều ngạc nhiêu khi nghe điều đó."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "熱（ねつ）があったり、風邪（かぜ）を引（ひ）いたりしている時（とき）は、お風呂（ふろ）は入（はい）らないほうがいいと信（しん）じていたからです。",
+          "japaneseHtml": "<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>があったり、<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>を<ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>いたりしている<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないほうがいいと<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じていたからです。",
+          "vietnamese": "Bởi vì chúng tôi đã tin tưởng rằng khi bị sốt hay bị cảm thì không nên tắm.",
+          "vietnameseHtml": "Bởi vì chúng tôi đã tin tưởng rằng khi bị sốt hay bị cảm thì không nên tắm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "学校（がっこう）で友達（ともだち）に聞（き）いてみましたが、皆（みんな）「お風呂（ふろ）は入（はい）らないほうがいいと思（おも）う」と言（い）いました。",
+          "japaneseHtml": "<ruby>学校<rp>（</rp><rt>がっこう</rt><rp>）</rp></ruby>で<ruby>友達<rp>（</rp><rt>ともだち</rt><rp>）</rp></ruby>に<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いてみましたが、<ruby>皆<rp>（</rp><rt>みんな</rt><rp>）</rp></ruby>「お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないほうがいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Tôi đã thử hỏi bạn bè ở trường, mọi người đều nói rằng “Tôi nghĩ không nên tắm”.",
+          "vietnameseHtml": "Tôi đã thử hỏi bạn bè ở trường, mọi người đều nói rằng “Tôi nghĩ không nên tắm”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どうしてそう思（おも）うか、聞（き）きました。",
+          "japaneseHtml": "どうしてそう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>うか、<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きました。",
+          "vietnamese": "Tôi đã hỏi rằng tại sao lại nghĩ như vậy.",
+          "vietnameseHtml": "Tôi đã hỏi rằng tại sao lại nghĩ như vậy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「常識（じょうしき）だと。子（こ）どもの時（とき）から、いつも言（い）われたよ。」",
+          "japaneseHtml": "「<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>だと。<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>から、いつも<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われたよ。」",
+          "vietnamese": "Và được trả lời rằng: “Thường thức ấy. Khi còn nhỏ tôi thường được nói như thế ấy”.",
+          "vietnameseHtml": "Và được trả lời rằng: “Thường thức ấy. Khi còn nhỏ tôi thường được nói như thế ấy”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）はどうしてそんな常識（じょうしき）ができたか、調（しら）べてみました。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はどうしてそんな<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>ができたか、<ruby>調<rp>（</rp><rt>しら</rt><rp>）</rp></ruby>べてみました。",
+          "vietnamese": "Tôi đã tìm hiểu xem vì sao lại có thường thức như vậy.",
+          "vietnameseHtml": "Tôi đã tìm hiểu xem vì sao lại có thường thức như vậy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "昔（むかし）、日本（にほん）の家（いえ）は冬（ふゆ）とても寒（さむ）かったので、熱（あつ）いお風呂（ふろ）に肩（かた）まで入（はい）って体（からだ）を温（あたた）める習慣（しゅうかん）ができました。",
+          "japaneseHtml": "<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>の<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>は<ruby>冬<rp>（</rp><rt>ふゆ</rt><rp>）</rp></ruby>とても<ruby>寒<rp>（</rp><rt>さむ</rt><rp>）</rp></ruby>かったので、<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>肩<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>まで<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>める<ruby>習慣<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>ができました。",
+          "vietnamese": "Ngày xưa, căn nhà ở Nhật Bản thì vào mùa đông sẽ rất lạnh, nên đã có tập quán làm ấm cơ thể bằng cách ngâm trong bồn nước nóng đến ngang vai.",
+          "vietnameseHtml": "Ngày xưa, căn nhà ở Nhật Bản thì vào mùa đông sẽ rất lạnh, nên đã có tập quán làm ấm cơ thể bằng cách ngâm trong bồn nước nóng đến ngang vai."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "熱（あつ）いお風呂（ふろ）は気持（きも）ちがいいですが、長（なが）く入（はい）ると、疲（つか）れます。",
+          "japaneseHtml": "<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>いお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>は<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちがいいですが、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>く<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ると、<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れます。",
+          "vietnamese": "Bồn nuớc nóng sẽ làm tâm trạng tốt hơn, nhưng nếu ngâm mình quá lâu sẽ cảm thấy mệt mỏi.",
+          "vietnameseHtml": "Bồn nuớc nóng sẽ làm tâm trạng tốt hơn, nhưng nếu ngâm mình quá lâu sẽ cảm thấy mệt mỏi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "体（からだ）の調子（ちょうし）が悪（わる）い時（とき）、お風呂（ふろ）に入（はい）って疲（つか）れると、病気（びょうき）がひどくなります。",
+          "japaneseHtml": "<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>い<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って<ruby>疲<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>れると、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>がひどくなります。",
+          "vietnamese": "Khi tình trạng cơ thể không tốt, vào bồn tắm rồi mệt mỏi, thì bệnh sẽ trở nên nghiêm trọng hơn.",
+          "vietnameseHtml": "Khi tình trạng cơ thể không tốt, vào bồn tắm rồi mệt mỏi, thì bệnh sẽ trở nên nghiêm trọng hơn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで、風邪（かぜ）の時（とき）や熱（ねつ）がある時（とき）は、お風呂（ふろ）に入（はい）ってはいけないと思（おも）うようになりました。",
+          "japaneseHtml": "それで、<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>や<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>がある<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>は、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ってはいけないと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>うようになりました。",
+          "vietnamese": "Vì vậy, người ta nghĩ rằng khi bị cảm hay bị sốt không được vào bồn tắm.",
+          "vietnameseHtml": "Vì vậy, người ta nghĩ rằng khi bị cảm hay bị sốt không được vào bồn tắm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今（いま）は家（いえ）の中（なか）も温（あたた）かいし、シャワーもあるし、ほとんど問題（もんだい）はありませんが、昔（むかし）の常識（じょうしき）のとおりにしている人（ひと）が多（おお）いです。",
+          "japaneseHtml": "<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>は<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>も<ruby>温<rp>（</rp><rt>あたた</rt><rp>）</rp></ruby>かいし、シャワーもあるし、ほとんど<ruby>問題<rp>（</rp><rt>もんだい</rt><rp>）</rp></ruby>はありませんが、<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>のとおりにしている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いです。",
+          "vietnamese": "Bây giờ thì ở trong căn nhà ấm áp, cũng có vòi sen, hầu như không có vấn đề gì, nhưng nhiều người vẫn giữ nguyên thường thức ngày xưa.",
+          "vietnameseHtml": "Bây giờ thì ở trong căn nhà ấm áp, cũng có vòi sen, hầu như không có vấn đề gì, nhưng nhiều người vẫn giữ nguyên thường thức ngày xưa."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "食（た）べ物（もの）について昔（むかし）から言（い）われている常識（じょうしき）もあります。",
+          "japaneseHtml": "<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>について<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>から<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われている<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>もあります。",
+          "vietnamese": "Cũng có thường thức từ ngày xưa về đồ ăn.",
+          "vietnameseHtml": "Cũng có thường thức từ ngày xưa về đồ ăn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「うなぎと梅干（うめぼ）し」「すいかとてんぷら」などは一緒（いっしょ）に食（た）べると、おなかを壊（こわ）すと言（い）われています。",
+          "japaneseHtml": "「うなぎと<ruby>梅干<rp>（</rp><rt>うめぼ</rt><rp>）</rp></ruby>し」「すいかとてんぷら」などは<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べると、おなかを<ruby>壊<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>すと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。",
+          "vietnamese": "Họ cho rằng khi ăn cùng lúc “lươn với mơ muối”, “dưa hấn với Tempura” sẽ bị đau bụng.",
+          "vietnameseHtml": "Họ cho rằng khi ăn cùng lúc “lươn với mơ muối”, “dưa hấn với Tempura” sẽ bị đau bụng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "医学的（いがくてき）に正（ただ）しいものはほとんどないのですが、多（おお）くの人（ひと）がまだ信（しん）じています。",
+          "japaneseHtml": "<ruby>医学的<rp>（</rp><rt>いがくてき</rt><rp>）</rp></ruby>に<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものはほとんどないのですが、<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>くの<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がまだ<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じています。",
+          "vietnamese": "Hầu như không có điều đúng đắn theo y học, nhưng nhiều người vẫn tin.",
+          "vietnameseHtml": "Hầu như không có điều đúng đắn theo y học, nhưng nhiều người vẫn tin."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "生活（せいかつ）が変（か）わっても、昔（むかし）の常識（じょうしき）をそのまま信（しん）じているのは変（へん）です。",
+          "japaneseHtml": "<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっても、<ruby>昔<rp>（</rp><rt>むかし</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>をそのまま<ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>じているのは<ruby>変<rp>（</rp><rt>へん</rt><rp>）</rp></ruby>です。",
+          "vietnamese": "Cho dù cuộc sống đã thay đổi, nhưng mà vẫn cứ tin vào những thương thức ngày xưa thì thật là lạ.",
+          "vietnameseHtml": "Cho dù cuộc sống đã thay đổi, nhưng mà vẫn cứ tin vào những thương thức ngày xưa thì thật là lạ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ときどきその常識（じょうしき）が正（ただ）しかどうか、どうしてその常識（じょうしき）ができたか、考（かんが）えてみたほうがいいでしょう。",
+          "japaneseHtml": "ときどきその<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>が<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しかどうか、どうしてその<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>ができたか、<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみたほうがいいでしょう。",
+          "vietnamese": "Đôi khi cũng nên thử suy nghĩ vì sao thường thức đó có đúng không, vì sao lại có thường thức đó.",
+          "vietnameseHtml": "Đôi khi cũng nên thử suy nghĩ vì sao thường thức đó có đúng không, vì sao lại có thường thức đó."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 正（ただ）しものに〇、正（ただ）しくないものに✕を書（か）いてください。",
+          "japaneseHtml": "I <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy đánh 〇 vào câu đúng, ✕ vào câu không đúng.",
+          "vietnameseHtml": "Hãy đánh 〇 vào câu đúng, ✕ vào câu không đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（Ｘ）風邪（かぜ）の時（とき）や熱（ねつ）が高（たか）い時（とき）、お風呂（ふろ）に入（はい）らないのは世界中（せかいじゅう）の常識（じょうしき）だ。",
+          "japaneseHtml": "1)（<b>Ｘ</b>）<ruby>風邪<rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>や<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>い<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、お<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>らないのは<ruby>世界中<rp>（</rp><rt>せかいじゅう</rt><rp>）</rp></ruby>の<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>だ。",
+          "vietnamese": "Việc không tắm khi bị cảm hay khi bị sốt là thường thức trên toàn thế giới.",
+          "vietnameseHtml": "Việc không tắm khi bị cảm hay khi bị sốt là thường thức trên toàn thế giới."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（〇）熱（ねつ）がある時（とき）、ぬるいお風呂（ふろ）に入（はい）って、体（からだ）の熱（ねつ）を下（さ）げようと思（おも）う人（ひと）がいる。",
+          "japaneseHtml": "2)（<b>〇</b>）<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>がある<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、ぬるいお<ruby>風呂<rp>（</rp><rt>ふろ</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>って、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>熱<rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>を<ruby>下<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>げようと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>がいる。",
+          "vietnamese": "Có người nghĩ rằng khi bị sốt thì vào bồn tắm nước ấm để hạ nhiệt cơ thể.",
+          "vietnameseHtml": "Có người nghĩ rằng khi bị sốt thì vào bồn tắm nước ấm để hạ nhiệt cơ thể."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（〇）うなぎと梅干（うめぼ）しをいっしょに食（た）べても、病気（びょうき）にならない。",
+          "japaneseHtml": "3)（<b>〇</b>）うなぎと<ruby>梅干<rp>（</rp><rt>うめぼ</rt><rp>）</rp></ruby>しをいっしょに<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べても、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>にならない。",
+          "vietnamese": "Cho dù ăn cùng lươn với mơ muối thì cũng không bị bệnh.",
+          "vietnameseHtml": "Cho dù ăn cùng lươn với mơ muối thì cũng không bị bệnh."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（〇）生活（せいかつ）が変（か）わっても、常識（じょうしき）はなかなか変（か）わらない。",
+          "japaneseHtml": "4)（<b>〇</b>）<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>が<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わっても、<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>はなかなか<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わらない。",
+          "vietnamese": "Cuộc sống thay đổi nhưng thường thức vẫn mãi không thay đổi.",
+          "vietnameseHtml": "Cuộc sống thay đổi nhưng thường thức vẫn mãi không thay đổi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II あなたの国（くに）と日本（にほん）で、「常識（じょうしき）」が違（ちが）っているものがありますか。",
+          "japaneseHtml": "II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>と<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>で、「<ruby>常識<rp>（</rp><rt>じょうしき</rt><rp>）</rp></ruby>」が<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っているものがありますか。",
+          "vietnamese": "Ở Nhật và đất nước của bạn có sự khác nhau về “thường thức” không?",
+          "vietnameseHtml": "Ở Nhật và đất nước của bạn có sự khác nhau về “thường thức” không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どうして違（ちが）っていると思（おも）いますか。",
+          "japaneseHtml": "どうして<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っていると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。",
+          "vietnamese": "Bạn nghĩ vì sao khác nhau?",
+          "vietnameseHtml": "Bạn nghĩ vì sao khác nhau?"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Bổ sung",
+      "titleHtml": "Bổ sung",
+      "contentHtml": "<p></p> 1. <ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby><ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きたら、すぐ、<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>をコップ１<ruby>杯<rp>（</rp><rt>はい</rt><rp>）</rp></ruby><ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んで<ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>と<ruby>腸<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>が<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>き<ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めます。 <ruby>腸<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>がよく<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>いて、トイレへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたくなります。 <p><br /></p> <p></p> 2. <ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きながら<ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>する <p></p>    <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>がいいと、<ruby>胃液<rp>（</rp><rt>いえき</rt><rp>）</rp></ruby>がたくさん<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ます。 <p><br /></p> <p></p> 3.<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>鏡<rp>（</rp><rt>かがみ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>て<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>う <p></p>     <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちの<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>は、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>に<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>つ<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>っています。 <ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>うと、その<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>くなります。 それに、<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちになれます。 <p><br /></p> <p></p> 4. <ruby>大股<rp>（</rp><rt>おおまた</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く <p></p>     <ruby>大股<rp>（</rp><rt>おおまた</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くと、たくさん<ruby>運動<rp>（</rp><rt>うんどう</rt><rp>）</rp></ruby>できるし、<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>筋肉<rp>（</rp><rt>きんにく</rt><rp>）</rp></ruby>もよく<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うことができます。 <p><br /></p> <p></p> 5. <ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>を５<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>マッサージする。<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>の（ ）を<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>してください。 <p></p>     よく<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>られます。 <p><br /></p> <p></p> ☆ほかに、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>で<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>でも<ruby>出来<rp>（</rp><rt>でき</rt><rp>）</rp></ruby>て<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>にいいことを<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみましょう。 <p></p>     どうしてそれがいいか、<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみてください。 <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div> <div class=\"slide-content sl2\"> <p></p> <div class=\"tudich\"><div class=\"candich\">1. <ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby><ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きたら、すぐ、<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>をコップ１<ruby>杯<rp>（</rp><rt>はい</rt><rp>）</rp></ruby><ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んで<ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>と<ruby>腸<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>が<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>き<ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めます。</div><div class=\"kqdich\"><div class=\"nddich\">Vào buổi sáng sau khi thức dậy uống một cốc nước mát, khi uống nước mát ruột và dạ dày sau khi nghỉ ngơi sẽ bắt đầu hoạt động.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>腸<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>がよく<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>いて、トイレへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたくなります。</div><div class=\"kqdich\"><div class=\"nddich\">Ruột hoạt động tốt, rồi sẽ muốn đi vệ sinh.</div></div></div> <p><br /></p> <p></p> <div class=\"tudich\"><div class=\"candich\">2. <ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きながら<ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>する<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>がいいと、<ruby>胃液<rp>（</rp><rt>いえき</rt><rp>）</rp></ruby>がたくさん<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ます。</div><div class=\"kqdich\"><div class=\"nddich\">Vừa nghe nhạc vừa dùng bữa. Nghe nhạc vui vẻ, tinh thần trở nên thỏa mái thì dịch vị dạ dày tiết nhiều hơn.</div></div></div> <p><br /></p> <p></p> <div class=\"tudich\"><div class=\"candich\">3. <ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>鏡<rp>（</rp><rt>かがみ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>て<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>う</div><div class=\"kqdich\"><div class=\"nddich\">Mỗi ngày nhìn vào gương rồi tươi cười.</div></div></div> <p></p>     <div class=\"tudich\"><div class=\"candich\"><ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちの<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>は、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>に<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>つ<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>っています。</div><div class=\"kqdich\"><div class=\"nddich\">Cơ thể chúng ta có được sức mạnh để chiến thắng bệnh tật.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>うと、その<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>くなります。</div><div class=\"kqdich\"><div class=\"nddich\">Khi tươi cười sức mạnh đó trở nên mạnh hơn.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それに、<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちになれます。</div><div class=\"kqdich\"><div class=\"nddich\">Hơn nữa cười có thể làm cho tinh thần vui vẻ hơn.</div></div></div> <p><br /></p> <p></p> <div class=\"tudich\"><div class=\"candich\">4. <ruby>大股<rp>（</rp><rt>おおまた</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く</div><div class=\"kqdich\"><div class=\"nddich\">Bước đi bằng bước sải dài.</div></div></div> <p></p>     <div class=\"tudich\"><div class=\"candich\"><ruby>大股<rp>（</rp><rt>おおまた</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くと、たくさん<ruby>運動<rp>（</rp><rt>うんどう</rt><rp>）</rp></ruby>できるし、<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>筋肉<rp>（</rp><rt>きんにく</rt><rp>）</rp></ruby>もよく<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うことができます。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu bước đi bằng bước sải dài có thể vận động được nhiều, sử dụng nhiều cơ chân.</div></div></div> <p><br /></p> <p></p> <div class=\"tudich\"><div class=\"candich\">5. <ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>を５<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>マッサージする<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>の（ ）を<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>してください。</div><div class=\"kqdich\"><div class=\"nddich\">Trước khi đi ngủ massager lòng bàn chân 5 phút. Hãy massager vị trí gạch chéo ở lòng bàn chân.</div></div></div> <p></p>     <div class=\"tudich\"><div class=\"candich\">よく<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>られます。</div><div class=\"kqdich\"><div class=\"nddich\">Có thể ngủ ngon.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">☆ほかに、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>で<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>でも<ruby>出来<rp>（</rp><rt>でき</rt><rp>）</rp></ruby>て<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>にいいことを<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみましょう。</div><div class=\"kqdich\"><div class=\"nddich\">Ngoài việc trên, hãy cùng suy nghĩ việc tốt cho cơ thể mà bất kì ai cũng có thể thực hiện trong cuộc sống hàng ngày.</div></div></div> <p></p>     <div class=\"tudich\"><div class=\"candich\">どうしてそれがいいか、<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy suy nghĩ tại sao điều đó tốt.</div></div></div> </div> </div> <h3 style=\"text-align: center; \"><b><ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>チェック</b></h3><p><br></p> <p>あなたの<ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>と<ruby>血管<rp>(</rp><rt>けっかん</rt><rp>)</rp></ruby>が<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れていないかどうか、チェックしてみましょう。</p> <p>はい・・・1<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby> いいえ・・・0<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby></p> <p>（ ）<ruby>油<rp>(</rp><rt>あぶら</rt><rp>)</rp></ruby>が<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>がとても<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだ</p> <p>（ ）コーヒーに<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ずミルクと<ruby>砂糖<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れる。</p> <p>（ ）<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>かないで<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>っているときも、<ruby>脈拍<rp>(</rp><rt>みゃくはく</rt><rp>)</rp></ruby>が1<ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>に90<ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>ある</p> <p>（ ）スポーツはほとんどしない</p> <p>（ ）<ruby>塩辛<rp>(</rp><rt>しおから</rt><rp>)</rp></ruby>い<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだ</p> <p>（ ）<ruby>冬<rp>(</rp><rt>ふゆ</rt><rp>)</rp></ruby>、<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>布団<rp>(</rp><rt>ふとん</rt><rp>)</rp></ruby>をかけて<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ている</p> <p>（ ）たばこは<ruby>絶対<rp>(</rp><rt>ぜったい</rt><rp>)</rp></ruby>にやめられない、</p> <p>（ ）<ruby>枕<rp>(</rp><rt>まくら</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>くなければ、<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>られない</p> <p>（ ）<ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>より<ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>をよく<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる</p> <p>（ ）よく<ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>がどきどきする</p> <table class=\"table table-bordered\"><tbody><tr><td>10<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby></td><td><p><ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>! あなたの<ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>と<ruby>血管<rp>(</rp><rt>けっかん</rt><rp>)</rp></ruby>はとても<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れています。</p> <p>すぐ<ruby>医者<rp>(</rp><rt>いしゃ</rt><rp>)</rp></ruby>に<ruby>相談<rp>(</rp><rt>そうだん</rt><rp>)</rp></ruby>してください。</p> </td></tr><tr><td>5~9<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby><br></td><td><ruby>安心<rp>(</rp><rt>あんしん</rt><rp>)</rp></ruby>してはいけません。<ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>に<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>をつけて、<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>が<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>なくなる<br></td></tr><tr><td>1~4<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby><br></td><td>かなりいいです。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>を<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けるようにしましょう。<br></td></tr><tr><td>0<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby></td><td>あなたの<ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>と<ruby>血管<rp>(</rp><rt>けっかん</rt><rp>)</rp></ruby>はとても<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>です。<br></td></tr></tbody></table> </div> </div> </div> <div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> 1. <ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby><ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きたら、すぐ、<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>をコップ１<ruby>杯<rp>（</rp><rt>はい</rt><rp>）</rp></ruby><ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んで<ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>と<ruby>腸<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>が<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>き<ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めます。 <ruby>腸<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>がよく<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>いて、トイレへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたくなります。 <p><br /></p> <p></p> 2. <ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きながら<ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>する <p></p> <ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>がいいと、<ruby>胃液<rp>（</rp><rt>いえき</rt><rp>）</rp></ruby>がたくさん<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ます。 <p><br /></p> <p></p> 3.<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>鏡<rp>（</rp><rt>かがみ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>て<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>う <p></p> <ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちの<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>は、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>に<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>つ<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>っています。 <ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>うと、その<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>くなります。 それに、<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちになれます。 <p><br /></p> <p></p> 4. <ruby>大股<rp>（</rp><rt>おおまた</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く <p></p> <ruby>大股<rp>（</rp><rt>おおまた</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くと、たくさん<ruby>運動<rp>（</rp><rt>うんどう</rt><rp>）</rp></ruby>できるし、<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>筋肉<rp>（</rp><rt>きんにく</rt><rp>）</rp></ruby>もよく<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うことができます。 <p><br /></p> <p></p> 5. <ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>を５<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>マッサージする。<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>の（ ）を<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>してください。 <p></p> よく<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>られます。 <p><br /></p> <p></p> ☆ほかに、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>で<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>でも<ruby>出来<rp>（</rp><rt>でき</rt><rp>）</rp></ruby>て<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>にいいことを<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみましょう。 <p></p> どうしてそれがいいか、<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみてください。 <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div> <div class=\"slide-content sl2\"> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1. 朝（あさ）起（お）きたら、すぐ、冷（つめ）たい水（みず）をコップ１杯（はい）飲（の）む冷（つめ）たい水（みず）を飲（の）むと、休（やす）んで胃（い）と腸（ちょう）が動（うご）き始（はじ）めます。",
+          "japaneseHtml": "1. <ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby><ruby>起<rp>（</rp><rt>お</rt><rp>）</rp></ruby>きたら、すぐ、<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>をコップ１<ruby>杯<rp>（</rp><rt>はい</rt><rp>）</rp></ruby><ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>む<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>を<ruby>飲<rp>（</rp><rt>の</rt><rp>）</rp></ruby>むと、<ruby>休<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>んで<ruby>胃<rp>（</rp><rt>い</rt><rp>）</rp></ruby>と<ruby>腸<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>が<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>き<ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めます。",
+          "vietnamese": "Vào buổi sáng sau khi thức dậy uống một cốc nước mát, khi uống nước mát ruột và dạ dày sau khi nghỉ ngơi sẽ bắt đầu hoạt động.",
+          "vietnameseHtml": "Vào buổi sáng sau khi thức dậy uống một cốc nước mát, khi uống nước mát ruột và dạ dày sau khi nghỉ ngơi sẽ bắt đầu hoạt động."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "腸（ちょう）がよく動（うご）いて、トイレへ行（い）きたくなります。",
+          "japaneseHtml": "<ruby>腸<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>がよく<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>いて、トイレへ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたくなります。",
+          "vietnamese": "Ruột hoạt động tốt, rồi sẽ muốn đi vệ sinh.",
+          "vietnameseHtml": "Ruột hoạt động tốt, rồi sẽ muốn đi vệ sinh."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. 音楽（おんがく）を聞（き）きながら食事（しょくじ）する楽（たの）しい音楽（おんがく）を聞（き）いて、気分（きぶん）がいいと、胃液（いえき）がたくさん出（で）ます。",
+          "japaneseHtml": "2. <ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きながら<ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>する<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>音楽<rp>（</rp><rt>おんがく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、<ruby>気分<rp>（</rp><rt>きぶん</rt><rp>）</rp></ruby>がいいと、<ruby>胃液<rp>（</rp><rt>いえき</rt><rp>）</rp></ruby>がたくさん<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>ます。",
+          "vietnamese": "Vừa nghe nhạc vừa dùng bữa. Nghe nhạc vui vẻ, tinh thần trở nên thỏa mái thì dịch vị dạ dày tiết nhiều hơn.",
+          "vietnameseHtml": "Vừa nghe nhạc vừa dùng bữa. Nghe nhạc vui vẻ, tinh thần trở nên thỏa mái thì dịch vị dạ dày tiết nhiều hơn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3. 毎日（まいにち）鏡（かがみ）を見（み）て笑（わら）う",
+          "japaneseHtml": "3. <ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>鏡<rp>（</rp><rt>かがみ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>て<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>う",
+          "vietnamese": "Mỗi ngày nhìn vào gương rồi tươi cười.",
+          "vietnameseHtml": "Mỗi ngày nhìn vào gương rồi tươi cười."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "私（わたし）たちの体（からだ）は、病気（びょうき）に勝（か）つ力（ちから）を持（も）っています。",
+          "japaneseHtml": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちの<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>は、<ruby>病気<rp>（</rp><rt>びょうき</rt><rp>）</rp></ruby>に<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>つ<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>を<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>っています。",
+          "vietnamese": "Cơ thể chúng ta có được sức mạnh để chiến thắng bệnh tật.",
+          "vietnameseHtml": "Cơ thể chúng ta có được sức mạnh để chiến thắng bệnh tật."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "笑（わら）うと、その力（ちから）が強（つよ）くなります。",
+          "japaneseHtml": "<ruby>笑<rp>（</rp><rt>わら</rt><rp>）</rp></ruby>うと、その<ruby>力<rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>くなります。",
+          "vietnamese": "Khi tươi cười sức mạnh đó trở nên mạnh hơn.",
+          "vietnameseHtml": "Khi tươi cười sức mạnh đó trở nên mạnh hơn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それに、楽（たの）しい気持（きも）ちになれます。",
+          "japaneseHtml": "それに、<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ちになれます。",
+          "vietnamese": "Hơn nữa cười có thể làm cho tinh thần vui vẻ hơn.",
+          "vietnameseHtml": "Hơn nữa cười có thể làm cho tinh thần vui vẻ hơn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4. 大股（おおまた）で歩（ある）く",
+          "japaneseHtml": "4. <ruby>大股<rp>（</rp><rt>おおまた</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く",
+          "vietnamese": "Bước đi bằng bước sải dài.",
+          "vietnameseHtml": "Bước đi bằng bước sải dài."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "大股（おおまた）で歩（ある）くと、たくさん運動（うんどう）できるし、足（あし）の筋肉（きんにく）もよく使（つか）うことができます。",
+          "japaneseHtml": "<ruby>大股<rp>（</rp><rt>おおまた</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>くと、たくさん<ruby>運動<rp>（</rp><rt>うんどう</rt><rp>）</rp></ruby>できるし、<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>筋肉<rp>（</rp><rt>きんにく</rt><rp>）</rp></ruby>もよく<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うことができます。",
+          "vietnamese": "Nếu bước đi bằng bước sải dài có thể vận động được nhiều, sử dụng nhiều cơ chân.",
+          "vietnameseHtml": "Nếu bước đi bằng bước sải dài có thể vận động được nhiều, sử dụng nhiều cơ chân."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "5. 寝（ね）る前（まえ）に、足（あし）の裏（うら）を５分（ふん）マッサージする足（あし）の裏（うら）の（ ）を押（お）してください。",
+          "japaneseHtml": "5. <ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>る<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に、<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>を５<ruby>分<rp>（</rp><rt>ふん</rt><rp>）</rp></ruby>マッサージする<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>裏<rp>（</rp><rt>うら</rt><rp>）</rp></ruby>の（ ）を<ruby>押<rp>（</rp><rt>お</rt><rp>）</rp></ruby>してください。",
+          "vietnamese": "Trước khi đi ngủ massager lòng bàn chân 5 phút. Hãy massager vị trí gạch chéo ở lòng bàn chân.",
+          "vietnameseHtml": "Trước khi đi ngủ massager lòng bàn chân 5 phút. Hãy massager vị trí gạch chéo ở lòng bàn chân."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "よく寝（ね）られます。",
+          "japaneseHtml": "よく<ruby>寝<rp>（</rp><rt>ね</rt><rp>）</rp></ruby>られます。",
+          "vietnamese": "Có thể ngủ ngon.",
+          "vietnameseHtml": "Có thể ngủ ngon."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "☆ほかに、毎日（まいにち）の生活（せいかつ）で誰（だれ）でも出来（でき）て体（からだ）にいいことを考（かんが）えてみましょう。",
+          "japaneseHtml": "☆ほかに、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby>の<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>で<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>でも<ruby>出来<rp>（</rp><rt>でき</rt><rp>）</rp></ruby>て<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>にいいことを<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみましょう。",
+          "vietnamese": "Ngoài việc trên, hãy cùng suy nghĩ việc tốt cho cơ thể mà bất kì ai cũng có thể thực hiện trong cuộc sống hàng ngày.",
+          "vietnameseHtml": "Ngoài việc trên, hãy cùng suy nghĩ việc tốt cho cơ thể mà bất kì ai cũng có thể thực hiện trong cuộc sống hàng ngày."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どうしてそれがいいか、考（かんが）えてみてください。",
+          "japaneseHtml": "どうしてそれがいいか、<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えてみてください。",
+          "vietnamese": "Hãy suy nghĩ tại sao điều đó tốt.",
+          "vietnameseHtml": "Hãy suy nghĩ tại sao điều đó tốt."
+        },
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "健康(けんこう)チェック",
+          "textHtml": "<b><ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>チェック</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p><br></p> <p>あなたの<ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>と<ruby>血管<rp>(</rp><rt>けっかん</rt><rp>)</rp></ruby>が<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れていないかどうか、チェックしてみましょう。</p> <p>はい・・・1<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby> いいえ・・・0<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby></p> <p>（ ）<ruby>油<rp>(</rp><rt>あぶら</rt><rp>)</rp></ruby>が<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>がとても<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだ</p> <p>（ ）コーヒーに<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ずミルクと<ruby>砂糖<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れる。</p> <p>（ ）<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>かないで<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>っているときも、<ruby>脈拍<rp>(</rp><rt>みゃくはく</rt><rp>)</rp></ruby>が1<ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>に90<ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>ある</p> <p>（ ）スポーツはほとんどしない</p> <p>（ ）<ruby>塩辛<rp>(</rp><rt>しおから</rt><rp>)</rp></ruby>い<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだ</p> <p>（ ）<ruby>冬<rp>(</rp><rt>ふゆ</rt><rp>)</rp></ruby>、<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>布団<rp>(</rp><rt>ふとん</rt><rp>)</rp></ruby>をかけて<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>ている</p> <p>（ ）たばこは<ruby>絶対<rp>(</rp><rt>ぜったい</rt><rp>)</rp></ruby>にやめられない、</p> <p>（ ）<ruby>枕<rp>(</rp><rt>まくら</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>くなければ、<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>られない</p> <p>（ ）<ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>より<ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>をよく<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる</p> <p>（ ）よく<ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>がどきどきする</p> <table class=\"table table-bordered\"><tbody><tr><td>10<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby></td><td><p><ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>! あなたの<ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>と<ruby>血管<rp>(</rp><rt>けっかん</rt><rp>)</rp></ruby>はとても<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れています。</p> <p>すぐ<ruby>医者<rp>(</rp><rt>いしゃ</rt><rp>)</rp></ruby>に<ruby>相談<rp>(</rp><rt>そうだん</rt><rp>)</rp></ruby>してください。</p> </td></tr><tr><td>5~9<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby><br></td><td><ruby>安心<rp>(</rp><rt>あんしん</rt><rp>)</rp></ruby>してはいけません。<ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>に<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>をつけて、<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>が<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>なくなる<br></td></tr><tr><td>1~4<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby><br></td><td>かなりいいです。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>を<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けるようにしましょう。<br></td></tr><tr><td>0<ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby></td><td>あなたの<ruby>心臓<rp>(</rp><rt>しんぞう</rt><rp>)</rp></ruby>と<ruby>血管<rp>(</rp><rt>けっかん</rt><rp>)</rp></ruby>はとても<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>です。<br></td></tr></tbody></table> </div> </div> </div> <div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+        }
+      ]
+    }
+  ]
+}

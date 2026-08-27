@@ -1,0 +1,498 @@
+{
+  "lesson": 36,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いち</b></div> <div class=\"kanji\">位置</div> <div class=\"nghia_viet\">vị trí</div> <div class=\"nghia_anh\">position, location</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>シマウマ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ngựa vằn</div> <div class=\"nghia_anh\">zebra</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ライオン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">sư tử </div> <div class=\"nghia_anh\">lion</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ならびます</b></div> <div class=\"kanji\">並びます</div> <div class=\"nghia_viet\">xếp hàng, ngang hàng</div> <div class=\"nghia_anh\">be side by side</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とおく</b></div> <div class=\"kanji\">遠く</div> <div class=\"nghia_viet\">xa</div> <div class=\"nghia_anh\">far away</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>つかまえます</b></div> <div class=\"kanji\">捕まえます</div> <div class=\"nghia_viet\">bắt, tóm</div> <div class=\"nghia_anh\">catch</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>きょり</b></div> <div class=\"kanji\">距離</div> <div class=\"nghia_viet\">cự li, khoảng cách</div> <div class=\"nghia_anh\">distance</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>サル</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con khỉ</div> <div class=\"nghia_anh\">monkey</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>とびます</b></div> <div class=\"kanji\">跳びます</div> <div class=\"nghia_viet\">nhảy</div> <div class=\"nghia_anh\">jump</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ヒト</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con người</div> <div class=\"nghia_anh\">human being</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ほん</b></div> <div class=\"kanji\">本</div> <div class=\"nghia_viet\">chân</div> <div class=\"nghia_anh\">(counter for long objects)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>くさ</b></div> <div class=\"kanji\">草</div> <div class=\"nghia_viet\">cỏ</div> <div class=\"nghia_anh\">grass</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>カバ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con hà mã</div> <div class=\"nghia_anh\">hippopotamus</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～によってちがいます</b></div> <div class=\"kanji\">～によって違います</div> <div class=\"nghia_viet\">tùy theo ~ mà khác nhau</div> <div class=\"nghia_anh\">be different depending on ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>グループ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nhóm</div> <div class=\"nghia_anh\">group</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ツカ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con hươu, con nai</div> <div class=\"nghia_anh\">deer</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>クマ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con gấu</div> <div class=\"nghia_anh\">bear</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ワニ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con cá sấu</div> <div class=\"nghia_anh\">crocodile, alligator</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ラタグ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con lạc đà</div> <div class=\"nghia_anh\">camel</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>カエル</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con ếch</div> <div class=\"nghia_anh\">frog</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>トラ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">con hổ</div> <div class=\"nghia_anh\">tiger</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby></b></h3> <p></p> みなさんは<ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったことがあるでしょう？ <ruby>短<rp>（</rp><rt>みじか</rt><rp>）</rp></ruby>い<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>や<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>鼻<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>など、<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>は<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いですね。 <ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>や<ruby>位置<rp>（</rp><rt>いち</rt><rp>）</rp></ruby>もいろいろです。 どうしてシマウマの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>にあるのですか。 ライオンの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>二<rp>（</rp><rt>ふた</rt><rp>）</rp></ruby>つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいるのですか。 みなさんは<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えたことがありますか。 <p></p> ライオンは<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べます。 その<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>遠<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>くに<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>がいても、すぐ<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って<ruby>捕<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>まえられるように、<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>二<rp>（</rp><rt>ふた</rt><rp>）</rp></ruby>つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいます。 ２つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいなければ、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>距離<rp>（</rp><rt>きょり</rt><rp>）</rp></ruby>がわかりません。 <p></p> サルの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>も<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいます。 サルは<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>から<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>へ<ruby>跳<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶとき、<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>しないように、よく<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>なければなりません。 <p></p> ヒトの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>も<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じです。 ヒトは２<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>の<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>けるようになって、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えるようになりました。 それで、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>ができます。 <p></p> <ruby>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>や<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>の<ruby>葉<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>はどうですか。 シマウマはライオンなどにいつも<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>を<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>けていなければなりません。 ですから、<ruby>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べていても、<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>まで<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えるように、<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>が<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>に<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いています。 <p></p> カバは<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>にいますが、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>がありますから、<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>だけ<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>から<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ることができます。 <p></p> <ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>や<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいるところによって<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>うのです。 <p></p> <ruby>今度<rp>（</rp><rt>こんど</rt><rp>）</rp></ruby><ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったら、<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>をよく<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>てください。 <ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いことが<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つかるかもしれませんよ。 <p></p>I 1．<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ）ライオンの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>まで<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えます。 <p></p> 2)（ ）サルは<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>が<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に２つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいますから、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>距離<rp>（</rp><rt>きょり</rt><rp>）</rp></ruby>がわかります。 <p></p> 3)（ ）シマウマは<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろからライオンが<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ても<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えますから、<ruby>逃<rp>（</rp><rt>に</rt><rp>）</rp></ruby>げることができます。 <p></p> 4)（ ）カバの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>から<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>だけ<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りが<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>られるように、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>にあります。 <p></p> 2．<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>の<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>は①ライオン、②シマウマ。➂カバのどのグループですか。 <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai36/doc36.png\" alt=\"minna 25 bai doc hieu Bai 36\"> <p></p>II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>に<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>い<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>がいますか。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Mắt động vật.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">みなさんは<ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったことがあるでしょう？</div><div class=\"kqdich\"><div class=\"nddich\">Có lẽ mọi người đã từng đi sở thú rồi đúng không?</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>短<rp>（</rp><rt>みじか</rt><rp>）</rp></ruby>い<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>や<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>鼻<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>など、<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>は<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いですね。</div><div class=\"kqdich\"><div class=\"nddich\">Hình dáng động vật thú vị nhỉ, như chân ngắn, tai to, mũi dài…</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>や<ruby>位置<rp>（</rp><rt>いち</rt><rp>）</rp></ruby>もいろいろです。</div><div class=\"kqdich\"><div class=\"nddich\">Hình dáng hay vị trí của mắt cũng có nhiều loại nữa.</div></div></div> <div class=\"tudich\"><div class=\"candich\">どうしてシマウマの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>にあるのですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao mắt của con ngựa vằn lại nằm theo chiều ngang của khuôn mặt?</div></div></div> <div class=\"tudich\"><div class=\"candich\">ライオンの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>二<rp>（</rp><rt>ふた</rt><rp>）</rp></ruby>つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいるのですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao mắt của sư tử hai mắt xếp đằng trước?</div></div></div> <div class=\"tudich\"><div class=\"candich\">みなさんは<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えたことがありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn đã từng suy nghĩ về việc đó chưa?</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">ライオンは<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べます。</div><div class=\"kqdich\"><div class=\"nddich\">Sư tử ăn thịt những động vật khác. </div></div></div> <div class=\"tudich\"><div class=\"candich\">その<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>遠<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>くに<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>がいても、すぐ<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って<ruby>捕<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>まえられるように、<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>二<rp>（</rp><rt>ふた</rt><rp>）</rp></ruby>つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいます。</div><div class=\"kqdich\"><div class=\"nddich\">Hai mắt nằm ở trước mặt, để nó có thể ngay lập tức chạy đi bắt những con mồi cho dù con mồi ở đằng xa. </div></div></div> <div class=\"tudich\"><div class=\"candich\">２つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいなければ、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>距離<rp>（</rp><rt>きょり</rt><rp>）</rp></ruby>がわかりません。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu 2 mắt không ở đằng trước mặt, thì nó không thể biết khoảng cách chính xác được.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">サルの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>も<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいます。</div><div class=\"kqdich\"><div class=\"nddich\">Mắt của khỉ cũng nằm trước khuôn mặt. </div></div></div> <div class=\"tudich\"><div class=\"candich\">サルは<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>から<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>へ<ruby>跳<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶとき、<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>しないように、よく<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>なければなりません。</div><div class=\"kqdich\"><div class=\"nddich\">Khỉ thì phải nhìn rõ phía trước để không thất bại khi nhảy từ cây này sang cây khác.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">ヒトの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>も<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じです。</div><div class=\"kqdich\"><div class=\"nddich\">Mắt của loài người cũng giống như vậy.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ヒトは２<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>の<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>けるようになって、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えるようになりました。</div><div class=\"kqdich\"><div class=\"nddich\">Con người đã có thể đi bằng 2 chân, đã chỏ thể sử dụng tay. </div></div></div> <div class=\"tudich\"><div class=\"candich\">それで、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>ができます。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy, họ có thể làm những công việc khó bằng tay. </div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>や<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>の<ruby>葉<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>はどうですか。</div><div class=\"kqdich\"><div class=\"nddich\">Mắt của động vật ăn cỏ và lá cây như thế nào? </div></div></div> <div class=\"tudich\"><div class=\"candich\">シマウマはライオンなどにいつも<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>を<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>けていなければなりません。</div><div class=\"kqdich\"><div class=\"nddich\">Con ngựa vằng phải chú ý cẩn thận về những con sư tử.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ですから、<ruby>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べていても、<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>まで<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えるように、<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>が<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>に<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いています。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy mắt nó nằm dọc khuôn mặt để dù đang ăn cỏ nó vẫn có thể nhìn được phía sau. </div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">カバは<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>にいますが、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>がありますから、<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>だけ<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>から<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ることができます。</div><div class=\"kqdich\"><div class=\"nddich\">Con hà mã sống ở trong nước, vì nó có mắt ở trên đầu nên có thể nhìn xung quanh bằng cách đưa chỉ mỗi mắt ra khỏi mặt nước.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>や<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいるところによって<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>うのです。</div><div class=\"kqdich\"><div class=\"nddich\">Mắt động vật khác nhau tùy vào nơi ở hay thức ăn của chúng.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>今度<rp>（</rp><rt>こんど</rt><rp>）</rp></ruby><ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったら、<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>をよく<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>てください。</div><div class=\"kqdich\"><div class=\"nddich\">Lần tới khi đi sở thú, hãy nhìn kỹ vào mắt động vật. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いことが<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つかるかもしれませんよ。</div><div class=\"kqdich\"><div class=\"nddich\">Có thể bạn sẽ tìm ra được những điều thú vị ấy.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I 1．<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy điền 〇 vào câu đúng, ✕ vào câu sai.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>Ｘ</b>）ライオンの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>まで<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えます。</div><div class=\"kqdich\"><div class=\"nddich\">Mắt sư tử có thể nhìn thấy ở phía đằng sau.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>〇</b>）サルは<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>が<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に２つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいますから、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>距離<rp>（</rp><rt>きょり</rt><rp>）</rp></ruby>がわかります。</div><div class=\"kqdich\"><div class=\"nddich\">Vì mắt của khỉ nằm ở trước mặt nên có thể biết được khoảng cách chính xác.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>〇</b>）シマウマは<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろからライオンが<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ても<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えますから、<ruby>逃<rp>（</rp><rt>に</rt><rp>）</rp></ruby>げることができます。</div><div class=\"kqdich\"><div class=\"nddich\">Con ngựa vằn có thể nhìn thấy dù con sư tử dù nó tiến tới từ phía sau nên có thể chạy trốn.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（<b>〇</b>）カバの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>から<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>だけ<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りが<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>られるように、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>にあります。</div><div class=\"kqdich\"><div class=\"nddich\">Mắt của hà mã nằm ở trên đâu để có thể nhìn thấy được xung quanh khi đưa chỉ mỗi mắt ra khỏi mặt nước.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2．<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>の<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>は①ライオン、②シマウマ。➂カバのどのグループですか。</div><div class=\"kqdich\"><div class=\"nddich\">Động vật dưới đây thuộc nhóm nào 1. Sư tử 2. Ngựa vằn 3. Hà Mã.</div></div></div> <p></p><img decoding=\"async\" src=\"/images/minnamoi/bai36/doc36.png\" alt=\"minna 25 bai doc hieu Bai 36\"> <p></p><div class=\"tudich\"><div class=\"candich\">II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>に<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>い<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>がいますか。</div><div class=\"kqdich\"><div class=\"nddich\">Ở đất nước bạn có những loài động vật thú vị không?</div></div></div> </div> </div><!--END--> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "動物（どうぶつ）の目（め）",
+          "textHtml": "<b><ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby></b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> みなさんは<ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったことがあるでしょう？ <ruby>短<rp>（</rp><rt>みじか</rt><rp>）</rp></ruby>い<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>や<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>鼻<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>など、<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>は<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いですね。 <ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>や<ruby>位置<rp>（</rp><rt>いち</rt><rp>）</rp></ruby>もいろいろです。 どうしてシマウマの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>にあるのですか。 ライオンの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>二<rp>（</rp><rt>ふた</rt><rp>）</rp></ruby>つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいるのですか。 みなさんは<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えたことがありますか。 <p></p> ライオンは<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べます。 その<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>遠<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>くに<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>がいても、すぐ<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って<ruby>捕<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>まえられるように、<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>二<rp>（</rp><rt>ふた</rt><rp>）</rp></ruby>つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいます。 ２つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいなければ、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>距離<rp>（</rp><rt>きょり</rt><rp>）</rp></ruby>がわかりません。 <p></p> サルの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>も<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいます。 サルは<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>から<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>へ<ruby>跳<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶとき、<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>しないように、よく<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>なければなりません。 <p></p> ヒトの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>も<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じです。 ヒトは２<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>の<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>けるようになって、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えるようになりました。 それで、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>ができます。 <p></p> <ruby>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>や<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>の<ruby>葉<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>はどうですか。 シマウマはライオンなどにいつも<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>を<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>けていなければなりません。 ですから、<ruby>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べていても、<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>まで<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えるように、<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>が<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>に<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いています。 <p></p> カバは<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>にいますが、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>がありますから、<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>だけ<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>から<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ることができます。 <p></p> <ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>や<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいるところによって<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>うのです。 <p></p> <ruby>今度<rp>（</rp><rt>こんど</rt><rp>）</rp></ruby><ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったら、<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>をよく<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>てください。 <ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いことが<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つかるかもしれませんよ。 <p></p>I 1．<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ）ライオンの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>まで<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えます。 <p></p> 2)（ ）サルは<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>が<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に２つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいますから、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>距離<rp>（</rp><rt>きょり</rt><rp>）</rp></ruby>がわかります。 <p></p> 3)（ ）シマウマは<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろからライオンが<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ても<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えますから、<ruby>逃<rp>（</rp><rt>に</rt><rp>）</rp></ruby>げることができます。 <p></p> 4)（ ）カバの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>から<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>だけ<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りが<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>られるように、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>にあります。 <p></p> 2．<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>の<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>は①ライオン、②シマウマ。➂カバのどのグループですか。 <p></p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai36/doc36.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai36/doc36.png\" alt=\"minna 25 bai doc hieu Bai 36\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>に<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>い<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>がいますか。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b><ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby></b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Mắt động vật.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "動物（どうぶつ）の目（め）",
+              "textHtml": "<b><ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby></b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Mắt động vật."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "みなさんは動物園（どうぶつえん）へ行（い）ったことがあるでしょう？",
+          "japaneseHtml": "みなさんは<ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったことがあるでしょう？",
+          "vietnamese": "Có lẽ mọi người đã từng đi sở thú rồi đúng không?",
+          "vietnameseHtml": "Có lẽ mọi người đã từng đi sở thú rồi đúng không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "短（みじか）い足（あし）や大（おお）きい耳（みみ）、長（なが）い鼻（はな）など、動物（どうぶつ）の形（かたち）は面白（おもしろ）いですね。",
+          "japaneseHtml": "<ruby>短<rp>（</rp><rt>みじか</rt><rp>）</rp></ruby>い<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>や<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きい<ruby>耳<rp>（</rp><rt>みみ</rt><rp>）</rp></ruby>、<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い<ruby>鼻<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>など、<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>は<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いですね。",
+          "vietnamese": "Hình dáng động vật thú vị nhỉ, như chân ngắn, tai to, mũi dài…",
+          "vietnameseHtml": "Hình dáng động vật thú vị nhỉ, như chân ngắn, tai to, mũi dài…"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "目（め）の形（かたち）や位置（いち）もいろいろです。",
+          "japaneseHtml": "<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>や<ruby>位置<rp>（</rp><rt>いち</rt><rp>）</rp></ruby>もいろいろです。",
+          "vietnamese": "Hình dáng hay vị trí của mắt cũng có nhiều loại nữa.",
+          "vietnameseHtml": "Hình dáng hay vị trí của mắt cũng có nhiều loại nữa."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どうしてシマウマの目（め）は顔（かお）の横（よこ）にあるのですか。",
+          "japaneseHtml": "どうしてシマウマの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>にあるのですか。",
+          "vietnamese": "Tại sao mắt của con ngựa vằn lại nằm theo chiều ngang của khuôn mặt?",
+          "vietnameseHtml": "Tại sao mắt của con ngựa vằn lại nằm theo chiều ngang của khuôn mặt?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ライオンの目（め）は二（ふた）つ並（なら）んでいるのですか。",
+          "japaneseHtml": "ライオンの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>二<rp>（</rp><rt>ふた</rt><rp>）</rp></ruby>つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいるのですか。",
+          "vietnamese": "Tại sao mắt của sư tử hai mắt xếp đằng trước?",
+          "vietnameseHtml": "Tại sao mắt của sư tử hai mắt xếp đằng trước?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "みなさんは考（かんが）えたことがありますか。",
+          "japaneseHtml": "みなさんは<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えたことがありますか。",
+          "vietnamese": "Bạn đã từng suy nghĩ về việc đó chưa?",
+          "vietnameseHtml": "Bạn đã từng suy nghĩ về việc đó chưa?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ライオンは他（ほか）の動物（どうぶつ）の肉（にく）を食（た）べます。",
+          "japaneseHtml": "ライオンは<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べます。",
+          "vietnamese": "Sư tử ăn thịt những động vật khác.",
+          "vietnameseHtml": "Sư tử ăn thịt những động vật khác."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "その目（め）は遠（とお）くに動物（どうぶつ）がいても、すぐ走（はし）って行（い）って捕（つか）まえられるように、顔（かお）の前（まえ）に二（ふた）つ並（なら）んでいます。",
+          "japaneseHtml": "その<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>遠<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>くに<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>がいても、すぐ<ruby>走<rp>（</rp><rt>はし</rt><rp>）</rp></ruby>って<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って<ruby>捕<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>まえられるように、<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>二<rp>（</rp><rt>ふた</rt><rp>）</rp></ruby>つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいます。",
+          "vietnamese": "Hai mắt nằm ở trước mặt, để nó có thể ngay lập tức chạy đi bắt những con mồi cho dù con mồi ở đằng xa.",
+          "vietnameseHtml": "Hai mắt nằm ở trước mặt, để nó có thể ngay lập tức chạy đi bắt những con mồi cho dù con mồi ở đằng xa."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "２つ並（なら）んでいなければ、正（ただ）しい距離（きょり）がわかりません。",
+          "japaneseHtml": "２つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいなければ、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>距離<rp>（</rp><rt>きょり</rt><rp>）</rp></ruby>がわかりません。",
+          "vietnamese": "Nếu 2 mắt không ở đằng trước mặt, thì nó không thể biết khoảng cách chính xác được.",
+          "vietnameseHtml": "Nếu 2 mắt không ở đằng trước mặt, thì nó không thể biết khoảng cách chính xác được."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "サルの目（め）も顔（かお）の前（まえ）に並（なら）んでいます。",
+          "japaneseHtml": "サルの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>も<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいます。",
+          "vietnamese": "Mắt của khỉ cũng nằm trước khuôn mặt.",
+          "vietnameseHtml": "Mắt của khỉ cũng nằm trước khuôn mặt."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "サルは木（き）から木（き）へ跳（と）ぶとき、失敗（しっぱい）しないように、よく前（まえ）を見（み）なければなりません。",
+          "japaneseHtml": "サルは<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>から<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>へ<ruby>跳<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ぶとき、<ruby>失敗<rp>（</rp><rt>しっぱい</rt><rp>）</rp></ruby>しないように、よく<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>を<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>なければなりません。",
+          "vietnamese": "Khỉ thì phải nhìn rõ phía trước để không thất bại khi nhảy từ cây này sang cây khác.",
+          "vietnameseHtml": "Khỉ thì phải nhìn rõ phía trước để không thất bại khi nhảy từ cây này sang cây khác."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ヒトの目（め）も同（おな）じです。",
+          "japaneseHtml": "ヒトの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>も<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じです。",
+          "vietnamese": "Mắt của loài người cũng giống như vậy.",
+          "vietnameseHtml": "Mắt của loài người cũng giống như vậy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ヒトは２本（ほん）の足（あし）で歩（ある）けるようになって、手（て）が使（つか）えるようになりました。",
+          "japaneseHtml": "ヒトは２<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>の<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>で<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>けるようになって、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えるようになりました。",
+          "vietnamese": "Con người đã có thể đi bằng 2 chân, đã chỏ thể sử dụng tay.",
+          "vietnameseHtml": "Con người đã có thể đi bằng 2 chân, đã chỏ thể sử dụng tay."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで、手（て）で難（むずか）しい仕事（しごと）ができます。",
+          "japaneseHtml": "それで、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>で<ruby>難<rp>（</rp><rt>むずか</rt><rp>）</rp></ruby>しい<ruby>仕事<rp>（</rp><rt>しごと</rt><rp>）</rp></ruby>ができます。",
+          "vietnamese": "Vì vậy, họ có thể làm những công việc khó bằng tay.",
+          "vietnameseHtml": "Vì vậy, họ có thể làm những công việc khó bằng tay."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "草（くさ）や木（き）の葉（は）を食（た）べる動物（どうぶつ）の目（め）はどうですか。",
+          "japaneseHtml": "<ruby>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>や<ruby>木<rp>（</rp><rt>き</rt><rp>）</rp></ruby>の<ruby>葉<rp>（</rp><rt>は</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>はどうですか。",
+          "vietnamese": "Mắt của động vật ăn cỏ và lá cây như thế nào?",
+          "vietnameseHtml": "Mắt của động vật ăn cỏ và lá cây như thế nào?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "シマウマはライオンなどにいつも気（き）を付（つ）けていなければなりません。",
+          "japaneseHtml": "シマウマはライオンなどにいつも<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>を<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>けていなければなりません。",
+          "vietnamese": "Con ngựa vằng phải chú ý cẩn thận về những con sư tử.",
+          "vietnameseHtml": "Con ngựa vằng phải chú ý cẩn thận về những con sư tử."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ですから、草（くさ）を食（た）べていても、後（うし）ろの方（ほう）まで見（み）えるように、目（め）が顔（かお）の横（よこ）に付（つ）いています。",
+          "japaneseHtml": "ですから、<ruby>草<rp>（</rp><rt>くさ</rt><rp>）</rp></ruby>を<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べていても、<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>まで<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えるように、<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>が<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>に<ruby>付<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いています。",
+          "vietnamese": "Vì vậy mắt nó nằm dọc khuôn mặt để dù đang ăn cỏ nó vẫn có thể nhìn được phía sau.",
+          "vietnameseHtml": "Vì vậy mắt nó nằm dọc khuôn mặt để dù đang ăn cỏ nó vẫn có thể nhìn được phía sau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "カバは水（みず）の中（なか）にいますが、頭（あたま）の上（うえ）に目（め）がありますから、目（め）だけ水（みず）から出（だ）して周（まわ）りを見（み）ることができます。",
+          "japaneseHtml": "カバは<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>にいますが、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>に<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>がありますから、<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>だけ<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>から<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りを<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ることができます。",
+          "vietnamese": "Con hà mã sống ở trong nước, vì nó có mắt ở trên đầu nên có thể nhìn xung quanh bằng cách đưa chỉ mỗi mắt ra khỏi mặt nước.",
+          "vietnameseHtml": "Con hà mã sống ở trong nước, vì nó có mắt ở trên đầu nên có thể nhìn xung quanh bằng cách đưa chỉ mỗi mắt ra khỏi mặt nước."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "動物（どうぶつ）の目（め）は食（た）べる物（もの）や住（す）んでいるところによって違（ちが）うのです。",
+          "japaneseHtml": "<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>や<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>んでいるところによって<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>うのです。",
+          "vietnamese": "Mắt động vật khác nhau tùy vào nơi ở hay thức ăn của chúng.",
+          "vietnameseHtml": "Mắt động vật khác nhau tùy vào nơi ở hay thức ăn của chúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今度（こんど）動物園（どうぶつえん）へ行（い）ったら、動物（どうぶつ）の目（め）をよく見（み）てください。",
+          "japaneseHtml": "<ruby>今度<rp>（</rp><rt>こんど</rt><rp>）</rp></ruby><ruby>動物園<rp>（</rp><rt>どうぶつえん</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ったら、<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>の<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>をよく<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>てください。",
+          "vietnamese": "Lần tới khi đi sở thú, hãy nhìn kỹ vào mắt động vật.",
+          "vietnameseHtml": "Lần tới khi đi sở thú, hãy nhìn kỹ vào mắt động vật."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "面白（おもしろ）いことが見（み）つかるかもしれませんよ。",
+          "japaneseHtml": "<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>いことが<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>つかるかもしれませんよ。",
+          "vietnamese": "Có thể bạn sẽ tìm ra được những điều thú vị ấy.",
+          "vietnameseHtml": "Có thể bạn sẽ tìm ra được những điều thú vị ấy."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1．正（ただ）しいものに〇、正（ただ）しくないものに✕を書（か）いてください。",
+          "japaneseHtml": "I 1．<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy điền 〇 vào câu đúng, ✕ vào câu sai.",
+          "vietnameseHtml": "Hãy điền 〇 vào câu đúng, ✕ vào câu sai."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（Ｘ）ライオンの目（め）は後（うし）ろの方（ほう）まで見（み）えます。",
+          "japaneseHtml": "1)（<b>Ｘ</b>）ライオンの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろの<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>まで<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えます。",
+          "vietnamese": "Mắt sư tử có thể nhìn thấy ở phía đằng sau.",
+          "vietnameseHtml": "Mắt sư tử có thể nhìn thấy ở phía đằng sau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（〇）サルは目（め）が顔（かお）の前（まえ）に２つ並（なら）んでいますから、正（ただ）しい距離（きょり）がわかります。",
+          "japaneseHtml": "2)（<b>〇</b>）サルは<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>が<ruby>顔<rp>（</rp><rt>かお</rt><rp>）</rp></ruby>の<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>に２つ<ruby>並<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>んでいますから、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しい<ruby>距離<rp>（</rp><rt>きょり</rt><rp>）</rp></ruby>がわかります。",
+          "vietnamese": "Vì mắt của khỉ nằm ở trước mặt nên có thể biết được khoảng cách chính xác.",
+          "vietnameseHtml": "Vì mắt của khỉ nằm ở trước mặt nên có thể biết được khoảng cách chính xác."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（〇）シマウマは後（うし）ろからライオンが来（き）ても見（み）えますから、逃（に）げることができます。",
+          "japaneseHtml": "3)（<b>〇</b>）シマウマは<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろからライオンが<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ても<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>えますから、<ruby>逃<rp>（</rp><rt>に</rt><rp>）</rp></ruby>げることができます。",
+          "vietnamese": "Con ngựa vằn có thể nhìn thấy dù con sư tử dù nó tiến tới từ phía sau nên có thể chạy trốn.",
+          "vietnameseHtml": "Con ngựa vằn có thể nhìn thấy dù con sư tử dù nó tiến tới từ phía sau nên có thể chạy trốn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（〇）カバの目（め）は、水（みず）から目（め）だけ出（だ）して周（まわ）りが見（み）られるように、頭（あたま）の上（うえ）にあります。",
+          "japaneseHtml": "4)（<b>〇</b>）カバの<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>は、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>から<ruby>目<rp>（</rp><rt>め</rt><rp>）</rp></ruby>だけ<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りが<ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>られるように、<ruby>頭<rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>にあります。",
+          "vietnamese": "Mắt của hà mã nằm ở trên đâu để có thể nhìn thấy được xung quanh khi đưa chỉ mỗi mắt ra khỏi mặt nước.",
+          "vietnameseHtml": "Mắt của hà mã nằm ở trên đâu để có thể nhìn thấy được xung quanh khi đưa chỉ mỗi mắt ra khỏi mặt nước."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2．下（した）の動物（どうぶつ）は①ライオン、②シマウマ。➂カバのどのグループですか。",
+          "japaneseHtml": "2．<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>の<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>は①ライオン、②シマウマ。➂カバのどのグループですか。",
+          "vietnamese": "Động vật dưới đây thuộc nhóm nào 1. Sư tử 2. Ngựa vằn 3. Hà Mã.",
+          "vietnameseHtml": "Động vật dưới đây thuộc nhóm nào 1. Sư tử 2. Ngựa vằn 3. Hà Mã."
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai36/doc36.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai36/doc36.png\" alt=\"minna 25 bai doc hieu Bai 36\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II あなたの国（くに）に面白（おもしろ）い動物（どうぶつ）がいますか。",
+          "japaneseHtml": "II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>に<ruby>面白<rp>（</rp><rt>おもしろ</rt><rp>）</rp></ruby>い<ruby>動物<rp>（</rp><rt>どうぶつ</rt><rp>）</rp></ruby>がいますか。",
+          "vietnamese": "Ở đất nước bạn có những loài động vật thú vị không?",
+          "vietnameseHtml": "Ở đất nước bạn có những loài động vật thú vị không?"
+        }
+      ]
+    }
+  ]
+}

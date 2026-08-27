@@ -1,0 +1,359 @@
+{
+  "lesson": 36,
+  "meta": {
+    "practiceUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=36",
+    "flashcardUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=36&mf=fc"
+  },
+  "sections": [
+    {
+      "key": "main",
+      "label": null,
+      "labelHtml": null,
+      "items": [
+        {
+          "kind": "entry",
+          "index": 1,
+          "word": "あいます [じこに～]",
+          "wordHtml": "あいます<br /> [じこに～]",
+          "kanji": "[事故に～]",
+          "kanjiHtml": "[事故に～]",
+          "sinoVietnamese": "SỰ CỐ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#48;&#49;&#49;&#49;&#49;&#48;.mp3",
+          "meaning": "gặp [tai nạn~]",
+          "meaningHtml": "gặp [tai nạn~]"
+        },
+        {
+          "kind": "entry",
+          "index": 2,
+          "word": "ちょきんします",
+          "wordHtml": "ちょきんします",
+          "kanji": "貯金します",
+          "kanjiHtml": "貯金します",
+          "sinoVietnamese": "TRỮ KIM",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#48;&#49;&#49;&#49;&#49;&#49;.mp3",
+          "meaning": "tiết kiệm tiền, để dành tiền",
+          "meaningHtml": "tiết kiệm tiền, để dành tiền"
+        },
+        {
+          "kind": "entry",
+          "index": 3,
+          "word": "すぎます [７じを～]",
+          "wordHtml": "すぎます<br /> [７じを～]",
+          "kanji": "過ぎます [７時を～]",
+          "kanjiHtml": "過ぎます<br />[７時を～]",
+          "sinoVietnamese": "QUÁ THÌ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#48;&#48;&#48;.mp3",
+          "meaning": "quá, qua [7 giờ]",
+          "meaningHtml": "quá, qua [7 giờ]"
+        },
+        {
+          "kind": "entry",
+          "index": 4,
+          "word": "なれます [しゅうかんに～]",
+          "wordHtml": "なれます<br /> [しゅうかんに～]",
+          "kanji": "慣れます [習慣に～]",
+          "kanjiHtml": "慣れます<br />[習慣に～]",
+          "sinoVietnamese": "QUÁN TẬP QUÁN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#48;&#48;&#49;.mp3",
+          "meaning": "làm quen với [tập quán]",
+          "meaningHtml": "làm quen với [tập quán]"
+        },
+        {
+          "kind": "entry",
+          "index": 5,
+          "word": "くさります [たべものが～]",
+          "wordHtml": "くさります<br /> [たべものが～]",
+          "kanji": "腐ります [食べ物が～]",
+          "kanjiHtml": "腐ります<br />[食べ物が～]",
+          "sinoVietnamese": "HỦ THỰC VẬT",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#48;&#49;&#48;.mp3",
+          "meaning": "bị hỏng, bị thiu [thức ăn~]",
+          "meaningHtml": "bị hỏng, bị thiu [thức ăn~]"
+        },
+        {
+          "kind": "entry",
+          "index": 6,
+          "word": "けんどう",
+          "wordHtml": "けんどう",
+          "kanji": "剣道",
+          "kanjiHtml": "剣道",
+          "sinoVietnamese": "KIẾM ĐẠO",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#48;&#49;&#49;.mp3",
+          "meaning": "kiếm đạo",
+          "meaningHtml": "kiếm đạo"
+        },
+        {
+          "kind": "entry",
+          "index": 7,
+          "word": "じゅうどう",
+          "wordHtml": "じゅうどう",
+          "kanji": "柔道",
+          "kanjiHtml": "柔道",
+          "sinoVietnamese": "NHU ĐẠO",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#49;&#48;&#48;.mp3",
+          "meaning": "Judo (nhu đạo)",
+          "meaningHtml": "Judo (nhu đạo)"
+        },
+        {
+          "kind": "entry",
+          "index": 8,
+          "word": "ラッシュ",
+          "wordHtml": "ラッシュ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#49;&#48;&#49;.mp3",
+          "meaning": "giờ cao điểm; tắt đường",
+          "meaningHtml": "giờ cao điểm; tắt đường"
+        },
+        {
+          "kind": "entry",
+          "index": 9,
+          "word": "うちゅう",
+          "wordHtml": "うちゅう",
+          "kanji": "宇宙",
+          "kanjiHtml": "宇宙",
+          "sinoVietnamese": "VŨ TRỤ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#49;&#49;&#48;.mp3",
+          "meaning": "vũ trụ",
+          "meaningHtml": "vũ trụ"
+        },
+        {
+          "kind": "entry",
+          "index": 10,
+          "word": "きょく",
+          "wordHtml": "きょく",
+          "kanji": "曲",
+          "kanjiHtml": "曲",
+          "sinoVietnamese": "KHÚC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#49;&#49;&#49;.mp3",
+          "meaning": "bài hát, bản nhạc",
+          "meaningHtml": "bài hát, bản nhạc"
+        },
+        {
+          "kind": "entry",
+          "index": 11,
+          "word": "まいしゅう",
+          "wordHtml": "まいしゅう",
+          "kanji": "毎週",
+          "kanjiHtml": "毎週",
+          "sinoVietnamese": "MỖI CHU",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#48;.mp3",
+          "meaning": "hàng tuần",
+          "meaningHtml": "hàng tuần"
+        },
+        {
+          "kind": "entry",
+          "index": 12,
+          "word": "まいつき",
+          "wordHtml": "まいつき",
+          "kanji": "毎月",
+          "kanjiHtml": "毎月",
+          "sinoVietnamese": "MỖI NGUYỆT",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#48;&#48;&#49;.mp3",
+          "meaning": "hàng tháng",
+          "meaningHtml": "hàng tháng"
+        },
+        {
+          "kind": "entry",
+          "index": 13,
+          "word": "まいとし （まいねん）",
+          "wordHtml": "まいとし<br /> （まいねん）",
+          "kanji": "毎年",
+          "kanjiHtml": "毎年",
+          "sinoVietnamese": "MỖI NIÊN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#48;&#49;&#48;.mp3",
+          "meaning": "hàng năm",
+          "meaningHtml": "hàng năm"
+        },
+        {
+          "kind": "entry",
+          "index": 14,
+          "word": "このごろ",
+          "wordHtml": "このごろ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#48;&#49;&#49;.mp3",
+          "meaning": "gần đây, dạo này",
+          "meaningHtml": "gần đây, dạo này"
+        },
+        {
+          "kind": "entry",
+          "index": 15,
+          "word": "やっと",
+          "wordHtml": "やっと",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#48;.mp3",
+          "meaning": "cuối cùng thì",
+          "meaningHtml": "cuối cùng thì"
+        },
+        {
+          "kind": "entry",
+          "index": 16,
+          "word": "かなり",
+          "wordHtml": "かなり",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;.mp3",
+          "meaning": "khá, tương đối",
+          "meaningHtml": "khá, tương đối"
+        },
+        {
+          "kind": "entry",
+          "index": 17,
+          "word": "かならず",
+          "wordHtml": "かならず",
+          "kanji": "必ず",
+          "kanjiHtml": "必ず",
+          "sinoVietnamese": "TẤT",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#48;.mp3",
+          "meaning": "nhất định",
+          "meaningHtml": "nhất định"
+        },
+        {
+          "kind": "entry",
+          "index": 18,
+          "word": "ぜったいに",
+          "wordHtml": "ぜったいに",
+          "kanji": "絶対に",
+          "kanjiHtml": "絶対に",
+          "sinoVietnamese": "TUYỆT ĐỐI",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;.mp3",
+          "meaning": "nhất định, tuyệt đối",
+          "meaningHtml": "nhất định, tuyệt đối"
+        },
+        {
+          "kind": "entry",
+          "index": 19,
+          "word": "じょうずに",
+          "wordHtml": "じょうずに",
+          "kanji": "上手に",
+          "kanjiHtml": "上手に",
+          "sinoVietnamese": "THƯỢNG THỦ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#48;&#48;&#48;.mp3",
+          "meaning": "giỏi, khéo",
+          "meaningHtml": "giỏi, khéo"
+        },
+        {
+          "kind": "entry",
+          "index": 20,
+          "word": "できるだけ",
+          "wordHtml": "できるだけ",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#48;&#48;&#49;.mp3",
+          "meaning": "cố gắng",
+          "meaningHtml": "cố gắng"
+        },
+        {
+          "kind": "entry",
+          "index": 21,
+          "word": "ほとんど",
+          "wordHtml": "ほとんど",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#48;&#49;&#48;.mp3",
+          "meaning": "hầu hết, hầu như",
+          "meaningHtml": "hầu hết, hầu như"
+        },
+        {
+          "kind": "entry",
+          "index": 22,
+          "word": "ショパン",
+          "wordHtml": "ショパン",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#48;&#49;&#49;.mp3",
+          "meaning": "Chopin, nhà soạn nhạc người Ba Lan (1810-1849)",
+          "meaningHtml": "Chopin, nhà soạn nhạc người Ba Lan<br /> (1810-1849)"
+        }
+      ]
+    },
+    {
+      "key": "section-2",
+      "label": "会話(かいわ)",
+      "labelHtml": "＜<b><ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby></b>＞",
+      "items": [
+        {
+          "kind": "phrase",
+          "index": 23,
+          "text": "お客様（きゃくさま）",
+          "textHtml": "お<ruby>客様<rp>（</rp><rt>きゃくさま</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#48;&#48;.mp3",
+          "meaning": "quý khách, khách hàng",
+          "meaningHtml": "quý khách, khách hàng"
+        },
+        {
+          "kind": "phrase",
+          "index": 24,
+          "text": "特別（とくべつ）[な]",
+          "textHtml": "<ruby>特別<rp>（</rp><rt>とくべつ</rt><rp>）</rp></ruby>[な]",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#48;&#49;.mp3",
+          "meaning": "đặc biệt",
+          "meaningHtml": "đặc biệt"
+        },
+        {
+          "kind": "phrase",
+          "index": 25,
+          "text": "していらっしゃいます",
+          "textHtml": "していらっしゃいます",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#48;.mp3",
+          "meaning": "đang làm (tôn kính ngữ của しています)",
+          "meaningHtml": "đang làm (tôn kính ngữ của しています)"
+        },
+        {
+          "kind": "phrase",
+          "index": 26,
+          "text": "水泳（すいえい）",
+          "textHtml": "<ruby>水泳<rp>（</rp><rt>すいえい</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;&#49;&#49;.mp3",
+          "meaning": "bơi, môn bơi",
+          "meaningHtml": "bơi, môn bơi"
+        },
+        {
+          "kind": "phrase",
+          "index": 27,
+          "text": "違（ちが）います",
+          "textHtml": "<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>います",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#48;.mp3",
+          "meaning": "khác nhau",
+          "meaningHtml": "khác nhau"
+        },
+        {
+          "kind": "phrase",
+          "index": 28,
+          "text": "使（つか）っていらっしゃるんですね。",
+          "textHtml": "<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っていらっしゃるんですね。",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#48;&#49;.mp3",
+          "meaning": "đang dùng (kính ngữ của つかっているんですね)",
+          "meaningHtml": "đang dùng<br />(kính ngữ của つかっているんですね)"
+        },
+        {
+          "kind": "phrase",
+          "index": 29,
+          "text": "チャレンジします",
+          "textHtml": "チャレンジします",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#48;.mp3",
+          "meaning": "thử sức, thử làm",
+          "meaningHtml": "thử sức, thử làm"
+        },
+        {
+          "kind": "phrase",
+          "index": 30,
+          "text": "気持（きも）ち",
+          "textHtml": "<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ち",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai36/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;&#49;&#49;.mp3",
+          "meaning": "tâm thế",
+          "meaningHtml": "tâm thế"
+        }
+      ]
+    }
+  ]
+}

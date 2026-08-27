@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/node_modules_old_broken
 
 # package manager: npm only (keep package-lock.json; never yarn/pnpm)
 /yarn.lock

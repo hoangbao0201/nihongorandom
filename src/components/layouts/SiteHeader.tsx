@@ -9,7 +9,8 @@ const NAV_ITEMS = [
   {
     href: "/n5/lessons",
     label: "Bài học",
-    match: (path: string) => path.startsWith("/n5/lessons"),
+    match: (path: string) =>
+      path.startsWith("/n5/lessons") || path.startsWith("/n4/lessons"),
   },
   {
     href: "/flashcards",

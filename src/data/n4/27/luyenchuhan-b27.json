@@ -1,0 +1,54 @@
+{
+  "lesson": 27,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca9632d51364352b62b7b63",
+      "index": 131,
+      "character": "味",
+      "sinoVietnameseWord": "Vị",
+      "mean": "Vị giác",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l2/kanji/img/oishii5_girl.png",
+      "reminiscentDescription": "<p>D&ugrave;ng miệng để nếm vị của Một c&aacute;i C&acirc;y</p>",
+      "onReading": "ミ",
+      "kunReading": "あじ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 126px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">味</td>\n<td style=\"width: 33.3333%; height: 21px;\">あじ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Vị</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">味わいます</td>\n<td style=\"width: 33.3333%; height: 21px;\">あじわいます</td>\n<td style=\"width: 33.3333%; height: 21px;\">Nếm</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">意味</td>\n<td style=\"width: 33.3333%; height: 21px;\">いみ</td>\n<td style=\"width: 33.3333%; height: 21px;\">&Yacute; nghĩa</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">趣味</td>\n<td style=\"width: 33.3333%; height: 21px;\">しゅみ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Sở th&iacute;ch</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca963f451364352b62b7b65",
+      "index": 132,
+      "character": "業",
+      "sinoVietnameseWord": "Nghiệp",
+      "mean": "Nghề nghiệp",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l2/kanji/img/sotsugyou_omedetou_boy.png",
+      "reminiscentDescription": "<p>Nghề nghiệp của t&ocirc;i l&agrave; mặc bộ đồ con cừu, đội mũ 4 gạch với 2 c&aacute;i ch&acirc;n</p>",
+      "onReading": "ギョウ、ゴウ",
+      "kunReading": "わざ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">卒業</td>\n<td style=\"width: 33.3333%; height: 21px;\">そつぎょう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Tốt nghiệp</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">工業</td>\n<td style=\"width: 33.3333%; height: 21px;\">こうぎょう</td>\n<td style=\"width: 33.3333%; height: 21px;\">C&ocirc;ng nghiệp</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">授業</td>\n<td style=\"width: 33.3333%; height: 21px;\">じゅぎょう&nbsp; &nbsp; &nbsp; &nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">Giờ học</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca964ee51364352b62b7b69",
+      "index": 133,
+      "character": "鳥",
+      "sinoVietnameseWord": "Điểu",
+      "mean": "Con chim",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l2/kanji/img/bird_female.png",
+      "reminiscentDescription": "<p>Nướng 5 (n&eacute;t 67) con Chim (Điểu) trắng (白) tr&ecirc;n tr&agrave;n Lửa (Hỏa)</p>",
+      "onReading": "チョウ",
+      "kunReading": "とり",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 169px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">鳥</td>\n<td style=\"width: 33.3333%; height: 21px;\">とり</td>\n<td style=\"width: 33.3333%; height: 21px;\">Con chim</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">鳥肉</td>\n<td style=\"width: 33.3333%; height: 21px;\">とりにく</td>\n<td style=\"width: 33.3333%; height: 21px;\">Thịt g&agrave;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">白鳥</td>\n<td style=\"width: 33.3333%; height: 21px;\">はくちょう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Thi&ecirc;n Nga</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9659151364352b62b7b6b",
+      "index": 134,
+      "character": "通",
+      "sinoVietnameseWord": "Thông",
+      "mean": "Băng qua",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l2/kanji/img/jitensya_hodou.png",
+      "reminiscentDescription": "<p>Dũng cảm th&ocirc;ng qua đường</p>",
+      "onReading": "ツウ、ツ",
+      "kunReading": "とお、かよ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 126px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">通ります</td>\n<td style=\"width: 33.3333%; height: 21px;\">とおります</td>\n<td style=\"width: 33.3333%; height: 21px;\">Chạy, băng qua</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">通います</td>\n<td style=\"width: 33.3333%; height: 21px;\">かよいます</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đi đi về về</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">交通&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">こうつう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Giao th&ocirc;ng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">通勤</td>\n<td style=\"width: 33.3333%; height: 21px;\">つうきん</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đi l&agrave;m</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "lesson": 31,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "続けます",
+      "kanjiHtml": "続けます",
+      "sinoVietnamese": "TỤC",
+      "kana": "つづけます",
+      "kanaHtml": "つづけます"
+    },
+    {
+      "index": 2,
+      "kanji": "見つけます",
+      "kanjiHtml": "見つけます",
+      "sinoVietnamese": "KIẾN",
+      "kana": "みつけます",
+      "kanaHtml": "みつけます"
+    },
+    {
+      "index": 3,
+      "kanji": "取ります [休みを～]",
+      "kanjiHtml": "取ります<br />[休みを～]",
+      "sinoVietnamese": "THỦ HƯU",
+      "kana": "とります [やすみを～]",
+      "kanaHtml": "とります<br /> [やすみを～]"
+    },
+    {
+      "index": 4,
+      "kanji": "受けます [試験を～]",
+      "kanjiHtml": "受けます<br />[試験を～]",
+      "sinoVietnamese": "THỤ THÍ NGHIỆM",
+      "kana": "うけます [しけんを～]",
+      "kanaHtml": "うけます<br /> [しけんを～]"
+    },
+    {
+      "index": 5,
+      "kanji": "申し込みます",
+      "kanjiHtml": "申し込みます",
+      "sinoVietnamese": "THÂN VÀO",
+      "kana": "もうしこみます",
+      "kanaHtml": "もうしこみます"
+    },
+    {
+      "index": 6,
+      "kanji": "休憩します",
+      "kanjiHtml": "休憩します",
+      "sinoVietnamese": "HƯU KHẾ",
+      "kana": "きゅうけいします",
+      "kanaHtml": "きゅうけいします"
+    },
+    {
+      "index": 7,
+      "kanji": "連休",
+      "kanjiHtml": "連休",
+      "sinoVietnamese": "LIÊN HƯU",
+      "kana": "れんきゅう",
+      "kanaHtml": "れんきゅう"
+    },
+    {
+      "index": 8,
+      "kanji": "作文",
+      "kanjiHtml": "作文",
+      "sinoVietnamese": "TÁC VĂN",
+      "kana": "さくぶん",
+      "kanaHtml": "さくぶん"
+    },
+    {
+      "index": 9,
+      "kanji": "発表",
+      "kanjiHtml": "発表",
+      "sinoVietnamese": "PHÁT BIỂU",
+      "kana": "はっぴょう",
+      "kanaHtml": "はっぴょう"
+    },
+    {
+      "index": 10,
+      "kanji": "展覧会",
+      "kanjiHtml": "展覧会",
+      "sinoVietnamese": "TRIỂN LÃM HỘI",
+      "kana": "てんらんかい",
+      "kanaHtml": "てんらんかい"
+    },
+    {
+      "index": 11,
+      "kanji": "結婚式",
+      "kanjiHtml": "結婚式",
+      "sinoVietnamese": "KẾT HÔN THỨC",
+      "kana": "けっこんしき",
+      "kanaHtml": "けっこんしき"
+    },
+    {
+      "index": 12,
+      "kanji": "[お]葬式",
+      "kanjiHtml": "[お]葬式",
+      "sinoVietnamese": "TÁNG THỨC",
+      "kana": "[お]そうしき",
+      "kanaHtml": "[お]そうしき"
+    },
+    {
+      "index": 13,
+      "kanji": "式",
+      "kanjiHtml": "式",
+      "sinoVietnamese": "THỨC",
+      "kana": "しき",
+      "kanaHtml": "しき"
+    },
+    {
+      "index": 14,
+      "kanji": "本社",
+      "kanjiHtml": "本社",
+      "sinoVietnamese": "BẢN XÃ",
+      "kana": "ほんしゃ",
+      "kanaHtml": "ほんしゃ"
+    },
+    {
+      "index": 15,
+      "kanji": "支店",
+      "kanjiHtml": "支店",
+      "sinoVietnamese": "CHI ĐIẾM",
+      "kana": "してん",
+      "kanaHtml": "してん"
+    },
+    {
+      "index": 16,
+      "kanji": "教会",
+      "kanjiHtml": "教会",
+      "sinoVietnamese": "GIÁO HỘI",
+      "kana": "きょうかい",
+      "kanaHtml": "きょうかい"
+    },
+    {
+      "index": 17,
+      "kanji": "大学院",
+      "kanjiHtml": "大学院",
+      "sinoVietnamese": "ĐẠI HỌC VIỆN",
+      "kana": "だいがくいん",
+      "kanaHtml": "だいがくいん"
+    },
+    {
+      "index": 18,
+      "kanji": "動物園",
+      "kanjiHtml": "動物園",
+      "sinoVietnamese": "ĐỘNG VẬT VIÊN",
+      "kana": "どうぶつえん",
+      "kanaHtml": "どうぶつえん"
+    },
+    {
+      "index": 19,
+      "kanji": "温泉",
+      "kanjiHtml": "温泉",
+      "sinoVietnamese": "ÔN TUYỀN",
+      "kana": "おんせん",
+      "kanaHtml": "おんせん"
+    },
+    {
+      "index": 20,
+      "kanji": "お子さん",
+      "kanjiHtml": "お子さん",
+      "sinoVietnamese": "TỬ",
+      "kana": "おこさん",
+      "kanaHtml": "おこさん"
+    },
+    {
+      "index": 21,
+      "kanji": "ー号",
+      "kanjiHtml": "ー号",
+      "sinoVietnamese": "HIỆU",
+      "kana": "ーごう",
+      "kanaHtml": "ーごう"
+    },
+    {
+      "index": 22,
+      "kanji": "～の方",
+      "kanjiHtml": "～の方",
+      "sinoVietnamese": "PHƯƠNG",
+      "kana": "～のほう",
+      "kanaHtml": "～のほう"
+    },
+    {
+      "index": 23,
+      "kanji": "新神戸",
+      "kanjiHtml": "新神戸",
+      "sinoVietnamese": "TÂN THẦN HỘ",
+      "kana": "しんこうべ",
+      "kanaHtml": "しんこうべ"
+    }
+  ]
+}

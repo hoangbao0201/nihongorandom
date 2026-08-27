@@ -1,0 +1,198 @@
+{
+  "lesson": 38,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "参加します [旅行に～]",
+      "kanjiHtml": "参加します<br />[旅行に～]",
+      "sinoVietnamese": "THAM GIA LỮ HÀNH",
+      "kana": "さんかします [りょこうに～]",
+      "kanaHtml": "さんかします<br /> [りょこうに～]"
+    },
+    {
+      "index": 2,
+      "kanji": "育てます",
+      "kanjiHtml": "育てます",
+      "sinoVietnamese": "DỤC",
+      "kana": "そだてます",
+      "kanaHtml": "そだてます"
+    },
+    {
+      "index": 3,
+      "kanji": "運びます",
+      "kanjiHtml": "運びます",
+      "sinoVietnamese": "VẬN",
+      "kana": "はこびます",
+      "kanaHtml": "はこびます"
+    },
+    {
+      "index": 4,
+      "kanji": "入院します",
+      "kanjiHtml": "入院します",
+      "sinoVietnamese": "NHẬP VIỆN",
+      "kana": "にゅういんします",
+      "kanaHtml": "にゅういんします"
+    },
+    {
+      "index": 5,
+      "kanji": "退院します",
+      "kanjiHtml": "退院します",
+      "sinoVietnamese": "THOÁI VIỆN",
+      "kana": "たいいんします",
+      "kanaHtml": "たいいんします"
+    },
+    {
+      "index": 6,
+      "kanji": "入れます [電源を～]",
+      "kanjiHtml": "入れます<br />[電源を～]",
+      "sinoVietnamese": "NHẬP ĐIỆN NGUYÊN",
+      "kana": "いれます [でんげんを～]",
+      "kanaHtml": "いれます<br /> [でんげんを～]"
+    },
+    {
+      "index": 7,
+      "kanji": "切ります [電源を～]",
+      "kanjiHtml": "切ります<br />[電源を～]",
+      "sinoVietnamese": "THIẾT ĐIỆN NGUYÊN",
+      "kana": "きります [でんげんを～]",
+      "kanaHtml": "きります<br /> [でんげんを～]"
+    },
+    {
+      "index": 8,
+      "kanji": "掛けます [かぎを～]",
+      "kanjiHtml": "掛けます<br />[かぎを～]",
+      "sinoVietnamese": "QUẢI",
+      "kana": "かけます [かぎを～]",
+      "kanaHtml": "かけます<br /> [かぎを～]"
+    },
+    {
+      "index": 9,
+      "kanji": "気持ちがいい",
+      "kanjiHtml": "気持ちがいい",
+      "sinoVietnamese": "KHÍ TRÌ",
+      "kana": "きもちがいい",
+      "kanaHtml": "きもちがいい"
+    },
+    {
+      "index": 10,
+      "kanji": "気持ちが悪い",
+      "kanjiHtml": "気持ちが悪い",
+      "sinoVietnamese": "KHÍ TRÌ ÁC",
+      "kana": "きもちがわるい",
+      "kanaHtml": "きもちがわるい"
+    },
+    {
+      "index": 11,
+      "kanji": "大きな～",
+      "kanjiHtml": "大きな～",
+      "sinoVietnamese": "ĐẠI",
+      "kana": "おおきな～",
+      "kanaHtml": "おおきな～"
+    },
+    {
+      "index": 12,
+      "kanji": "小さな～",
+      "kanjiHtml": "小さな～",
+      "sinoVietnamese": "NHỎ ~",
+      "kana": "ちいさな～",
+      "kanaHtml": "ちいさな～"
+    },
+    {
+      "index": 13,
+      "kanji": "赤ちゃん",
+      "kanjiHtml": "赤ちゃん",
+      "sinoVietnamese": "XÍCH",
+      "kana": "あかちゃん",
+      "kanaHtml": "あかちゃん"
+    },
+    {
+      "index": 14,
+      "kanji": "小学校",
+      "kanjiHtml": "小学校",
+      "sinoVietnamese": "TIỂU HỌC HIỆU",
+      "kana": "しょうがっこう",
+      "kanaHtml": "しょうがっこう"
+    },
+    {
+      "index": 15,
+      "kanji": "中学校",
+      "kanjiHtml": "中学校",
+      "sinoVietnamese": "TRUNG HỌC HIỆU",
+      "kana": "ちゅうがっこう",
+      "kanaHtml": "ちゅうがっこう"
+    },
+    {
+      "index": 16,
+      "kanji": "駅前",
+      "kanjiHtml": "駅前",
+      "sinoVietnamese": "DỊCH TIỀN",
+      "kana": "えきまえ",
+      "kanaHtml": "えきまえ"
+    },
+    {
+      "index": 17,
+      "kanji": "海岸",
+      "kanjiHtml": "海岸",
+      "sinoVietnamese": "HẢI NGẠN",
+      "kana": "かいがん",
+      "kanaHtml": "かいがん"
+    },
+    {
+      "index": 18,
+      "kanji": "工場",
+      "kanjiHtml": "工場",
+      "sinoVietnamese": "CÔNG TRƯỜNG",
+      "kana": "こうじょう",
+      "kanaHtml": "こうじょう"
+    },
+    {
+      "index": 19,
+      "kanji": "村",
+      "kanjiHtml": "村",
+      "sinoVietnamese": "THÔN",
+      "kana": "むら",
+      "kanaHtml": "むら"
+    },
+    {
+      "index": 20,
+      "kanji": "指輪",
+      "kanjiHtml": "指輪",
+      "sinoVietnamese": "CHỈ LUÂN",
+      "kana": "ゆびわ",
+      "kanaHtml": "ゆびわ"
+    },
+    {
+      "index": 21,
+      "kanji": "電源",
+      "kanjiHtml": "電源",
+      "sinoVietnamese": "ĐIỆN NGUYÊN",
+      "kana": "でんげん",
+      "kanaHtml": "でんげん"
+    },
+    {
+      "index": 22,
+      "kanji": "習慣",
+      "kanjiHtml": "習慣",
+      "sinoVietnamese": "TẬP QUÁN",
+      "kana": "しゅうかん",
+      "kanaHtml": "しゅうかん"
+    },
+    {
+      "index": 23,
+      "kanji": "健康",
+      "kanjiHtml": "健康",
+      "sinoVietnamese": "KIỆN KHANG",
+      "kana": "けんこう",
+      "kanaHtml": "けんこう"
+    },
+    {
+      "index": 24,
+      "kanji": "～製",
+      "kanjiHtml": "～製",
+      "sinoVietnamese": "CHẾ",
+      "kana": "～せい",
+      "kanaHtml": "～せい"
+    }
+  ]
+}

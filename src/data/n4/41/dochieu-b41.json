@@ -1,0 +1,525 @@
+{
+  "lesson": 41,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ロボットたいこく</b></div> <div class=\"kanji\">ロボット大国</div> <div class=\"nghia_viet\">cường quốc rô bốt</div> <div class=\"nghia_anh\">robot power</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>イメージします</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ấn tượng</div> <div class=\"nghia_anh\">imagine</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しかし</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nhưng</div> <div class=\"nghia_anh\">but</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かず</b></div> <div class=\"kanji\">数</div> <div class=\"nghia_viet\">số, số lượng</div> <div class=\"nghia_anh\">number</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>どんどん</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ngày càng</div> <div class=\"nghia_anh\">rapidly, steadily</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふえます</b></div> <div class=\"kanji\">増ます</div> <div class=\"nghia_viet\">tăng</div> <div class=\"nghia_anh\">increase</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>じゆうに</b></div> <div class=\"kanji\">自由に</div> <div class=\"nghia_viet\">tự do</div> <div class=\"nghia_anh\">freely</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>せわをします</b></div> <div class=\"kanji\">世話をします</div> <div class=\"nghia_viet\">chăm sóc </div> <div class=\"nghia_anh\">take care</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うごき</b></div> <div class=\"kanji\">動き</div> <div class=\"nghia_viet\">cử động, chuyển động</div> <div class=\"nghia_anh\">movement</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たすけます</b></div> <div class=\"kanji\">助けます</div> <div class=\"nghia_viet\">giúp, giúp đỡ</div> <div class=\"nghia_anh\">help, asist, support</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>アザラシ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">hải cẩu</div> <div class=\"nghia_anh\">seal</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>いろいろばひょうじょうをします</b></div> <div class=\"kanji\">いろいろ表情をします</div> <div class=\"nghia_viet\">biểu lộ nhiều sắc thái tình cảm</div> <div class=\"nghia_anh\">make variuos facial expressions</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たいそう</b></div> <div class=\"kanji\">体操</div> <div class=\"nghia_viet\">tập thể dục</div> <div class=\"nghia_anh\">exercise</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うごかします</b></div> <div class=\"kanji\">動かします</div> <div class=\"nghia_viet\">cử động </div> <div class=\"nghia_anh\">move </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かいごしせつ</b></div> <div class=\"kanji\">介護施設</div> <div class=\"nghia_viet\">cơ sở chăm sóc</div> <div class=\"nghia_anh\">nursing home</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～のかわりに</b></div> <div class=\"kanji\">～の代わりに</div> <div class=\"nghia_viet\">thay cho ~</div> <div class=\"nghia_anh\">instead of ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たしかに</b></div> <div class=\"kanji\">確かに</div> <div class=\"nghia_viet\">quả đúng là</div> <div class=\"nghia_anh\">certainly </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かしこい</b></div> <div class=\"kanji\">賢い</div> <div class=\"nghia_viet\">thông minh</div> <div class=\"nghia_anh\">intelligent</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おしゃべり</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">nói chuyện</div> <div class=\"nghia_anh\">chat</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～がた</b></div> <div class=\"kanji\">～型</div> <div class=\"nghia_viet\">hình</div> <div class=\"nghia_anh\">shaped like ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>しえん</b></div> <div class=\"kanji\">支援</div> <div class=\"nghia_viet\">hỗ trợ</div> <div class=\"nghia_anh\">support, help</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>そうちゃくします</b></div> <div class=\"kanji\">装着します</div> <div class=\"nghia_viet\">gắn vào </div> <div class=\"nghia_anh\">wear</div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>ロボットといっしょ</b></h3> <p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は「ロポット<ruby>大国<rp>（</rp><rt>たいこく</rt><rp>）</rp></ruby>」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われている。 「ロポット」と<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>くと、<ruby>自動車<rp>（</rp><rt>じどうしゃ</rt><rp>）</rp></ruby><ruby>工場<rp>（</rp><rt>こうじょう</rt><rp>）</rp></ruby>などをイメージするかもしれない。 しかし、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではもっといろいろな<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>でロポットが<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われています。 <p></p> <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなって、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りがどんどん<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。 お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りが<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>するのは<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>だ。 <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が<ruby>自由<rp>（</rp><rt>じゆう</rt><rp>）</rp></ruby>に<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなって、<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ってもらわなければならない<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>も<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。 それで、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>をしたり、ペットになったり、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きを<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けたりするロボットが<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られている。 <p></p> よく<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>れているのはロボット<ruby>掃除機<rp>（</rp><rt>そうじき</rt><rp>）</rp></ruby>だ。 <ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>をきれいに<ruby>掃除<rp>（</rp><rt>そうじ</rt><rp>）</rp></ruby>してくれる。 アザラシのロボットはかわいいし、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、いろいろな<ruby>表情<rp>（</rp><rt>ひょうじょう</rt><rp>）</rp></ruby>をするので、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りにとても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>がある。 <ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>を<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>るロボットもある。 いろいろな<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きを<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えてくれるので、そのとおりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすと、だんだん<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>になって、あまりけがをしなくなる。 <ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>ロボットも、アザラシロボットも<ruby>介護<rp>（</rp><rt>かいご</rt><rp>）</rp></ruby><ruby>施設<rp>（</rp><rt>しせつ</rt><rp>）</rp></ruby>でよく<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われている。 <p></p> <ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなった<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>代<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わりに<ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>いてくれるロボットもある。 <ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>に、<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>まで<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>を<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んだり、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>に、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えるように、<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ったりしてくれる。 <p></p> <ruby>確<rp>（</rp><rt>たし</rt><rp>）</rp></ruby>かに<ruby>賢<rp>（</rp><rt>かしこ</rt><rp>）</rp></ruby>いロボットと<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>できるのは<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>で、すばらしい。 ロボットだから、えさをやったり、<ruby>散歩<rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>に<ruby>連<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>れて<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってやったりしなくてもいい。 でも、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>から<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>までロボットだけと<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>だったら、ちょっと<ruby>寂<rp>（</rp><rt>さび</rt><rp>）</rp></ruby>しいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではいろいろな<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>でロボットを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っている。 <p></p> 2)（ ） アザラシロボットはおしゃべりができる。 <p></p> 3)（ ） <ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>ロボットに<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>ったとおりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすと、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>くなる。 <p></p> 4)（ ） ロボットを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うと、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>治<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>って、<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすことができるようになる。 <p></p> 2．どうして、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>をしたり、ペットになったりするロポットが<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られているのです。 <p></p>II 1. あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>は<ruby>子供<rp>（</rp><rt>こども</rt><rp>）</rp></ruby>の<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>は<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>くなっていますか。<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなっていますか。 <p></p> 2. あなたは<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby>を<ruby>取<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ったら、<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>と<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>みたいですか。 <p></p> 3．どんなロボットがあったらいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>ロボットといっしょ</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Sống chung với Robot.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は「ロポット<ruby>大国<rp>（</rp><rt>たいこく</rt><rp>）</rp></ruby>」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われている。</div><div class=\"kqdich\"><div class=\"nddich\">Người ta cho rằng Nhật Bản là “Cường quốc Robot”.</div></div></div> <div class=\"tudich\"><div class=\"candich\">「ロポット」と<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>くと、<ruby>自動車<rp>（</rp><rt>じどうしゃ</rt><rp>）</rp></ruby><ruby>工場<rp>（</rp><rt>こうじょう</rt><rp>）</rp></ruby>などをイメージするかもしれない。</div><div class=\"kqdich\"><div class=\"nddich\">Khi nhắc đến Robot có lẽ sẽ liên tưởng đến công trường chế tạo xe hơi.</div></div></div> <div class=\"tudich\"><div class=\"candich\">しかし、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではもっといろいろな<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>でロポットが<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われています。</div><div class=\"kqdich\"><div class=\"nddich\">Tuy nhiên, ở Nhật Bản Robot được sử dụng ở nhiều nơi khác nhau.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなって、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りがどんどん<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。</div><div class=\"kqdich\"><div class=\"nddich\">Hiện tại, ở Nhật số trẻ em đang giảm, số người lớn tuổi dần tăng lên.</div></div></div> <div class=\"tudich\"><div class=\"candich\">お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りが<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>するのは<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>だ。</div><div class=\"kqdich\"><div class=\"nddich\">Việc người lớn tuổi sống một mình sẽ thật vất vả.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が<ruby>自由<rp>（</rp><rt>じゆう</rt><rp>）</rp></ruby>に<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなって、<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ってもらわなければならない<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>も<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。</div><div class=\"kqdich\"><div class=\"nddich\">Có nhiều người không thể cử động tự do được, phải cần sự giúp đỡ từ người khác.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それで、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>をしたり、ペットになったり、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きを<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けたりするロボットが<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られている。</div><div class=\"kqdich\"><div class=\"nddich\">Vì thế người ta chế tạo ra những Robot nhằm chăm sóc con người, trở thành thú cưng, hay giúp thực hiện cử động của thể.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">よく<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>れているのはロボット<ruby>掃除機<rp>（</rp><rt>そうじき</rt><rp>）</rp></ruby>だ。</div><div class=\"kqdich\"><div class=\"nddich\">Robot được bán chạy nhất là Robot dọn dẹp. </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>をきれいに<ruby>掃除<rp>（</rp><rt>そうじ</rt><rp>）</rp></ruby>してくれる。</div><div class=\"kqdich\"><div class=\"nddich\">Nó dọn dẹp sạch sẽ bên trong căn nhà. </div></div></div> <div class=\"tudich\"><div class=\"candich\">アザラシのロボットはかわいいし、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、いろいろな<ruby>表情<rp>（</rp><rt>ひょうじょう</rt><rp>）</rp></ruby>をするので、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りにとても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>がある。</div><div class=\"kqdich\"><div class=\"nddich\">Robot hải cẩu rất được người lớn tuổi yêu thích vì chúng dễ thương, nghe lời con người rồi thực hiện nhiều biểu cảm.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>を<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>るロボットもある。</div><div class=\"kqdich\"><div class=\"nddich\">Cũng có cả Robot dạy thể dục. </div></div></div> <div class=\"tudich\"><div class=\"candich\">いろいろな<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きを<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えてくれるので、そのとおりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすと、だんだん<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>になって、あまりけがをしなくなる。</div><div class=\"kqdich\"><div class=\"nddich\">Vì nó sẽ dạy nhiều động tác, khi vận động cơ thể theo robot chỉ dẫn thì dần dần khỏe hơn và hầu như không gây ra tổn thương.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>ロボットも、アザラシロボットも<ruby>介護<rp>（</rp><rt>かいご</rt><rp>）</rp></ruby><ruby>施設<rp>（</rp><rt>しせつ</rt><rp>）</rp></ruby>でよく<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われている。</div><div class=\"kqdich\"><div class=\"nddich\">Robot thể dục và Robot hải cẩu cũng thường được sử dụng trong các viện dưỡng lão.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなった<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>代<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わりに<ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>いてくれるロボットもある。</div><div class=\"kqdich\"><div class=\"nddich\">Cũng có những Robot làm việc thay thế cho tay chân không vận động được.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>に、<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>まで<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>を<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んだり、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>に、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えるように、<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ったりしてくれる。</div><div class=\"kqdich\"><div class=\"nddich\">Nó giúp đưa thức ăn đến miệng khi ăn, và trợ giúp để có thể sử dụng tay chân khi đi bộ.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>確<rp>（</rp><rt>たし</rt><rp>）</rp></ruby>かに<ruby>賢<rp>（</rp><rt>かしこ</rt><rp>）</rp></ruby>いロボットと<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>できるのは<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>で、すばらしい。</div><div class=\"kqdich\"><div class=\"nddich\">Đúng là thật tiện lợi và tuyệt vời khi được sống chung với Robot thông minh.</div></div></div> <div class=\"tudich\"><div class=\"candich\">ロボットだから、えさをやったり、<ruby>散歩<rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>に<ruby>連<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>れて<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってやったりしなくてもいい。</div><div class=\"kqdich\"><div class=\"nddich\">Vì là Robot nên không cần cho ăn hay dắt đị dạo. </div></div></div> <div class=\"tudich\"><div class=\"candich\">でも、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>から<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>までロボットだけと<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>だったら、ちょっと<ruby>寂<rp>（</rp><rt>さび</rt><rp>）</rp></ruby>しいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う。</div><div class=\"kqdich\"><div class=\"nddich\">Nhưng mà, tôi nghĩ nếu mỗi ngày sống cùng với Robot từ sáng đến tối sẽ rất buồn.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy đánh 〇 vào câu đúng và ✕ vào câu sai.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>〇</b>）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではいろいろな<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>でロボットを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っている。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Nhật sử dụng robot ở nhiều nơi khác nhau.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>Ｘ</b>）アザラシロボットはおしゃべりができる。</div><div class=\"kqdich\"><div class=\"nddich\">Robot hải cẩu có thể trò chuyện.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>〇</b>）<ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>ロボットに<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>ったとおりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすと、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>くなる。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu vận động cơ thể theo như đã học từ Robot thể dục thì tình trạng cơ thể sẽ tốt hơn.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（<b>Ｘ</b>）ロボットを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うと、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>治<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>って、<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすことができるようになる。</div><div class=\"kqdich\"><div class=\"nddich\">Khi sử dụng Robot thì chân tay sẽ lành, và có thể vận động được.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2．どうして、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>をしたり、ペットになったりするロポットが<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られているのです。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao những Robot chăm sóc con người hay Robot làm thú cưng được tạo ra?</div></div></div> <p></p>Đáp án:<b><div class=\"tudich\"><div class=\"candich\"><ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなって、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りが<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。</div><div class=\"kqdich\"><div class=\"nddich\">Số trẻ em giảm đi và số người lớn tuổi tăng lên.</div></div></div> お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りが<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>するのは<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>だし、<div class=\"tudich\"><div class=\"candich\"><ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が<ruby>自由<rp>（</rp><rt>じゆう</rt><rp>）</rp></ruby>に<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなって、<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ってもらわなければならない<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>も<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いから。</div><div class=\"kqdich\"><div class=\"nddich\">Vì người lớn tuổi sống một mình thì vất vả, có nhiều người không thể cử động tự do được, phải nhờ đến sự giúp đỡ của người khác.</div></div></div></b> <p></p><div class=\"tudich\"><div class=\"candich\">II 1. あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>は<ruby>子供<rp>（</rp><rt>こども</rt><rp>）</rp></ruby>の<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>は<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>くなっていますか。<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなっていますか。</div><div class=\"kqdich\"><div class=\"nddich\">Ở đất nước bạn số lượng trẻ em đang nhiều lên hay đang giảm đi?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2. あなたは<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby>を<ruby>取<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ったら、<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>と<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>みたいですか。</div><div class=\"kqdich\"><div class=\"nddich\">Nếu bạn cao tuổi thì bạn muốn sống cùng với ai?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3．どんなロボットがあったらいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn nghĩ nên có con Robot như thế nào?</div></div></div> </div> <h5>Hình tham khảo</h5> <img decoding=\"async\" src=\"/images/minnamoi/bai41/doc41.png\" alt=\"minna 25 bai doc hieu Bai 41\"> </div><!--END--> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "ロボットといっしょ",
+          "textHtml": "<b>ロボットといっしょ</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は「ロポット<ruby>大国<rp>（</rp><rt>たいこく</rt><rp>）</rp></ruby>」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われている。 「ロポット」と<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>くと、<ruby>自動車<rp>（</rp><rt>じどうしゃ</rt><rp>）</rp></ruby><ruby>工場<rp>（</rp><rt>こうじょう</rt><rp>）</rp></ruby>などをイメージするかもしれない。 しかし、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではもっといろいろな<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>でロポットが<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われています。 <p></p> <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなって、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りがどんどん<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。 お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りが<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>するのは<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>だ。 <ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が<ruby>自由<rp>（</rp><rt>じゆう</rt><rp>）</rp></ruby>に<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなって、<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ってもらわなければならない<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>も<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。 それで、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>をしたり、ペットになったり、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きを<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けたりするロボットが<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られている。 <p></p> よく<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>れているのはロボット<ruby>掃除機<rp>（</rp><rt>そうじき</rt><rp>）</rp></ruby>だ。 <ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>をきれいに<ruby>掃除<rp>（</rp><rt>そうじ</rt><rp>）</rp></ruby>してくれる。 アザラシのロボットはかわいいし、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、いろいろな<ruby>表情<rp>（</rp><rt>ひょうじょう</rt><rp>）</rp></ruby>をするので、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りにとても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>がある。 <ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>を<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>るロボットもある。 いろいろな<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きを<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えてくれるので、そのとおりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすと、だんだん<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>になって、あまりけがをしなくなる。 <ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>ロボットも、アザラシロボットも<ruby>介護<rp>（</rp><rt>かいご</rt><rp>）</rp></ruby><ruby>施設<rp>（</rp><rt>しせつ</rt><rp>）</rp></ruby>でよく<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われている。 <p></p> <ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなった<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>代<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わりに<ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>いてくれるロボットもある。 <ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>に、<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>まで<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>を<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んだり、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>に、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えるように、<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ったりしてくれる。 <p></p> <ruby>確<rp>（</rp><rt>たし</rt><rp>）</rp></ruby>かに<ruby>賢<rp>（</rp><rt>かしこ</rt><rp>）</rp></ruby>いロボットと<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>できるのは<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>で、すばらしい。 ロボットだから、えさをやったり、<ruby>散歩<rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>に<ruby>連<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>れて<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってやったりしなくてもいい。 でも、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>から<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>までロボットだけと<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>だったら、ちょっと<ruby>寂<rp>（</rp><rt>さび</rt><rp>）</rp></ruby>しいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではいろいろな<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>でロボットを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っている。 <p></p> 2)（ ） アザラシロボットはおしゃべりができる。 <p></p> 3)（ ） <ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>ロボットに<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>ったとおりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすと、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>くなる。 <p></p> 4)（ ） ロボットを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うと、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>治<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>って、<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすことができるようになる。 <p></p> 2．どうして、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>をしたり、ペットになったりするロポットが<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られているのです。 <p></p>II 1. あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>は<ruby>子供<rp>（</rp><rt>こども</rt><rp>）</rp></ruby>の<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>は<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>くなっていますか。<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなっていますか。 <p></p> 2. あなたは<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby>を<ruby>取<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ったら、<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>と<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>みたいですか。 <p></p> 3．どんなロボットがあったらいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>ロボットといっしょ</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Sống chung với Robot.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "ロボットといっしょ",
+              "textHtml": "<b>ロボットといっしょ</b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Sống chung với Robot."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）は「ロポット大国（たいこく）」と言（い）われている。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>は「ロポット<ruby>大国<rp>（</rp><rt>たいこく</rt><rp>）</rp></ruby>」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われている。",
+          "vietnamese": "Người ta cho rằng Nhật Bản là “Cường quốc Robot”.",
+          "vietnameseHtml": "Người ta cho rằng Nhật Bản là “Cường quốc Robot”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「ロポット」と聞（き）くと、自動車（じどうしゃ）工場（こうじょう）などをイメージするかもしれない。",
+          "japaneseHtml": "「ロポット」と<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>くと、<ruby>自動車<rp>（</rp><rt>じどうしゃ</rt><rp>）</rp></ruby><ruby>工場<rp>（</rp><rt>こうじょう</rt><rp>）</rp></ruby>などをイメージするかもしれない。",
+          "vietnamese": "Khi nhắc đến Robot có lẽ sẽ liên tưởng đến công trường chế tạo xe hơi.",
+          "vietnameseHtml": "Khi nhắc đến Robot có lẽ sẽ liên tưởng đến công trường chế tạo xe hơi."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "しかし、日本（にほん）ではもっといろいろな所（ところ）でロポットが使（つか）われています。",
+          "japaneseHtml": "しかし、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではもっといろいろな<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>でロポットが<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われています。",
+          "vietnamese": "Tuy nhiên, ở Nhật Bản Robot được sử dụng ở nhiều nơi khác nhau.",
+          "vietnameseHtml": "Tuy nhiên, ở Nhật Bản Robot được sử dụng ở nhiều nơi khác nhau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今（いま）、日本（にほん）では子（こ）どもの数（かず）が少（すく）なくなって、お年寄（としよ）りがどんどん増（ふ）えている。",
+          "japaneseHtml": "<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>、<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなって、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りがどんどん<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。",
+          "vietnamese": "Hiện tại, ở Nhật số trẻ em đang giảm, số người lớn tuổi dần tăng lên.",
+          "vietnameseHtml": "Hiện tại, ở Nhật số trẻ em đang giảm, số người lớn tuổi dần tăng lên."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "お年寄（としよ）りが一人（ひとり）で生活（せいかつ）するのは大変（たいへん）だ。",
+          "japaneseHtml": "お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りが<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>するのは<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>だ。",
+          "vietnamese": "Việc người lớn tuổi sống một mình sẽ thật vất vả.",
+          "vietnameseHtml": "Việc người lớn tuổi sống một mình sẽ thật vất vả."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "体（からだ）が自由（じゆう）に動（うご）かなくなって、他（ほか）の人（ひと）に手伝（てつだ）ってもらわなければならない人（ひと）も多（おお）い。",
+          "japaneseHtml": "<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が<ruby>自由<rp>（</rp><rt>じゆう</rt><rp>）</rp></ruby>に<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなって、<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ってもらわなければならない<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>も<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。",
+          "vietnamese": "Có nhiều người không thể cử động tự do được, phải cần sự giúp đỡ từ người khác.",
+          "vietnameseHtml": "Có nhiều người không thể cử động tự do được, phải cần sự giúp đỡ từ người khác."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで、人（ひと）の世話（せわ）をしたり、ペットになったり、体（からだ）の動（うご）きを助（たす）けたりするロボットが作（つく）られている。",
+          "japaneseHtml": "それで、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>をしたり、ペットになったり、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きを<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>けたりするロボットが<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られている。",
+          "vietnamese": "Vì thế người ta chế tạo ra những Robot nhằm chăm sóc con người, trở thành thú cưng, hay giúp thực hiện cử động của thể.",
+          "vietnameseHtml": "Vì thế người ta chế tạo ra những Robot nhằm chăm sóc con người, trở thành thú cưng, hay giúp thực hiện cử động của thể."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "よく売（う）れているのはロボット掃除機（そうじき）だ。",
+          "japaneseHtml": "よく<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>れているのはロボット<ruby>掃除機<rp>（</rp><rt>そうじき</rt><rp>）</rp></ruby>だ。",
+          "vietnamese": "Robot được bán chạy nhất là Robot dọn dẹp.",
+          "vietnameseHtml": "Robot được bán chạy nhất là Robot dọn dẹp."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "家（いえ）の中（なか）をきれいに掃除（そうじ）してくれる。",
+          "japaneseHtml": "<ruby>家<rp>（</rp><rt>いえ</rt><rp>）</rp></ruby>の<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>をきれいに<ruby>掃除<rp>（</rp><rt>そうじ</rt><rp>）</rp></ruby>してくれる。",
+          "vietnamese": "Nó dọn dẹp sạch sẽ bên trong căn nhà.",
+          "vietnameseHtml": "Nó dọn dẹp sạch sẽ bên trong căn nhà."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "アザラシのロボットはかわいいし、人（ひと）の言葉（ことば）を聞（き）いて、いろいろな表情（ひょうじょう）をするので、お年寄（としよ）りにとても人気（にんき）がある。",
+          "japaneseHtml": "アザラシのロボットはかわいいし、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>言葉<rp>（</rp><rt>ことば</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>いて、いろいろな<ruby>表情<rp>（</rp><rt>ひょうじょう</rt><rp>）</rp></ruby>をするので、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りにとても<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>がある。",
+          "vietnamese": "Robot hải cẩu rất được người lớn tuổi yêu thích vì chúng dễ thương, nghe lời con người rồi thực hiện nhiều biểu cảm.",
+          "vietnameseHtml": "Robot hải cẩu rất được người lớn tuổi yêu thích vì chúng dễ thương, nghe lời con người rồi thực hiện nhiều biểu cảm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "体操（たいそう）を教（おし）るロボットもある。",
+          "japaneseHtml": "<ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>を<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>るロボットもある。",
+          "vietnamese": "Cũng có cả Robot dạy thể dục.",
+          "vietnameseHtml": "Cũng có cả Robot dạy thể dục."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "いろいろな動（うご）きを教（おし）えてくれるので、そのとおりに体（からだ）を動（うご）かすと、だんだん元気（げんき）になって、あまりけがをしなくなる。",
+          "japaneseHtml": "いろいろな<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きを<ruby>教<rp>（</rp><rt>おし</rt><rp>）</rp></ruby>えてくれるので、そのとおりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすと、だんだん<ruby>元気<rp>（</rp><rt>げんき</rt><rp>）</rp></ruby>になって、あまりけがをしなくなる。",
+          "vietnamese": "Vì nó sẽ dạy nhiều động tác, khi vận động cơ thể theo robot chỉ dẫn thì dần dần khỏe hơn và hầu như không gây ra tổn thương.",
+          "vietnameseHtml": "Vì nó sẽ dạy nhiều động tác, khi vận động cơ thể theo robot chỉ dẫn thì dần dần khỏe hơn và hầu như không gây ra tổn thương."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "体操（たいそう）ロボットも、アザラシロボットも介護（かいご）施設（しせつ）でよく使（つか）われている。",
+          "japaneseHtml": "<ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>ロボットも、アザラシロボットも<ruby>介護<rp>（</rp><rt>かいご</rt><rp>）</rp></ruby><ruby>施設<rp>（</rp><rt>しせつ</rt><rp>）</rp></ruby>でよく<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われている。",
+          "vietnamese": "Robot thể dục và Robot hải cẩu cũng thường được sử dụng trong các viện dưỡng lão.",
+          "vietnameseHtml": "Robot thể dục và Robot hải cẩu cũng thường được sử dụng trong các viện dưỡng lão."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "動（うご）かなくなった手（て）や足（あし）の代（か）わりに働（はたら）いてくれるロボットもある。",
+          "japaneseHtml": "<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなった<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>の<ruby>代<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わりに<ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>いてくれるロボットもある。",
+          "vietnamese": "Cũng có những Robot làm việc thay thế cho tay chân không vận động được.",
+          "vietnameseHtml": "Cũng có những Robot làm việc thay thế cho tay chân không vận động được."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "食事（しょくじ）の時（とき）に、口（くち）まで食（た）べ物（もの）を運（はこ）んだり、歩（ある）く時（とき）に、手（て）や足（あし）が使（つか）えるように、手伝（てつだ）ったりしてくれる。",
+          "japaneseHtml": "<ruby>食事<rp>（</rp><rt>しょくじ</rt><rp>）</rp></ruby>の<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>に、<ruby>口<rp>（</rp><rt>くち</rt><rp>）</rp></ruby>まで<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>を<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>んだり、<ruby>歩<rp>（</rp><rt>ある</rt><rp>）</rp></ruby>く<ruby>時<rp>（</rp><rt>とき</rt><rp>）</rp></ruby>に、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えるように、<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ったりしてくれる。",
+          "vietnamese": "Nó giúp đưa thức ăn đến miệng khi ăn, và trợ giúp để có thể sử dụng tay chân khi đi bộ.",
+          "vietnameseHtml": "Nó giúp đưa thức ăn đến miệng khi ăn, và trợ giúp để có thể sử dụng tay chân khi đi bộ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "確（たし）かに賢（かしこ）いロボットと一緒（いっしょ）に生活（せいかつ）できるのは便利（べんり）で、すばらしい。",
+          "japaneseHtml": "<ruby>確<rp>（</rp><rt>たし</rt><rp>）</rp></ruby>かに<ruby>賢<rp>（</rp><rt>かしこ</rt><rp>）</rp></ruby>いロボットと<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>できるのは<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>で、すばらしい。",
+          "vietnamese": "Đúng là thật tiện lợi và tuyệt vời khi được sống chung với Robot thông minh.",
+          "vietnameseHtml": "Đúng là thật tiện lợi và tuyệt vời khi được sống chung với Robot thông minh."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "ロボットだから、えさをやったり、散歩（さんぽ）に連（つ）れて行（い）ってやったりしなくてもいい。",
+          "japaneseHtml": "ロボットだから、えさをやったり、<ruby>散歩<rp>（</rp><rt>さんぽ</rt><rp>）</rp></ruby>に<ruby>連<rp>（</rp><rt>つ</rt><rp>）</rp></ruby>れて<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ってやったりしなくてもいい。",
+          "vietnamese": "Vì là Robot nên không cần cho ăn hay dắt đị dạo.",
+          "vietnameseHtml": "Vì là Robot nên không cần cho ăn hay dắt đị dạo."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "でも、毎日（まいにち）朝（あさ）から晩（ばん）までロボットだけと一緒（いっしょ）だったら、ちょっと寂（さび）しいと思（おも）う。",
+          "japaneseHtml": "でも、<ruby>毎日<rp>（</rp><rt>まいにち</rt><rp>）</rp></ruby><ruby>朝<rp>（</rp><rt>あさ</rt><rp>）</rp></ruby>から<ruby>晩<rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>までロボットだけと<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>だったら、ちょっと<ruby>寂<rp>（</rp><rt>さび</rt><rp>）</rp></ruby>しいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う。",
+          "vietnamese": "Nhưng mà, tôi nghĩ nếu mỗi ngày sống cùng với Robot từ sáng đến tối sẽ rất buồn.",
+          "vietnameseHtml": "Nhưng mà, tôi nghĩ nếu mỗi ngày sống cùng với Robot từ sáng đến tối sẽ rất buồn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1. 正（ただ）しいものに〇、正（ただ）しくないものに✕を書（か）いてください。",
+          "japaneseHtml": "I 1. <ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy đánh 〇 vào câu đúng và ✕ vào câu sai.",
+          "vietnameseHtml": "Hãy đánh 〇 vào câu đúng và ✕ vào câu sai."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（〇）日本（にほん）ではいろいろな所（ところ）でロボットを使（つか）っている。",
+          "japaneseHtml": "1)（<b>〇</b>）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではいろいろな<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>でロボットを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>っている。",
+          "vietnamese": "Ở Nhật sử dụng robot ở nhiều nơi khác nhau.",
+          "vietnameseHtml": "Ở Nhật sử dụng robot ở nhiều nơi khác nhau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（Ｘ）アザラシロボットはおしゃべりができる。",
+          "japaneseHtml": "2)（<b>Ｘ</b>）アザラシロボットはおしゃべりができる。",
+          "vietnamese": "Robot hải cẩu có thể trò chuyện.",
+          "vietnameseHtml": "Robot hải cẩu có thể trò chuyện."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（〇）体操（たいそう）ロボットに習（なら）ったとおりに体（からだ）を動（うご）かすと、体（からだ）の調子（ちょうし）が良（よ）くなる。",
+          "japaneseHtml": "3)（<b>〇</b>）<ruby>体操<rp>（</rp><rt>たいそう</rt><rp>）</rp></ruby>ロボットに<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>ったとおりに<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすと、<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>の<ruby>調子<rp>（</rp><rt>ちょうし</rt><rp>）</rp></ruby>が<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>くなる。",
+          "vietnamese": "Nếu vận động cơ thể theo như đã học từ Robot thể dục thì tình trạng cơ thể sẽ tốt hơn.",
+          "vietnameseHtml": "Nếu vận động cơ thể theo như đã học từ Robot thể dục thì tình trạng cơ thể sẽ tốt hơn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（Ｘ）ロボットを使（つか）うと、手（て）や足（あし）が治（なお）って、動（うご）かすことができるようになる。",
+          "japaneseHtml": "4)（<b>Ｘ</b>）ロボットを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>うと、<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>や<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>治<rp>（</rp><rt>なお</rt><rp>）</rp></ruby>って、<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かすことができるようになる。",
+          "vietnamese": "Khi sử dụng Robot thì chân tay sẽ lành, và có thể vận động được.",
+          "vietnameseHtml": "Khi sử dụng Robot thì chân tay sẽ lành, và có thể vận động được."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2．どうして、人（ひと）の世話（せわ）をしたり、ペットになったりするロポットが作（つく）られているのです。",
+          "japaneseHtml": "2．どうして、<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>の<ruby>世話<rp>（</rp><rt>せわ</rt><rp>）</rp></ruby>をしたり、ペットになったりするロポットが<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られているのです。",
+          "vietnamese": "Tại sao những Robot chăm sóc con người hay Robot làm thú cưng được tạo ra?",
+          "vietnameseHtml": "Tại sao những Robot chăm sóc con người hay Robot làm thú cưng được tạo ra?"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>Đáp án:<b>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "子（こ）どもの数（かず）が少（すく）なくなって、お年寄（としよ）りが増（ふ）えている。",
+          "japaneseHtml": "<ruby>子<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>どもの<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>が<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなって、お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りが<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えている。",
+          "vietnamese": "Số trẻ em giảm đi và số người lớn tuổi tăng lên.",
+          "vietnameseHtml": "Số trẻ em giảm đi và số người lớn tuổi tăng lên."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "お<ruby>年寄<rp>（</rp><rt>としよ</rt><rp>）</rp></ruby>りが<ruby>一人<rp>（</rp><rt>ひとり</rt><rp>）</rp></ruby>で<ruby>生活<rp>（</rp><rt>せいかつ</rt><rp>）</rp></ruby>するのは<ruby>大変<rp>（</rp><rt>たいへん</rt><rp>）</rp></ruby>だし、"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "体（からだ）が自由（じゆう）に動（うご）かなくなって、他（ほか）の人（ひと）に手伝（てつだ）ってもらわなければならない人（ひと）も多（おお）いから。",
+          "japaneseHtml": "<ruby>体<rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が<ruby>自由<rp>（</rp><rt>じゆう</rt><rp>）</rp></ruby>に<ruby>動<rp>（</rp><rt>うご</rt><rp>）</rp></ruby>かなくなって、<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>に<ruby>手伝<rp>（</rp><rt>てつだ</rt><rp>）</rp></ruby>ってもらわなければならない<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>も<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いから。",
+          "vietnamese": "Vì người lớn tuổi sống một mình thì vất vả, có nhiều người không thể cử động tự do được, phải nhờ đến sự giúp đỡ của người khác.",
+          "vietnameseHtml": "Vì người lớn tuổi sống một mình thì vất vả, có nhiều người không thể cử động tự do được, phải nhờ đến sự giúp đỡ của người khác."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II 1. あなたの国（くに）は子供（こども）の数（かず）は多（おお）くなっていますか。少（すく）なくなっていますか。",
+          "japaneseHtml": "II 1. あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>は<ruby>子供<rp>（</rp><rt>こども</rt><rp>）</rp></ruby>の<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>は<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>くなっていますか。<ruby>少<rp>（</rp><rt>すく</rt><rp>）</rp></ruby>なくなっていますか。",
+          "vietnamese": "Ở đất nước bạn số lượng trẻ em đang nhiều lên hay đang giảm đi?",
+          "vietnameseHtml": "Ở đất nước bạn số lượng trẻ em đang nhiều lên hay đang giảm đi?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. あなたは年（とし）を取（と）ったら、誰（だれ）と一緒（いっしょ）に住（す）みたいですか。",
+          "japaneseHtml": "2. あなたは<ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby>を<ruby>取<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ったら、<ruby>誰<rp>（</rp><rt>だれ</rt><rp>）</rp></ruby>と<ruby>一緒<rp>（</rp><rt>いっしょ</rt><rp>）</rp></ruby>に<ruby>住<rp>（</rp><rt>す</rt><rp>）</rp></ruby>みたいですか。",
+          "vietnamese": "Nếu bạn cao tuổi thì bạn muốn sống cùng với ai?",
+          "vietnameseHtml": "Nếu bạn cao tuổi thì bạn muốn sống cùng với ai?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3．どんなロボットがあったらいいと思（おも）いますか。",
+          "japaneseHtml": "3．どんなロボットがあったらいいと<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>いますか。",
+          "vietnamese": "Bạn nghĩ nên có con Robot như thế nào?",
+          "vietnameseHtml": "Bạn nghĩ nên có con Robot như thế nào?"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Hình tham khảo",
+          "textHtml": "Hình tham khảo"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai41/doc41.png",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai41/doc41.png\" alt=\"minna 25 bai doc hieu Bai 41\">"
+        }
+      ]
+    }
+  ]
+}

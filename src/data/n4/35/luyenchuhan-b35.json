@@ -1,0 +1,66 @@
+{
+  "lesson": 35,
+  "type": "luyenchuhan",
+  "kanjis": [
+    {
+      "_id": "5ca99d9c51364352b62b7bf1",
+      "index": 171,
+      "character": "同",
+      "sinoVietnameseWord": "Đồng",
+      "mean": "Đồng ý",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l11/kanji/img/fashion_kaburu.png",
+      "reminiscentDescription": "<p>Giống Nhất ở c&aacute;i Mồm (khẩu)</p>",
+      "onReading": "ドウ",
+      "kunReading": "おな",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">同じ</td>\n<td style=\"width: 33.3333%; height: 21px;\">おなじ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Giống, tương tự</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">同時</td>\n<td style=\"width: 33.3333%; height: 21px;\">どうじ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Đồng thời</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">共同</td>\n<td style=\"width: 33.3333%; height: 21px;\">きょうどう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Cộng đồng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">同級生</td>\n<td style=\"width: 33.3333%; height: 21px;\">どうきゅうせい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Bạn c&ugrave;ng kh&oacute;a</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca99e2651364352b62b7bf4",
+      "index": 172,
+      "character": "治",
+      "sinoVietnameseWord": "Trị",
+      "mean": "Trị liệu",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l11/kanji/img/medical_chiken.png",
+      "reminiscentDescription": "<p>TRỊ bệnh nhờ đ&agrave;i phun nước</p>",
+      "onReading": "ジ、チ",
+      "kunReading": "な",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 110px;\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">治る</td>\n<td style=\"width: 33.3333%; height: 22px;\">なおる</td>\n<td style=\"width: 33.3333%; height: 22px;\">Chữa, khỏi</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">治す</td>\n<td style=\"width: 33.3333%; height: 22px;\">なおす</td>\n<td style=\"width: 33.3333%; height: 22px;\">Chữa ( bệnh )</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">政治</td>\n<td style=\"width: 33.3333%; height: 22px;\">せいじ</td>\n<td style=\"width: 33.3333%; height: 22px;\">Ch&iacute;nh trị</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">治療</td>\n<td style=\"width: 33.3333%; height: 22px;\">ちりょう</td>\n<td style=\"width: 33.3333%; height: 22px;\">Trị liệu</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 22px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca99ed651364352b62b7bf6",
+      "index": 173,
+      "character": "所",
+      "sinoVietnameseWord": "Sở",
+      "mean": "Cơ sở",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l11/kanji/img/kohacu.com_001708_20180829-768x768.png",
+      "reminiscentDescription": "<p>lấy c&aacute;i R&igrave;u (斤) ph&aacute; cửa ( 戸) để x&acirc;y cơ Sở mới</p>",
+      "onReading": "ショ、ジョ",
+      "kunReading": "ところ、どころ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 168px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">所</td>\n<td style=\"width: 33.3333%; height: 21px;\">ところ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Nơi, chỗ</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">台所</td>\n<td style=\"width: 33.3333%; height: 21px;\">だいどころ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Bếp</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">住所</td>\n<td style=\"width: 33.3333%; height: 21px;\">じゅうしょ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Địa chỉ</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">近所</td>\n<td style=\"width: 33.3333%; height: 21px;\">きんじょ</td>\n<td style=\"width: 33.3333%; height: 21px;\">L&acirc;n cận, h&agrave;ng x&oacute;m</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9a06051364352b62b7bf8",
+      "index": 174,
+      "character": "暑",
+      "sinoVietnameseWord": "Thử",
+      "mean": "Nóng",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l11/kanji/img/684ca6.png",
+      "reminiscentDescription": "<p>Học GIẢ thử đứng dưới &aacute;nh nắng MẶT TRỜI để xem c&oacute; n&oacute;ng kh&ocirc;ng</p>",
+      "onReading": "ショ",
+      "kunReading": "あつ",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 168px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">暑い</td>\n<td style=\"width: 33.3333%; height: 21px;\">あつい</td>\n<td style=\"width: 33.3333%; height: 21px;\">N&oacute;ng</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">蒸し暑い</td>\n<td style=\"width: 33.3333%; height: 21px;\">むしあつい</td>\n<td style=\"width: 33.3333%; height: 21px;\">N&oacute;ng nực</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">避暑地</td>\n<td style=\"width: 33.3333%; height: 21px;\">ひしょち</td>\n<td style=\"width: 33.3333%; height: 21px;\">Khu nghỉ m&aacute;t</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "_id": "5ca9a10f51364352b62b7bfa",
+      "index": 175,
+      "character": "寒",
+      "sinoVietnameseWord": "Hàn",
+      "mean": "Lạnh",
+      "reminiscentImageUrl": "https://content-cdn.kohi.vn/courses/N4/l11/kanji/img/fuyu_samui_man.png",
+      "reminiscentDescription": "<p>Dưới m&aacute;i nh&agrave;, gi&oacute; H&agrave;n vẫn l&ugrave;a qua dc 3 khe cửa sổ</p>",
+      "onReading": "カン",
+      "examples": "<table style=\"border-collapse: collapse; width: 100%; height: 147px;\">\n<tbody>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">寒い</td>\n<td style=\"width: 33.3333%; height: 21px;\">さむい</td>\n<td style=\"width: 33.3333%; height: 21px;\">Lạnh</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">寒気</td>\n<td style=\"width: 33.3333%; height: 21px;\">さむけ</td>\n<td style=\"width: 33.3333%; height: 21px;\">Ớn lạnh</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">寒風</td>\n<td style=\"width: 33.3333%; height: 21px;\">かんぷう</td>\n<td style=\"width: 33.3333%; height: 21px;\">Gi&oacute; lạnh</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n<td style=\"width: 33.3333%; height: 21px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "kunReading": "さむ"
+    }
+  ]
+}

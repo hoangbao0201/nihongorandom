@@ -1,0 +1,230 @@
+{
+  "lesson": 39,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "答えます [質問に～]",
+      "kanjiHtml": "答えます<br />[質問に～]",
+      "sinoVietnamese": "ĐÁP CHẤT VẤN",
+      "kana": "こたえます [しつもんに～]",
+      "kanaHtml": "こたえます<br /> [しつもんに～]"
+    },
+    {
+      "index": 2,
+      "kanji": "倒れます [ビルが～]",
+      "kanjiHtml": "倒れます<br />[ビルが～]",
+      "sinoVietnamese": "ĐẢO",
+      "kana": "たおれます [ビルが～]",
+      "kanaHtml": "たおれます<br /> [ビルが～]"
+    },
+    {
+      "index": 3,
+      "kanji": "通ります [道を～]",
+      "kanjiHtml": "通ります<br />[道を～]",
+      "sinoVietnamese": "THÔNG ĐẠO",
+      "kana": "とおります [みちを～]",
+      "kanaHtml": "とおります<br /> [みちを～]"
+    },
+    {
+      "index": 4,
+      "kanji": "死にます",
+      "kanjiHtml": "死にます",
+      "sinoVietnamese": "TỬ",
+      "kana": "しにます",
+      "kanaHtml": "しにます"
+    },
+    {
+      "index": 5,
+      "kanji": "安心します",
+      "kanjiHtml": "安心します",
+      "sinoVietnamese": "AN TÂM",
+      "kana": "あんしんします",
+      "kanaHtml": "あんしんします"
+    },
+    {
+      "index": 6,
+      "kanji": "離婚します",
+      "kanjiHtml": "離婚します",
+      "sinoVietnamese": "LY HÔN",
+      "kana": "りこんします",
+      "kanaHtml": "りこんします"
+    },
+    {
+      "index": 7,
+      "kanji": "太ります",
+      "kanjiHtml": "太ります",
+      "sinoVietnamese": "THÁI",
+      "kana": "ふとります",
+      "kanaHtml": "ふとります"
+    },
+    {
+      "index": 8,
+      "kanji": "複雑[な]",
+      "kanjiHtml": "複雑[な]",
+      "sinoVietnamese": "PHỨC TẠP",
+      "kana": "ふくざつ[な]",
+      "kanaHtml": "ふくざつ[な]"
+    },
+    {
+      "index": 9,
+      "kanji": "邪魔[な]",
+      "kanjiHtml": "邪魔[な]",
+      "sinoVietnamese": "TÀ MA",
+      "kana": "じゃま[な]",
+      "kanaHtml": "じゃま[な]"
+    },
+    {
+      "index": 10,
+      "kanji": "硬い",
+      "kanjiHtml": "硬い",
+      "sinoVietnamese": "NGẠNH",
+      "kana": "かたい",
+      "kanaHtml": "かたい"
+    },
+    {
+      "index": 11,
+      "kanji": "軟らかい",
+      "kanjiHtml": "軟らかい",
+      "sinoVietnamese": "NHUYỄN",
+      "kana": "やわらかい",
+      "kanaHtml": "やわらかい"
+    },
+    {
+      "index": 12,
+      "kanji": "汚い",
+      "kanjiHtml": "汚い",
+      "sinoVietnamese": "Ô",
+      "kana": "きたない",
+      "kanaHtml": "きたない"
+    },
+    {
+      "index": 13,
+      "kanji": "悲しい",
+      "kanjiHtml": "悲しい",
+      "sinoVietnamese": "BI",
+      "kana": "かなしい",
+      "kanaHtml": "かなしい"
+    },
+    {
+      "index": 14,
+      "kanji": "恥ずかしい",
+      "kanjiHtml": "恥ずかしい",
+      "sinoVietnamese": "SỈ",
+      "kana": "はずかしい",
+      "kanaHtml": "はずかしい"
+    },
+    {
+      "index": 15,
+      "kanji": "首相",
+      "kanjiHtml": "首相",
+      "sinoVietnamese": "THỦ TƯỚNG",
+      "kana": "しゅしょう",
+      "kanaHtml": "しゅしょう"
+    },
+    {
+      "index": 16,
+      "kanji": "地震",
+      "kanjiHtml": "地震",
+      "sinoVietnamese": "ĐỊA CHẤN",
+      "kana": "じしん",
+      "kanaHtml": "じしん"
+    },
+    {
+      "index": 17,
+      "kanji": "津波",
+      "kanjiHtml": "津波",
+      "sinoVietnamese": "TÂN BA",
+      "kana": "つなみ",
+      "kanaHtml": "つなみ"
+    },
+    {
+      "index": 18,
+      "kanji": "台風",
+      "kanjiHtml": "台風",
+      "sinoVietnamese": "ĐÀI PHONG",
+      "kana": "たいふう",
+      "kanaHtml": "たいふう"
+    },
+    {
+      "index": 19,
+      "kanji": "雷",
+      "kanjiHtml": "雷",
+      "sinoVietnamese": "LÔI",
+      "kana": "かみなり",
+      "kanaHtml": "かみなり"
+    },
+    {
+      "index": 20,
+      "kanji": "火事",
+      "kanjiHtml": "火事",
+      "sinoVietnamese": "HỎA SỰ",
+      "kana": "かじ",
+      "kanaHtml": "かじ"
+    },
+    {
+      "index": 21,
+      "kanji": "事故",
+      "kanjiHtml": "事故",
+      "sinoVietnamese": "SỰ CỐ",
+      "kana": "じこ",
+      "kanaHtml": "じこ"
+    },
+    {
+      "index": 22,
+      "kanji": "[お]見合い",
+      "kanjiHtml": "[お]見合い",
+      "sinoVietnamese": "KIẾN HỢP",
+      "kana": "[お]みあい",
+      "kanaHtml": "[お]みあい"
+    },
+    {
+      "index": 23,
+      "kanji": "操作",
+      "kanjiHtml": "操作",
+      "sinoVietnamese": "THAO TÁC",
+      "kana": "そうさ",
+      "kanaHtml": "そうさ"
+    },
+    {
+      "index": 24,
+      "kanji": "会場",
+      "kanjiHtml": "会場",
+      "sinoVietnamese": "HỘI TRƯỜNG",
+      "kana": "かいじょう",
+      "kanaHtml": "かいじょう"
+    },
+    {
+      "index": 25,
+      "kanji": "～代",
+      "kanjiHtml": "～代",
+      "sinoVietnamese": "ĐẠI",
+      "kana": "～だい",
+      "kanaHtml": "～だい"
+    },
+    {
+      "index": 26,
+      "kanji": "～屋",
+      "kanjiHtml": "～屋",
+      "sinoVietnamese": "ỐC",
+      "kana": "～や",
+      "kanaHtml": "～や"
+    },
+    {
+      "index": 27,
+      "kanji": "―号室",
+      "kanjiHtml": "―号室",
+      "sinoVietnamese": "HIỆU THẤT",
+      "kana": "―ごうしつ",
+      "kanaHtml": "―ごうしつ"
+    },
+    {
+      "index": 28,
+      "kanji": "大勢",
+      "kanjiHtml": "大勢",
+      "sinoVietnamese": "ĐẠI THẾ",
+      "kana": "おおぜい",
+      "kanaHtml": "おおぜい"
+    }
+  ]
+}
