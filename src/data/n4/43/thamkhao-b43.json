@@ -1,0 +1,338 @@
+{
+  "lesson": 43,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "性格（せいかく）・性質（せいしつ） Tính cách, tính chất",
+      "titleHtml": "<ruby>性格<rp>（</rp><rt>せいかく</rt><rp>）</rp></ruby>・<ruby>性質<rp>（</rp><rt>せいしつ</rt><rp>）</rp></ruby> Tính cách, tính chất",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "明（あか）るい",
+              "html": "<ruby>明<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>るい"
+            },
+            {
+              "text": "sáng, vui tươi",
+              "html": "sáng, vui tươi"
+            }
+          ],
+          "term": "明（あか）るい",
+          "termHtml": "<ruby>明<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>るい",
+          "meaning": "sáng, vui tươi",
+          "meaningHtml": "sáng, vui tươi"
+        },
+        {
+          "cells": [
+            {
+              "text": "暗（くら）い",
+              "html": "<ruby>暗<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "tối, buồn tẻ",
+              "html": "tối, buồn tẻ"
+            }
+          ],
+          "term": "暗（くら）い",
+          "termHtml": "<ruby>暗<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>い",
+          "meaning": "tối, buồn tẻ",
+          "meaningHtml": "tối, buồn tẻ"
+        },
+        {
+          "cells": [
+            {
+              "text": "優（やさ）しい",
+              "html": "<ruby>優<rp>（</rp><rt>やさ</rt><rp>）</rp></ruby>しい"
+            },
+            {
+              "text": "tốt bụng, hiền lành",
+              "html": "tốt bụng, hiền lành"
+            }
+          ],
+          "term": "優（やさ）しい",
+          "termHtml": "<ruby>優<rp>（</rp><rt>やさ</rt><rp>）</rp></ruby>しい",
+          "meaning": "tốt bụng, hiền lành",
+          "meaningHtml": "tốt bụng, hiền lành"
+        },
+        {
+          "cells": [
+            {
+              "text": "おとなしい",
+              "html": "おとなしい"
+            },
+            {
+              "text": "hiền, trầm",
+              "html": "hiền, trầm"
+            }
+          ],
+          "term": "おとなしい",
+          "termHtml": "おとなしい",
+          "meaning": "hiền, trầm",
+          "meaningHtml": "hiền, trầm"
+        },
+        {
+          "cells": [
+            {
+              "text": "冷（つめ）たい",
+              "html": "<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい"
+            },
+            {
+              "text": "lạnh",
+              "html": "lạnh"
+            }
+          ],
+          "term": "冷（つめ）たい",
+          "termHtml": "<ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい",
+          "meaning": "lạnh",
+          "meaningHtml": "lạnh"
+        },
+        {
+          "cells": [
+            {
+              "text": "厳（きび）しい",
+              "html": "<ruby>厳<rp>（</rp><rt>きび</rt><rp>）</rp></ruby>しい"
+            },
+            {
+              "text": "nghiêm, nghiêm khắc, khắt khe",
+              "html": "nghiêm, nghiêm khắc, khắt khe"
+            }
+          ],
+          "term": "厳（きび）しい",
+          "termHtml": "<ruby>厳<rp>（</rp><rt>きび</rt><rp>）</rp></ruby>しい",
+          "meaning": "nghiêm, nghiêm khắc, khắt khe",
+          "meaningHtml": "nghiêm, nghiêm khắc, khắt khe"
+        },
+        {
+          "cells": [
+            {
+              "text": "気（き）が長（なが）い",
+              "html": "<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "kiên nhẫn, biết chịu đựng",
+              "html": "kiên nhẫn, biết chịu đựng"
+            }
+          ],
+          "term": "気（き）が長（なが）い",
+          "termHtml": "<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い",
+          "meaning": "kiên nhẫn, biết chịu đựng",
+          "meaningHtml": "kiên nhẫn, biết chịu đựng"
+        },
+        {
+          "cells": [
+            {
+              "text": "気（き）が短（みじか）い",
+              "html": "<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>短<rp>（</rp><rt>みじか</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "thiếu kiên nhẫn, nóng tính",
+              "html": "thiếu kiên nhẫn, nóng tính"
+            }
+          ],
+          "term": "気（き）が短（みじか）い",
+          "termHtml": "<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>短<rp>（</rp><rt>みじか</rt><rp>）</rp></ruby>い",
+          "meaning": "thiếu kiên nhẫn, nóng tính",
+          "meaningHtml": "thiếu kiên nhẫn, nóng tính"
+        },
+        {
+          "cells": [
+            {
+              "text": "気（き）が強（つよ）い",
+              "html": "<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "mạnh mẽ, cứng rắn",
+              "html": "mạnh mẽ, cứng rắn"
+            }
+          ],
+          "term": "気（き）が強（つよ）い",
+          "termHtml": "<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>い",
+          "meaning": "mạnh mẽ, cứng rắn",
+          "meaningHtml": "mạnh mẽ, cứng rắn"
+        },
+        {
+          "cells": [
+            {
+              "text": "気（き）が弱（よわ）い",
+              "html": "<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>弱<rp>（</rp><rt>よわ</rt><rp>）</rp></ruby>い"
+            },
+            {
+              "text": "yếu ớt, nhu nhược",
+              "html": "yếu ớt, nhu nhược"
+            }
+          ],
+          "term": "気（き）が弱（よわ）い",
+          "termHtml": "<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>弱<rp>（</rp><rt>よわ</rt><rp>）</rp></ruby>い",
+          "meaning": "yếu ớt, nhu nhược",
+          "meaningHtml": "yếu ớt, nhu nhược"
+        },
+        {
+          "cells": [
+            {
+              "text": "活発（かっぱつ）[な]",
+              "html": "<ruby>活発<rp>（</rp><rt>かっぱつ</rt><rp>）</rp></ruby>[な]"
+            },
+            {
+              "text": "hoạt bát",
+              "html": "hoạt bát"
+            }
+          ],
+          "term": "活発（かっぱつ）[な]",
+          "termHtml": "<ruby>活発<rp>（</rp><rt>かっぱつ</rt><rp>）</rp></ruby>[な]",
+          "meaning": "hoạt bát",
+          "meaningHtml": "hoạt bát"
+        },
+        {
+          "cells": [
+            {
+              "text": "誠実（せいじつ）[な]",
+              "html": "<ruby>誠実<rp>（</rp><rt>せいじつ</rt><rp>）</rp></ruby>[な]"
+            },
+            {
+              "text": "thành thật, trung thực",
+              "html": "thành thật, trung thực"
+            }
+          ],
+          "term": "誠実（せいじつ）[な]",
+          "termHtml": "<ruby>誠実<rp>（</rp><rt>せいじつ</rt><rp>）</rp></ruby>[な]",
+          "meaning": "thành thật, trung thực",
+          "meaningHtml": "thành thật, trung thực"
+        },
+        {
+          "cells": [
+            {
+              "text": "わがまま[な]",
+              "html": "わがまま[な]"
+            },
+            {
+              "text": "ích kỉ, tùy tiện",
+              "html": "ích kỉ, tùy tiện"
+            }
+          ],
+          "term": "わがまま[な]",
+          "termHtml": "わがまま[な]",
+          "meaning": "ích kỉ, tùy tiện",
+          "meaningHtml": "ích kỉ, tùy tiện"
+        },
+        {
+          "cells": [
+            {
+              "text": "まじめ[な]",
+              "html": "まじめ[な]"
+            },
+            {
+              "text": "nghiêm túc, nghiêm chỉnh",
+              "html": "nghiêm túc, nghiêm chỉnh"
+            }
+          ],
+          "term": "まじめ[な]",
+          "termHtml": "まじめ[な]",
+          "meaning": "nghiêm túc, nghiêm chỉnh",
+          "meaningHtml": "nghiêm túc, nghiêm chỉnh"
+        },
+        {
+          "cells": [
+            {
+              "text": "ふまじめ[な]",
+              "html": "ふまじめ[な]"
+            },
+            {
+              "text": "không nghiêm túc, không đứng đắn",
+              "html": "không nghiêm túc, không đứng đắn"
+            }
+          ],
+          "term": "ふまじめ[な]",
+          "termHtml": "ふまじめ[な]",
+          "meaning": "không nghiêm túc, không đứng đắn",
+          "meaningHtml": "không nghiêm túc, không đứng đắn"
+        },
+        {
+          "cells": [
+            {
+              "text": "頑固（がんこ）[な]",
+              "html": "<ruby>頑固<rp>（</rp><rt>がんこ</rt><rp>）</rp></ruby>[な]"
+            },
+            {
+              "text": "bảo thủ, không nghe người khác, ngoan cố",
+              "html": "bảo thủ, không nghe người khác, ngoan cố"
+            }
+          ],
+          "term": "頑固（がんこ）[な]",
+          "termHtml": "<ruby>頑固<rp>（</rp><rt>がんこ</rt><rp>）</rp></ruby>[な]",
+          "meaning": "bảo thủ, không nghe người khác, ngoan cố",
+          "meaningHtml": "bảo thủ, không nghe người khác, ngoan cố"
+        },
+        {
+          "cells": [
+            {
+              "text": "素直（すなお）[な]",
+              "html": "<ruby>素直<rp>（</rp><rt>すなお</rt><rp>）</rp></ruby>[な]"
+            },
+            {
+              "text": "dễ bảo, ngoan ngoãn",
+              "html": "dễ bảo, ngoan ngoãn"
+            }
+          ],
+          "term": "素直（すなお）[な]",
+          "termHtml": "<ruby>素直<rp>（</rp><rt>すなお</rt><rp>）</rp></ruby>[な]",
+          "meaning": "dễ bảo, ngoan ngoãn",
+          "meaningHtml": "dễ bảo, ngoan ngoãn"
+        },
+        {
+          "cells": [
+            {
+              "text": "意地悪（いじわる）[な]",
+              "html": "<ruby>意地悪<rp>（</rp><rt>いじわる</rt><rp>）</rp></ruby>[な]"
+            },
+            {
+              "text": "có ý xấu, đểu, không chơi đẹp",
+              "html": "có ý xấu, đểu, không chơi đẹp"
+            }
+          ],
+          "term": "意地悪（いじわる）[な]",
+          "termHtml": "<ruby>意地悪<rp>（</rp><rt>いじわる</rt><rp>）</rp></ruby>[な]",
+          "meaning": "có ý xấu, đểu, không chơi đẹp",
+          "meaningHtml": "có ý xấu, đểu, không chơi đẹp"
+        },
+        {
+          "cells": [
+            {
+              "text": "勝（か）ち気（き）[な]",
+              "html": "<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ち<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>[な]"
+            },
+            {
+              "text": "hiếu thắng, không dễ thua",
+              "html": "hiếu thắng, không dễ thua"
+            }
+          ],
+          "term": "勝（か）ち気（き）[な]",
+          "termHtml": "<ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ち<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>[な]",
+          "meaning": "hiếu thắng, không dễ thua",
+          "meaningHtml": "hiếu thắng, không dễ thua"
+        },
+        {
+          "cells": [
+            {
+              "text": "神経質（しんけいしつ）[な]",
+              "html": "<ruby>神経質<rp>（</rp><rt>しんけいしつ</rt><rp>）</rp></ruby>[な]"
+            },
+            {
+              "text": "nhạy cảm, dễ tổn thương",
+              "html": "nhạy cảm, dễ tổn thương"
+            }
+          ],
+          "term": "神経質（しんけいしつ）[な]",
+          "termHtml": "<ruby>神経質<rp>（</rp><rt>しんけいしつ</rt><rp>）</rp></ruby>[な]",
+          "meaning": "nhạy cảm, dễ tổn thương",
+          "meaningHtml": "nhạy cảm, dễ tổn thương"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>明<rp>（</rp><rt>あか</rt><rp>）</rp></ruby>るい</td> <td>sáng, vui tươi</td> </tr><tr> <td width=\"40%\"><ruby>暗<rp>（</rp><rt>くら</rt><rp>）</rp></ruby>い</td> <td>tối, buồn tẻ</td> </tr><tr> <td width=\"40%\"><ruby>優<rp>（</rp><rt>やさ</rt><rp>）</rp></ruby>しい</td> <td>tốt bụng, hiền lành</td> </tr><tr> <td width=\"40%\">おとなしい</td> <td>hiền, trầm</td> </tr><tr> <td width=\"40%\"><ruby>冷<rp>（</rp><rt>つめ</rt><rp>）</rp></ruby>たい</td> <td>lạnh</td> </tr><tr> <td width=\"40%\"><ruby>厳<rp>（</rp><rt>きび</rt><rp>）</rp></ruby>しい</td> <td>nghiêm, nghiêm khắc, khắt khe</td> </tr><tr> <td width=\"40%\"><ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>長<rp>（</rp><rt>なが</rt><rp>）</rp></ruby>い</td> <td>kiên nhẫn, biết chịu đựng</td> </tr><tr> <td width=\"40%\"><ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>短<rp>（</rp><rt>みじか</rt><rp>）</rp></ruby>い</td> <td>thiếu kiên nhẫn, nóng tính</td> </tr><tr> <td width=\"40%\"><ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>い</td> <td>mạnh mẽ, cứng rắn</td> </tr><tr> <td width=\"40%\"><ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>弱<rp>（</rp><rt>よわ</rt><rp>）</rp></ruby>い</td> <td>yếu ớt, nhu nhược</td> </tr><tr> <td width=\"40%\"><ruby>活発<rp>（</rp><rt>かっぱつ</rt><rp>）</rp></ruby>[な]</td> <td>hoạt bát</td> </tr><tr> <td width=\"40%\"><ruby>誠実<rp>（</rp><rt>せいじつ</rt><rp>）</rp></ruby>[な]</td> <td>thành thật, trung thực</td> </tr><tr> <td width=\"40%\">わがまま[な]</td> <td>ích kỉ, tùy tiện</td> </tr><tr> <td width=\"40%\">まじめ[な]</td> <td>nghiêm túc, nghiêm chỉnh</td> </tr><tr> <td width=\"40%\">ふまじめ[な]</td> <td>không nghiêm túc, không đứng đắn</td> </tr><tr> <td width=\"40%\"><ruby>頑固<rp>（</rp><rt>がんこ</rt><rp>）</rp></ruby>[な]</td> <td>bảo thủ, không nghe người khác, ngoan cố</td> </tr><tr> <td width=\"40%\"><ruby>素直<rp>（</rp><rt>すなお</rt><rp>）</rp></ruby>[な]</td> <td>dễ bảo, ngoan ngoãn</td> </tr><tr> <td width=\"40%\"><ruby>意地悪<rp>（</rp><rt>いじわる</rt><rp>）</rp></ruby>[な]</td> <td>có ý xấu, đểu, không chơi đẹp</td> </tr><tr> <td width=\"40%\"><ruby>勝<rp>（</rp><rt>か</rt><rp>）</rp></ruby>ち<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>[な]</td> <td>hiếu thắng, không dễ thua</td> </tr><tr> <td width=\"40%\"><ruby>神経質<rp>（</rp><rt>しんけいしつ</rt><rp>）</rp></ruby>[な]</td> <td>nhạy cảm, dễ tổn thương</td> </tr></tbody></table> <img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai42.jpg\" style=\"width: 100%; \"> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

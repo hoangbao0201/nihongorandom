@@ -1,0 +1,142 @@
+{
+  "lesson": 47,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "吹きます [風が～]",
+      "kanjiHtml": "吹きます<br />[風が～]",
+      "sinoVietnamese": "XÚY PHONG",
+      "kana": "ふきます [かぜが～]",
+      "kanaHtml": "ふきます<br /> [かぜが～]"
+    },
+    {
+      "index": 2,
+      "kanji": "燃えます",
+      "kanjiHtml": "燃えます",
+      "sinoVietnamese": "NHIÊN",
+      "kana": "もえます [ごみが～]",
+      "kanaHtml": "もえます<br /> [ごみが～]"
+    },
+    {
+      "index": 3,
+      "kanji": "亡くなります",
+      "kanjiHtml": "亡くなります",
+      "sinoVietnamese": "VONG",
+      "kana": "なくなります",
+      "kanaHtml": "なくなります"
+    },
+    {
+      "index": 4,
+      "kanji": "集まります [人が～]",
+      "kanjiHtml": "集まります<br />[人が～]",
+      "sinoVietnamese": "TẬP NHÂN",
+      "kana": "あつまります [ひとが～]",
+      "kanaHtml": "あつまります<br /> [ひとが～]"
+    },
+    {
+      "index": 5,
+      "kanji": "別れます [人が～]",
+      "kanjiHtml": "別れます<br />[人が～]",
+      "sinoVietnamese": "BIỆT NHÂN",
+      "kana": "わかれます [ひとが～]",
+      "kanaHtml": "わかれます<br /> [ひとが～]"
+    },
+    {
+      "index": 6,
+      "kanji": "します [音／声が～] [味が～]",
+      "kanjiHtml": "します<br />[音／声が～]<br />[味が～]",
+      "sinoVietnamese": "ÂM/THANH VỊ",
+      "kana": "します [おと／こえが～] [あじが～] [においが～]",
+      "kanaHtml": "します<br /> [おと／こえが～]<br /> [あじが～]<br /> [においが～]"
+    },
+    {
+      "index": 7,
+      "kanji": "厳しい",
+      "kanjiHtml": "厳しい",
+      "sinoVietnamese": "NGHIÊM",
+      "kana": "きびしい",
+      "kanaHtml": "きびしい"
+    },
+    {
+      "index": 8,
+      "kanji": "怖い",
+      "kanjiHtml": "怖い",
+      "sinoVietnamese": "BỐ",
+      "kana": "こわい",
+      "kanaHtml": "こわい"
+    },
+    {
+      "index": 9,
+      "kanji": "実験",
+      "kanjiHtml": "実験",
+      "sinoVietnamese": "THỰC NGHIỆM",
+      "kana": "じっけん",
+      "kanaHtml": "じっけん"
+    },
+    {
+      "index": 10,
+      "kanji": "人口",
+      "kanjiHtml": "人口",
+      "sinoVietnamese": "NHÂN KHẨU",
+      "kana": "じんこう",
+      "kanaHtml": "じんこう"
+    },
+    {
+      "index": 11,
+      "kanji": "科学",
+      "kanjiHtml": "科学",
+      "sinoVietnamese": "KHOA HỌC",
+      "kana": "かがく",
+      "kanaHtml": "かがく"
+    },
+    {
+      "index": 12,
+      "kanji": "医学",
+      "kanjiHtml": "医学",
+      "sinoVietnamese": "Y HỌC",
+      "kana": "いがく",
+      "kanaHtml": "いがく"
+    },
+    {
+      "index": 13,
+      "kanji": "文学",
+      "kanjiHtml": "文学",
+      "sinoVietnamese": "VĂN HỌC",
+      "kana": "ぶんがく",
+      "kanaHtml": "ぶんがく"
+    },
+    {
+      "index": 14,
+      "kanji": "救急車",
+      "kanjiHtml": "救急車",
+      "sinoVietnamese": "CỨU CẤP XA",
+      "kana": "きゅうきゅうしゃ",
+      "kanaHtml": "きゅうきゅうしゃ"
+    },
+    {
+      "index": 15,
+      "kanji": "賛成",
+      "kanjiHtml": "賛成",
+      "sinoVietnamese": "TÁN THÀNH",
+      "kana": "さんせい",
+      "kanaHtml": "さんせい"
+    },
+    {
+      "index": 16,
+      "kanji": "反対",
+      "kanjiHtml": "反対",
+      "sinoVietnamese": "PHẢN ĐỐI",
+      "kana": "はんたい",
+      "kanaHtml": "はんたい"
+    },
+    {
+      "index": 17,
+      "kanji": "大統領",
+      "kanjiHtml": "大統領",
+      "sinoVietnamese": "ĐẠI THỐNG LÃNH",
+      "kana": "だいとうりょう",
+      "kanaHtml": "だいとうりょう"
+    }
+  ]
+}

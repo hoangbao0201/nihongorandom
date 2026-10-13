@@ -1,0 +1,274 @@
+{
+  "lesson": 37,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "事故（じこ）・事件（じけん） Tai nạn, vụ án",
+      "titleHtml": "<ruby>事故<rp>（</rp><rt>じこ</rt><rp>）</rp></ruby>・<ruby>事件<rp>（</rp><rt>じけん</rt><rp>）</rp></ruby> Tai nạn, vụ án",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "殺（ころ）す",
+              "html": "<ruby>殺<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>す"
+            },
+            {
+              "text": "giết",
+              "html": "giết"
+            }
+          ],
+          "term": "殺（ころ）す",
+          "termHtml": "<ruby>殺<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>す",
+          "meaning": "giết",
+          "meaningHtml": "giết"
+        },
+        {
+          "cells": [
+            {
+              "text": "撃（う）つ",
+              "html": "<ruby>撃<rp>（</rp><rt>う</rt><rp>）</rp></ruby>つ"
+            },
+            {
+              "text": "bắn",
+              "html": "bắn"
+            }
+          ],
+          "term": "撃（う）つ",
+          "termHtml": "<ruby>撃<rp>（</rp><rt>う</rt><rp>）</rp></ruby>つ",
+          "meaning": "bắn",
+          "meaningHtml": "bắn"
+        },
+        {
+          "cells": [
+            {
+              "text": "刺（さ）す",
+              "html": "<ruby>刺<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>す"
+            },
+            {
+              "text": "đâm",
+              "html": "đâm"
+            }
+          ],
+          "term": "刺（さ）す",
+          "termHtml": "<ruby>刺<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>す",
+          "meaning": "đâm",
+          "meaningHtml": "đâm"
+        },
+        {
+          "cells": [
+            {
+              "text": "かむ",
+              "html": "かむ"
+            },
+            {
+              "text": "cắn",
+              "html": "cắn"
+            }
+          ],
+          "term": "かむ",
+          "termHtml": "かむ",
+          "meaning": "cắn",
+          "meaningHtml": "cắn"
+        },
+        {
+          "cells": [
+            {
+              "text": "ひく",
+              "html": "ひく"
+            },
+            {
+              "text": "đè, nghiến",
+              "html": "đè, nghiến"
+            }
+          ],
+          "term": "ひく",
+          "termHtml": "ひく",
+          "meaning": "đè, nghiến",
+          "meaningHtml": "đè, nghiến"
+        },
+        {
+          "cells": [
+            {
+              "text": "はねる",
+              "html": "はねる"
+            },
+            {
+              "text": "đâm phải, va chạm",
+              "html": "đâm phải, va chạm"
+            }
+          ],
+          "term": "はねる",
+          "termHtml": "はねる",
+          "meaning": "đâm phải, va chạm",
+          "meaningHtml": "đâm phải, va chạm"
+        },
+        {
+          "cells": [
+            {
+              "text": "衝突（しょうとつ）する",
+              "html": "<ruby>衝突<rp>（</rp><rt>しょうとつ</rt><rp>）</rp></ruby>する"
+            },
+            {
+              "text": "đâm nhau",
+              "html": "đâm nhau"
+            }
+          ],
+          "term": "衝突（しょうとつ）する",
+          "termHtml": "<ruby>衝突<rp>（</rp><rt>しょうとつ</rt><rp>）</rp></ruby>する",
+          "meaning": "đâm nhau",
+          "meaningHtml": "đâm nhau"
+        },
+        {
+          "cells": [
+            {
+              "text": "追突（ついとつ）する",
+              "html": "<ruby>追突<rp>（</rp><rt>ついとつ</rt><rp>）</rp></ruby>する"
+            },
+            {
+              "text": "đâm phải đuôi, đâm từ phía sau",
+              "html": "đâm phải đuôi, đâm từ phía sau"
+            }
+          ],
+          "term": "追突（ついとつ）する",
+          "termHtml": "<ruby>追突<rp>（</rp><rt>ついとつ</rt><rp>）</rp></ruby>する",
+          "meaning": "đâm phải đuôi, đâm từ phía sau",
+          "meaningHtml": "đâm phải đuôi, đâm từ phía sau"
+        },
+        {
+          "cells": [
+            {
+              "text": "盗（ぬす）む",
+              "html": "<ruby>盗<rp>（</rp><rt>ぬす</rt><rp>）</rp></ruby>む"
+            },
+            {
+              "text": "ăn trộm",
+              "html": "ăn trộm"
+            }
+          ],
+          "term": "盗（ぬす）む",
+          "termHtml": "<ruby>盗<rp>（</rp><rt>ぬす</rt><rp>）</rp></ruby>む",
+          "meaning": "ăn trộm",
+          "meaningHtml": "ăn trộm"
+        },
+        {
+          "cells": [
+            {
+              "text": "誘拐（ゆうかい）する",
+              "html": "<ruby>誘拐<rp>（</rp><rt>ゆうかい</rt><rp>）</rp></ruby>する"
+            },
+            {
+              "text": "bắt cóc, tống tiền",
+              "html": "bắt cóc, tống tiền"
+            }
+          ],
+          "term": "誘拐（ゆうかい）する",
+          "termHtml": "<ruby>誘拐<rp>（</rp><rt>ゆうかい</rt><rp>）</rp></ruby>する",
+          "meaning": "bắt cóc, tống tiền",
+          "meaningHtml": "bắt cóc, tống tiền"
+        },
+        {
+          "cells": [
+            {
+              "text": "ハイジャックする",
+              "html": "ハイジャックする"
+            },
+            {
+              "text": "không tặc, cướp máy bay",
+              "html": "không tặc, cướp máy bay"
+            }
+          ],
+          "term": "ハイジャックする",
+          "termHtml": "ハイジャックする",
+          "meaning": "không tặc, cướp máy bay",
+          "meaningHtml": "không tặc, cướp máy bay"
+        },
+        {
+          "cells": [
+            {
+              "text": "墜落（ついらく）する",
+              "html": "<ruby>墜落<rp>（</rp><rt>ついらく</rt><rp>）</rp></ruby>する"
+            },
+            {
+              "text": "(máy bay) rơi",
+              "html": "(máy bay) rơi"
+            }
+          ],
+          "term": "墜落（ついらく）する",
+          "termHtml": "<ruby>墜落<rp>（</rp><rt>ついらく</rt><rp>）</rp></ruby>する",
+          "meaning": "(máy bay) rơi",
+          "meaningHtml": "(máy bay) rơi"
+        },
+        {
+          "cells": [
+            {
+              "text": "運（はこ）ぶ",
+              "html": "<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶ"
+            },
+            {
+              "text": "chở, vận chuyển",
+              "html": "chở, vận chuyển"
+            }
+          ],
+          "term": "運（はこ）ぶ",
+          "termHtml": "<ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶ",
+          "meaning": "chở, vận chuyển",
+          "meaningHtml": "chở, vận chuyển"
+        },
+        {
+          "cells": [
+            {
+              "text": "爆発（ばくはつ）する",
+              "html": "<ruby>爆発<rp>（</rp><rt>ばくはつ</rt><rp>）</rp></ruby>する"
+            },
+            {
+              "text": "nổ",
+              "html": "nổ"
+            }
+          ],
+          "term": "爆発（ばくはつ）する",
+          "termHtml": "<ruby>爆発<rp>（</rp><rt>ばくはつ</rt><rp>）</rp></ruby>する",
+          "meaning": "nổ",
+          "meaningHtml": "nổ"
+        },
+        {
+          "cells": [
+            {
+              "text": "助（たす）ける",
+              "html": "<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>ける"
+            },
+            {
+              "text": "cứu, cứu giúp, cứu trợ",
+              "html": "cứu, cứu giúp, cứu trợ"
+            }
+          ],
+          "term": "助（たす）ける",
+          "termHtml": "<ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>ける",
+          "meaning": "cứu, cứu giúp, cứu trợ",
+          "meaningHtml": "cứu, cứu giúp, cứu trợ"
+        },
+        {
+          "cells": [
+            {
+              "text": "沈没（ちんぼつ）する",
+              "html": "<ruby>沈没<rp>（</rp><rt>ちんぼつ</rt><rp>）</rp></ruby>する"
+            },
+            {
+              "text": "chìm, đắm",
+              "html": "chìm, đắm"
+            }
+          ],
+          "term": "沈没（ちんぼつ）する",
+          "termHtml": "<ruby>沈没<rp>（</rp><rt>ちんぼつ</rt><rp>）</rp></ruby>する",
+          "meaning": "chìm, đắm",
+          "meaningHtml": "chìm, đắm"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>殺<rp>（</rp><rt>ころ</rt><rp>）</rp></ruby>す</td> <td>giết</td> </tr><tr> <td width=\"40%\"><ruby>撃<rp>（</rp><rt>う</rt><rp>）</rp></ruby>つ</td> <td>bắn</td> </tr><tr> <td width=\"40%\"><ruby>刺<rp>（</rp><rt>さ</rt><rp>）</rp></ruby>す</td> <td>đâm</td> </tr><tr> <td width=\"40%\">かむ</td> <td>cắn</td> </tr><tr> <td width=\"40%\">ひく</td> <td>đè, nghiến</td> </tr><tr> <td width=\"40%\">はねる</td> <td>đâm phải, va chạm</td> </tr><tr> <td width=\"40%\"><ruby>衝突<rp>（</rp><rt>しょうとつ</rt><rp>）</rp></ruby>する</td> <td>đâm nhau</td> </tr><tr> <td width=\"40%\"><ruby>追突<rp>（</rp><rt>ついとつ</rt><rp>）</rp></ruby>する</td> <td>đâm phải đuôi, đâm từ phía sau</td> </tr><tr> <td width=\"40%\"><ruby>盗<rp>（</rp><rt>ぬす</rt><rp>）</rp></ruby>む</td> <td>ăn trộm</td> </tr><tr> <td width=\"40%\"><ruby>誘拐<rp>（</rp><rt>ゆうかい</rt><rp>）</rp></ruby>する</td> <td>bắt cóc, tống tiền</td> </tr><tr> <td width=\"40%\">ハイジャックする</td> <td>không tặc, cướp máy bay</td> </tr><tr> <td width=\"40%\"><ruby>墜落<rp>（</rp><rt>ついらく</rt><rp>）</rp></ruby>する</td> <td>(máy bay) rơi</td> </tr><tr> <td width=\"40%\"><ruby>運<rp>（</rp><rt>はこ</rt><rp>）</rp></ruby>ぶ</td> <td>chở, vận chuyển</td> </tr><tr> <td width=\"40%\"><ruby>爆発<rp>（</rp><rt>ばくはつ</rt><rp>）</rp></ruby>する</td> <td>nổ</td> </tr><tr> <td width=\"40%\"><ruby>助<rp>（</rp><rt>たす</rt><rp>）</rp></ruby>ける</td> <td>cứu, cứu giúp, cứu trợ</td> </tr><tr> <td width=\"40%\"><ruby>沈没<rp>（</rp><rt>ちんぼつ</rt><rp>）</rp></ruby>する</td> <td>chìm, đắm</td> </tr></tbody></table> <img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai37.jpg\" style=\"width: 100%; \"> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

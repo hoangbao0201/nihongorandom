@@ -1,0 +1,206 @@
+{
+  "lesson": 41,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "上げます",
+      "kanjiHtml": "上げます",
+      "sinoVietnamese": "THƯỢNG",
+      "kana": "あげます",
+      "kanaHtml": "あげます"
+    },
+    {
+      "index": 2,
+      "kanji": "下げます",
+      "kanjiHtml": "下げます",
+      "sinoVietnamese": "HẠ",
+      "kana": "さげます",
+      "kanaHtml": "さげます"
+    },
+    {
+      "index": 3,
+      "kanji": "親切にします",
+      "kanjiHtml": "親切にします",
+      "sinoVietnamese": "THÂN THIẾT",
+      "kana": "しんせつにします",
+      "kanaHtml": "しんせつにします"
+    },
+    {
+      "index": 4,
+      "kanji": "珍しい",
+      "kanjiHtml": "珍しい",
+      "sinoVietnamese": "TRÂN",
+      "kana": "めずらしい",
+      "kanaHtml": "めずらしい"
+    },
+    {
+      "index": 5,
+      "kanji": "お祝い",
+      "kanjiHtml": "お祝い",
+      "sinoVietnamese": "CHÚC",
+      "kana": "おいわい",
+      "kanaHtml": "おいわい"
+    },
+    {
+      "index": 6,
+      "kanji": "お年玉",
+      "kanjiHtml": "お年玉",
+      "sinoVietnamese": "NIÊN NGỌC",
+      "kana": "おとしだま",
+      "kanaHtml": "おとしだま"
+    },
+    {
+      "index": 7,
+      "kanji": "[お]見舞い",
+      "kanjiHtml": "[お]見舞い",
+      "sinoVietnamese": "KIẾN VŨ",
+      "kana": "[お]みまい",
+      "kanaHtml": "[お]みまい"
+    },
+    {
+      "index": 8,
+      "kanji": "興味",
+      "kanjiHtml": "興味",
+      "sinoVietnamese": "HƯNG VỊ",
+      "kana": "きょうみ",
+      "kanaHtml": "きょうみ"
+    },
+    {
+      "index": 9,
+      "kanji": "情報",
+      "kanjiHtml": "情報",
+      "sinoVietnamese": "TÌNH BÁO",
+      "kana": "じょうほう",
+      "kanaHtml": "じょうほう"
+    },
+    {
+      "index": 10,
+      "kanji": "文法",
+      "kanjiHtml": "文法",
+      "sinoVietnamese": "VĂN PHÁP",
+      "kana": "ぶんぽう",
+      "kanaHtml": "ぶんぽう"
+    },
+    {
+      "index": 11,
+      "kanji": "発音",
+      "kanjiHtml": "発音",
+      "sinoVietnamese": "PHÁT ÂM",
+      "kana": "はつおん",
+      "kanaHtml": "はつおん"
+    },
+    {
+      "index": 12,
+      "kanji": "猿",
+      "kanjiHtml": "猿",
+      "sinoVietnamese": "VIÊN",
+      "kana": "さる",
+      "kanaHtml": "さる"
+    },
+    {
+      "index": 13,
+      "kanji": "絵はがき",
+      "kanjiHtml": "絵はがき",
+      "sinoVietnamese": "HỘI",
+      "kana": "えはがき",
+      "kanaHtml": "えはがき"
+    },
+    {
+      "index": 14,
+      "kanji": "靴下",
+      "kanjiHtml": "靴下",
+      "sinoVietnamese": "NGOA HẠ",
+      "kana": "くつした",
+      "kanaHtml": "くつした"
+    },
+    {
+      "index": 15,
+      "kanji": "手袋",
+      "kanjiHtml": "手袋",
+      "sinoVietnamese": "THỦ ĐẠI",
+      "kana": "てぶくろ",
+      "kanaHtml": "てぶくろ"
+    },
+    {
+      "index": 16,
+      "kanji": "幼稚園",
+      "kanjiHtml": "幼稚園",
+      "sinoVietnamese": "ẤU TRĨ VIÊN",
+      "kana": "ようちえん",
+      "kanaHtml": "ようちえん"
+    },
+    {
+      "index": 17,
+      "kanji": "暖房",
+      "kanjiHtml": "暖房",
+      "sinoVietnamese": "NOÃN PHÒNG",
+      "kana": "だんぼう",
+      "kanaHtml": "だんぼう"
+    },
+    {
+      "index": 18,
+      "kanji": "冷房",
+      "kanjiHtml": "冷房",
+      "sinoVietnamese": "LÃNH PHÒNG",
+      "kana": "れいぼう",
+      "kanaHtml": "れいぼう"
+    },
+    {
+      "index": 19,
+      "kanji": "温度",
+      "kanjiHtml": "温度",
+      "sinoVietnamese": "ÔN ĐỘ",
+      "kana": "おんど",
+      "kanaHtml": "おんど"
+    },
+    {
+      "index": 20,
+      "kanji": "祖父",
+      "kanjiHtml": "祖父",
+      "sinoVietnamese": "TỔ PHỤ",
+      "kana": "そふ",
+      "kanaHtml": "そふ"
+    },
+    {
+      "index": 21,
+      "kanji": "祖母",
+      "kanjiHtml": "祖母",
+      "sinoVietnamese": "TỔ MẪU",
+      "kana": "そぼ",
+      "kanaHtml": "そぼ"
+    },
+    {
+      "index": 22,
+      "kanji": "孫",
+      "kanjiHtml": "孫",
+      "sinoVietnamese": "TÔN",
+      "kana": "まご",
+      "kanaHtml": "まご"
+    },
+    {
+      "index": 23,
+      "kanji": "お孫さん",
+      "kanjiHtml": "お孫さん",
+      "sinoVietnamese": "TÔN",
+      "kana": "おまごさん",
+      "kanaHtml": "おまごさん"
+    },
+    {
+      "index": 24,
+      "kanji": "管理人",
+      "kanjiHtml": "管理人",
+      "sinoVietnamese": "QUẢN LÝ NHÂN",
+      "kana": "かんりにん",
+      "kanaHtml": "かんりにん"
+    },
+    {
+      "index": 25,
+      "kanji": "この間",
+      "kanjiHtml": "この間",
+      "sinoVietnamese": "GIAN",
+      "kana": "このあいだい",
+      "kanaHtml": "このあいだい"
+    }
+  ]
+}

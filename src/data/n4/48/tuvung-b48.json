@@ -1,0 +1,200 @@
+{
+  "lesson": 48,
+  "meta": {
+    "practiceUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=48",
+    "flashcardUrl": "https://www.vnjpclub.com/minna-tu-vung/?minna_lesson=48&mf=fc"
+  },
+  "sections": [
+    {
+      "key": "main",
+      "label": null,
+      "labelHtml": null,
+      "items": [
+        {
+          "kind": "entry",
+          "index": 1,
+          "word": "おろします",
+          "wordHtml": "おろします",
+          "kanji": "降ろします, 下ろします",
+          "kanjiHtml": "降ろします,<br />下ろします",
+          "sinoVietnamese": "GIÁNG, HẠ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#48;&#49;&#48;&#48;.mp3",
+          "meaning": "cho xuống, hạ xuống",
+          "meaningHtml": "cho xuống, hạ xuống"
+        },
+        {
+          "kind": "entry",
+          "index": 2,
+          "word": "とどけます",
+          "wordHtml": "とどけます",
+          "kanji": "届けます",
+          "kanjiHtml": "届けます",
+          "sinoVietnamese": "GIỚI",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#48;&#49;&#48;&#49;.mp3",
+          "meaning": "gởi đến, chuyển đến",
+          "meaningHtml": "gởi đến, chuyển đến"
+        },
+        {
+          "kind": "entry",
+          "index": 3,
+          "word": "せわをします",
+          "wordHtml": "せわをします",
+          "kanji": "世話をします",
+          "kanjiHtml": "世話をします",
+          "sinoVietnamese": "THẾ THOẠI",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#48;&#49;&#49;&#48;.mp3",
+          "meaning": "chăm sóc",
+          "meaningHtml": "chăm sóc"
+        },
+        {
+          "kind": "entry",
+          "index": 4,
+          "word": "ろくおんします",
+          "wordHtml": "ろくおんします",
+          "kanji": "録音します",
+          "kanjiHtml": "録音します",
+          "sinoVietnamese": "LỤC ÂM",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#48;&#49;&#49;&#49;.mp3",
+          "meaning": "ghi âm",
+          "meaningHtml": "ghi âm"
+        },
+        {
+          "kind": "entry",
+          "index": 5,
+          "word": "いや[な]",
+          "wordHtml": "いや[な]",
+          "kanji": "嫌[な]",
+          "kanjiHtml": "嫌[な]",
+          "sinoVietnamese": "HIỀM",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#48;.mp3",
+          "meaning": "ngán, không thích",
+          "meaningHtml": "ngán, không thích"
+        },
+        {
+          "kind": "entry",
+          "index": 6,
+          "word": "じゅく",
+          "wordHtml": "じゅく",
+          "kanji": "塾",
+          "kanjiHtml": "塾",
+          "sinoVietnamese": "THỤC",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#48;&#49;.mp3",
+          "meaning": "cơ sở học thêm",
+          "meaningHtml": "cơ sở học thêm"
+        },
+        {
+          "kind": "entry",
+          "index": 7,
+          "word": "せいと",
+          "wordHtml": "せいと",
+          "kanji": "生徒",
+          "kanjiHtml": "生徒",
+          "sinoVietnamese": "SINH ĐỒ",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#48;.mp3",
+          "meaning": "học sinh, học trò",
+          "meaningHtml": "học sinh, học trò"
+        },
+        {
+          "kind": "entry",
+          "index": 8,
+          "word": "ファイル",
+          "wordHtml": "ファイル",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#48;&#49;&#49;.mp3",
+          "meaning": "kẹp tài liệu, file tài liệu",
+          "meaningHtml": "kẹp tài liệu, file tài liệu"
+        },
+        {
+          "kind": "entry",
+          "index": 9,
+          "word": "じゆうに",
+          "wordHtml": "じゆうに",
+          "kanji": "自由に",
+          "kanjiHtml": "自由に",
+          "sinoVietnamese": "TỰ DO",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#48;.mp3",
+          "meaning": "tự do",
+          "meaningHtml": "tự do"
+        },
+        {
+          "kind": "entry",
+          "index": 10,
+          "word": "～かん",
+          "wordHtml": "～かん",
+          "kanji": "～間",
+          "kanjiHtml": "～間",
+          "sinoVietnamese": "GIAN",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#48;&#49;.mp3",
+          "meaning": "trong ~ (dùng để chỉ khoảng thời gian)",
+          "meaningHtml": "trong ~ (dùng để chỉ khoảng thời gian)"
+        },
+        {
+          "kind": "entry",
+          "index": 11,
+          "word": "いいことですね。",
+          "wordHtml": "いいことですね。",
+          "kanji": "",
+          "kanjiHtml": "",
+          "sinoVietnamese": "",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#48;.mp3",
+          "meaning": "Hay nhỉ./ Được đấy nhỉ.",
+          "meaningHtml": "Hay nhỉ./ Được đấy nhỉ."
+        }
+      ]
+    },
+    {
+      "key": "section-2",
+      "label": "会話(かいわ)",
+      "labelHtml": "＜<b><ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby></b>＞",
+      "items": [
+        {
+          "kind": "phrase",
+          "index": 12,
+          "text": "お忙（いそが）しいですか。",
+          "textHtml": "お<ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しいですか。",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#48;&#49;&#49;&#49;&#49;.mp3",
+          "meaning": "Anh/chị có bận không? (được dùng khi nói với người trên)",
+          "meaningHtml": "Anh/chị có bận không? <br /> (được dùng khi nói với người trên)"
+        },
+        {
+          "kind": "phrase",
+          "index": 13,
+          "text": "営業（えいぎょう）",
+          "textHtml": "<ruby>営業<rp>（</rp><rt>えいぎょう</rt><rp>）</rp></ruby>",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#49;&#48;&#48;&#48;&#48;.mp3",
+          "meaning": "kinh doanh, bán hàng",
+          "meaningHtml": "kinh doanh, bán hàng"
+        },
+        {
+          "kind": "phrase",
+          "index": 14,
+          "text": "それまでに",
+          "textHtml": "それまでに",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#49;&#48;&#48;&#48;&#49;.mp3",
+          "meaning": "trước thời điểm đó",
+          "meaningHtml": "trước thời điểm đó"
+        },
+        {
+          "kind": "phrase",
+          "index": 15,
+          "text": "かまいません",
+          "textHtml": "かまいません",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#48;.mp3",
+          "meaning": "Không sao./ Không có vấn đề gì.",
+          "meaningHtml": "Không sao./ Không có vấn đề gì."
+        },
+        {
+          "kind": "phrase",
+          "index": 16,
+          "text": "楽（たの）しみます",
+          "textHtml": "<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しみます",
+          "audio": "https://www.vnjpclub.com/Audio/minnamoi/bai48/&#48;&#48;&#48;&#49;&#48;&#49;&#49;&#49;&#49;&#48;&#49;&#48;&#49;&#48;&#48;&#49;&#49;.mp3",
+          "meaning": "vui, vui thích",
+          "meaningHtml": "vui, vui thích"
+        }
+      ]
+    }
+  ]
+}

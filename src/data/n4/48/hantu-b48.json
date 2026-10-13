@@ -1,0 +1,78 @@
+{
+  "lesson": 48,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "降ろします, 下ろします",
+      "kanjiHtml": "降ろします,<br />下ろします",
+      "sinoVietnamese": "GIÁNG, HẠ",
+      "kana": "おろします",
+      "kanaHtml": "おろします"
+    },
+    {
+      "index": 2,
+      "kanji": "届けます",
+      "kanjiHtml": "届けます",
+      "sinoVietnamese": "GIỚI",
+      "kana": "とどけます",
+      "kanaHtml": "とどけます"
+    },
+    {
+      "index": 3,
+      "kanji": "世話をします",
+      "kanjiHtml": "世話をします",
+      "sinoVietnamese": "THẾ THOẠI",
+      "kana": "せわをします",
+      "kanaHtml": "せわをします"
+    },
+    {
+      "index": 4,
+      "kanji": "録音します",
+      "kanjiHtml": "録音します",
+      "sinoVietnamese": "LỤC ÂM",
+      "kana": "ろくおんします",
+      "kanaHtml": "ろくおんします"
+    },
+    {
+      "index": 5,
+      "kanji": "嫌[な]",
+      "kanjiHtml": "嫌[な]",
+      "sinoVietnamese": "HIỀM",
+      "kana": "いや[な]",
+      "kanaHtml": "いや[な]"
+    },
+    {
+      "index": 6,
+      "kanji": "塾",
+      "kanjiHtml": "塾",
+      "sinoVietnamese": "THỤC",
+      "kana": "じゅく",
+      "kanaHtml": "じゅく"
+    },
+    {
+      "index": 7,
+      "kanji": "生徒",
+      "kanjiHtml": "生徒",
+      "sinoVietnamese": "SINH ĐỒ",
+      "kana": "せいと",
+      "kanaHtml": "せいと"
+    },
+    {
+      "index": 8,
+      "kanji": "自由に",
+      "kanjiHtml": "自由に",
+      "sinoVietnamese": "TỰ DO",
+      "kana": "じゆうに",
+      "kanaHtml": "じゆうに"
+    },
+    {
+      "index": 9,
+      "kanji": "～間",
+      "kanjiHtml": "～間",
+      "sinoVietnamese": "GIAN",
+      "kana": "～かん",
+      "kanaHtml": "～かん"
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "lesson": 44,
+  "type": "dochieu",
+  "sections": [
+    {
+      "id": "tab1",
+      "title": "Từ vựng",
+      "titleHtml": "Từ vựng",
+      "contentHtml": "<div class=\"vnjp-minnasc-wrapper\"> <div class=\"vnjp-minnasc-toolbar\"> <a href=\"#\" class=\"btn vietbtn\">Ẩn/Hiện Nghĩa VI</a> <a href=\"#\" class=\"btn anhbtn\">Ẩn/Hiện Nghĩa EN</a> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>アジア</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">châu Á</div> <div class=\"nghia_anh\">Asia</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かけます</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">rưới, đổ, chan</div> <div class=\"nghia_anh\">put on </div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>めいじじだい</b></div> <div class=\"kanji\">明治時代</div> <div class=\"nghia_viet\">Thời kỳ Minh Trị(1868-1912)</div> <div class=\"nghia_anh\">Meiji period (1868-1912)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>エビ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">tôm</div> <div class=\"nghia_anh\">prawn, shrimp</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>カエル</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ếch</div> <div class=\"nghia_anh\">frog</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ふつうの</b></div> <div class=\"kanji\">普通の</div> <div class=\"nghia_viet\">bình thường</div> <div class=\"nghia_anh\">ordinary</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>カレーこ</b></div> <div class=\"kanji\">カレー粉</div> <div class=\"nghia_viet\">bột cà-ri</div> <div class=\"nghia_anh\">curry powder</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>えいよう</b></div> <div class=\"kanji\">栄養</div> <div class=\"nghia_viet\">dinh dưỡng</div> <div class=\"nghia_anh\">nutrition</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ぐんたい</b></div> <div class=\"kanji\">軍隊</div> <div class=\"nghia_viet\">quân đội</div> <div class=\"nghia_anh\">army</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たち</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">những ~, các ~ (đi sau từ chỉ người, con vật biểu thị số nhiều)</div> <div class=\"nghia_anh\">(plural suffix for people and animails)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーねんだい</b></div> <div class=\"kanji\">ー年代</div> <div class=\"nghia_viet\">những năm, thập niên</div> <div class=\"nghia_anh\">(Indicates ten-year periods/eras)</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こけいの</b></div> <div class=\"kanji\">固形の</div> <div class=\"nghia_viet\">dạng cứng</div> <div class=\"nghia_anh\">solid</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>カレールウ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">roux, hạt nêm cà-ri</div> <div class=\"nghia_anh\">curry roux</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うどん</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">mì udon</div> <div class=\"nghia_anh\">noodles</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あれこれ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">đủ các loại, cái này cái kia</div> <div class=\"nghia_anh\">all sorts of things</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>インスタント</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">ăn liền, ăn nhanh</div> <div class=\"nghia_anh\">instant</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>せいさんりょう</b></div> <div class=\"kanji\">生産量</div> <div class=\"nghia_viet\">sản lượng</div> <div class=\"nghia_anh\">production amount</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>グラフ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">đồ thị</div> <div class=\"nghia_anh\">graph</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>スパイス</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">gia vị</div> <div class=\"nghia_anh\">spice</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>たいおん</b></div> <div class=\"kanji\">体温</div> <div class=\"nghia_viet\">thân nhiệt</div> <div class=\"nghia_anh\">(body) temperature</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>レトルト</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">bịch retort</div> <div class=\"nghia_anh\">boil-in-the-bag food, retort-packet food</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>カップめん</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">mì bát ăn liền</div> <div class=\"nghia_anh\">pot noodles</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>おこのみやき</b></div> <div class=\"kanji\">お好み焼き</div> <div class=\"nghia_viet\">bánh xèo</div> <div class=\"nghia_anh\">Japanese savory pancake</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>～ぶん</b></div> <div class=\"kanji\">～分</div> <div class=\"nghia_viet\">suất ăn cho ~</div> <div class=\"nghia_anh\">amount for ~</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こむぎこ</b></div> <div class=\"kanji\">小麦粉</div> <div class=\"nghia_viet\">bột mì</div> <div class=\"nghia_anh\">flour</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ーカップ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">- chén</div> <div class=\"nghia_anh\">- cup</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>キャベツ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">bắp cải</div> <div class=\"nghia_anh\">cabbage</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>２ぶんの１</b></div> <div class=\"kanji\">１／２</div> <div class=\"nghia_viet\">một phần hai</div> <div class=\"nghia_anh\">one half</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>エビ</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">tôm</div> <div class=\"nghia_anh\">prawn, shrimp</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かつおぶし</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">cá bào</div> <div class=\"nghia_anh\">shaved dried bonito</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あおのり</b></div> <div class=\"kanji\">青のり</div> <div class=\"nghia_viet\">tảo biển xanh</div> <div class=\"nghia_anh\">finely cut dried green laver</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>フライパン</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">chảo</div> <div class=\"nghia_anh\">frying pan</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>あぶら</b></div> <div class=\"kanji\">油</div> <div class=\"nghia_viet\">dầu, mỡ</div> <div class=\"nghia_anh\">oil</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ぬります</b></div> <div class=\"kanji\">塗ります</div> <div class=\"nghia_viet\">phết, bôi</div> <div class=\"nghia_anh\">spread</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>まるく</b></div> <div class=\"kanji\">丸く</div> <div class=\"nghia_viet\">tròn</div> <div class=\"nghia_anh\">round</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>ひろげます</b></div> <div class=\"kanji\">広げます</div> <div class=\"nghia_viet\">trải </div> <div class=\"nghia_anh\">spead</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>やきます</b></div> <div class=\"kanji\">焼きます</div> <div class=\"nghia_viet\">cháy</div> <div class=\"nghia_anh\">fry</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>やけます</b></div> <div class=\"kanji\">焼けます</div> <div class=\"nghia_viet\">nướng, rán</div> <div class=\"nghia_anh\">be cooked</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>うらがえします</b></div> <div class=\"kanji\">裏返します</div> <div class=\"nghia_viet\">lật</div> <div class=\"nghia_anh\">turn over</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>こげます</b></div> <div class=\"kanji\">焦げます</div> <div class=\"nghia_viet\">bị cháy</div> <div class=\"nghia_anh\">burn</div> </div> <div class=\"boxtv\"> <div class=\"tuvung\"><b>かけます</b></div> <div class=\"kanji\"></div> <div class=\"nghia_viet\">rưới, đổ, chan</div> <div class=\"nghia_anh\">pour </div> </div> </div> </div>",
+      "items": [
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        },
+        {
+          "kind": "vocab",
+          "word": "",
+          "wordHtml": "",
+          "kanji": "",
+          "kanjiHtml": "",
+          "meaningVi": "",
+          "meaningViHtml": "",
+          "meaningEn": "",
+          "meaningEnHtml": ""
+        }
+      ]
+    },
+    {
+      "id": "tab2",
+      "title": "Đọc hiểu",
+      "titleHtml": "Đọc hiểu",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b>カレー</b></h3> <p></p> カレーライスを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べたことがありますか。 <p></p> カレーは、インドなどアジアのいろいろな<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>でよく<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べられています。 あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>にありますか。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーと<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じですか。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>いご<ruby>飯<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>にカレーをかけて<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるカレーライスが<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いです。 <p></p> カレーは<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めにイギリスから<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>に<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>されました。 １８<ruby>世紀<rp>（</rp><rt>せいき</rt><rp>）</rp></ruby>にインドでカレーの<ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>ったイギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>って<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りました。 イギリスでは<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>をちょっと<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えて、イギリスが<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby>にしました。 <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はこのイギリスの<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>を<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いました。 <p></p> <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>のカレーにはいろいろな<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていますが、<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>のカレーにはあまり<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていませんでした。 <ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>は<ruby>牛肉<rp>（</rp><rt>ぎゅうにく</rt><rp>）</rp></ruby>などのほかに、エビやカエルを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いました。 <ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>も<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>すぎましたから、<ruby>普通<rp>（</rp><rt>ふつう</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はあまり<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べることができませんでした。 <p></p> <ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりに<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でカレー<ruby>粉<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>れるようになって、<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>も<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くなりました。 いろいろな<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>も<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われるようになりました。 カレーは<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>が<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>だし、<ruby>栄養<rp>（</rp><rt>えいよう</rt><rp>）</rp></ruby>もあるので、<ruby>軍隊<rp>（</rp><rt>ぐんたい</rt><rp>）</rp></ruby>でよく<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られました。 <ruby>軍隊<rp>（</rp><rt>ぐんたい</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べた<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>たちが、うちでもカレーを<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>って<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。 それで、<ruby>日本中<rp>（</rp><rt>にほんじゅう</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるようになったと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。 <p></p> １９５０<ruby>年代<rp>（</rp><rt>ねんだい</rt><rp>）</rp></ruby>に<ruby>固形<rp>（</rp><rt>こけい</rt><rp>）</rp></ruby>のカレールウができて、<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>よりもっと<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りやすくなりました。 それで、カレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えました。 <p></p> カレーを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>った<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>があって、カレーライスほかに、カレーパン、カレーうどんなどもよく<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べられています。 <p></p> アメリカのスーパーでは<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレールウをたくさん<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>っています。 あるインド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>はそれを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べてみました。 「うん、うまい。<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーも<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くない」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って、<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーは<ruby>日本料理<rp>（</rp><rt>にほんりょうり</rt><rp>）</rp></ruby>と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>っていいでしょう。 <p></p> おいしくて、<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くて、<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>に<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>れる<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレー。 あなたも<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>はカレーにしませんか。 <p><br /></p> <h5>Trả lời câu hỏi</h5> <p></p>I 1．<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はインドのカレーの<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>をイギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>から<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>った。 <p></p> 2)（ ） <ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりにカレーの<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>が<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くなった。 <p></p> 3)（ ） <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではカレーライスの<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>に、カレーを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>ったいろいろな<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がある。 <p></p> 4)（ ） あるインド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>はアメリカで<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレールウを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って、インドへ<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。 <p></p> 2. どうして<ruby>日本中<rp>（</rp><rt>にほんじゅう</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるようになったのですか。 <p></p>II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>にもカレーがありますか。 <p></p> どんなカレーですか。 <p></p> <div class=\"slide\"><div class=\"slide-title sl2\"><span>Đáp Án & Dịch</span></div><div class=\"slide-content sl2\"> <div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>カレー</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Cà ri.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">カレーライスを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べたことがありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn đã từng ăn cơm cà ri chưa?</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">カレーは、インドなどアジアのいろいろな<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>でよく<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べられています。</div><div class=\"kqdich\"><div class=\"nddich\">Cà ri thường được nhiều ở nhiều nước châu Á như Ấn Độ. </div></div></div> <div class=\"tudich\"><div class=\"candich\">あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>にありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Ở đất nước bạn có không? </div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーと<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じですか。</div><div class=\"kqdich\"><div class=\"nddich\">Có giống món Cà ri ở Nhật không?</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>いご<ruby>飯<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>にカレーをかけて<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるカレーライスが<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いです。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Nhật, thông thường thì cơm cà ri thì cho cà ri lên trên cơm trắng rồi ăn.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">カレーは<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めにイギリスから<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>に<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>されました。</div><div class=\"kqdich\"><div class=\"nddich\">Cà ri được du nhập từ Anh vào Nhật Bản vào đầu thời kì Minh Trị. </div></div></div> <div class=\"tudich\"><div class=\"candich\">１８<ruby>世紀<rp>（</rp><rt>せいき</rt><rp>）</rp></ruby>にインドでカレーの<ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>ったイギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>って<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りました。</div><div class=\"kqdich\"><div class=\"nddich\">Vào thế kỷ 18, một người Anh đã biết hương vị cà ri ở Ấn Độ đã trở về nước rồi làm món này.</div></div></div> <div class=\"tudich\"><div class=\"candich\">イギリスでは<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>をちょっと<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えて、イギリスが<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby>にしました。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Anh, họ đã thay đổi một chút về cách làm, họ chọn vị mà người Anh yêu thích.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はこのイギリスの<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>を<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Người Nhật Bản đã học cách làm này của người Anh. </div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>のカレーにはいろいろな<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていますが、<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>のカレーにはあまり<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Món cà ri ngày nay có nhiều loại rau củ khác nhau nhưng cà ri thời kì Minh Trị thì không có rau củ cho lắm.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>は<ruby>牛肉<rp>（</rp><rt>ぎゅうにく</rt><rp>）</rp></ruby>などのほかに、エビやカエルを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いました。</div><div class=\"kqdich\"><div class=\"nddich\">Thịt thì ngoài thịt bò, họ đã sử dụng tôm hay ếch.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>も<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>すぎましたから、<ruby>普通<rp>（</rp><rt>ふつう</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はあまり<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べることができませんでした。</div><div class=\"kqdich\"><div class=\"nddich\">Vì giá quá cao nên người bình thường không thể ăn được.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりに<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でカレー<ruby>粉<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>れるようになって、<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>も<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くなりました。</div><div class=\"kqdich\"><div class=\"nddich\">Vào cuối thời kì Minh Trị, người ta đã có thể sản xuất bột cà ri ở Nhật, vì thế giá cũng đã rẻ hơn.</div></div></div> <div class=\"tudich\"><div class=\"candich\">いろいろな<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>も<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われるようになりました。</div><div class=\"kqdich\"><div class=\"nddich\">Cũng sử dụng nhiều loại rau củ khác nhau.</div></div></div> <div class=\"tudich\"><div class=\"candich\">カレーは<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>が<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>だし、<ruby>栄養<rp>（</rp><rt>えいよう</rt><rp>）</rp></ruby>もあるので、<ruby>軍隊<rp>（</rp><rt>ぐんたい</rt><rp>）</rp></ruby>でよく<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られました。</div><div class=\"kqdich\"><div class=\"nddich\">Vì cà ri có cách làm đơn giản, cũng có dinh dưỡng nên được sử dụng trong quân đội.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>軍隊<rp>（</rp><rt>ぐんたい</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べた<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>たちが、うちでもカレーを<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>って<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。</div><div class=\"kqdich\"><div class=\"nddich\">Những người ăn cà ri trong quân đội thì cũng làm rồi ăn ở nhà.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それで、<ruby>日本中<rp>（</rp><rt>にほんじゅう</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるようになったと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy, người ta cho rằng cà ri đã lan rộng trên khắp Nhật Bản. </div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">１９５０<ruby>年代<rp>（</rp><rt>ねんだい</rt><rp>）</rp></ruby>に<ruby>固形<rp>（</rp><rt>こけい</rt><rp>）</rp></ruby>のカレールウができて、<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>よりもっと<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りやすくなりました。</div><div class=\"kqdich\"><div class=\"nddich\">Viên cà ri dạng rắn được sản xuất vào những năm 1950, nên cà ri dễ làm hơn trước.</div></div></div> <div class=\"tudich\"><div class=\"candich\">それで、カレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えました。</div><div class=\"kqdich\"><div class=\"nddich\">Vì vậy người ăn cà ri đã tăng lên.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">カレーを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>った<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>があって、カレーライスほかに、カレーパン、カレーうどんなどもよく<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べられています。</div><div class=\"kqdich\"><div class=\"nddich\">Đồ ăn có sử dụng cà ri được yêu thích, ngoài cơm cà ri, thì người ta cũng thường ăn bánh mì cà ri hay mì undon cà ri.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">アメリカのスーパーでは<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレールウをたくさん<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>っています。</div><div class=\"kqdich\"><div class=\"nddich\">Các siêu thị ở Mỹ bán rất nhiều viên cà ri của Nhật Bản.</div></div></div> <div class=\"tudich\"><div class=\"candich\">あるインド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>はそれを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べてみました。</div><div class=\"kqdich\"><div class=\"nddich\">Một người Ấn Độ mua nó và dùng thử.</div></div></div> <div class=\"tudich\"><div class=\"candich\">「うん、うまい。<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーも<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くない」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って、<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。</div><div class=\"kqdich\"><div class=\"nddich\">Ông nói rằng: “ừm, ngon lắm, cà ri Nhật không tệ”, rồi mua mang về nước.</div></div></div> <div class=\"tudich\"><div class=\"candich\"><ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーは<ruby>日本料理<rp>（</rp><rt>にほんりょうり</rt><rp>）</rp></ruby>と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>っていいでしょう。</div><div class=\"kqdich\"><div class=\"nddich\">Nói cà ri Nhật là món ăn Nhật Bản cũng được nhỉ.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">おいしくて、<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くて、<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>に<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>れる<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレー。</div><div class=\"kqdich\"><div class=\"nddich\">Cà ri Nhật vừa ngon, vừa rẻ, vừa có thể chế biến đơn giản. </div></div></div> <div class=\"tudich\"><div class=\"candich\">あなたも<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>はカレーにしませんか。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn có ăn cà ri tối nay không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">I 1．<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。</div><div class=\"kqdich\"><div class=\"nddich\">Hãy đánh 〇 vào câu đúng, ✕ vào câu không đúng.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 1)（<b>Ｘ</b>）<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はインドのカレーの<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>をイギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>から<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>った。</div><div class=\"kqdich\"><div class=\"nddich\">Người Nhật học cách làm món cà ri của Indo từ người Anh.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2)（<b>〇</b>）<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりにカレーの<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>が<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くなった。</div><div class=\"kqdich\"><div class=\"nddich\">Vào cuối thời kì Minh Trị giá của cà ri rẻ hơn.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 3)（<b>〇</b>）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではカレーライスの<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>に、カレーを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>ったいろいろな<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がある。</div><div class=\"kqdich\"><div class=\"nddich\">Ở Nhật ngoài hạt nêm cà ri thì có nhiều món muốn sử dụng cà ri.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 4)（<b>〇</b>）あるインド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>はアメリカで<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレールウを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って、インドへ<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。</div><div class=\"kqdich\"><div class=\"nddich\">Người Ân Độ đã mua hạt nêm cà ri của Nhật ở nước Mỹ và mang về nước Indo.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> 2. どうして<ruby>日本中<rp>（</rp><rt>にほんじゅう</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるようになったのですか。</div><div class=\"kqdich\"><div class=\"nddich\">Tại sao trên khác nươc Nhật đã cari.</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\">II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>にもカレーがありますか。</div><div class=\"kqdich\"><div class=\"nddich\">Ở đất nước bạn cũng có món cà ri không?</div></div></div> <p></p><div class=\"tudich\"><div class=\"candich\"> どんなカレーですか。</div><div class=\"kqdich\"><div class=\"nddich\">Cà ri như thế nào?</div></div></div> </div> </div><!--END--> </div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "カレー",
+          "textHtml": "<b>カレー</b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p> カレーライスを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べたことがありますか。 <p></p> カレーは、インドなどアジアのいろいろな<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>でよく<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べられています。 あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>にありますか。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーと<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じですか。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>いご<ruby>飯<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>にカレーをかけて<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるカレーライスが<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いです。 <p></p> カレーは<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めにイギリスから<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>に<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>されました。 １８<ruby>世紀<rp>（</rp><rt>せいき</rt><rp>）</rp></ruby>にインドでカレーの<ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>ったイギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>って<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りました。 イギリスでは<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>をちょっと<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えて、イギリスが<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby>にしました。 <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はこのイギリスの<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>を<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いました。 <p></p> <ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>のカレーにはいろいろな<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていますが、<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>のカレーにはあまり<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていませんでした。 <ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>は<ruby>牛肉<rp>（</rp><rt>ぎゅうにく</rt><rp>）</rp></ruby>などのほかに、エビやカエルを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いました。 <ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>も<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>すぎましたから、<ruby>普通<rp>（</rp><rt>ふつう</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はあまり<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べることができませんでした。 <p></p> <ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりに<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でカレー<ruby>粉<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>れるようになって、<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>も<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くなりました。 いろいろな<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>も<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われるようになりました。 カレーは<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>が<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>だし、<ruby>栄養<rp>（</rp><rt>えいよう</rt><rp>）</rp></ruby>もあるので、<ruby>軍隊<rp>（</rp><rt>ぐんたい</rt><rp>）</rp></ruby>でよく<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られました。 <ruby>軍隊<rp>（</rp><rt>ぐんたい</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べた<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>たちが、うちでもカレーを<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>って<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。 それで、<ruby>日本中<rp>（</rp><rt>にほんじゅう</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるようになったと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。 <p></p> １９５０<ruby>年代<rp>（</rp><rt>ねんだい</rt><rp>）</rp></ruby>に<ruby>固形<rp>（</rp><rt>こけい</rt><rp>）</rp></ruby>のカレールウができて、<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>よりもっと<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りやすくなりました。 それで、カレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えました。 <p></p> カレーを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>った<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>があって、カレーライスほかに、カレーパン、カレーうどんなどもよく<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べられています。 <p></p> アメリカのスーパーでは<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレールウをたくさん<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>っています。 あるインド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>はそれを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べてみました。 「うん、うまい。<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーも<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くない」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って、<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。 <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーは<ruby>日本料理<rp>（</rp><rt>にほんりょうり</rt><rp>）</rp></ruby>と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>っていいでしょう。 <p></p> おいしくて、<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くて、<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>に<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>れる<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレー。 あなたも<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>はカレーにしませんか。 <p><br /></p>"
+        },
+        {
+          "kind": "heading",
+          "level": 5,
+          "text": "Trả lời câu hỏi",
+          "textHtml": "Trả lời câu hỏi"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p></p>I 1．<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。 <p></p> 1)（ ） <ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はインドのカレーの<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>をイギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>から<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>った。 <p></p> 2)（ ） <ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりにカレーの<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>が<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くなった。 <p></p> 3)（ ） <ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではカレーライスの<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>に、カレーを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>ったいろいろな<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がある。 <p></p> 4)（ ） あるインド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>はアメリカで<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレールウを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って、インドへ<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。 <p></p> 2. どうして<ruby>日本中<rp>（</rp><rt>にほんじゅう</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるようになったのですか。 <p></p>II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>にもカレーがありますか。 <p></p> どんなカレーですか。 <p></p>"
+        },
+        {
+          "kind": "slide",
+          "variant": "collapsible",
+          "title": "Đáp Án & Dịch",
+          "titleHtml": "Đáp Án & Dịch",
+          "contentHtml": "<div class=\"tudich\"><div class=\"candich\"><h3 style=\"text-align: center; \"><b>カレー</b></h3></div><div class=\"kqdich\"><div class=\"nddich\">Cà ri.",
+          "blocks": [
+            {
+              "kind": "heading",
+              "level": 3,
+              "text": "カレー",
+              "textHtml": "<b>カレー</b>"
+            },
+            {
+              "kind": "html",
+              "contentHtml": "</div><div class=\"kqdich\"><div class=\"nddich\">Cà ri."
+            }
+          ]
+        },
+        {
+          "kind": "tudich",
+          "japanese": "カレーライスを食（た）べたことがありますか。",
+          "japaneseHtml": "カレーライスを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べたことがありますか。",
+          "vietnamese": "Bạn đã từng ăn cơm cà ri chưa?",
+          "vietnameseHtml": "Bạn đã từng ăn cơm cà ri chưa?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "カレーは、インドなどアジアのいろいろな国（くに）でよく食（た）べられています。",
+          "japaneseHtml": "カレーは、インドなどアジアのいろいろな<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>でよく<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べられています。",
+          "vietnamese": "Cà ri thường được nhiều ở nhiều nước châu Á như Ấn Độ.",
+          "vietnameseHtml": "Cà ri thường được nhiều ở nhiều nước châu Á như Ấn Độ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "あなたの国（くに）にありますか。",
+          "japaneseHtml": "あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>にありますか。",
+          "vietnamese": "Ở đất nước bạn có không?",
+          "vietnameseHtml": "Ở đất nước bạn có không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）のカレーと同（おな）じですか。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーと<ruby>同<rp>（</rp><rt>おな</rt><rp>）</rp></ruby>じですか。",
+          "vietnamese": "Có giống món Cà ri ở Nhật không?",
+          "vietnameseHtml": "Có giống món Cà ri ở Nhật không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）では白（しろ）いご飯（はん）の上（うえ）にカレーをかけて食（た）べるカレーライスが多（おお）いです。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>では<ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>いご<ruby>飯<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>の<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>にカレーをかけて<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるカレーライスが<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>いです。",
+          "vietnamese": "Ở Nhật, thông thường thì cơm cà ri thì cho cà ri lên trên cơm trắng rồi ăn.",
+          "vietnameseHtml": "Ở Nhật, thông thường thì cơm cà ri thì cho cà ri lên trên cơm trắng rồi ăn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "カレーは明治時代（めいじじだい）の初（はじ）めにイギリスから日本（にほん）に紹介（しょうかい）されました。",
+          "japaneseHtml": "カレーは<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めにイギリスから<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>に<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>されました。",
+          "vietnamese": "Cà ri được du nhập từ Anh vào Nhật Bản vào đầu thời kì Minh Trị.",
+          "vietnameseHtml": "Cà ri được du nhập từ Anh vào Nhật Bản vào đầu thời kì Minh Trị."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１８世紀（せいき）にインドでカレーの味（あじ）を知（し）ったイギリス人（じん）が国（くに）へ帰（かえ）って作（つく）りました。",
+          "japaneseHtml": "１８<ruby>世紀<rp>（</rp><rt>せいき</rt><rp>）</rp></ruby>にインドでカレーの<ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>ったイギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>が<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>って<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りました。",
+          "vietnamese": "Vào thế kỷ 18, một người Anh đã biết hương vị cà ri ở Ấn Độ đã trở về nước rồi làm món này.",
+          "vietnameseHtml": "Vào thế kỷ 18, một người Anh đã biết hương vị cà ri ở Ấn Độ đã trở về nước rồi làm món này."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "イギリスでは作（つく）り方（かた）をちょっと変（か）えて、イギリスが好（す）きな味（あじ）にしました。",
+          "japaneseHtml": "イギリスでは<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>をちょっと<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えて、イギリスが<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby>味<rp>（</rp><rt>あじ</rt><rp>）</rp></ruby>にしました。",
+          "vietnamese": "Ở Anh, họ đã thay đổi một chút về cách làm, họ chọn vị mà người Anh yêu thích.",
+          "vietnameseHtml": "Ở Anh, họ đã thay đổi một chút về cách làm, họ chọn vị mà người Anh yêu thích."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本人（にほんじん）はこのイギリスの作（つく）り方（かた）を習（なら）いました。",
+          "japaneseHtml": "<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はこのイギリスの<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>を<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Người Nhật Bản đã học cách làm này của người Anh.",
+          "vietnameseHtml": "Người Nhật Bản đã học cách làm này của người Anh."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今（いま）のカレーにはいろいろな野菜（やさい）が入（はい）っていますが、明治時代（めいじじだい）のカレーにはあまり入（はい）っていませんでした。",
+          "japaneseHtml": "<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>のカレーにはいろいろな<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>が<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていますが、<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>のカレーにはあまり<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていませんでした。",
+          "vietnamese": "Món cà ri ngày nay có nhiều loại rau củ khác nhau nhưng cà ri thời kì Minh Trị thì không có rau củ cho lắm.",
+          "vietnameseHtml": "Món cà ri ngày nay có nhiều loại rau củ khác nhau nhưng cà ri thời kì Minh Trị thì không có rau củ cho lắm."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "肉（にく）は牛肉（ぎゅうにく）などのほかに、エビやカエルを使（つか）いました。",
+          "japaneseHtml": "<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>は<ruby>牛肉<rp>（</rp><rt>ぎゅうにく</rt><rp>）</rp></ruby>などのほかに、エビやカエルを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いました。",
+          "vietnamese": "Thịt thì ngoài thịt bò, họ đã sử dụng tôm hay ếch.",
+          "vietnameseHtml": "Thịt thì ngoài thịt bò, họ đã sử dụng tôm hay ếch."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "値段（ねだん）も高（たか）すぎましたから、普通（ふつう）の人（ひと）はあまり食（た）べることができませんでした。",
+          "japaneseHtml": "<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>も<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>すぎましたから、<ruby>普通<rp>（</rp><rt>ふつう</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>はあまり<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べることができませんでした。",
+          "vietnamese": "Vì giá quá cao nên người bình thường không thể ăn được.",
+          "vietnameseHtml": "Vì giá quá cao nên người bình thường không thể ăn được."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "明治時代（めいじじだい）の終（お）わりに日本（にほん）でカレー粉（こ）が作（つく）れるようになって、値段（ねだん）も安（やす）くなりました。",
+          "japaneseHtml": "<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりに<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>でカレー<ruby>粉<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>が<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>れるようになって、<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>も<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くなりました。",
+          "vietnamese": "Vào cuối thời kì Minh Trị, người ta đã có thể sản xuất bột cà ri ở Nhật, vì thế giá cũng đã rẻ hơn.",
+          "vietnameseHtml": "Vào cuối thời kì Minh Trị, người ta đã có thể sản xuất bột cà ri ở Nhật, vì thế giá cũng đã rẻ hơn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "いろいろな野菜（やさい）も使（つか）われるようになりました。",
+          "japaneseHtml": "いろいろな<ruby>野菜<rp>（</rp><rt>やさい</rt><rp>）</rp></ruby>も<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>われるようになりました。",
+          "vietnamese": "Cũng sử dụng nhiều loại rau củ khác nhau.",
+          "vietnameseHtml": "Cũng sử dụng nhiều loại rau củ khác nhau."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "カレーは作（つく）り方（かた）が簡単（かんたん）だし、栄養（えいよう）もあるので、軍隊（ぐんたい）でよく作（つく）られました。",
+          "japaneseHtml": "カレーは<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>が<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>だし、<ruby>栄養<rp>（</rp><rt>えいよう</rt><rp>）</rp></ruby>もあるので、<ruby>軍隊<rp>（</rp><rt>ぐんたい</rt><rp>）</rp></ruby>でよく<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>られました。",
+          "vietnamese": "Vì cà ri có cách làm đơn giản, cũng có dinh dưỡng nên được sử dụng trong quân đội.",
+          "vietnameseHtml": "Vì cà ri có cách làm đơn giản, cũng có dinh dưỡng nên được sử dụng trong quân đội."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "軍隊（ぐんたい）でカレーを食（た）べた人（ひと）たちが、うちでもカレーを作（つく）って食（た）べました。",
+          "japaneseHtml": "<ruby>軍隊<rp>（</rp><rt>ぐんたい</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べた<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>たちが、うちでもカレーを<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>って<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べました。",
+          "vietnamese": "Những người ăn cà ri trong quân đội thì cũng làm rồi ăn ở nhà.",
+          "vietnameseHtml": "Những người ăn cà ri trong quân đội thì cũng làm rồi ăn ở nhà."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで、日本中（にほんじゅう）でカレーを食（た）べるようになったと言（い）われています。",
+          "japaneseHtml": "それで、<ruby>日本中<rp>（</rp><rt>にほんじゅう</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるようになったと<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>われています。",
+          "vietnamese": "Vì vậy, người ta cho rằng cà ri đã lan rộng trên khắp Nhật Bản.",
+          "vietnameseHtml": "Vì vậy, người ta cho rằng cà ri đã lan rộng trên khắp Nhật Bản."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "１９５０年代（ねんだい）に固形（こけい）のカレールウができて、前（まえ）よりもっと作（つく）りやすくなりました。",
+          "japaneseHtml": "１９５０<ruby>年代<rp>（</rp><rt>ねんだい</rt><rp>）</rp></ruby>に<ruby>固形<rp>（</rp><rt>こけい</rt><rp>）</rp></ruby>のカレールウができて、<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>よりもっと<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>りやすくなりました。",
+          "vietnamese": "Viên cà ri dạng rắn được sản xuất vào những năm 1950, nên cà ri dễ làm hơn trước.",
+          "vietnameseHtml": "Viên cà ri dạng rắn được sản xuất vào những năm 1950, nên cà ri dễ làm hơn trước."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "それで、カレーを食（た）べる人（ひと）が増（ふ）えました。",
+          "japaneseHtml": "それで、カレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>が<ruby>増<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>えました。",
+          "vietnamese": "Vì vậy người ăn cà ri đã tăng lên.",
+          "vietnameseHtml": "Vì vậy người ăn cà ri đã tăng lên."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "カレーを使（つか）った食（た）べ物（もの）は人気（にんき）があって、カレーライスほかに、カレーパン、カレーうどんなどもよく食（た）べられています。",
+          "japaneseHtml": "カレーを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>った<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>は<ruby>人気<rp>（</rp><rt>にんき</rt><rp>）</rp></ruby>があって、カレーライスほかに、カレーパン、カレーうどんなどもよく<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べられています。",
+          "vietnamese": "Đồ ăn có sử dụng cà ri được yêu thích, ngoài cơm cà ri, thì người ta cũng thường ăn bánh mì cà ri hay mì undon cà ri.",
+          "vietnameseHtml": "Đồ ăn có sử dụng cà ri được yêu thích, ngoài cơm cà ri, thì người ta cũng thường ăn bánh mì cà ri hay mì undon cà ri."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "アメリカのスーパーでは日本（にほん）のカレールウをたくさん売（う）っています。",
+          "japaneseHtml": "アメリカのスーパーでは<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレールウをたくさん<ruby>売<rp>（</rp><rt>う</rt><rp>）</rp></ruby>っています。",
+          "vietnamese": "Các siêu thị ở Mỹ bán rất nhiều viên cà ri của Nhật Bản.",
+          "vietnameseHtml": "Các siêu thị ở Mỹ bán rất nhiều viên cà ri của Nhật Bản."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "あるインド人（じん）はそれを買（か）って食（た）べてみました。",
+          "japaneseHtml": "あるインド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>はそれを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べてみました。",
+          "vietnamese": "Một người Ấn Độ mua nó và dùng thử.",
+          "vietnameseHtml": "Một người Ấn Độ mua nó và dùng thử."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "「うん、うまい。日本（にほん）のカレーも悪（わる）くない」と言（い）って、国（くに）へ買（か）って帰（かえ）りました。",
+          "japaneseHtml": "「うん、うまい。<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーも<ruby>悪<rp>（</rp><rt>わる</rt><rp>）</rp></ruby>くない」と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>って、<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>へ<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>りました。",
+          "vietnamese": "Ông nói rằng: “ừm, ngon lắm, cà ri Nhật không tệ”, rồi mua mang về nước.",
+          "vietnameseHtml": "Ông nói rằng: “ừm, ngon lắm, cà ri Nhật không tệ”, rồi mua mang về nước."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "日本（にほん）のカレーは日本料理（にほんりょうり）と言（い）っていいでしょう。",
+          "japaneseHtml": "<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレーは<ruby>日本料理<rp>（</rp><rt>にほんりょうり</rt><rp>）</rp></ruby>と<ruby>言<rp>（</rp><rt>い</rt><rp>）</rp></ruby>っていいでしょう。",
+          "vietnamese": "Nói cà ri Nhật là món ăn Nhật Bản cũng được nhỉ.",
+          "vietnameseHtml": "Nói cà ri Nhật là món ăn Nhật Bản cũng được nhỉ."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "おいしくて、安（やす）くて、簡単（かんたん）に作（つく）れる日本（にほん）のカレー。",
+          "japaneseHtml": "おいしくて、<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くて、<ruby>簡単<rp>（</rp><rt>かんたん</rt><rp>）</rp></ruby>に<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>れる<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレー。",
+          "vietnamese": "Cà ri Nhật vừa ngon, vừa rẻ, vừa có thể chế biến đơn giản.",
+          "vietnameseHtml": "Cà ri Nhật vừa ngon, vừa rẻ, vừa có thể chế biến đơn giản."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "あなたも今晩（こんばん）はカレーにしませんか。",
+          "japaneseHtml": "あなたも<ruby>今晩<rp>（</rp><rt>こんばん</rt><rp>）</rp></ruby>はカレーにしませんか。",
+          "vietnamese": "Bạn có ăn cà ri tối nay không?",
+          "vietnameseHtml": "Bạn có ăn cà ri tối nay không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "I 1．正（ただ）しいものに〇、正（ただ）しくないものに✕を書（か）いてください。",
+          "japaneseHtml": "I 1．<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しいものに〇、<ruby>正<rp>（</rp><rt>ただ</rt><rp>）</rp></ruby>しくないものに✕を<ruby>書<rp>（</rp><rt>か</rt><rp>）</rp></ruby>いてください。",
+          "vietnamese": "Hãy đánh 〇 vào câu đúng, ✕ vào câu không đúng.",
+          "vietnameseHtml": "Hãy đánh 〇 vào câu đúng, ✕ vào câu không đúng."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1)（Ｘ）日本人（にほんじん）はインドのカレーの作（つく）り方（かた）をイギリス人（じん）から習（なら）った。",
+          "japaneseHtml": "1)（<b>Ｘ</b>）<ruby>日本人<rp>（</rp><rt>にほんじん</rt><rp>）</rp></ruby>はインドのカレーの<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>をイギリス<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>から<ruby>習<rp>（</rp><rt>なら</rt><rp>）</rp></ruby>った。",
+          "vietnamese": "Người Nhật học cách làm món cà ri của Indo từ người Anh.",
+          "vietnameseHtml": "Người Nhật học cách làm món cà ri của Indo từ người Anh."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2)（〇）明治時代（めいじじだい）の終（お）わりにカレーの値段（ねだん）が安（やす）くなった。",
+          "japaneseHtml": "2)（<b>〇</b>）<ruby>明治時代<rp>（</rp><rt>めいじじだい</rt><rp>）</rp></ruby>の<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わりにカレーの<ruby>値段<rp>（</rp><rt>ねだん</rt><rp>）</rp></ruby>が<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>くなった。",
+          "vietnamese": "Vào cuối thời kì Minh Trị giá của cà ri rẻ hơn.",
+          "vietnameseHtml": "Vào cuối thời kì Minh Trị giá của cà ri rẻ hơn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3)（〇）日本（にほん）ではカレーライスの他（ほか）に、カレーを使（つか）ったいろいろな食（た）べ物（もの）がある。",
+          "japaneseHtml": "3)（<b>〇</b>）<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>ではカレーライスの<ruby>他<rp>（</rp><rt>ほか</rt><rp>）</rp></ruby>に、カレーを<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>ったいろいろな<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べ<ruby>物<rp>（</rp><rt>もの</rt><rp>）</rp></ruby>がある。",
+          "vietnamese": "Ở Nhật ngoài hạt nêm cà ri thì có nhiều món muốn sử dụng cà ri.",
+          "vietnameseHtml": "Ở Nhật ngoài hạt nêm cà ri thì có nhiều món muốn sử dụng cà ri."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4)（〇）あるインド人（じん）はアメリカで日本（にほん）のカレールウを買（か）って、インドへ持（も）って帰（かえ）った。",
+          "japaneseHtml": "4)（<b>〇</b>）あるインド<ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>はアメリカで<ruby>日本<rp>（</rp><rt>にほん</rt><rp>）</rp></ruby>のカレールウを<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>って、インドへ<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>って<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。",
+          "vietnamese": "Người Ân Độ đã mua hạt nêm cà ri của Nhật ở nước Mỹ và mang về nước Indo.",
+          "vietnameseHtml": "Người Ân Độ đã mua hạt nêm cà ri của Nhật ở nước Mỹ và mang về nước Indo."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2. どうして日本中（にほんじゅう）でカレーを食（た）べるようになったのですか。",
+          "japaneseHtml": "2. どうして<ruby>日本中<rp>（</rp><rt>にほんじゅう</rt><rp>）</rp></ruby>でカレーを<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べるようになったのですか。",
+          "vietnamese": "Tại sao trên khác nươc Nhật đã cari.",
+          "vietnameseHtml": "Tại sao trên khác nươc Nhật đã cari."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "II あなたの国（くに）にもカレーがありますか。",
+          "japaneseHtml": "II あなたの<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby>にもカレーがありますか。",
+          "vietnamese": "Ở đất nước bạn cũng có món cà ri không?",
+          "vietnameseHtml": "Ở đất nước bạn cũng có món cà ri không?"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "どんなカレーですか。",
+          "japaneseHtml": "どんなカレーですか。",
+          "vietnamese": "Cà ri như thế nào?",
+          "vietnameseHtml": "Cà ri như thế nào?"
+        }
+      ]
+    },
+    {
+      "id": "tab3",
+      "title": "Bổ sung",
+      "titleHtml": "Bổ sung",
+      "contentHtml": "<h3 style=\"text-align: center; \"><b><ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby><ruby>教室<rp>(</rp><rt>きょうしつ</rt><rp>)</rp></ruby></b></h3><p><br></p> <p>きょうは「お<ruby>好<rp>(</rp><rt>この</rt><rp>)</rp></ruby>み<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>き」を<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ってみましょう。</p> <p>一<ruby>材料<rp>(</rp><rt>ざいりょう</rt><rp>)</rp></ruby> (4<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>) 一</p> <p> <ruby>小麦粉<rp>(</rp><rt>こむぎこ</rt><rp>)</rp></ruby> 2カップ <ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby> 1カップ、<ruby>卵<rp>(</rp><rt>たまご</rt><rp>)</rp></ruby> 2<ruby>個<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>、キャベツ 1/2<ruby>個<rp>(</rp><rt>こ</rt><rp>)</rp></ruby></p> <p> <ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>やエビなど 100グラム、ソース、かつおぶし、<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>のり、<ruby>塩<rp>(</rp><rt>しお</rt><rp>)</rp></ruby></p> <p>1) <ruby>小麦粉<rp>(</rp><rt>こむぎこ</rt><rp>)</rp></ruby>に<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>と<ruby>卵<rp>(</rp><rt>たまご</rt><rp>)</rp></ruby>と<ruby>塩<rp>(</rp><rt>しお</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて<ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜる。 よく<ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜたら、<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さく<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ったキャベツを<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れてもう<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby><ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜる。</p> <p>2) フライパンを<ruby>熱<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>くして、<ruby>油<rp>(</rp><rt>あぶら</rt><rp>)</rp></ruby>を<ruby>塗<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>って、1)を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて、<ruby>丸<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>く<ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>げる。</p> <p> <ruby>厚<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>さを2センチぐらいにする。 <ruby>厚<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>すぎると、<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>が<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>けない。</p> <p>3) <ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>やエビなど、<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きな<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>いて、2)の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に<ruby>載<rp>(</rp><rt>の</rt><rp>)</rp></ruby>せる。</p> <p>4) <ruby>下側<rp>(</rp><rt>したがわ</rt><rp>)</rp></ruby>と<ruby>周<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りが<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>けたら、<ruby>裏返<rp>(</rp><rt>うらがえ</rt><rp>)</rp></ruby>す。 <ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>が<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>いと、<ruby>焦<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>げやすいので<ruby>注意<rp>(</rp><rt>ちゅうい</rt><rp>)</rp></ruby>する。</p> <p> <ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>きすぎると、まずくなる。</p> <p>5) 2、3<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>裏返<rp>(</rp><rt>うらがえ</rt><rp>)</rp></ruby>して、<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>けたら、ソースをかけて、かつおぶしと<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>のりを<ruby>載<rp>(</rp><rt>の</rt><rp>)</rp></ruby>せて<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる。</p> <p><br></p> <p>1.「お<ruby>好<rp>(</rp><rt>この</rt><rp>)</rp></ruby>み<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>き」の<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>り<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby></p> <p>    1（ ）→  2（ ）→  3（ ）→  4 （ ）</p> <img decoding=\"async\" src=\"/images/minnamoi/bai44/doc44_1.jpg\"> <p>2. あなたも<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>の<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>り<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>を<ruby>紹介<rp>(</rp><rt>しょうかい</rt><rp>)</rp></ruby>してください。</p> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp án & Dịch</span></div> <div class=\"slide-content sl2\"> <p></p> <div class=\"tudich\"><div class=\"candich\"><ruby>今日<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>は「お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き」を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>ってみましょう」</div><div class=\"kqdich\"><div class=\"nddich\">Hôm nay mọi người hãy cùng làm món “bánh xèo”.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">―<ruby>材料<rp>（</rp><rt>ざいりょう</rt><rp>）</rp></ruby>（4<ruby>人分<rp>（</rp><rt>にんぶん</rt><rp>）</rp></ruby>）―</div><div class=\"kqdich\"><div class=\"nddich\">Nguyên liệu (bốn phần ăn)</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"> <ruby>小麦粉<rp>（</rp><rt>こむぎこ</rt><rp>）</rp></ruby>２カップ、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby> １カップ、<ruby>卵<rp>（</rp><rt>たまご</rt><rp>）</rp></ruby> ２<ruby>個<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>、キャベツ １/２<ruby>個<rp>（</rp><rt>こ</rt><rp>）</rp></ruby></div><div class=\"kqdich\"><div class=\"nddich\">Hai chén bôt mì, 1 cốc nước, 2 quả trứng, 1/2 miếng bắp cải.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"> <ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>やエビなど。１００グラム、ソース、かつあぶし、<ruby>青<rp>（</rp><rt>あお</rt><rp>）</rp></ruby>のり、<ruby>塩<rp>（</rp><rt>しお</rt><rp>）</rp></ruby></div><div class=\"kqdich\"><div class=\"nddich\">100 gram thịt và tôm, nước sốt , cá ngừ bào, rong biển aonori, muối.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">1) <ruby>小麦粉<rp>（</rp><rt>こむぎこ</rt><rp>）</rp></ruby>に、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>と<ruby>卵<rp>（</rp><rt>たまご</rt><rp>）</rp></ruby>と<ruby>塩<rp>（</rp><rt>しお</rt><rp>）</rp></ruby>を<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れて<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜる。よく<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜたら、<ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さく<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ったキャベツを<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてもう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>も<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜる。</div><div class=\"kqdich\"><div class=\"nddich\">Thêm nước và trứng, muối vào bột rồi trộn đều. Sau khi trôn đều, thêm bắp cải đã thái nhỏ vào rồi trộn một lần nữa.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">2) フライパンを<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>くして、<ruby>油<rp>（</rp><rt>あぶら</rt><rp>）</rp></ruby>を<ruby>塗<rp>（</rp><rt>ぬ</rt><rp>）</rp></ruby>って、１）を<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れて、<ruby>丸<rp>（</rp><rt>まる</rt><rp>）</rp></ruby>く<ruby>広<rp>（</rp><rt>ひろ</rt><rp>）</rp></ruby>げる。</div><div class=\"kqdich\"><div class=\"nddich\">Đun nóng chảo, đổ dầu vào, cho hổn hợp trộn ở bước 1) vào rồi làm rộng ra thành hình tròn.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\"> <ruby>厚<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>さを２センチぐらいにする。<ruby>厚<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>すぎると、<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>が<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>けない。</div><div class=\"kqdich\"><div class=\"nddich\">Làm cho độ dày khoảng 2cm. Nếu dày quá thì bên trong sẽ không chín.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">3) <ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>やエビなど、<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きなものを<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>いて、２）のうえ</rt><rp>）</rp></ruby>に<ruby>載<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せる。</div><div class=\"kqdich\"><div class=\"nddich\">Chiên những thứ bạn thích như tôm hoặc thịt, rồi trải phần đã làm ở bước 2)</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">4) <ruby>下側<rp>（</rp><rt>したがわ</rt><rp>）</rp></ruby>と<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りが<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>けたら、<ruby>裏返<rp>（</rp><rt>うらがえ</rt><rp>）</rp></ruby>す。<ruby>火<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>いと、<ruby>焦<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>げやすいので<ruby>注意<rp>（</rp><rt>ちゅうい</rt><rp>）</rp></ruby>する。</div><div class=\"kqdich\"><div class=\"nddich\">Khi mặt dưới và xung quanh đã chín vàng, thì lật mặt bánh lại. Lửa mạnh sẽ dễ bị cháy nên bạn phải cẩn thận.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">5) ２、３<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>裏返<rp>（</rp><rt>うらかえ</rt><rp>）</rp></ruby>して、<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>けたら、ソースをかけて、かつおぶしと<ruby>青<rp>（</rp><rt>あお</rt><rp>）</rp></ruby>のりを<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せて<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる。</div><div class=\"kqdich\"><div class=\"nddich\">Lật lại 2, 3 lần, khi bánh chín thì cho nước sốt lên, rải cá bào và rong biển Aonori lên trên rồi ăn.</div></div></div> <p></p> <div class=\"tudich\"><div class=\"candich\">1.「お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き」の<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>。</div><div class=\"kqdich\"><div class=\"nddich\">Cách làm món bánh xèo.</div></div></div> <p>    1（ b ）→  2（ c ）→  3（ d ）→  4 （ a ）</p> <img decoding=\"async\" src=\"/images/minnamoi/bai44/doc44_1.jpg\"> <p></p> <div class=\"tudich\"><div class=\"candich\">2.あなたも<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>料理<rp>（</rp><rt>りょうり</rt><rp>）</rp></ruby>の<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>を<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。</div><div class=\"kqdich\"><div class=\"nddich\">Bạn hãy giới thiệu cách làm của một món ăn nào đó?</div></div></div> </div> </div> </div> </div> </div><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>",
+      "blocks": [
+        {
+          "kind": "heading",
+          "level": 3,
+          "text": "料理(りょうり)教室(きょうしつ)",
+          "textHtml": "<b><ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby><ruby>教室<rp>(</rp><rt>きょうしつ</rt><rp>)</rp></ruby></b>"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p><br></p> <p>きょうは「お<ruby>好<rp>(</rp><rt>この</rt><rp>)</rp></ruby>み<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>き」を<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ってみましょう。</p> <p>一<ruby>材料<rp>(</rp><rt>ざいりょう</rt><rp>)</rp></ruby> (4<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>) 一</p> <p> <ruby>小麦粉<rp>(</rp><rt>こむぎこ</rt><rp>)</rp></ruby> 2カップ <ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby> 1カップ、<ruby>卵<rp>(</rp><rt>たまご</rt><rp>)</rp></ruby> 2<ruby>個<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>、キャベツ 1/2<ruby>個<rp>(</rp><rt>こ</rt><rp>)</rp></ruby></p> <p> <ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>やエビなど 100グラム、ソース、かつおぶし、<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>のり、<ruby>塩<rp>(</rp><rt>しお</rt><rp>)</rp></ruby></p> <p>1) <ruby>小麦粉<rp>(</rp><rt>こむぎこ</rt><rp>)</rp></ruby>に<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>と<ruby>卵<rp>(</rp><rt>たまご</rt><rp>)</rp></ruby>と<ruby>塩<rp>(</rp><rt>しお</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて<ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜる。 よく<ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜたら、<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さく<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ったキャベツを<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れてもう<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby><ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜる。</p> <p>2) フライパンを<ruby>熱<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>くして、<ruby>油<rp>(</rp><rt>あぶら</rt><rp>)</rp></ruby>を<ruby>塗<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>って、1)を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて、<ruby>丸<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>く<ruby>広<rp>(</rp><rt>ひろ</rt><rp>)</rp></ruby>げる。</p> <p> <ruby>厚<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>さを2センチぐらいにする。 <ruby>厚<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>すぎると、<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>が<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>けない。</p> <p>3) <ruby>肉<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>やエビなど、<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きな<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>いて、2)の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に<ruby>載<rp>(</rp><rt>の</rt><rp>)</rp></ruby>せる。</p> <p>4) <ruby>下側<rp>(</rp><rt>したがわ</rt><rp>)</rp></ruby>と<ruby>周<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りが<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>けたら、<ruby>裏返<rp>(</rp><rt>うらがえ</rt><rp>)</rp></ruby>す。 <ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>が<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>いと、<ruby>焦<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>げやすいので<ruby>注意<rp>(</rp><rt>ちゅうい</rt><rp>)</rp></ruby>する。</p> <p> <ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>きすぎると、まずくなる。</p> <p>5) 2、3<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>裏返<rp>(</rp><rt>うらがえ</rt><rp>)</rp></ruby>して、<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>けたら、ソースをかけて、かつおぶしと<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>のりを<ruby>載<rp>(</rp><rt>の</rt><rp>)</rp></ruby>せて<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる。</p> <p><br></p> <p>1.「お<ruby>好<rp>(</rp><rt>この</rt><rp>)</rp></ruby>み<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>き」の<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>り<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby></p> <p> 1（ ）→ 2（ ）→ 3（ ）→ 4 （ ）</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai44/doc44_1.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai44/doc44_1.jpg\">"
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p>2. あなたも<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>の<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>り<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>を<ruby>紹介<rp>(</rp><rt>しょうかい</rt><rp>)</rp></ruby>してください。</p> <div class=\"slide\"> <div class=\"slide-title sl2\"><span>Đáp án & Dịch</span></div> <div class=\"slide-content sl2\"> <p></p>"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "今日（きょう）は「お好（この）み焼（や）き」を作（つく）ってみましょう」",
+          "japaneseHtml": "<ruby>今日<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>は「お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き」を<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>ってみましょう」",
+          "vietnamese": "Hôm nay mọi người hãy cùng làm món “bánh xèo”.",
+          "vietnameseHtml": "Hôm nay mọi người hãy cùng làm món “bánh xèo”."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "―材料（ざいりょう）（4人分（にんぶん））―",
+          "japaneseHtml": "―<ruby>材料<rp>（</rp><rt>ざいりょう</rt><rp>）</rp></ruby>（4<ruby>人分<rp>（</rp><rt>にんぶん</rt><rp>）</rp></ruby>）―",
+          "vietnamese": "Nguyên liệu (bốn phần ăn)",
+          "vietnameseHtml": "Nguyên liệu (bốn phần ăn)"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "小麦粉（こむぎこ）２カップ、水（みず） １カップ、卵（たまご） ２個（こ）、キャベツ １/２個（こ）",
+          "japaneseHtml": "<ruby>小麦粉<rp>（</rp><rt>こむぎこ</rt><rp>）</rp></ruby>２カップ、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby> １カップ、<ruby>卵<rp>（</rp><rt>たまご</rt><rp>）</rp></ruby> ２<ruby>個<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>、キャベツ １/２<ruby>個<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>",
+          "vietnamese": "Hai chén bôt mì, 1 cốc nước, 2 quả trứng, 1/2 miếng bắp cải.",
+          "vietnameseHtml": "Hai chén bôt mì, 1 cốc nước, 2 quả trứng, 1/2 miếng bắp cải."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "肉（にく）やエビなど。１００グラム、ソース、かつあぶし、青（あお）のり、塩（しお）",
+          "japaneseHtml": "<ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>やエビなど。１００グラム、ソース、かつあぶし、<ruby>青<rp>（</rp><rt>あお</rt><rp>）</rp></ruby>のり、<ruby>塩<rp>（</rp><rt>しお</rt><rp>）</rp></ruby>",
+          "vietnamese": "100 gram thịt và tôm, nước sốt , cá ngừ bào, rong biển aonori, muối.",
+          "vietnameseHtml": "100 gram thịt và tôm, nước sốt , cá ngừ bào, rong biển aonori, muối."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1) 小麦粉（こむぎこ）に、水（みず）と卵（たまご）と塩（しお）を入（い）れて混（ま）ぜる。よく混（ま）ぜたら、小（ちい）さく切（き）ったキャベツを入（い）れてもう一度（いちど）も混（ま）ぜる。",
+          "japaneseHtml": "1) <ruby>小麦粉<rp>（</rp><rt>こむぎこ</rt><rp>）</rp></ruby>に、<ruby>水<rp>（</rp><rt>みず</rt><rp>）</rp></ruby>と<ruby>卵<rp>（</rp><rt>たまご</rt><rp>）</rp></ruby>と<ruby>塩<rp>（</rp><rt>しお</rt><rp>）</rp></ruby>を<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れて<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜる。よく<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜたら、<ruby>小<rp>（</rp><rt>ちい</rt><rp>）</rp></ruby>さく<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>ったキャベツを<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れてもう<ruby>一度<rp>（</rp><rt>いちど</rt><rp>）</rp></ruby>も<ruby>混<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ぜる。",
+          "vietnamese": "Thêm nước và trứng, muối vào bột rồi trộn đều. Sau khi trôn đều, thêm bắp cải đã thái nhỏ vào rồi trộn một lần nữa.",
+          "vietnameseHtml": "Thêm nước và trứng, muối vào bột rồi trộn đều. Sau khi trôn đều, thêm bắp cải đã thái nhỏ vào rồi trộn một lần nữa."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2) フライパンを熱（あつ）くして、油（あぶら）を塗（ぬ）って、１）を入（い）れて、丸（まる）く広（ひろ）げる。",
+          "japaneseHtml": "2) フライパンを<ruby>熱<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>くして、<ruby>油<rp>（</rp><rt>あぶら</rt><rp>）</rp></ruby>を<ruby>塗<rp>（</rp><rt>ぬ</rt><rp>）</rp></ruby>って、１）を<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れて、<ruby>丸<rp>（</rp><rt>まる</rt><rp>）</rp></ruby>く<ruby>広<rp>（</rp><rt>ひろ</rt><rp>）</rp></ruby>げる。",
+          "vietnamese": "Đun nóng chảo, đổ dầu vào, cho hổn hợp trộn ở bước 1) vào rồi làm rộng ra thành hình tròn.",
+          "vietnameseHtml": "Đun nóng chảo, đổ dầu vào, cho hổn hợp trộn ở bước 1) vào rồi làm rộng ra thành hình tròn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "厚（あつ）さを２センチぐらいにする。厚（あつ）すぎると、中（なか）が焼（や）けない。",
+          "japaneseHtml": "<ruby>厚<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>さを２センチぐらいにする。<ruby>厚<rp>（</rp><rt>あつ</rt><rp>）</rp></ruby>すぎると、<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>が<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>けない。",
+          "vietnamese": "Làm cho độ dày khoảng 2cm. Nếu dày quá thì bên trong sẽ không chín.",
+          "vietnameseHtml": "Làm cho độ dày khoảng 2cm. Nếu dày quá thì bên trong sẽ không chín."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "3) 肉（にく）やエビなど、好（す）きなものを焼（や）いて、２）のうえ）に載（の）せる。",
+          "japaneseHtml": "3) <ruby>肉<rp>（</rp><rt>にく</rt><rp>）</rp></ruby>やエビなど、<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きなものを<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>いて、２）のうえ</rt><rp>）</rp></ruby>に<ruby>載<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せる。",
+          "vietnamese": "Chiên những thứ bạn thích như tôm hoặc thịt, rồi trải phần đã làm ở bước 2)",
+          "vietnameseHtml": "Chiên những thứ bạn thích như tôm hoặc thịt, rồi trải phần đã làm ở bước 2)"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "4) 下側（したがわ）と周（まわ）りが焼（や）けたら、裏返（うらがえ）す。火（ひ）が強（つよ）いと、焦（こ）げやすいので注意（ちゅうい）する。",
+          "japaneseHtml": "4) <ruby>下側<rp>（</rp><rt>したがわ</rt><rp>）</rp></ruby>と<ruby>周<rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>りが<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>けたら、<ruby>裏返<rp>（</rp><rt>うらがえ</rt><rp>）</rp></ruby>す。<ruby>火<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>が<ruby>強<rp>（</rp><rt>つよ</rt><rp>）</rp></ruby>いと、<ruby>焦<rp>（</rp><rt>こ</rt><rp>）</rp></ruby>げやすいので<ruby>注意<rp>（</rp><rt>ちゅうい</rt><rp>）</rp></ruby>する。",
+          "vietnamese": "Khi mặt dưới và xung quanh đã chín vàng, thì lật mặt bánh lại. Lửa mạnh sẽ dễ bị cháy nên bạn phải cẩn thận.",
+          "vietnameseHtml": "Khi mặt dưới và xung quanh đã chín vàng, thì lật mặt bánh lại. Lửa mạnh sẽ dễ bị cháy nên bạn phải cẩn thận."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "5) ２、３回（かい）裏返（うらかえ）して、焼（や）けたら、ソースをかけて、かつおぶしと青（あお）のりを乗（の）せて食（た）べる。",
+          "japaneseHtml": "5) ２、３<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>裏返<rp>（</rp><rt>うらかえ</rt><rp>）</rp></ruby>して、<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>けたら、ソースをかけて、かつおぶしと<ruby>青<rp>（</rp><rt>あお</rt><rp>）</rp></ruby>のりを<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>せて<ruby>食<rp>（</rp><rt>た</rt><rp>）</rp></ruby>べる。",
+          "vietnamese": "Lật lại 2, 3 lần, khi bánh chín thì cho nước sốt lên, rải cá bào và rong biển Aonori lên trên rồi ăn.",
+          "vietnameseHtml": "Lật lại 2, 3 lần, khi bánh chín thì cho nước sốt lên, rải cá bào và rong biển Aonori lên trên rồi ăn."
+        },
+        {
+          "kind": "tudich",
+          "japanese": "1.「お好（この）み焼（や）き」の作（つく）り方（かた）。",
+          "japaneseHtml": "1.「お<ruby>好<rp>（</rp><rt>この</rt><rp>）</rp></ruby>み<ruby>焼<rp>（</rp><rt>や</rt><rp>）</rp></ruby>き」の<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>。",
+          "vietnamese": "Cách làm món bánh xèo.",
+          "vietnameseHtml": "Cách làm món bánh xèo."
+        },
+        {
+          "kind": "html",
+          "contentHtml": "<p> 1（ b ）→ 2（ c ）→ 3（ d ）→ 4 （ a ）</p>"
+        },
+        {
+          "kind": "image",
+          "url": "https://www.vnjpclub.com/images/minnamoi/bai44/doc44_1.jpg",
+          "contentHtml": "<img decoding=\"async\" src=\"/images/minnamoi/bai44/doc44_1.jpg\">"
+        },
+        {
+          "kind": "tudich",
+          "japanese": "2.あなたも何（なに）か料理（りょうり）の作（つく）り方（かた）を紹介（しょうかい）してください。",
+          "japaneseHtml": "2.あなたも<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>料理<rp>（</rp><rt>りょうり</rt><rp>）</rp></ruby>の<ruby>作<rp>（</rp><rt>つく</rt><rp>）</rp></ruby>り<ruby>方<rp>（</rp><rt>かた</rt><rp>）</rp></ruby>を<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>してください。",
+          "vietnamese": "Bạn hãy giới thiệu cách làm của một món ăn nào đó?",
+          "vietnameseHtml": "Bạn hãy giới thiệu cách làm của một món ăn nào đó?"
+        }
+      ]
+    }
+  ]
+}

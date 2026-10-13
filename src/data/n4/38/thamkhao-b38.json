@@ -1,0 +1,242 @@
+{
+  "lesson": 38,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "位置（いち） Vị trí",
+      "titleHtml": "<span class=\"i18n\" data-i18n=\"msc.30-tk.tab3.mixed.001\"><ruby>位置<rp>（</rp><rt>いち</rt><rp>）</rp></ruby> Vị trí</span>",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "上（うえ）から2段目（だんめ）",
+              "html": "<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>から2<ruby>段目<rp>（</rp><rt>だんめ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "ngăn thứ 2 từ trên xuống",
+              "html": "ngăn thứ 2 từ trên xuống"
+            }
+          ],
+          "term": "上（うえ）から2段目（だんめ）",
+          "termHtml": "<ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>から2<ruby>段目<rp>（</rp><rt>だんめ</rt><rp>）</rp></ruby>",
+          "meaning": "ngăn thứ 2 từ trên xuống",
+          "meaningHtml": "ngăn thứ 2 từ trên xuống"
+        },
+        {
+          "cells": [
+            {
+              "text": "奥（おく）",
+              "html": "<ruby>奥<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "phía trong, trong cùng",
+              "html": "phía trong, trong cùng"
+            }
+          ],
+          "term": "奥（おく）",
+          "termHtml": "<ruby>奥<rp>（</rp><rt>おく</rt><rp>）</rp></ruby>",
+          "meaning": "phía trong, trong cùng",
+          "meaningHtml": "phía trong, trong cùng"
+        },
+        {
+          "cells": [
+            {
+              "text": "手前（てまえ）",
+              "html": "<ruby>手前<rp>（</rp><rt>てまえ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "phía trước",
+              "html": "phía trước"
+            }
+          ],
+          "term": "手前（てまえ）",
+          "termHtml": "<ruby>手前<rp>（</rp><rt>てまえ</rt><rp>）</rp></ruby>",
+          "meaning": "phía trước",
+          "meaningHtml": "phía trước"
+        },
+        {
+          "cells": [
+            {
+              "text": "前（まえ）から2列目（れつめ）",
+              "html": "<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>から2<ruby>列目<rp>（</rp><rt>れつめ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "dãy thứ 2 từ trên xuống",
+              "html": "dãy thứ 2 từ trên xuống"
+            }
+          ],
+          "term": "前（まえ）から2列目（れつめ）",
+          "termHtml": "<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>から2<ruby>列目<rp>（</rp><rt>れつめ</rt><rp>）</rp></ruby>",
+          "meaning": "dãy thứ 2 từ trên xuống",
+          "meaningHtml": "dãy thứ 2 từ trên xuống"
+        },
+        {
+          "cells": [
+            {
+              "text": "（机（つくえ）の）まわり",
+              "html": "（<ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>の）まわり"
+            },
+            {
+              "text": "xung quanh (cái bàn)",
+              "html": "xung quanh (cái bàn)"
+            }
+          ],
+          "term": "（机（つくえ）の）まわり",
+          "termHtml": "（<ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>の）まわり",
+          "meaning": "xung quanh (cái bàn)",
+          "meaningHtml": "xung quanh (cái bàn)"
+        },
+        {
+          "cells": [
+            {
+              "text": "（テレビの）横（よこ）",
+              "html": "（テレビの）<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "bên cạnh (cái tivi)",
+              "html": "bên cạnh (cái tivi)"
+            }
+          ],
+          "term": "（テレビの）横（よこ）",
+          "termHtml": "（テレビの）<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby>",
+          "meaning": "bên cạnh (cái tivi)",
+          "meaningHtml": "bên cạnh (cái tivi)"
+        },
+        {
+          "cells": [
+            {
+              "text": "斜（なな）め前（まえ）",
+              "html": "<ruby>斜<rp>（</rp><rt>なな</rt><rp>）</rp></ruby>め<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "(vị trí) chếch trước mặt",
+              "html": "(vị trí) chếch trước mặt"
+            }
+          ],
+          "term": "斜（なな）め前（まえ）",
+          "termHtml": "<ruby>斜<rp>（</rp><rt>なな</rt><rp>）</rp></ruby>め<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>",
+          "meaning": "(vị trí) chếch trước mặt",
+          "meaningHtml": "(vị trí) chếch trước mặt"
+        },
+        {
+          "cells": [
+            {
+              "text": "斜（なな）め後（うし）ろ",
+              "html": "<ruby>斜<rp>（</rp><rt>なな</rt><rp>）</rp></ruby>め<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろ"
+            },
+            {
+              "text": "(vị trí) chếch sau lưng",
+              "html": "(vị trí) chếch sau lưng"
+            }
+          ],
+          "term": "斜（なな）め後（うし）ろ",
+          "termHtml": "<ruby>斜<rp>（</rp><rt>なな</rt><rp>）</rp></ruby>め<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろ",
+          "meaning": "(vị trí) chếch sau lưng",
+          "meaningHtml": "(vị trí) chếch sau lưng"
+        },
+        {
+          "cells": [
+            {
+              "text": "（教室（きょうしつ）の）真（ま）ん中（なか）",
+              "html": "（<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>の）<ruby>真<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ん<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "giữa lớp học",
+              "html": "giữa lớp học"
+            }
+          ],
+          "term": "（教室（きょうしつ）の）真（ま）ん中（なか）",
+          "termHtml": "（<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>の）<ruby>真<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ん<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby>",
+          "meaning": "giữa lớp học",
+          "meaningHtml": "giữa lớp học"
+        },
+        {
+          "cells": [
+            {
+              "text": "（本（ほん）の）そば",
+              "html": "（<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>の）そば"
+            },
+            {
+              "text": "bên cạnh quyển sách",
+              "html": "bên cạnh quyển sách"
+            }
+          ],
+          "term": "（本（ほん）の）そば",
+          "termHtml": "（<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>の）そば",
+          "meaning": "bên cạnh quyển sách",
+          "meaningHtml": "bên cạnh quyển sách"
+        },
+        {
+          "cells": [
+            {
+              "text": "隅（すみ）",
+              "html": "<ruby>隅<rp>（</rp><rt>すみ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "góc",
+              "html": "góc"
+            }
+          ],
+          "term": "隅（すみ）",
+          "termHtml": "<ruby>隅<rp>（</rp><rt>すみ</rt><rp>）</rp></ruby>",
+          "meaning": "góc",
+          "meaningHtml": "góc"
+        },
+        {
+          "cells": [
+            {
+              "text": "2行目（ぎょうめ）",
+              "html": "2<ruby>行目<rp>（</rp><rt>ぎょうめ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "dòng thứ 2",
+              "html": "dòng thứ 2"
+            }
+          ],
+          "term": "2行目（ぎょうめ）",
+          "termHtml": "2<ruby>行目<rp>（</rp><rt>ぎょうめ</rt><rp>）</rp></ruby>",
+          "meaning": "dòng thứ 2",
+          "meaningHtml": "dòng thứ 2"
+        },
+        {
+          "cells": [
+            {
+              "text": "3行目（ぎょうめ）",
+              "html": "3<ruby>行目<rp>（</rp><rt>ぎょうめ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "dòng thứ 3",
+              "html": "dòng thứ 3"
+            }
+          ],
+          "term": "3行目（ぎょうめ）",
+          "termHtml": "3<ruby>行目<rp>（</rp><rt>ぎょうめ</rt><rp>）</rp></ruby>",
+          "meaning": "dòng thứ 3",
+          "meaningHtml": "dòng thứ 3"
+        },
+        {
+          "cells": [
+            {
+              "text": "4ページ",
+              "html": "4ページ"
+            },
+            {
+              "text": "trang 4",
+              "html": "trang 4"
+            }
+          ],
+          "term": "4ページ",
+          "termHtml": "4ページ",
+          "meaning": "trang 4",
+          "meaningHtml": "trang 4"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\"><ruby>上<rp>（</rp><rt>うえ</rt><rp>）</rp></ruby>から2<ruby>段目<rp>（</rp><rt>だんめ</rt><rp>）</rp></ruby></td> <td>ngăn thứ 2 từ trên xuống</td> </tr><tr> <td width=\"40%\"><ruby>奥<rp>（</rp><rt>おく</rt><rp>）</rp></ruby></td> <td>phía trong, trong cùng</td> </tr><tr> <td width=\"40%\"><ruby>手前<rp>（</rp><rt>てまえ</rt><rp>）</rp></ruby></td> <td>phía trước</td> </tr><tr> <td width=\"40%\"><ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>から2<ruby>列目<rp>（</rp><rt>れつめ</rt><rp>）</rp></ruby></td> <td>dãy thứ 2 từ trên xuống</td> </tr><tr> <td width=\"40%\">（<ruby>机<rp>（</rp><rt>つくえ</rt><rp>）</rp></ruby>の）まわり</td> <td>xung quanh (cái bàn)</td> </tr><tr> <td width=\"40%\">（テレビの）<ruby>横<rp>（</rp><rt>よこ</rt><rp>）</rp></ruby></td> <td>bên cạnh (cái tivi)</td> </tr><tr> <td width=\"40%\"><ruby>斜<rp>（</rp><rt>なな</rt><rp>）</rp></ruby>め<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby></td> <td>(vị trí) chếch trước mặt</td> </tr><tr> <td width=\"40%\"><ruby>斜<rp>（</rp><rt>なな</rt><rp>）</rp></ruby>め<ruby>後<rp>（</rp><rt>うし</rt><rp>）</rp></ruby>ろ</td> <td>(vị trí) chếch sau lưng</td> </tr><tr> <td width=\"40%\">（<ruby>教室<rp>（</rp><rt>きょうしつ</rt><rp>）</rp></ruby>の）<ruby>真<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ん<ruby>中<rp>（</rp><rt>なか</rt><rp>）</rp></ruby></td> <td>giữa lớp học</td> </tr><tr> <td width=\"40%\">（<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>の）そば</td> <td>bên cạnh quyển sách</td> </tr><tr> <td width=\"40%\"><ruby>隅<rp>（</rp><rt>すみ</rt><rp>）</rp></ruby></td> <td>góc</td> </tr><tr> <td width=\"40%\">2<ruby>行目<rp>（</rp><rt>ぎょうめ</rt><rp>）</rp></ruby></td> <td>dòng thứ 2</td> </tr><tr> <td width=\"40%\">3<ruby>行目<rp>（</rp><rt>ぎょうめ</rt><rp>）</rp></ruby></td> <td>dòng thứ 3</td> </tr><tr> <td width=\"40%\">4ページ</td> <td>trang 4</td> </tr></tbody></table> <img decoding=\"async\" alt=\"\" src=\"/en/images/minnatuvungthamkhao/bai38.jpg\" style=\"width: 100%; \"> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

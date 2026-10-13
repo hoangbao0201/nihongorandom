@@ -1,0 +1,102 @@
+{
+  "lesson": 45,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "信じます",
+      "kanjiHtml": "信じます",
+      "sinoVietnamese": "TÍN",
+      "kana": "しんじます",
+      "kanaHtml": "しんじます"
+    },
+    {
+      "index": 2,
+      "kanji": "知らせます",
+      "kanjiHtml": "知らせます",
+      "sinoVietnamese": "TRI",
+      "kana": "しらせます",
+      "kanaHtml": "しらせます"
+    },
+    {
+      "index": 3,
+      "kanji": "保証書",
+      "kanjiHtml": "保証書",
+      "sinoVietnamese": "BẢO CHỨNG THƯ",
+      "kana": "ほしょうしょ",
+      "kanaHtml": "ほしょうしょ"
+    },
+    {
+      "index": 4,
+      "kanji": "領収書",
+      "kanjiHtml": "領収書",
+      "sinoVietnamese": "LÃNH THÂU THƯ",
+      "kana": "りょうしゅうしょ",
+      "kanaHtml": "りょうしゅうしょ"
+    },
+    {
+      "index": 5,
+      "kanji": "中止",
+      "kanjiHtml": "中止",
+      "sinoVietnamese": "TRUNG CHỈ",
+      "kana": "ちゅうし",
+      "kanaHtml": "ちゅうし"
+    },
+    {
+      "index": 6,
+      "kanji": "点",
+      "kanjiHtml": "点",
+      "sinoVietnamese": "ĐIỂM",
+      "kana": "てん",
+      "kanaHtml": "てん"
+    },
+    {
+      "index": 7,
+      "kanji": "梅",
+      "kanjiHtml": "梅",
+      "sinoVietnamese": "MAI",
+      "kana": "うめ",
+      "kanaHtml": "うめ"
+    },
+    {
+      "index": 8,
+      "kanji": "110番",
+      "kanjiHtml": "110番",
+      "sinoVietnamese": "PHIÊN",
+      "kana": "110はん",
+      "kanaHtml": "110はん"
+    },
+    {
+      "index": 9,
+      "kanji": "119番",
+      "kanjiHtml": "119番",
+      "sinoVietnamese": "PHIÊN",
+      "kana": "119ばん",
+      "kanaHtml": "119ばん"
+    },
+    {
+      "index": 10,
+      "kanji": "急に",
+      "kanjiHtml": "急に",
+      "sinoVietnamese": "CẤP",
+      "kana": "きゅうに",
+      "kanaHtml": "きゅうに"
+    },
+    {
+      "index": 11,
+      "kanji": "無理に",
+      "kanjiHtml": "無理に",
+      "sinoVietnamese": "VÔ LÍ",
+      "kana": "むりに",
+      "kanaHtml": "むりに"
+    },
+    {
+      "index": 12,
+      "kanji": "以上です。",
+      "kanjiHtml": "以上です。",
+      "sinoVietnamese": "",
+      "kana": "いじょうです。",
+      "kanaHtml": "いじょうです。"
+    }
+  ]
+}

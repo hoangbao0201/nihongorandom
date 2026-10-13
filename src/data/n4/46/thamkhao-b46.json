@@ -1,0 +1,898 @@
+{
+  "lesson": 46,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "カタカナ語（ご） Từ Katakana",
+      "titleHtml": "カタカナ<ruby>語<rp>（</rp><rt>ご</rt><rp>）</rp></ruby> Từ Katakana",
+      "introHtml": "",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "ジャム",
+              "html": "ジャム"
+            },
+            {
+              "text": "mứt, mứt dẻo (jam)",
+              "html": "mứt, mứt dẻo (jam)"
+            }
+          ],
+          "term": "ジャム",
+          "termHtml": "ジャム",
+          "meaning": "mứt, mứt dẻo (jam)",
+          "meaningHtml": "mứt, mứt dẻo (jam)"
+        },
+        {
+          "cells": [
+            {
+              "text": "ハム",
+              "html": "ハム"
+            },
+            {
+              "text": "giăm bông giò",
+              "html": "giăm bông giò"
+            }
+          ],
+          "term": "ハム",
+          "termHtml": "ハム",
+          "meaning": "giăm bông giò",
+          "meaningHtml": "giăm bông giò"
+        },
+        {
+          "cells": [
+            {
+              "text": "クッキー",
+              "html": "クッキー"
+            },
+            {
+              "text": "bánh bích quy",
+              "html": "bánh bích quy"
+            }
+          ],
+          "term": "クッキー",
+          "termHtml": "クッキー",
+          "meaning": "bánh bích quy",
+          "meaningHtml": "bánh bích quy"
+        },
+        {
+          "cells": [
+            {
+              "text": "チーズ",
+              "html": "チーズ"
+            },
+            {
+              "text": "phó mát",
+              "html": "phó mát"
+            }
+          ],
+          "term": "チーズ",
+          "termHtml": "チーズ",
+          "meaning": "phó mát",
+          "meaningHtml": "phó mát"
+        },
+        {
+          "cells": [
+            {
+              "text": "エプロン",
+              "html": "エプロン"
+            },
+            {
+              "text": "cái tạp dề",
+              "html": "cái tạp dề"
+            }
+          ],
+          "term": "エプロン",
+          "termHtml": "エプロン",
+          "meaning": "cái tạp dề",
+          "meaningHtml": "cái tạp dề"
+        },
+        {
+          "cells": [
+            {
+              "text": "スカート",
+              "html": "スカート"
+            },
+            {
+              "text": "cái váy",
+              "html": "cái váy"
+            }
+          ],
+          "term": "スカート",
+          "termHtml": "スカート",
+          "meaning": "cái váy",
+          "meaningHtml": "cái váy"
+        },
+        {
+          "cells": [
+            {
+              "text": "スーツ",
+              "html": "スーツ"
+            },
+            {
+              "text": "bộ com lê",
+              "html": "bộ com lê"
+            }
+          ],
+          "term": "スーツ",
+          "termHtml": "スーツ",
+          "meaning": "bộ com lê",
+          "meaningHtml": "bộ com lê"
+        },
+        {
+          "cells": [
+            {
+              "text": "インフルエンザ",
+              "html": "インフルエンザ"
+            },
+            {
+              "text": "cúm dịch",
+              "html": "cúm dịch"
+            }
+          ],
+          "term": "インフルエンザ",
+          "termHtml": "インフルエンザ",
+          "meaning": "cúm dịch",
+          "meaningHtml": "cúm dịch"
+        },
+        {
+          "cells": [
+            {
+              "text": "ストレス",
+              "html": "ストレス"
+            },
+            {
+              "text": "stress, căng thẳng",
+              "html": "stress, căng thẳng"
+            }
+          ],
+          "term": "ストレス",
+          "termHtml": "ストレス",
+          "meaning": "stress, căng thẳng",
+          "meaningHtml": "stress, căng thẳng"
+        },
+        {
+          "cells": [
+            {
+              "text": "ドラマ",
+              "html": "ドラマ"
+            },
+            {
+              "text": "kịch, phim kịch",
+              "html": "kịch, phim kịch"
+            }
+          ],
+          "term": "ドラマ",
+          "termHtml": "ドラマ",
+          "meaning": "kịch, phim kịch",
+          "meaningHtml": "kịch, phim kịch"
+        },
+        {
+          "cells": [
+            {
+              "text": "コーラス",
+              "html": "コーラス"
+            },
+            {
+              "text": "dàn đồng ca",
+              "html": "dàn đồng ca"
+            }
+          ],
+          "term": "コーラス",
+          "termHtml": "コーラス",
+          "meaning": "dàn đồng ca",
+          "meaningHtml": "dàn đồng ca"
+        },
+        {
+          "cells": [
+            {
+              "text": "メロディー",
+              "html": "メロディー"
+            },
+            {
+              "text": "giai điệu",
+              "html": "giai điệu"
+            }
+          ],
+          "term": "メロディー",
+          "termHtml": "メロディー",
+          "meaning": "giai điệu",
+          "meaningHtml": "giai điệu"
+        },
+        {
+          "cells": [
+            {
+              "text": "スケジュール",
+              "html": "スケジュール"
+            },
+            {
+              "text": "thời khóa biểu, lịch làm việc",
+              "html": "thời khóa biểu, lịch làm việc"
+            }
+          ],
+          "term": "スケジュール",
+          "termHtml": "スケジュール",
+          "meaning": "thời khóa biểu, lịch làm việc",
+          "meaningHtml": "thời khóa biểu, lịch làm việc"
+        },
+        {
+          "cells": [
+            {
+              "text": "ティッシュペーパー",
+              "html": "ティッシュペーパー"
+            },
+            {
+              "text": "giấy lau",
+              "html": "giấy lau"
+            }
+          ],
+          "term": "ティッシュペーパー",
+          "termHtml": "ティッシュペーパー",
+          "meaning": "giấy lau",
+          "meaningHtml": "giấy lau"
+        },
+        {
+          "cells": [
+            {
+              "text": "トラブル",
+              "html": "トラブル"
+            },
+            {
+              "text": "điều rắc rối",
+              "html": "điều rắc rối"
+            }
+          ],
+          "term": "トラブル",
+          "termHtml": "トラブル",
+          "meaning": "điều rắc rối",
+          "meaningHtml": "điều rắc rối"
+        },
+        {
+          "cells": [
+            {
+              "text": "レジャー",
+              "html": "レジャー"
+            },
+            {
+              "text": "(thời gian (việc)) nghỉ ngơi, giải trí",
+              "html": "(thời gian (việc)) nghỉ ngơi, giải trí"
+            }
+          ],
+          "term": "レジャー",
+          "termHtml": "レジャー",
+          "meaning": "(thời gian (việc)) nghỉ ngơi, giải trí",
+          "meaningHtml": "(thời gian (việc)) nghỉ ngơi, giải trí"
+        },
+        {
+          "cells": [
+            {
+              "text": "コロッケ",
+              "html": "コロッケ"
+            },
+            {
+              "text": "món bánh bột khoai tây chiên",
+              "html": "món bánh bột khoai tây chiên"
+            }
+          ],
+          "term": "コロッケ",
+          "termHtml": "コロッケ",
+          "meaning": "món bánh bột khoai tây chiên",
+          "meaningHtml": "món bánh bột khoai tây chiên"
+        },
+        {
+          "cells": [
+            {
+              "text": "オムレツ",
+              "html": "オムレツ"
+            },
+            {
+              "text": "món trứng ốp lết",
+              "html": "món trứng ốp lết"
+            }
+          ],
+          "term": "オムレツ",
+          "termHtml": "オムレツ",
+          "meaning": "món trứng ốp lết",
+          "meaningHtml": "món trứng ốp lết"
+        },
+        {
+          "cells": [
+            {
+              "text": "ピマン",
+              "html": "ピマン"
+            },
+            {
+              "text": "quả ớt tây, ớt ngọt",
+              "html": "quả ớt tây, ớt ngọt"
+            }
+          ],
+          "term": "ピマン",
+          "termHtml": "ピマン",
+          "meaning": "quả ớt tây, ớt ngọt",
+          "meaningHtml": "quả ớt tây, ớt ngọt"
+        },
+        {
+          "cells": [
+            {
+              "text": "スボン",
+              "html": "スボン"
+            },
+            {
+              "text": "cái quần",
+              "html": "cái quần"
+            }
+          ],
+          "term": "スボン",
+          "termHtml": "スボン",
+          "meaning": "cái quần",
+          "meaningHtml": "cái quần"
+        },
+        {
+          "cells": [
+            {
+              "text": "ランジェリー",
+              "html": "ランジェリー"
+            },
+            {
+              "text": "quần áo lót phụ nữ (lingerie)",
+              "html": "quần áo lót phụ nữ (lingerie)"
+            }
+          ],
+          "term": "ランジェリー",
+          "termHtml": "ランジェリー",
+          "meaning": "quần áo lót phụ nữ (lingerie)",
+          "meaningHtml": "quần áo lót phụ nữ (lingerie)"
+        },
+        {
+          "cells": [
+            {
+              "text": "キュロット",
+              "html": "キュロット"
+            },
+            {
+              "text": "quần cụt, soóc rộng (culotte)",
+              "html": "quần cụt, soóc rộng (culotte)"
+            }
+          ],
+          "term": "キュロット",
+          "termHtml": "キュロット",
+          "meaning": "quần cụt, soóc rộng (culotte)",
+          "meaningHtml": "quần cụt, soóc rộng (culotte)"
+        },
+        {
+          "cells": [
+            {
+              "text": "バレエ",
+              "html": "バレエ"
+            },
+            {
+              "text": "múa ba lê",
+              "html": "múa ba lê"
+            }
+          ],
+          "term": "バレエ",
+          "termHtml": "バレエ",
+          "meaning": "múa ba lê",
+          "meaningHtml": "múa ba lê"
+        },
+        {
+          "cells": [
+            {
+              "text": "シャンソン",
+              "html": "シャンソン"
+            },
+            {
+              "text": "nhạc chanson",
+              "html": "nhạc chanson"
+            }
+          ],
+          "term": "シャンソン",
+          "termHtml": "シャンソン",
+          "meaning": "nhạc chanson",
+          "meaningHtml": "nhạc chanson"
+        },
+        {
+          "cells": [
+            {
+              "text": "アトリエ",
+              "html": "アトリエ"
+            },
+            {
+              "text": "trường quay, xưởng phim ảnh",
+              "html": "trường quay, xưởng phim ảnh"
+            }
+          ],
+          "term": "アトリエ",
+          "termHtml": "アトリエ",
+          "meaning": "trường quay, xưởng phim ảnh",
+          "meaningHtml": "trường quay, xưởng phim ảnh"
+        },
+        {
+          "cells": [
+            {
+              "text": "アンケート",
+              "html": "アンケート"
+            },
+            {
+              "text": "bản câu hỏi",
+              "html": "bản câu hỏi"
+            }
+          ],
+          "term": "アンケート",
+          "termHtml": "アンケート",
+          "meaning": "bản câu hỏi",
+          "meaningHtml": "bản câu hỏi"
+        },
+        {
+          "cells": [
+            {
+              "text": "コンクール",
+              "html": "コンクール"
+            },
+            {
+              "text": "cuộc thi",
+              "html": "cuộc thi"
+            }
+          ],
+          "term": "コンクール",
+          "termHtml": "コンクール",
+          "meaning": "cuộc thi",
+          "meaningHtml": "cuộc thi"
+        },
+        {
+          "cells": [
+            {
+              "text": "ビエロ",
+              "html": "ビエロ"
+            },
+            {
+              "text": "anh hề",
+              "html": "anh hề"
+            }
+          ],
+          "term": "ビエロ",
+          "termHtml": "ビエロ",
+          "meaning": "anh hề",
+          "meaningHtml": "anh hề"
+        },
+        {
+          "cells": [
+            {
+              "text": "フランクフルト[ソーセージ]",
+              "html": "フランクフルト[ソーセージ]"
+            },
+            {
+              "text": "xúc xích (frank furter)",
+              "html": "xúc xích (frank furter)"
+            }
+          ],
+          "term": "フランクフルト[ソーセージ]",
+          "termHtml": "フランクフルト[ソーセージ]",
+          "meaning": "xúc xích (frank furter)",
+          "meaningHtml": "xúc xích (frank furter)"
+        },
+        {
+          "cells": [
+            {
+              "text": "レントゲン",
+              "html": "レントゲン"
+            },
+            {
+              "text": "tia X, X-quang",
+              "html": "tia X, X-quang"
+            }
+          ],
+          "term": "レントゲン",
+          "termHtml": "レントゲン",
+          "meaning": "tia X, X-quang",
+          "meaningHtml": "tia X, X-quang"
+        },
+        {
+          "cells": [
+            {
+              "text": "ノイローゼ",
+              "html": "ノイローゼ"
+            },
+            {
+              "text": "bệnh thần kinh",
+              "html": "bệnh thần kinh"
+            }
+          ],
+          "term": "ノイローゼ",
+          "termHtml": "ノイローゼ",
+          "meaning": "bệnh thần kinh",
+          "meaningHtml": "bệnh thần kinh"
+        },
+        {
+          "cells": [
+            {
+              "text": "アレルギー",
+              "html": "アレルギー"
+            },
+            {
+              "text": "dị ứng",
+              "html": "dị ứng"
+            }
+          ],
+          "term": "アレルギー",
+          "termHtml": "アレルギー",
+          "meaning": "dị ứng",
+          "meaningHtml": "dị ứng"
+        },
+        {
+          "cells": [
+            {
+              "text": "メルヘン",
+              "html": "メルヘン"
+            },
+            {
+              "text": "chuyện cổ tích",
+              "html": "chuyện cổ tích"
+            }
+          ],
+          "term": "メルヘン",
+          "termHtml": "メルヘン",
+          "meaning": "chuyện cổ tích",
+          "meaningHtml": "chuyện cổ tích"
+        },
+        {
+          "cells": [
+            {
+              "text": "アルバイト",
+              "html": "アルバイト"
+            },
+            {
+              "text": "làm thêm",
+              "html": "làm thêm"
+            }
+          ],
+          "term": "アルバイト",
+          "termHtml": "アルバイト",
+          "meaning": "làm thêm",
+          "meaningHtml": "làm thêm"
+        },
+        {
+          "cells": [
+            {
+              "text": "エネルギー",
+              "html": "エネルギー"
+            },
+            {
+              "text": "năng lượng",
+              "html": "năng lượng"
+            }
+          ],
+          "term": "エネルギー",
+          "termHtml": "エネルギー",
+          "meaning": "năng lượng",
+          "meaningHtml": "năng lượng"
+        },
+        {
+          "cells": [
+            {
+              "text": "ゲレンデ",
+              "html": "ゲレンデ"
+            },
+            {
+              "text": "dốc trượt tuyết",
+              "html": "dốc trượt tuyết"
+            }
+          ],
+          "term": "ゲレンデ",
+          "termHtml": "ゲレンデ",
+          "meaning": "dốc trượt tuyết",
+          "meaningHtml": "dốc trượt tuyết"
+        },
+        {
+          "cells": [
+            {
+              "text": "テーマ",
+              "html": "テーマ"
+            },
+            {
+              "text": "chủ đề, đề tài",
+              "html": "chủ đề, đề tài"
+            }
+          ],
+          "term": "テーマ",
+          "termHtml": "テーマ",
+          "meaning": "chủ đề, đề tài",
+          "meaningHtml": "chủ đề, đề tài"
+        },
+        {
+          "cells": [
+            {
+              "text": "ビール",
+              "html": "ビール"
+            },
+            {
+              "text": "bia",
+              "html": "bia"
+            }
+          ],
+          "term": "ビール",
+          "termHtml": "ビール",
+          "meaning": "bia",
+          "meaningHtml": "bia"
+        },
+        {
+          "cells": [
+            {
+              "text": "コーヒー",
+              "html": "コーヒー"
+            },
+            {
+              "text": "cà phê",
+              "html": "cà phê"
+            }
+          ],
+          "term": "コーヒー",
+          "termHtml": "コーヒー",
+          "meaning": "cà phê",
+          "meaningHtml": "cà phê"
+        },
+        {
+          "cells": [
+            {
+              "text": "ズック",
+              "html": "ズック"
+            },
+            {
+              "text": "vải thô",
+              "html": "vải thô"
+            }
+          ],
+          "term": "ズック",
+          "termHtml": "ズック",
+          "meaning": "vải thô",
+          "meaningHtml": "vải thô"
+        },
+        {
+          "cells": [
+            {
+              "text": "ホック",
+              "html": "ホック"
+            },
+            {
+              "text": "cái khuy móc",
+              "html": "cái khuy móc"
+            }
+          ],
+          "term": "ホック",
+          "termHtml": "ホック",
+          "meaning": "cái khuy móc",
+          "meaningHtml": "cái khuy móc"
+        },
+        {
+          "cells": [
+            {
+              "text": "メス",
+              "html": "メス"
+            },
+            {
+              "text": "con dao mổ",
+              "html": "con dao mổ"
+            }
+          ],
+          "term": "メス",
+          "termHtml": "メス",
+          "meaning": "con dao mổ",
+          "meaningHtml": "con dao mổ"
+        },
+        {
+          "cells": [
+            {
+              "text": "ビンセット",
+              "html": "ビンセット"
+            },
+            {
+              "text": "cái nhíp",
+              "html": "cái nhíp"
+            }
+          ],
+          "term": "ビンセット",
+          "termHtml": "ビンセット",
+          "meaning": "cái nhíp",
+          "meaningHtml": "cái nhíp"
+        },
+        {
+          "cells": [
+            {
+              "text": "ゴム",
+              "html": "ゴム"
+            },
+            {
+              "text": "cao su",
+              "html": "cao su"
+            }
+          ],
+          "term": "ゴム",
+          "termHtml": "ゴム",
+          "meaning": "cao su",
+          "meaningHtml": "cao su"
+        },
+        {
+          "cells": [
+            {
+              "text": "ペンチ",
+              "html": "ペンチ"
+            },
+            {
+              "text": "sơn",
+              "html": "sơn"
+            }
+          ],
+          "term": "ペンチ",
+          "termHtml": "ペンチ",
+          "meaning": "sơn",
+          "meaningHtml": "sơn"
+        },
+        {
+          "cells": [
+            {
+              "text": "ガラス",
+              "html": "ガラス"
+            },
+            {
+              "text": "thủy tinh",
+              "html": "thủy tinh"
+            }
+          ],
+          "term": "ガラス",
+          "termHtml": "ガラス",
+          "meaning": "thủy tinh",
+          "meaningHtml": "thủy tinh"
+        },
+        {
+          "cells": [
+            {
+              "text": "コック",
+              "html": "コック"
+            },
+            {
+              "text": "đầu bếp",
+              "html": "đầu bếp"
+            }
+          ],
+          "term": "コック",
+          "termHtml": "コック",
+          "meaning": "đầu bếp",
+          "meaningHtml": "đầu bếp"
+        },
+        {
+          "cells": [
+            {
+              "text": "パン",
+              "html": "パン"
+            },
+            {
+              "text": "bánh mì",
+              "html": "bánh mì"
+            }
+          ],
+          "term": "パン",
+          "termHtml": "パン",
+          "meaning": "bánh mì",
+          "meaningHtml": "bánh mì"
+        },
+        {
+          "cells": [
+            {
+              "text": "カステラ",
+              "html": "カステラ"
+            },
+            {
+              "text": "bánh ngọt xốp (sponge cake, castella)",
+              "html": "bánh ngọt xốp (sponge cake, castella)"
+            }
+          ],
+          "term": "カステラ",
+          "termHtml": "カステラ",
+          "meaning": "bánh ngọt xốp (sponge cake, castella)",
+          "meaningHtml": "bánh ngọt xốp (sponge cake, castella)"
+        },
+        {
+          "cells": [
+            {
+              "text": "ビロード",
+              "html": "ビロード"
+            },
+            {
+              "text": "vải nhung",
+              "html": "vải nhung"
+            }
+          ],
+          "term": "ビロード",
+          "termHtml": "ビロード",
+          "meaning": "vải nhung",
+          "meaningHtml": "vải nhung"
+        },
+        {
+          "cells": [
+            {
+              "text": "チョッキ",
+              "html": "チョッキ"
+            },
+            {
+              "text": "áo gi-nê (waistcoat, vest)",
+              "html": "áo gi-nê (waistcoat, vest)"
+            }
+          ],
+          "term": "チョッキ",
+          "termHtml": "チョッキ",
+          "meaning": "áo gi-nê (waistcoat, vest)",
+          "meaningHtml": "áo gi-nê (waistcoat, vest)"
+        },
+        {
+          "cells": [
+            {
+              "text": "マカロニ",
+              "html": "マカロニ"
+            },
+            {
+              "text": "mì ống",
+              "html": "mì ống"
+            }
+          ],
+          "term": "マカロニ",
+          "termHtml": "マカロニ",
+          "meaning": "mì ống",
+          "meaningHtml": "mì ống"
+        },
+        {
+          "cells": [
+            {
+              "text": "スバゲッティ",
+              "html": "スバゲッティ"
+            },
+            {
+              "text": "spaghetti",
+              "html": "spaghetti"
+            }
+          ],
+          "term": "スバゲッティ",
+          "termHtml": "スバゲッティ",
+          "meaning": "spaghetti",
+          "meaningHtml": "spaghetti"
+        },
+        {
+          "cells": [
+            {
+              "text": "オペラ",
+              "html": "オペラ"
+            },
+            {
+              "text": "nhạc kịch opera",
+              "html": "nhạc kịch opera"
+            }
+          ],
+          "term": "オペラ",
+          "termHtml": "オペラ",
+          "meaning": "nhạc kịch opera",
+          "meaningHtml": "nhạc kịch opera"
+        },
+        {
+          "cells": [
+            {
+              "text": "バレリーナ",
+              "html": "バレリーナ"
+            },
+            {
+              "text": "nữ vũ công ba-lê",
+              "html": "nữ vũ công ba-lê"
+            }
+          ],
+          "term": "バレリーナ",
+          "termHtml": "バレリーナ",
+          "meaning": "nữ vũ công ba-lê",
+          "meaningHtml": "nữ vũ công ba-lê"
+        }
+      ],
+      "contentHtml": "<table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">ジャム</td> <td>mứt, mứt dẻo (jam)</td> </tr><tr> <td width=\"40%\">ハム</td> <td>giăm bông giò</td> </tr><tr> <td width=\"40%\">クッキー</td> <td>bánh bích quy</td> </tr><tr> <td width=\"40%\">チーズ</td> <td>phó mát</td> </tr><tr> <td width=\"40%\">エプロン</td> <td>cái tạp dề</td> </tr><tr> <td width=\"40%\">スカート</td> <td>cái váy</td> </tr><tr> <td width=\"40%\">スーツ</td> <td>bộ com lê</td> </tr><tr> <td width=\"40%\">インフルエンザ</td> <td>cúm dịch</td> </tr><tr> <td width=\"40%\">ストレス</td> <td>stress, căng thẳng</td> </tr><tr> <td width=\"40%\">ドラマ</td> <td>kịch, phim kịch</td> </tr><tr> <td width=\"40%\">コーラス</td> <td>dàn đồng ca</td> </tr><tr> <td width=\"40%\">メロディー</td> <td>giai điệu</td> </tr><tr> <td width=\"40%\">スケジュール</td> <td>thời khóa biểu, lịch làm việc</td> </tr><tr> <td width=\"40%\">ティッシュペーパー</td> <td>giấy lau</td> </tr><tr> <td width=\"40%\">トラブル</td> <td>điều rắc rối</td> </tr><tr> <td width=\"40%\">レジャー</td> <td>(thời gian (việc)) nghỉ ngơi, giải trí</td> </tr><tr> <td width=\"40%\">コロッケ</td> <td>món bánh bột khoai tây chiên</td> </tr><tr> <td width=\"40%\">オムレツ</td> <td>món trứng ốp lết</td> </tr><tr> <td width=\"40%\">ピマン</td> <td>quả ớt tây, ớt ngọt</td> </tr><tr> <td width=\"40%\">スボン</td> <td>cái quần</td> </tr><tr> <td width=\"40%\">ランジェリー</td> <td>quần áo lót phụ nữ (lingerie)</td> </tr><tr> <td width=\"40%\">キュロット</td> <td>quần cụt, soóc rộng (culotte)</td> </tr><tr> <td width=\"40%\">バレエ</td> <td>múa ba lê</td> </tr><tr> <td width=\"40%\">シャンソン</td> <td>nhạc chanson</td> </tr><tr> <td width=\"40%\">アトリエ</td> <td>trường quay, xưởng phim ảnh</td> </tr><tr> <td width=\"40%\">アンケート</td> <td>bản câu hỏi</td> </tr><tr> <td width=\"40%\">コンクール</td> <td>cuộc thi</td> </tr><tr> <td width=\"40%\">ビエロ</td> <td>anh hề</td> </tr><tr> <td width=\"40%\">フランクフルト[ソーセージ]</td> <td>xúc xích (frank furter)</td> </tr><tr> <td width=\"40%\">レントゲン</td> <td>tia X, X-quang</td> </tr><tr> <td width=\"40%\">ノイローゼ</td> <td>bệnh thần kinh</td> </tr><tr> <td width=\"40%\">アレルギー</td> <td>dị ứng</td> </tr><tr> <td width=\"40%\">メルヘン</td> <td>chuyện cổ tích</td> </tr><tr> <td width=\"40%\">アルバイト</td> <td>làm thêm</td> </tr><tr> <td width=\"40%\">エネルギー</td> <td>năng lượng</td> </tr><tr> <td width=\"40%\">ゲレンデ</td> <td>dốc trượt tuyết</td> </tr><tr> <td width=\"40%\">テーマ</td> <td>chủ đề, đề tài</td> </tr><tr> <td width=\"40%\">ビール</td> <td>bia</td> </tr><tr> <td width=\"40%\">コーヒー</td> <td>cà phê</td> </tr><tr> <td width=\"40%\">ズック</td> <td>vải thô</td> </tr><tr> <td width=\"40%\">ホック</td> <td>cái khuy móc</td> </tr><tr> <td width=\"40%\">メス</td> <td>con dao mổ</td> </tr><tr> <td width=\"40%\">ビンセット</td> <td>cái nhíp</td> </tr><tr> <td width=\"40%\">ゴム</td> <td>cao su</td> </tr><tr> <td width=\"40%\">ペンチ</td> <td>sơn</td> </tr><tr> <td width=\"40%\">ガラス</td> <td>thủy tinh</td> </tr><tr> <td width=\"40%\">コック</td> <td>đầu bếp</td> </tr><tr> <td width=\"40%\">パン</td> <td>bánh mì</td> </tr><tr> <td width=\"40%\">カステラ</td> <td>bánh ngọt xốp (sponge cake, castella)</td> </tr><tr> <td width=\"40%\">ビロード</td> <td>vải nhung</td> </tr><tr> <td width=\"40%\">チョッキ</td> <td>áo gi-nê (waistcoat, vest)</td> </tr><tr> <td width=\"40%\">マカロニ</td> <td>mì ống</td> </tr><tr> <td width=\"40%\">スバゲッティ</td> <td>spaghetti</td> </tr><tr> <td width=\"40%\">オペラ</td> <td>nhạc kịch opera</td> </tr><tr> <td width=\"40%\">バレリーナ</td> <td>nữ vũ công ba-lê</td> </tr></tbody></table><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

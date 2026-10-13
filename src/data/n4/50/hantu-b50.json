@@ -1,0 +1,110 @@
+{
+  "lesson": 50,
+  "type": "hantu",
+  "entries": [
+    {
+      "index": 1,
+      "kanji": "参ります",
+      "kanjiHtml": "参ります",
+      "sinoVietnamese": "THAM",
+      "kana": "まいります",
+      "kanaHtml": "まいります"
+    },
+    {
+      "index": 2,
+      "kanji": "申します",
+      "kanjiHtml": "申します",
+      "sinoVietnamese": "THÂN",
+      "kana": "もうします",
+      "kanaHtml": "もうします"
+    },
+    {
+      "index": 3,
+      "kanji": "拝見します",
+      "kanjiHtml": "拝見します",
+      "sinoVietnamese": "BÁI KIẾN",
+      "kana": "はいけんします",
+      "kanaHtml": "はいけんします"
+    },
+    {
+      "index": 4,
+      "kanji": "存じます",
+      "kanjiHtml": "存じます",
+      "sinoVietnamese": "TỒN",
+      "kana": "ぞんじます",
+      "kanaHtml": "ぞんじます"
+    },
+    {
+      "index": 5,
+      "kanji": "伺います",
+      "kanjiHtml": "伺います",
+      "sinoVietnamese": "TÝ/TỬ",
+      "kana": "うかがいます",
+      "kanaHtml": "うかがいます"
+    },
+    {
+      "index": 6,
+      "kanji": "お目にかかります",
+      "kanjiHtml": "お目にかかります",
+      "sinoVietnamese": "MỤC",
+      "kana": "おめにかかります",
+      "kanaHtml": "おめにかかります"
+    },
+    {
+      "index": 7,
+      "kanji": "入れます",
+      "kanjiHtml": "入れます",
+      "sinoVietnamese": "NHẬP",
+      "kana": "いれます [コーヒーを～]",
+      "kanaHtml": "いれます<br /> [コーヒーを～]"
+    },
+    {
+      "index": 8,
+      "kanji": "用意します",
+      "kanjiHtml": "用意します",
+      "sinoVietnamese": "DỤNG Ý",
+      "kana": "よういします",
+      "kanaHtml": "よういします"
+    },
+    {
+      "index": 9,
+      "kanji": "私",
+      "kanjiHtml": "私",
+      "sinoVietnamese": "TƯ",
+      "kana": "わたくし",
+      "kanaHtml": "わたくし"
+    },
+    {
+      "index": 10,
+      "kanji": "再来週",
+      "kanjiHtml": "再来週",
+      "sinoVietnamese": "TÁI LAI CHU",
+      "kana": "さらいしゅう",
+      "kanaHtml": "さらいしゅう"
+    },
+    {
+      "index": 11,
+      "kanji": "再来月",
+      "kanjiHtml": "再来月",
+      "sinoVietnamese": "TÁI LAI NGUYỆT",
+      "kana": "さらいげつ",
+      "kanaHtml": "さらいげつ"
+    },
+    {
+      "index": 12,
+      "kanji": "再来年",
+      "kanjiHtml": "再来年",
+      "sinoVietnamese": "TÁI LAI NIÊN",
+      "kana": "さらいねん",
+      "kanaHtml": "さらいねん"
+    },
+    {
+      "index": 13,
+      "kanji": "初めに",
+      "kanjiHtml": "初めに",
+      "sinoVietnamese": "SƠ",
+      "kana": "はじめに",
+      "kanaHtml": "はじめに"
+    }
+  ]
+}

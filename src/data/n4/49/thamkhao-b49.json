@@ -1,0 +1,215 @@
+{
+  "lesson": 49,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "年中行事（ねんちゅうぎょうじ） Sự kiện của năm",
+      "titleHtml": "<ruby>年中行事<rp>（</rp><rt>ねんちゅうぎょうじ</rt><rp>）</rp></ruby> Sự kiện của năm",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa",
+        "Ghi chú"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "お正月（しょうがつ）(1月（がつ）1日（にち）〜3日（にち）)",
+              "html": "お<ruby>正月<rp>（</rp><rt>しょうがつ</rt><rp>）</rp></ruby>(1<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>1<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>〜3<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>)"
+            },
+            {
+              "text": "Tết",
+              "html": "Tết"
+            },
+            {
+              "text": "Mừng việc bắt đầu một năm mới. Mọi người đi chùa hay đền thờ đạo Thần để cầu chúc sức khỏe và hạnh phúc cho năm mới. Bưu thiếp chúc mừng năm mới được gửi đến vào ngày mồng 1 Tết",
+              "html": "Mừng việc bắt đầu một năm mới. Mọi người đi chùa hay đền thờ đạo Thần để cầu chúc sức khỏe và hạnh phúc cho năm mới. Bưu thiếp chúc mừng năm mới được gửi đến vào ngày mồng 1 Tết"
+            }
+          ],
+          "col1": "お正月（しょうがつ）(1月（がつ）1日（にち）〜3日（にち）)",
+          "col1Html": "お<ruby>正月<rp>（</rp><rt>しょうがつ</rt><rp>）</rp></ruby>(1<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>1<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>〜3<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>)",
+          "col2": "Tết",
+          "col2Html": "Tết",
+          "col3": "Mừng việc bắt đầu một năm mới. Mọi người đi chùa hay đền thờ đạo Thần để cầu chúc sức khỏe và hạnh phúc cho năm mới. Bưu thiếp chúc mừng năm mới được gửi đến vào ngày mồng 1 Tết",
+          "col3Html": "Mừng việc bắt đầu một năm mới. Mọi người đi chùa hay đền thờ đạo Thần để cầu chúc sức khỏe và hạnh phúc cho năm mới. Bưu thiếp chúc mừng năm mới được gửi đến vào ngày mồng 1 Tết",
+          "country": "お正月（しょうがつ）(1月（がつ）1日（にち）〜3日（にち）)",
+          "countryHtml": "お<ruby>正月<rp>（</rp><rt>しょうがつ</rt><rp>）</rp></ruby>(1<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>1<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>〜3<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>)",
+          "person": "Tết",
+          "personHtml": "Tết",
+          "language": "Mừng việc bắt đầu một năm mới. Mọi người đi chùa hay đền thờ đạo Thần để cầu chúc sức khỏe và hạnh phúc cho năm mới. Bưu thiếp chúc mừng năm mới được gửi đến vào ngày mồng 1 Tết",
+          "languageHtml": "Mừng việc bắt đầu một năm mới. Mọi người đi chùa hay đền thờ đạo Thần để cầu chúc sức khỏe và hạnh phúc cho năm mới. Bưu thiếp chúc mừng năm mới được gửi đến vào ngày mồng 1 Tết"
+        },
+        {
+          "cells": [
+            {
+              "text": "ひな祭（まつ）り",
+              "html": "ひな<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り"
+            },
+            {
+              "text": "Lễ hội búp bê",
+              "html": "Lễ hội búp bê"
+            },
+            {
+              "text": "Những gia đình có con gái thì trang trí búp bê (hina-ningyo)",
+              "html": "Những gia đình có con gái thì trang trí búp bê (hina-ningyo)"
+            }
+          ],
+          "col1": "ひな祭（まつ）り",
+          "col1Html": "ひな<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り",
+          "col2": "Lễ hội búp bê",
+          "col2Html": "Lễ hội búp bê",
+          "col3": "Những gia đình có con gái thì trang trí búp bê (hina-ningyo)",
+          "col3Html": "Những gia đình có con gái thì trang trí búp bê (hina-ningyo)",
+          "country": "ひな祭（まつ）り",
+          "countryHtml": "ひな<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り",
+          "person": "Lễ hội búp bê",
+          "personHtml": "Lễ hội búp bê",
+          "language": "Những gia đình có con gái thì trang trí búp bê (hina-ningyo)",
+          "languageHtml": "Những gia đình có con gái thì trang trí búp bê (hina-ningyo)"
+        },
+        {
+          "cells": [
+            {
+              "text": "こどもの日（ひ）",
+              "html": "こどもの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Ngày trẻ em",
+              "html": "Ngày trẻ em"
+            },
+            {
+              "text": "Ngày mừng cho sự trưởng thành và sức khỏe của trẻ em. Trước đây vốn dĩ là ngày mừng cho sự trưởng thành của các em trai.",
+              "html": "Ngày mừng cho sự trưởng thành và sức khỏe của trẻ em. Trước đây vốn dĩ là ngày mừng cho sự trưởng thành của các em trai."
+            }
+          ],
+          "col1": "こどもの日（ひ）",
+          "col1Html": "こどもの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "col2": "Ngày trẻ em",
+          "col2Html": "Ngày trẻ em",
+          "col3": "Ngày mừng cho sự trưởng thành và sức khỏe của trẻ em. Trước đây vốn dĩ là ngày mừng cho sự trưởng thành của các em trai.",
+          "col3Html": "Ngày mừng cho sự trưởng thành và sức khỏe của trẻ em. Trước đây vốn dĩ là ngày mừng cho sự trưởng thành của các em trai.",
+          "country": "こどもの日（ひ）",
+          "countryHtml": "こどもの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>",
+          "person": "Ngày trẻ em",
+          "personHtml": "Ngày trẻ em",
+          "language": "Ngày mừng cho sự trưởng thành và sức khỏe của trẻ em. Trước đây vốn dĩ là ngày mừng cho sự trưởng thành của các em trai.",
+          "languageHtml": "Ngày mừng cho sự trưởng thành và sức khỏe của trẻ em. Trước đây vốn dĩ là ngày mừng cho sự trưởng thành của các em trai."
+        },
+        {
+          "cells": [
+            {
+              "text": "七夕（たなばた）",
+              "html": "<ruby>七夕<rp>（</rp><rt>たなばた</rt><rp>）</rp></ruby>"
+            },
+            {
+              "text": "Tanabata",
+              "html": "Tanabata"
+            },
+            {
+              "text": "Bắt nguồn từ truyền thuyết của Trung Quốc rằng Ngưu Lang và Chức Nữ mỗi người ở một bên bờ Đông, Tây của dãy Ngân Hà, và một năm chỉ gặp nhau một lần vào ngày này.",
+              "html": "Bắt nguồn từ truyền thuyết của Trung Quốc rằng Ngưu Lang và Chức Nữ mỗi người ở một bên bờ Đông, Tây của dãy Ngân Hà, và một năm chỉ gặp nhau một lần vào ngày này."
+            }
+          ],
+          "col1": "七夕（たなばた）",
+          "col1Html": "<ruby>七夕<rp>（</rp><rt>たなばた</rt><rp>）</rp></ruby>",
+          "col2": "Tanabata",
+          "col2Html": "Tanabata",
+          "col3": "Bắt nguồn từ truyền thuyết của Trung Quốc rằng Ngưu Lang và Chức Nữ mỗi người ở một bên bờ Đông, Tây của dãy Ngân Hà, và một năm chỉ gặp nhau một lần vào ngày này.",
+          "col3Html": "Bắt nguồn từ truyền thuyết của Trung Quốc rằng Ngưu Lang và Chức Nữ mỗi người ở một bên bờ Đông, Tây của dãy Ngân Hà, và một năm chỉ gặp nhau một lần vào ngày này.",
+          "country": "七夕（たなばた）",
+          "countryHtml": "<ruby>七夕<rp>（</rp><rt>たなばた</rt><rp>）</rp></ruby>",
+          "person": "Tanabata",
+          "personHtml": "Tanabata",
+          "language": "Bắt nguồn từ truyền thuyết của Trung Quốc rằng Ngưu Lang và Chức Nữ mỗi người ở một bên bờ Đông, Tây của dãy Ngân Hà, và một năm chỉ gặp nhau một lần vào ngày này.",
+          "languageHtml": "Bắt nguồn từ truyền thuyết của Trung Quốc rằng Ngưu Lang và Chức Nữ mỗi người ở một bên bờ Đông, Tây của dãy Ngân Hà, và một năm chỉ gặp nhau một lần vào ngày này."
+        },
+        {
+          "cells": [
+            {
+              "text": "お盆（ぼん）(8月（がつ）13日（にち）〜15日（にち）)",
+              "html": "お<ruby>盆<rp>（</rp><rt>ぼん</rt><rp>）</rp></ruby>(8<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>13<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>〜15<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>)"
+            },
+            {
+              "text": "Lễ hội Bon (Lễ Vu Lan)",
+              "html": "Lễ hội Bon (Lễ Vu Lan)"
+            },
+            {
+              "text": "Phong tục của đạo Phật, vào ngày này, mọi người làm lễ thờ để đón linh hồn của tổ tiên. Viếng mộ",
+              "html": "Phong tục của đạo Phật, vào ngày này, mọi người làm lễ thờ để đón linh hồn của tổ tiên. Viếng mộ"
+            }
+          ],
+          "col1": "お盆（ぼん）(8月（がつ）13日（にち）〜15日（にち）)",
+          "col1Html": "お<ruby>盆<rp>（</rp><rt>ぼん</rt><rp>）</rp></ruby>(8<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>13<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>〜15<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>)",
+          "col2": "Lễ hội Bon (Lễ Vu Lan)",
+          "col2Html": "Lễ hội Bon (Lễ Vu Lan)",
+          "col3": "Phong tục của đạo Phật, vào ngày này, mọi người làm lễ thờ để đón linh hồn của tổ tiên. Viếng mộ",
+          "col3Html": "Phong tục của đạo Phật, vào ngày này, mọi người làm lễ thờ để đón linh hồn của tổ tiên. Viếng mộ",
+          "country": "お盆（ぼん）(8月（がつ）13日（にち）〜15日（にち）)",
+          "countryHtml": "お<ruby>盆<rp>（</rp><rt>ぼん</rt><rp>）</rp></ruby>(8<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>13<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>〜15<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>)",
+          "person": "Lễ hội Bon (Lễ Vu Lan)",
+          "personHtml": "Lễ hội Bon (Lễ Vu Lan)",
+          "language": "Phong tục của đạo Phật, vào ngày này, mọi người làm lễ thờ để đón linh hồn của tổ tiên. Viếng mộ",
+          "languageHtml": "Phong tục của đạo Phật, vào ngày này, mọi người làm lễ thờ để đón linh hồn của tổ tiên. Viếng mộ"
+        },
+        {
+          "cells": [
+            {
+              "text": "お月見（つきみ）(9月（がつ）15日（にち）ごろ)",
+              "html": "お<ruby>月見<rp>（</rp><rt>つきみ</rt><rp>）</rp></ruby>(9<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>15<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>ごろ)"
+            },
+            {
+              "text": "Hội ngắm trăng",
+              "html": "Hội ngắm trăng"
+            },
+            {
+              "text": "Mọi người vui ngắm trăng tròn và đẹp.",
+              "html": "Mọi người vui ngắm trăng tròn và đẹp."
+            }
+          ],
+          "col1": "お月見（つきみ）(9月（がつ）15日（にち）ごろ)",
+          "col1Html": "お<ruby>月見<rp>（</rp><rt>つきみ</rt><rp>）</rp></ruby>(9<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>15<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>ごろ)",
+          "col2": "Hội ngắm trăng",
+          "col2Html": "Hội ngắm trăng",
+          "col3": "Mọi người vui ngắm trăng tròn và đẹp.",
+          "col3Html": "Mọi người vui ngắm trăng tròn và đẹp.",
+          "country": "お月見（つきみ）(9月（がつ）15日（にち）ごろ)",
+          "countryHtml": "お<ruby>月見<rp>（</rp><rt>つきみ</rt><rp>）</rp></ruby>(9<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>15<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>ごろ)",
+          "person": "Hội ngắm trăng",
+          "personHtml": "Hội ngắm trăng",
+          "language": "Mọi người vui ngắm trăng tròn và đẹp.",
+          "languageHtml": "Mọi người vui ngắm trăng tròn và đẹp."
+        },
+        {
+          "cells": [
+            {
+              "text": "大晦日（おおみそか）(12月31日)",
+              "html": "<ruby>大晦日<rp>（</rp><rt>おおみそか</rt><rp>）</rp></ruby>(12月31日)"
+            },
+            {
+              "text": "Đêm Giao Thừa",
+              "html": "Đêm Giao Thừa"
+            },
+            {
+              "text": "Ngày cuối cùng của năm. Mọi người tổng vệ sinh, làm món osechi (Món ăn ngày tết của Nhật), chuẩn bị đón năm mới. Đến đúng 12 giờ đêm thì chuông chùa sẽ nổi lên.",
+              "html": "Ngày cuối cùng của năm. Mọi người tổng vệ sinh, làm món osechi (Món ăn ngày tết của Nhật), chuẩn bị đón năm mới. Đến đúng 12 giờ đêm thì chuông chùa sẽ nổi lên."
+            }
+          ],
+          "col1": "大晦日（おおみそか）(12月31日)",
+          "col1Html": "<ruby>大晦日<rp>（</rp><rt>おおみそか</rt><rp>）</rp></ruby>(12月31日)",
+          "col2": "Đêm Giao Thừa",
+          "col2Html": "Đêm Giao Thừa",
+          "col3": "Ngày cuối cùng của năm. Mọi người tổng vệ sinh, làm món osechi (Món ăn ngày tết của Nhật), chuẩn bị đón năm mới. Đến đúng 12 giờ đêm thì chuông chùa sẽ nổi lên.",
+          "col3Html": "Ngày cuối cùng của năm. Mọi người tổng vệ sinh, làm món osechi (Món ăn ngày tết của Nhật), chuẩn bị đón năm mới. Đến đúng 12 giờ đêm thì chuông chùa sẽ nổi lên.",
+          "country": "大晦日（おおみそか）(12月31日)",
+          "countryHtml": "<ruby>大晦日<rp>（</rp><rt>おおみそか</rt><rp>）</rp></ruby>(12月31日)",
+          "person": "Đêm Giao Thừa",
+          "personHtml": "Đêm Giao Thừa",
+          "language": "Ngày cuối cùng của năm. Mọi người tổng vệ sinh, làm món osechi (Món ăn ngày tết của Nhật), chuẩn bị đón năm mới. Đến đúng 12 giờ đêm thì chuông chùa sẽ nổi lên.",
+          "languageHtml": "Ngày cuối cùng của năm. Mọi người tổng vệ sinh, làm món osechi (Món ăn ngày tết của Nhật), chuẩn bị đón năm mới. Đến đúng 12 giờ đêm thì chuông chùa sẽ nổi lên."
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result vnjp-minna-bai38-table\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> <th>Ghi chú</th> </tr> </thead> <tbody> <tr> <td width=\"25%\">お<ruby>正月<rp>（</rp><rt>しょうがつ</rt><rp>）</rp></ruby>(1<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>1<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>〜3<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>)</td> <td>Tết</td> <td width=\"50%\">Mừng việc bắt đầu một năm mới. Mọi người đi chùa hay đền thờ đạo Thần để cầu chúc sức khỏe và hạnh phúc cho năm mới. Bưu thiếp chúc mừng năm mới được gửi đến vào ngày mồng 1 Tết</td> </tr> <tr> <td width=\"25%\">ひな<ruby>祭<rp>（</rp><rt>まつ</rt><rp>）</rp></ruby>り</td> <td>Lễ hội búp bê</td> <td width=\"50%\">Những gia đình có con gái thì trang trí búp bê (hina-ningyo)</td> </tr> <tr> <td width=\"25%\">こどもの<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby></td> <td>Ngày trẻ em</td> <td width=\"50%\">Ngày mừng cho sự trưởng thành và sức khỏe của trẻ em. Trước đây vốn dĩ là ngày mừng cho sự trưởng thành của các em trai.</td> </tr> <tr> <td width=\"25%\"><ruby>七夕<rp>（</rp><rt>たなばた</rt><rp>）</rp></ruby></td> <td>Tanabata</td> <td width=\"50%\">Bắt nguồn từ truyền thuyết của Trung Quốc rằng Ngưu Lang và Chức Nữ mỗi người ở một bên bờ Đông, Tây của dãy Ngân Hà, và một năm chỉ gặp nhau một lần vào ngày này.</td> </tr> <tr> <td width=\"25%\">お<ruby>盆<rp>（</rp><rt>ぼん</rt><rp>）</rp></ruby>(8<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>13<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>〜15<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>)</td> <td>Lễ hội Bon (Lễ Vu Lan)</td> <td width=\"50%\">Phong tục của đạo Phật, vào ngày này, mọi người làm lễ thờ để đón linh hồn của tổ tiên. Viếng mộ</td> </tr> <tr> <td width=\"25%\">お<ruby>月見<rp>（</rp><rt>つきみ</rt><rp>）</rp></ruby>(9<ruby>月<rp>（</rp><rt>がつ</rt><rp>）</rp></ruby>15<ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby>ごろ)</td> <td>Hội ngắm trăng</td> <td width=\"50%\">Mọi người vui ngắm trăng tròn và đẹp.</td> </tr> <tr> <td width=\"25%\"><ruby>大晦日<rp>（</rp><rt>おおみそか</rt><rp>）</rp></ruby>(12月31日)</td> <td>Đêm Giao Thừa</td> <td width=\"50%\">Ngày cuối cùng của năm. Mọi người tổng vệ sinh, làm món osechi (Món ăn ngày tết của Nhật), chuẩn bị đón năm mới. Đến đúng 12 giờ đêm thì chuông chùa sẽ nổi lên.</td> </tr> </tbody> </table> </p> <div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}

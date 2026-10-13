@@ -1,0 +1,258 @@
+{
+  "lesson": 39,
+  "type": "thamkhao",
+  "sections": [
+    {
+      "title": "気持（きも）ち Tâm trạng",
+      "titleHtml": "<ruby>気持<rp>（</rp><rt>きも</rt><rp>）</rp></ruby>ち Tâm trạng",
+      "introHtml": "<p>",
+      "columns": [
+        "Từ vựng",
+        "Nghĩa"
+      ],
+      "rows": [
+        {
+          "cells": [
+            {
+              "text": "うれしい",
+              "html": "うれしい"
+            },
+            {
+              "text": "vui, mừng",
+              "html": "vui, mừng"
+            }
+          ],
+          "term": "うれしい",
+          "termHtml": "うれしい",
+          "meaning": "vui, mừng",
+          "meaningHtml": "vui, mừng"
+        },
+        {
+          "cells": [
+            {
+              "text": "楽（たの）しい",
+              "html": "<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい"
+            },
+            {
+              "text": "vui vẻ",
+              "html": "vui vẻ"
+            }
+          ],
+          "term": "楽（たの）しい",
+          "termHtml": "<ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい",
+          "meaning": "vui vẻ",
+          "meaningHtml": "vui vẻ"
+        },
+        {
+          "cells": [
+            {
+              "text": "寂（さび）しい",
+              "html": "<ruby>寂<rp>（</rp><rt>さび</rt><rp>）</rp></ruby>しい"
+            },
+            {
+              "text": "buồn, cô đơn",
+              "html": "buồn, cô đơn"
+            }
+          ],
+          "term": "寂（さび）しい",
+          "termHtml": "<ruby>寂<rp>（</rp><rt>さび</rt><rp>）</rp></ruby>しい",
+          "meaning": "buồn, cô đơn",
+          "meaningHtml": "buồn, cô đơn"
+        },
+        {
+          "cells": [
+            {
+              "text": "悲（かな）しい",
+              "html": "<ruby>悲<rp>（</rp><rt>かな</rt><rp>）</rp></ruby>しい"
+            },
+            {
+              "text": "buồn, đau thương",
+              "html": "buồn, đau thương"
+            }
+          ],
+          "term": "悲（かな）しい",
+          "termHtml": "<ruby>悲<rp>（</rp><rt>かな</rt><rp>）</rp></ruby>しい",
+          "meaning": "buồn, đau thương",
+          "meaningHtml": "buồn, đau thương"
+        },
+        {
+          "cells": [
+            {
+              "text": "おもしろい",
+              "html": "おもしろい"
+            },
+            {
+              "text": "thú vị",
+              "html": "thú vị"
+            }
+          ],
+          "term": "おもしろい",
+          "termHtml": "おもしろい",
+          "meaning": "thú vị",
+          "meaningHtml": "thú vị"
+        },
+        {
+          "cells": [
+            {
+              "text": "うらやましい",
+              "html": "うらやましい"
+            },
+            {
+              "text": "đáng ghen tị",
+              "html": "đáng ghen tị"
+            }
+          ],
+          "term": "うらやましい",
+          "termHtml": "うらやましい",
+          "meaning": "đáng ghen tị",
+          "meaningHtml": "đáng ghen tị"
+        },
+        {
+          "cells": [
+            {
+              "text": "恥（は）ずかしい",
+              "html": "<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしい"
+            },
+            {
+              "text": "xấu hổ",
+              "html": "xấu hổ"
+            }
+          ],
+          "term": "恥（は）ずかしい",
+          "termHtml": "<ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしい",
+          "meaning": "xấu hổ",
+          "meaningHtml": "xấu hổ"
+        },
+        {
+          "cells": [
+            {
+              "text": "懐（なつ）かしい",
+              "html": "<ruby>懐<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>かしい"
+            },
+            {
+              "text": "nhớ nhung, thương nhớ",
+              "html": "nhớ nhung, thương nhớ"
+            }
+          ],
+          "term": "懐（なつ）かしい",
+          "termHtml": "<ruby>懐<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>かしい",
+          "meaning": "nhớ nhung, thương nhớ",
+          "meaningHtml": "nhớ nhung, thương nhớ"
+        },
+        {
+          "cells": [
+            {
+              "text": "びっくりする",
+              "html": "びっくりする"
+            },
+            {
+              "text": "ngạc nhiên, giật mình",
+              "html": "ngạc nhiên, giật mình"
+            }
+          ],
+          "term": "びっくりする",
+          "termHtml": "びっくりする",
+          "meaning": "ngạc nhiên, giật mình",
+          "meaningHtml": "ngạc nhiên, giật mình"
+        },
+        {
+          "cells": [
+            {
+              "text": "がっかりする",
+              "html": "がっかりする"
+            },
+            {
+              "text": "thất vọng",
+              "html": "thất vọng"
+            }
+          ],
+          "term": "がっかりする",
+          "termHtml": "がっかりする",
+          "meaning": "thất vọng",
+          "meaningHtml": "thất vọng"
+        },
+        {
+          "cells": [
+            {
+              "text": "うっとりする",
+              "html": "うっとりする"
+            },
+            {
+              "text": "mải mê, bị hút vào",
+              "html": "mải mê, bị hút vào"
+            }
+          ],
+          "term": "うっとりする",
+          "termHtml": "うっとりする",
+          "meaning": "mải mê, bị hút vào",
+          "meaningHtml": "mải mê, bị hút vào"
+        },
+        {
+          "cells": [
+            {
+              "text": "いらいらする",
+              "html": "いらいらする"
+            },
+            {
+              "text": "nóng ruột, thiếu kiên nhẫn",
+              "html": "nóng ruột, thiếu kiên nhẫn"
+            }
+          ],
+          "term": "いらいらする",
+          "termHtml": "いらいらする",
+          "meaning": "nóng ruột, thiếu kiên nhẫn",
+          "meaningHtml": "nóng ruột, thiếu kiên nhẫn"
+        },
+        {
+          "cells": [
+            {
+              "text": "どきどきする",
+              "html": "どきどきする"
+            },
+            {
+              "text": "hồi hộp, run",
+              "html": "hồi hộp, run"
+            }
+          ],
+          "term": "どきどきする",
+          "termHtml": "どきどきする",
+          "meaning": "hồi hộp, run",
+          "meaningHtml": "hồi hộp, run"
+        },
+        {
+          "cells": [
+            {
+              "text": "はらはらする",
+              "html": "はらはらする"
+            },
+            {
+              "text": "sợ, run",
+              "html": "sợ, run"
+            }
+          ],
+          "term": "はらはらする",
+          "termHtml": "はらはらする",
+          "meaning": "sợ, run",
+          "meaningHtml": "sợ, run"
+        },
+        {
+          "cells": [
+            {
+              "text": "わくわくする",
+              "html": "わくわくする"
+            },
+            {
+              "text": "ngóng đợi, nóng lòng",
+              "html": "ngóng đợi, nóng lòng"
+            }
+          ],
+          "term": "わくわくする",
+          "termHtml": "わくわくする",
+          "meaning": "ngóng đợi, nóng lòng",
+          "meaningHtml": "ngóng đợi, nóng lòng"
+        }
+      ],
+      "contentHtml": "<p> <table class=\"search_result\"> <thead> <tr> <th>Từ vựng</th> <th>Nghĩa</th> </tr> </thead> <tbody><tr> <td width=\"40%\">うれしい</td> <td>vui, mừng</td> </tr><tr> <td width=\"40%\"><ruby>楽<rp>（</rp><rt>たの</rt><rp>）</rp></ruby>しい</td> <td>vui vẻ</td> </tr><tr> <td width=\"40%\"><ruby>寂<rp>（</rp><rt>さび</rt><rp>）</rp></ruby>しい</td> <td>buồn, cô đơn</td> </tr><tr> <td width=\"40%\"><ruby>悲<rp>（</rp><rt>かな</rt><rp>）</rp></ruby>しい</td> <td>buồn, đau thương</td> </tr><tr> <td width=\"40%\">おもしろい</td> <td>thú vị</td> </tr><tr> <td width=\"40%\">うらやましい</td> <td>đáng ghen tị</td> </tr><tr> <td width=\"40%\"><ruby>恥<rp>（</rp><rt>は</rt><rp>）</rp></ruby>ずかしい</td> <td>xấu hổ</td> </tr><tr> <td width=\"40%\"><ruby>懐<rp>（</rp><rt>なつ</rt><rp>）</rp></ruby>かしい</td> <td>nhớ nhung, thương nhớ</td> </tr><tr> <td width=\"40%\">びっくりする</td> <td>ngạc nhiên, giật mình</td> </tr><tr> <td width=\"40%\">がっかりする</td> <td>thất vọng</td> </tr><tr> <td width=\"40%\">うっとりする</td> <td>mải mê, bị hút vào</td> </tr><tr> <td width=\"40%\">いらいらする</td> <td>nóng ruột, thiếu kiên nhẫn</td> </tr><tr> <td width=\"40%\">どきどきする</td> <td>hồi hộp, run</td> </tr><tr> <td width=\"40%\">はらはらする</td> <td>sợ, run</td> </tr><tr> <td width=\"40%\">わくわくする</td> <td>ngóng đợi, nóng lòng</td> </tr></tbody></table> <img decoding=\"async\" alt=\"\" src=\"/images/minnatuvungthamkhao/bai39.jpg\" style=\"width: 100%; \"> </p><div class=\"vnjp-ad-slot vnjp-ad-before_share\" data-slot=\"before_share\" data-vnjp-collapse=\"1\" style=\"min-height:280px\"><div class=\"vnjp-ad-inner\"><!-- Geniee InPage --> <div id=\"div-gpt-ad-1786536859455-0\"> </div></div></div>"
+    }
+  ]
+}
